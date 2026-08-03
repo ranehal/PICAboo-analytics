@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pickaboo Price Tracker · CamelBoo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#080810;--surface:#0e0e1c;--surface2:#13132a;
+  --purple:#7c3aed;--purple-light:#a855f7;--cyan:#06b6d4;--gold:#f59e0b;
+  --green:#10b981;--red:#ef4444;
+  --glass:rgba(255,255,255,0.04);--glass2:rgba(255,255,255,0.07);
+  --border:rgba(255,255,255,0.08);--border2:rgba(255,255,255,0.14);
+  --text:#e2e8f0;--muted:#64748b;--muted2:#94a3b8;
+  --sidebar:280px;
+}
+html{height:100%}
+body{
+  font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);
+  min-height:100vh;display:flex;flex-direction:column;
+  background-image:
+    radial-gradient(ellipse 60% 40% at 10% 20%,rgba(124,58,237,.12) 0,transparent 60%),
+    radial-gradient(ellipse 50% 50% at 90% 80%,rgba(6,182,212,.08) 0,transparent 60%);
+}
+a{color:inherit;text-decoration:none}
+button{font-family:'Inter',sans-serif}
+::-webkit-scrollbar{width:5px;height:5px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--border2);border-radius:99px}
+
+/* HEADER */
+.header{
+  position:sticky;top:0;z-index:200;
+  display:flex;align-items:center;gap:1.25rem;
+  padding:.75rem 1.25rem;
+  background:rgba(8,8,16,.88);
+  backdrop-filter:blur(20px);
+  border-bottom:1px solid var(--border);
+}
+.logo{
+  font-weight:800;font-size:1.2rem;white-space:nowrap;
+  background:linear-gradient(130deg,var(--purple-light),var(--cyan));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  background-clip:text;
+}
+.logo span{font-weight:300;opacity:.7;font-size:.9rem}
+.header-stats{display:flex;gap:1.25rem;margin-left:.25rem}
+.hstat{display:flex;flex-direction:column}
+.hstat-label{font-size:.6rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.hstat-val{font-size:.9rem;font-weight:700;color:var(--gold)}
+.spacer{flex:1}
+.controls-wrap{display:flex;align-items:center;gap:.6rem}
+
+.search-wrap{position:relative;width:220px}
+.search-wrap input{
+  width:100%;padding:.45rem .8rem .45rem 2.2rem;
+  background:var(--glass2);border:1px solid var(--border2);
+  border-radius:8px;color:var(--text);font-size:.85rem;outline:none;
+  transition:border-color .2s;
+}
+.search-wrap input:focus{border-color:var(--purple)}
+.search-wrap .ico{
+  position:absolute;left:.65rem;top:50%;transform:translateY(-50%);
+  color:var(--muted);font-size:.85rem;pointer-events:none;
+}
+.sort-sel{
+  padding:.45rem .75rem;background:var(--glass2);
+  border:1px solid var(--border2);border-radius:8px;
+  color:var(--text);font-size:.85rem;outline:none;cursor:pointer;
+}
+.sort-sel option{background:var(--surface);color:var(--text)}
+
+.btn-atl{
+  padding:.45rem .85rem;background:var(--glass2);
+  border:1px solid var(--border2);border-radius:8px;
+  color:var(--muted2);font-size:.82rem;font-weight:600;
+  cursor:pointer;display:flex;align-items:center;gap:.4rem;
+  transition:all .2s;
+}
+.btn-atl:hover,.btn-atl.active{
+  background:rgba(245,158,11,.15);border-color:var(--gold);color:var(--gold);
+}
+
+/* LAYOUT */
+.layout{display:flex;flex:1}
+
+/* SIDEBAR */
+.sidebar{
+  width:var(--sidebar);flex-shrink:0;
+  border-right:1px solid var(--border);
+  background:rgba(14,14,28,.4);
+  backdrop-filter:blur(10px);
+  display:flex;flex-direction:column;
+  height:calc(100vh - 57px);position:sticky;top:57px;
+}
+.sidebar-head{
+  padding:.85rem 1rem;display:flex;align-items:center;justify-content:space-between;
+  border-bottom:1px solid var(--border);
+}
+.sidebar-title{font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.toggle-all-btn{
+  font-size:.7rem;color:var(--purple-light);background:none;border:none;cursor:pointer;
+}
+.toggle-all-btn:hover{text-decoration:underline}
+.cat-tree{flex:1;overflow-y:auto;padding:.5rem 0}
+
+.cat-parent{
+  padding:.5rem 1rem;font-size:.85rem;font-weight:600;color:var(--muted2);
+  display:flex;align-items:center;justify-content:space-between;
+  cursor:pointer;user-select:none;transition:color .15s;
+}
+.cat-parent:hover,.cat-parent.active{color:var(--text);background:var(--glass)}
+.cat-parent.active{color:var(--purple-light);font-weight:700}
+.cat-badge{
+  font-size:.7rem;padding:.1rem .45rem;border-radius:99px;
+  background:var(--glass2);color:var(--muted);font-weight:500;
+}
+.cat-arrow{font-size:.65rem;transition:transform .2s;margin-left:.4rem;color:var(--muted)}
+.cat-group.open .cat-arrow{transform:rotate(90deg)}
+.cat-children{display:none;padding-left:.75rem}
+.cat-group.open .cat-children{display:block}
+.cat-child{
+  padding:.4rem 1rem;font-size:.8rem;color:var(--muted);
+  display:flex;align-items:center;justify-content:space-between;
+  cursor:pointer;transition:color .15s;border-left:2px solid transparent;
+}
+.cat-child:hover{color:var(--text)}
+.cat-child.active{color:var(--cyan);font-weight:600;border-left-color:var(--cyan);background:rgba(6,182,212,.06)}
+
+/* MAIN CONTENT */
+.main{flex:1;padding:1.25rem 1.5rem;min-width:0}
+.main-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem}
+.section-title{font-size:1.25rem;font-weight:700;color:var(--text)}
+.count-chip{font-size:.75rem;padding:.2rem .6rem;background:var(--glass2);border-radius:99px;color:var(--muted2)}
+
+/* GRID */
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(210px,1fr));
+  gap:1rem;
+}
+
+.card{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:12px;overflow:hidden;
+  display:flex;flex-direction:column;position:relative;
+  transition:transform .2s,border-color .2s,box-shadow .2s;
+  cursor:pointer;
+}
+.card:hover{
+  transform:translateY(-3px);
+  border-color:var(--purple-light);
+  box-shadow:0 8px 24px rgba(124,58,237,.2);
+}
+.card-img-wrap{
+  width:100%;height:150px;background:#0d0d18;
+  display:flex;align-items:center;justify-content:center;
+  overflow:hidden;position:relative;
+}
+.card-img{max-width:85%;max-height:85%;object-fit:contain;transition:transform .3s}
+.card:hover .card-img{transform:scale(1.05)}
+
+.badge{
+  position:absolute;top:.5rem;left:.5rem;z-index:2;
+  font-size:.65rem;font-weight:700;padding:.2rem .5rem;border-radius:6px;
+  text-transform:uppercase;letter-spacing:.04em;
+}
+.badge-atl{background:linear-gradient(130deg,var(--gold),#ea580c);color:#000;box-shadow:0 2px 8px rgba(245,158,11,.4)}
+.badge-disc{background:var(--green);color:#000;top:.5rem;right:.5rem;left:auto}
+.badge-out{background:rgba(239,68,68,.2);border:1px solid var(--red);color:var(--red);top:auto;bottom:.5rem;left:.5rem}
+
+.card-body{padding:.8rem;display:flex;flex-direction:column;flex:1;gap:.4rem}
+.card-name{
+  font-size:.82rem;font-weight:600;line-height:1.35;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;
+  overflow:hidden;height:2.7em;color:var(--text);
+}
+.unit-tip{font-size:.7rem;color:var(--cyan);font-weight:500}
+.card-foot{display:flex;align-items:baseline;justify-content:space-between;margin-top:auto;padding-top:.4rem}
+.price{font-size:1.05rem;font-weight:800;color:var(--text)}
+.original-price{font-size:.75rem;color:var(--muted);text-decoration:line-through;margin-right:.3rem}
+.stock-dot{width:6px;height:6px;border-radius:99px;display:inline-block;margin-right:.3rem}
+.stock-dot.in{background:var(--green)}
+.stock-dot.out{background:var(--red)}
+
+/* PAGINATION */
+.pager{display:flex;justify-content:center;gap:.4rem;margin-top:1.5rem;align-items:center}
+.pager-btn{
+  padding:.4rem .75rem;background:var(--glass2);border:1px solid var(--border2);
+  border-radius:6px;color:var(--text);font-size:.8rem;cursor:pointer;
+  transition:all .15s;
+}
+.pager-btn:hover:not(:disabled){background:var(--purple);border-color:var(--purple)}
+.pager-btn.active{background:var(--purple);border-color:var(--purple);font-weight:700}
+.pager-btn:disabled{opacity:.3;cursor:not-allowed}
+
+/* MODAL */
+.overlay{
+  position:fixed;inset:0;z-index:300;
+  background:rgba(0,0,0,.8);backdrop-filter:blur(8px);
+  display:none;align-items:center;justify-content:center;padding:1rem;
+}
+.overlay.show{display:flex}
+.modal{
+  background:var(--surface);border:1px solid var(--border2);
+  border-radius:16px;width:100%;max-width:850px;
+  max-height:90vh;overflow-y:auto;
+  display:flex;flex-direction:column;
+  box-shadow:0 20px 60px rgba(0,0,0,.8);
+  animation:pop .2s cubic-bezier(.175,.885,.32,1.275);
+}
+@keyframes pop{from{transform:scale(.95);opacity:0}to{transform:scale(1);opacity:1}}
+.modal-head{
+  padding:1.25rem 1.5rem;display:flex;align-items:flex-start;gap:1.25rem;
+  border-bottom:1px solid var(--border);position:relative;
+}
+.modal-close{
+  position:absolute;top:1rem;right:1rem;
+  background:var(--glass2);border:none;color:var(--muted);
+  width:28px;height:28px;border-radius:99px;cursor:pointer;
+  display:grid;place-items:center;font-size:1rem;
+}
+.modal-close:hover{color:var(--text);background:rgba(255,255,255,.15)}
+.modal-thumb{width:80px;height:80px;object-fit:contain;background:#000;border-radius:8px;padding:.4rem}
+.modal-info{flex:1;padding-right:2rem}
+.modal-title{font-size:1.1rem;font-weight:700;margin-bottom:.3rem;line-height:1.3}
+.modal-sub{font-size:.78rem;color:var(--muted)}
+
+.modal-body{padding:1.5rem;display:flex;flex-direction:column;gap:1.25rem}
+
+.stats-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem}
+.stat-box{
+  background:var(--glass);border:1px solid var(--border);
+  padding:.8rem;border-radius:10px;text-align:center;
+}
+.stat-lbl{font-size:.68rem;text-transform:uppercase;color:var(--muted);margin-bottom:.2rem}
+.stat-val{font-size:1.1rem;font-weight:800}
+
+.alert-bar{
+  padding:.75rem 1rem;border-radius:8px;font-size:.85rem;
+  display:none;align-items:center;gap:.6rem;
+  background:rgba(245,158,11,.12);border:1px solid var(--gold);color:var(--gold);
+}
+.alert-bar.show{display:flex}
+
+.chart-wrap{
+  height:280px;width:100%;position:relative;
+  background:var(--glass);border:1px solid var(--border);
+  border-radius:12px;padding:1rem;
+}
+
+/* EMPTY STATE */
+.empty{grid-column:1/-1;text-align:center;padding:4rem 1rem}
+.empty-icon{font-size:3rem;margin-bottom:.8rem}
+.empty-msg{font-size:1.1rem;font-weight:600;color:var(--text)}
+.empty-sub{font-size:.85rem;color:var(--muted);margin-top:.3rem}
+</style>
+</head>
+<body>
+
+<header class="header">
+  <div class="logo">Pickaboo <span>Analytics</span></div>
+  <div class="header-stats">
+    <div class="hstat"><span class="hstat-label">Products</span><span class="hstat-val" id="hProdCount">—</span></div>
+    <div class="hstat"><span class="hstat-label">Categories</span><span class="hstat-val" id="hCatCount">—</span></div>
+    <div class="hstat"><span class="hstat-label">Last Scraped</span><span class="hstat-val" id="hLastScraped">—</span></div>
+  </div>
+  <div class="spacer"></div>
+  <div class="controls-wrap">
+    <button class="btn-atl" id="atlBtn" onclick="toggleAtlFilter()">
+      <span>🔥</span> All-Time Lows
+    </button>
+    <div class="search-wrap">
+      <span class="ico">🔍</span>
+      <input type="text" id="searchBox" placeholder="Search products…" oninput="debounce()">
+    </div>
+    <select class="sort-sel" id="sortSel" onchange="loadProducts(1)">
+      <option value="newest">Recently Added</option>
+      <option value="price_asc">Price: Low to High</option>
+      <option value="price_desc">Price: High to Low</option>
+      <option value="discount">Biggest Discount</option>
+    </select>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar">
+    <div class="sidebar-head">
+      <span class="sidebar-title">Categories</span>
+      <button class="toggle-all-btn" onclick="toggleAllCats()">Expand All</button>
+    </div>
+    <div class="cat-tree" id="catTree"></div>
+  </aside>
+
+  <main class="main">
+    <div class="main-head">
+      <h2 class="section-title" id="sectionTitle">All Products</h2>
+      <span class="count-chip" id="countChip">0 items</span>
+    </div>
+    <div class="grid" id="grid"></div>
+    <div class="pager" id="pager"></div>
+  </main>
+</div>
+
+<!-- MODAL -->
+<div class="overlay" id="overlay" onclick="if(event.target===this) closeModal()">
+  <div class="modal">
+    <div class="modal-head">
+      <button class="modal-close" onclick="closeModal()">✕</button>
+      <img id="mThumb" class="modal-thumb" src="" alt="">
+      <div class="modal-info">
+        <h3 id="mTitle" class="modal-title">Product Name</h3>
+        <p id="mSub" class="modal-sub">SKU: — · Category: —</p>
+      </div>
+    </div>
+    <div class="modal-body">
+      <div class="alert-bar" id="alertBar">
+        <span>⚡</span><span id="alertMsg">Price Alert</span>
+      </div>
+      <div class="stats-grid">
+        <div class="stat-box"><div class="stat-lbl">Current Price</div><div class="stat-val" id="mCurr" style="color:var(--gold)">—</div></div>
+        <div class="stat-box"><div class="stat-lbl">Historical Low</div><div class="stat-val" id="mLow" style="color:var(--green)">—</div></div>
+        <div class="stat-box"><div class="stat-lbl">Historical High</div><div class="stat-val" id="mHigh" style="color:var(--red)">—</div></div>
+        <div class="stat-box"><div class="stat-lbl">Unit Price</div><div class="stat-val" id="mUnit" style="color:var(--cyan)">—</div></div>
+      </div>
+      <div class="chart-wrap">
+        <canvas id="priceChart"></canvas>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+let curCat = '';
+let filterAtl = false;
+let curPage = 1;
+let totalPages = 1;
+let searchTimer = null;
+let chart = null;
+let allExpanded = false;
+let allProducts = [];
+
+async function init(){
+  loadStats();
+  loadCategories();
+  loadProducts(1);
+}
+
+async function loadStats(){
+  const s = await api('/api/stats');
+  document.getElementById('hProdCount').textContent = (s.total_products||0).toLocaleString();
+  document.getElementById('hCatCount').textContent = (s.total_cats||0).toLocaleString();
+  if(s.last_scraped){
+    const d = new Date(s.last_scraped);
+    document.getElementById('hLastScraped').textContent = d.toLocaleDateString('en-BD',{month:'short',day:'numeric'});
+  }
+}
+
+async function loadCategories(){
+  const cats = await api('/api/categories');
+  if(!Array.isArray(cats)) return;
+  const tree = document.getElementById('catTree');
+  tree.innerHTML = '';
+
+  const allItem = document.createElement('div');
+  allItem.className = 'cat-parent active';
+  allItem.id = 'cat-all';
+  allItem.onclick = (e) => selectCat('', 'All Products', 'all', allItem);
+  allItem.innerHTML = `<span>All Categories</span>`;
+  tree.appendChild(allItem);
+
+  const parents = cats.filter(c => !c.parent_id);
+  const childrenMap = {};
+  cats.forEach(c => {
+    if(c.parent_id){
+      if(!childrenMap[c.parent_id]) childrenMap[c.parent_id] = [];
+      childrenMap[c.parent_id].push(c);
+    }
+  });
+
+  parents.forEach(p => {
+    const group = document.createElement('div');
+    group.className = 'cat-group';
+    const children = childrenMap[p.id] || [];
+
+    const parentEl = document.createElement('div');
+    parentEl.className = 'cat-parent';
+    parentEl.onclick = (e) => {
+      if(children.length > 0 && e.target.classList.contains('cat-arrow')){
+        group.classList.toggle('open');
+        return;
+      }
+      selectCat(p.id, p.name, 'parent', parentEl);
+    };
+
+    parentEl.innerHTML = `
+      <span>${p.name}</span>
+      <div>
+        <span class="cat-badge">${p.prod_count}</span>
+        ${children.length > 0 ? `<span class="cat-arrow">▶</span>` : ''}
+      </div>
+    `;
+    group.appendChild(parentEl);
+
+    if(children.length > 0){
+      const childWrap = document.createElement('div');
+      childWrap.className = 'cat-children';
+      children.forEach(c => {
+        const cEl = document.createElement('div');
+        cEl.className = 'cat-child';
+        cEl.onclick = () => selectCat(c.id, c.name, 'child', cEl);
+        cEl.innerHTML = `<span>${c.name}</span><span class="cat-badge">${c.prod_count}</span>`;
+        childWrap.appendChild(cEl);
+      });
+      group.appendChild(childWrap);
+    }
+    tree.appendChild(group);
+  });
+}
+
+function toggleAllCats(){
+  allExpanded = !allExpanded;
+  document.querySelectorAll('.cat-group').forEach(p => {
+    if(allExpanded) p.classList.add('open');
+    else p.classList.remove('open');
+  });
+  document.querySelector('.toggle-all-btn').textContent = allExpanded ? 'Collapse All' : 'Expand All';
+}
+
+function toggleAtlFilter(){
+  filterAtl = !filterAtl;
+  document.getElementById('atlBtn').classList.toggle('active', filterAtl);
+  loadProducts(1);
+}
+
+function selectCat(id,name,type,el){
+  curCat=id;
+  document.querySelectorAll('.cat-parent,.cat-child,#cat-all')
+    .forEach(x=>x.classList.remove('active'));
+  if(el) el.classList.add('active');
+  document.getElementById('sectionTitle').textContent=name||'All Products';
+  loadProducts(1);
+}
+
+async function loadProducts(page=1){
+  curPage=page;
+  const grid=document.getElementById('grid');
+  grid.innerHTML='<div class="empty"><div class="empty-icon">⏳</div><div class="empty-msg">Loading…</div></div>';
+
+  const search=document.getElementById('searchBox').value;
+  const sort=document.getElementById('sortSel').value;
+  const params=new URLSearchParams({
+    category_id:curCat,
+    search,
+    sort,
+    page,
+    atl: filterAtl ? 1 : 0
+  });
+  const data=await api('/api/products?'+params);
+
+  document.getElementById('countChip').textContent=`${(data.total||0).toLocaleString()} items`;
+  totalPages=Math.ceil((data.total||0)/40);
+  renderPager();
+
+  grid.innerHTML='';
+  if(!data.products||data.products.length===0){
+    grid.innerHTML=`<div class="empty">
+      <div class="empty-icon">📭</div>
+      <div class="empty-msg">${filterAtl ? 'No All-Time Low items found' : 'No products found'}</div>
+      <div class="empty-sub">Try adjusting your filters.</div>
+    </div>`;
+    return;
+  }
+
+  data.products.forEach(p=>{
+    const price=p.special_price>0?p.special_price:p.price;
+    const inStock=p.stock_available===1;
+    const isAtl=p.is_atl===1;
+    const card=document.createElement('div');
+    card.className='card';
+    card.onclick=()=>openModal(p);
+    card.innerHTML=`
+      ${isAtl?`<div class="badge badge-atl">🔥 Lowest</div>`:''}
+      ${p.discount>0?`<div class="badge badge-disc">−${Math.round(p.discount)}%</div>`:''}
+      ${!inStock?`<div class="badge badge-out">Out of stock</div>`:''}
+      <div class="card-img-wrap">
+        <img class="card-img" src="${p.product_img||''}" alt="${p.name}"
+             onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22><text y=%2250%25%22 x=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-size=%2224%22>📦</text></svg>'">
+      </div>
+      <div class="card-body">
+        <div class="card-name" title="${p.name}">${p.name}</div>
+        ${p.unit&&p.unit_value?`<div class="unit-tip">৳${(price/p.unit_value).toFixed(1)} / ${p.unit}</div>`:''}
+        <div class="card-foot">
+          <div>
+            <span class="stock-dot ${inStock?'in':'out'}"></span>
+            ${p.discount>0?`<span class="original-price">৳${(p.price||0).toLocaleString()}</span>`:''}
+          </div>
+          <span class="price">৳${(price||0).toLocaleString()}</span>
+        </div>
+      </div>`;
+    grid.appendChild(card);
+  });
+}
+
+function renderPager(){
+  const pg=document.getElementById('pager');
+  pg.innerHTML='';
+  if(totalPages<=1) return;
+  const mkBtn=(lbl,page,disabled,active)=>{
+    const b=document.createElement('button');
+    b.className='pager-btn'+(active?' active':'');
+    b.textContent=lbl; b.disabled=disabled;
+    b.onclick=()=>{ loadProducts(page); window.scrollTo(0,0); };
+    return b;
+  };
+  pg.appendChild(mkBtn('‹ Prev',curPage-1,curPage===1));
+  const start=Math.max(1,curPage-2), end=Math.min(totalPages,curPage+2);
+  for(let i=start;i<=end;i++) pg.appendChild(mkBtn(i,i,false,i===curPage));
+  pg.appendChild(mkBtn('Next ›',curPage+1,curPage===totalPages));
+}
+
+async function openModal(p){
+  const overlay=document.getElementById('overlay');
+  document.getElementById('mThumb').src=p.product_img||'';
+  document.getElementById('mTitle').textContent=p.name;
+  document.getElementById('mSub').textContent=`SKU: ${p.sku||'—'}  ·  Category: ${p.category_name||'—'}`;
+  overlay.classList.add('show');
+
+  const data=await api(`/api/product/${p.id}/history`);
+  const h=data.history||[];
+  if(h.length===0){
+    ['mCurr','mLow','mHigh','mUnit'].forEach(id=>document.getElementById(id).textContent='—');
+    return;
+  }
+
+  const prices=h.map(r=>r.special_price>0?r.special_price:r.price);
+  const curr=prices[prices.length-1];
+  const low=Math.min(...prices), high=Math.max(...prices);
+  const avg=prices.reduce((a,b)=>a+b,0)/prices.length;
+
+  document.getElementById('mCurr').textContent=`৳${curr.toLocaleString()}`;
+  document.getElementById('mLow').textContent =`৳${low.toLocaleString()}`;
+  document.getElementById('mHigh').textContent=`৳${high.toLocaleString()}`;
+
+  if(p.unit&&p.unit_value){
+    document.getElementById('mUnit').textContent=`৳${(curr/p.unit_value).toFixed(2)} / ${p.unit}`;
+  } else {
+    document.getElementById('mUnit').textContent='N/A';
+  }
+
+  const alertBar=document.getElementById('alertBar');
+  if(curr<=low){
+    document.getElementById('alertMsg').textContent=
+      `🔥 ALL-TIME LOW PRICE! This product is currently at its lowest recorded price (৳${curr.toLocaleString()}).`;
+    alertBar.classList.add('show');
+  } else if(curr<avg*0.95){
+    const pct=((avg-curr)/avg*100).toFixed(1);
+    document.getElementById('alertMsg').textContent=
+      `Price is ${pct}% below average (avg ৳${Math.round(avg).toLocaleString()}) — Great deal!`;
+    alertBar.classList.add('show');
+  } else {
+    alertBar.classList.remove('show');
+  }
+
+  renderChart(h, p.unit, p.unit_value);
+}
+
+function closeModal(){
+  document.getElementById('overlay').classList.remove('show');
+}
+
+function renderChart(h, unit, unitVal){
+  if(chart){ chart.destroy(); chart=null; }
+  const ctx=document.getElementById('priceChart').getContext('2d');
+
+  const grad=ctx.createLinearGradient(0,0,0,280);
+  grad.addColorStop(0,'rgba(124,58,237,.55)');
+  grad.addColorStop(1,'rgba(124,58,237,0)');
+
+  const labels=h.map(r=>new Date(r.scraped_at).toLocaleDateString('en-BD',{month:'short',day:'numeric'}));
+  const prices=h.map(r=>r.special_price>0?r.special_price:r.price);
+
+  chart=new Chart(ctx,{
+    type:'line',
+    data:{
+      labels,
+      datasets:[{
+        label:'Price ৳',data:prices,
+        borderColor:'#7c3aed',backgroundColor:grad,
+        borderWidth:2.5,pointBackgroundColor:'#06b6d4',
+        pointBorderColor:'#fff',pointRadius:4,pointHoverRadius:6,
+        fill:true,tension:.4
+      }]
+    },
+    options:{
+      responsive:true,maintainAspectRatio:false,
+      interaction:{mode:'index',intersect:false},
+      plugins:{
+        legend:{display:false},
+        tooltip:{
+          backgroundColor:'rgba(11,11,25,.95)',
+          borderColor:'rgba(255,255,255,.1)',borderWidth:1,
+          titleFont:{family:'Inter',size:12},
+          bodyFont:{family:'Inter',size:13,weight:'bold'},
+          padding:12,
+          callbacks:{
+            label(ctx){
+              let s=`৳${ctx.parsed.y.toLocaleString()}`;
+              if(unit&&unitVal) s+=`  (৳${(ctx.parsed.y/unitVal).toFixed(2)}/${unit})`;
+              return s;
+            }
+          }
+        }
+      },
+      scales:{
+        y:{
+          grid:{color:'rgba(255,255,255,.04)'},
+          ticks:{color:'#94a3b8',font:{family:'Inter',size:11}},
+          border:{display:false}
+        },
+        x:{
+          grid:{display:false},
+          ticks:{color:'#94a3b8',font:{family:'Inter',size:11},maxRotation:0},
+          border:{display:false}
+        }
+      }
+    }
+  });
+}
+
+// API ROUTER (Flask Live Server / Static GitHub Pages Fallback)
+async function api(url){
+  try{
+    const r=await fetch(url);
+    if(r.ok) return await r.json();
+  }catch(e){}
+
+  // Static Fallback
+  try {
+    if(url.startsWith('/api/stats')){
+      const r = await fetch('data/stats.json');
+      return await r.json();
+    }
+    if(url.startsWith('/api/categories')){
+      const r = await fetch('data/categories.json');
+      return await r.json();
+    }
+    if(url.startsWith('/api/products?')){
+      if(allProducts.length === 0){
+        const r = await fetch('data/products.json');
+        allProducts = await r.json();
+      }
+      return filterStaticProducts(url);
+    }
+    if(url.startsWith('/api/product/')){
+      const pid = url.split('/')[3];
+      const r = await fetch(`data/products/${pid}.json`);
+      return await r.json();
+    }
+  } catch(err) {
+    console.error('Static API error:', err);
+  }
+  return {};
+}
+
+function filterStaticProducts(urlStr){
+  const u = new URL(urlStr, 'http://localhost');
+  const catId = u.searchParams.get('category_id') || '';
+  const search = (u.searchParams.get('search') || '').toLowerCase();
+  const sort = u.searchParams.get('sort') || 'newest';
+  const atl = u.searchParams.get('atl') === '1';
+  const page = parseInt(u.searchParams.get('page') || '1');
+  const per = 40;
+
+  let list = allProducts.slice();
+  if(catId){
+    list = list.filter(p => p.category_id === catId);
+  }
+  if(search){
+    list = list.filter(p => (p.name||'').toLowerCase().includes(search));
+  }
+  if(atl){
+    list = list.filter(p => p.is_atl === 1);
+  }
+
+  if(sort === 'price_asc'){
+    list.sort((a,b) => (a.special_price||a.price) - (b.special_price||b.price));
+  } else if(sort === 'price_desc'){
+    list.sort((a,b) => (b.special_price||b.price) - (a.special_price||a.price));
+  } else if(sort === 'discount'){
+    list.sort((a,b) => (b.discount||0) - (a.discount||0));
+  }
+
+  const total = list.length;
+  const offset = (page - 1) * per;
+  const paged = list.slice(offset, offset + per);
+
+  return { products: paged, total, page };
+}
+
+function debounce(){ clearTimeout(searchTimer); searchTimer=setTimeout(()=>loadProducts(1),400); }
+document.addEventListener('keydown',e=>{ if(e.key==='Escape') closeModal(); });
+
+init();
+</script>
+</body>
+</html>
