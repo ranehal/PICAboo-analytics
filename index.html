@@ -355,7 +355,7 @@ async function loadStats(){
   document.getElementById('hProdCount').textContent = (s.total_products||0).toLocaleString();
   document.getElementById('hCatCount').textContent = (s.total_cats||0).toLocaleString();
   if(s.last_scraped){
-    const d = new Date(s.last_scraped);
+    const d=new Date((s.last_scraped||'').trim().replace(' ','T'));
     document.getElementById('hLastScraped').textContent = d.toLocaleDateString('en-BD',{month:'short',day:'numeric'});
   }
 }
@@ -581,7 +581,10 @@ function renderChart(h, unit, unitVal){
   grad.addColorStop(0,'rgba(124,58,237,.55)');
   grad.addColorStop(1,'rgba(124,58,237,0)');
 
-  const labels=h.map(r=>new Date(r.scraped_at).toLocaleDateString('en-BD',{month:'short',day:'numeric'}));
+  const labels=h.map(r=>{
+    const d=new Date((r.scraped_at||'').trim().replace(' ','T'));
+    return isNaN(d)?(r.scraped_at||'—'):d.toLocaleDateString('en-GB',{month:'short',day:'numeric'});
+  });
   const prices=h.map(r=>r.special_price>0?r.special_price:r.price);
 
   chart=new Chart(ctx,{
