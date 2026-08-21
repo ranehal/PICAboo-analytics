@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "122407",
+    "sku": "DX700PGSB",
+    "name": "Deerma 650W 2-in-1 Handheld Vacuum Cleaner (DX700 Pro)",
+    "slug": "deerma-650w-2-in-1-handheld-vacuum-cleaner-dx700-pro",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/x/dx700-pro-18-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11080.0,
+    "special_price": 7150.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11080.0,
+      "special_price": 7150.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:31:41"
+    },
+    {
+      "price": 11080.0,
+      "special_price": 7150.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 13:55:21"
+    },
+    {
+      "price": 11080.0,
+      "special_price": 7150.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:32:58"
+    }
+  ]
+}

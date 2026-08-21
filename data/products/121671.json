@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "121671",
+    "sku": "BACBX022ADR",
+    "name": "Baseus PicoGo 10000mAh 22.5W Fast Charging Power Bank with Built-in Dual-Cables (PPCBX-1022)",
+    "slug": "baseus-picogo-10000mah-22-5w-fast-charging-power-bank-with-built-in-dual-cables-ppcbx-1022",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-22-5w-picogo-20000mah-power-bank-1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2200.0,
+    "special_price": 1899.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2200.0,
+      "special_price": 1899.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:43:03"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1899.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:06:41"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1899.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:46:44"
+    }
+  ]
+}

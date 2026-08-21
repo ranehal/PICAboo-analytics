@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122362",
+    "sku": "CWELROAWCTY",
+    "name": "City Welness (RO+Alkaine) Water Purifier",
+    "slug": "city-welness-ro-alkaine-water-purifier",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/w/cw2-17-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 21500.0,
+    "special_price": 17590.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 21500.0,
+      "special_price": 17590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:24:09"
+    },
+    {
+      "price": 21500.0,
+      "special_price": 17590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:31:41"
+    },
+    {
+      "price": 21500.0,
+      "special_price": 17590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 13:55:21"
+    },
+    {
+      "price": 21500.0,
+      "special_price": 17590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:32:58"
+    }
+  ]
+}

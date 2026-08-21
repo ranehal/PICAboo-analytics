@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-b185d-2a2v-1-9-25-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 10350.0,
-    "special_price": 9099.0,
-    "discount": 12.0,
+    "price": 11279.0,
+    "special_price": 9399.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -92,6 +92,34 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:21:59"
+    },
+    {
+      "price": 11279.0,
+      "special_price": 9399.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:47:27"
+    },
+    {
+      "price": 11279.0,
+      "special_price": 9399.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:59:57"
+    },
+    {
+      "price": 11279.0,
+      "special_price": 9399.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:18:17"
+    },
+    {
+      "price": 11279.0,
+      "special_price": 9399.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:55:40"
     }
   ]
 }

@@ -43,6 +43,34 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 03:51:32"
+    },
+    {
+      "price": 870.0,
+      "special_price": 720.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:24:41"
+    },
+    {
+      "price": 870.0,
+      "special_price": 720.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:31:57"
+    },
+    {
+      "price": 870.0,
+      "special_price": 720.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 13:55:59"
+    },
+    {
+      "price": 870.0,
+      "special_price": 720.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:33:11"
     }
   ]
 }

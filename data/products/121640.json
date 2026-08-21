@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "121640",
+    "sku": "HOESD35PADR",
+    "name": "Hoco ESD35 Pro Max ANC Wireless Headphone",
+    "slug": "hoco-esd35-pro-max-anc-headphone-170hr-battery",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/H/o/Hoco-ESD35-Pro-Max-ANC-Bluetooth-Headphone-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 2150.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 2150.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:43:03"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2150.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:05:33"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2150.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:45:02"
+    }
+  ]
+}

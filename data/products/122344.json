@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122344",
+    "sku": "VCOFHDGGLO",
+    "name": "Vention COFHD 0.5m Type-A to Type-C 2.0-A Fast Charging Cable- Grey",
+    "slug": "vention-cofhd-0-5m-type-a-to-type-c-2-0-a-fast-charging-cable-grey",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/cofhd-17-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 420.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 420.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:34:27"
+    },
+    {
+      "price": 420.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:42:27"
+    },
+    {
+      "price": 420.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:05:54"
+    },
+    {
+      "price": 420.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:43:42"
+    }
+  ]
+}

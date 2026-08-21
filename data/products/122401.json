@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "122401",
+    "sku": "VFBBB0BGLO",
+    "name": "Vention FBBB0-EU Two-Port 18W USB (A+C) Wall Charger- Black",
+    "slug": "vention-fbbb0-eu-two-port-18w-usb-a-c-wall-charger-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/b/fbbb0-18-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1050.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1050.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:42:12"
+    },
+    {
+      "price": 1050.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:05:54"
+    },
+    {
+      "price": 1050.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:43:32"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122355",
+    "sku": "HAF2200DKHAO",
+    "name": "Hafele 2200W Dome Plus Electric Kettle",
+    "slug": "hafele-2200w-dome-plus-electric-kettle",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/2/h2-17-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7300.0,
+    "special_price": 6830.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7300.0,
+      "special_price": 6830.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:24:30"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6830.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:31:41"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6830.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 13:55:21"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6830.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:32:58"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "117067",
+    "sku": "2656BM01WOG",
+    "name": "Titan Lagan Silver Dial Women Watch With Metal Strap (2656BM01)",
+    "slug": "titan-lagan-silver-dial-women-watch-with-metal-strap-2656bm01",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/6/2656bm01_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6500.0,
+    "special_price": 5200.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6500.0,
+      "special_price": 5200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:48:50"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:00:51"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:19:36"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:56:36"
+    }
+  ]
+}

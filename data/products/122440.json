@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122440",
+    "sku": "XQ09YMGSB",
+    "name": "Xiaomi Mijia Long Handle Fascia Gun 3 (MJJMQ09YM)-Black",
+    "slug": "xiaomi-mijia-long-handle-fascia-gun-3-mjjmq09ym-black",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/j/mjjmq09ym-19-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 16280.0,
+    "special_price": 10500.0,
+    "discount": 36.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 16280.0,
+      "special_price": 10500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:19:04"
+    },
+    {
+      "price": 16280.0,
+      "special_price": 10500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:56:10"
+    }
+  ]
+}

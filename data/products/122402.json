@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "122402",
+    "sku": "VeFBPW0WGLO",
+    "name": "Vention FBPW0-EU 2-Port USB-C 35W GaN Charger- White",
+    "slug": "vention-fbpw0-eu-2-port-usb-c-35w-gan-charger-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/b/fbpw0-18-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1750.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1750.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:42:12"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:05:54"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:43:32"
+    }
+  ]
+}

@@ -10,8 +10,8 @@
     "unit": null,
     "unit_value": null,
     "price": 7203.0,
-    "special_price": 6483.0,
-    "discount": 10.0,
+    "special_price": 5769.0,
+    "discount": 20.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -92,6 +92,34 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:25:17"
+    },
+    {
+      "price": 7203.0,
+      "special_price": 6483.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:59:50"
+    },
+    {
+      "price": 7203.0,
+      "special_price": 5769.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:05:23"
+    },
+    {
+      "price": 7203.0,
+      "special_price": 5769.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:28:53"
+    },
+    {
+      "price": 7203.0,
+      "special_price": 5769.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 20:03:05"
     }
   ]
 }

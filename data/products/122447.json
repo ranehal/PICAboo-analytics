@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122447",
+    "sku": "OTW325FFMOV",
+    "name": "Oraimo SpaceBuds Hayato Low-Latency True Wireless Earbuds (OTW-325-FREEFIRE)",
+    "slug": "oraimo-spacebuds-hayato-low-latency-true-wireless-earbuds-otw-325-freefire",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/1/o1-20-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2080.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2080.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:42:23"
+    }
+  ]
+}

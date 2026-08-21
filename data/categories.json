@@ -18,14 +18,14 @@
     "name": "Air Conditioner",
     "slug": "air-conditioner",
     "parent_id": "7",
-    "prod_count": 174
+    "prod_count": 175
   },
   {
     "id": "2936",
     "name": "Air Fryer",
     "slug": "air-fryer",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "452",
@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 9
+    "prod_count": 10
   },
   {
     "id": "3565",
@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 1185
+    "prod_count": 1187
   },
   {
     "id": "167",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 3138
+    "prod_count": 3144
   },
   {
     "id": "4312",
@@ -354,7 +354,7 @@
     "name": "Healthcare and Accessories",
     "slug": "health-care-and-accessories",
     "parent_id": "1837",
-    "prod_count": 0
+    "prod_count": 2
   },
   {
     "id": "3479",
@@ -466,7 +466,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 3053
+    "prod_count": 3067
   },
   {
     "id": "3915",
@@ -494,7 +494,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 16
+    "prod_count": 39
   },
   {
     "id": "3480",
@@ -529,7 +529,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 3865
+    "prod_count": 3913
   },
   {
     "id": "47",
@@ -599,7 +599,7 @@
     "name": "OPPO",
     "slug": "oppo",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "187",
@@ -655,7 +655,7 @@
     "name": "Power Bank",
     "slug": "power-bank",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "3135",
@@ -690,7 +690,7 @@
     "name": "Refrigerator & Freezer",
     "slug": "refrigerator",
     "parent_id": "7",
-    "prod_count": 1
+    "prod_count": 2
   },
   {
     "id": "77",
@@ -809,21 +809,21 @@
     "name": "Smart Watch",
     "slug": "smart-watches",
     "parent_id": "197",
-    "prod_count": 4
+    "prod_count": 12
   },
   {
     "id": "1765",
     "name": "Smart Watch Accessories",
     "slug": "smart-watches-accessories",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "171",
     "name": "Smartphones",
     "slug": "smartphone",
     "parent_id": "",
-    "prod_count": 195
+    "prod_count": 196
   },
   {
     "id": "3475",
@@ -900,7 +900,7 @@
     "name": "Television",
     "slug": "television",
     "parent_id": "",
-    "prod_count": 197
+    "prod_count": 199
   },
   {
     "id": "418",
@@ -921,7 +921,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 6
+    "prod_count": 10
   },
   {
     "id": "460",
@@ -949,7 +949,7 @@
     "name": "Walton",
     "slug": "walton-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "66",
@@ -984,14 +984,14 @@
     "name": "Wired Headphone ",
     "slug": "headphones",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "568",
     "name": "Women's Watches",
     "slug": "womens-watch",
     "parent_id": "1837",
-    "prod_count": 7
+    "prod_count": 10
   },
   {
     "id": "239",

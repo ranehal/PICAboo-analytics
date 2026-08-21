@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "108990",
+    "sku": "DADNT2656YL01WOG",
+    "name": "Titan Lagan White Dial Analog with Day and Date Leather Strap Women\u2019s Watch (NT2656YL01)",
+    "slug": "titan-lagan-white-dial-analog-with-day-and-date-leather-strap-women-s-watch-nt2656yl01",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/t/nt2656yl01-5-4-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6000.0,
+    "special_price": 4800.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6000.0,
+      "special_price": 4800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:50:51"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:02:24"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:21:35"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:57:58"
+    }
+  ]
+}

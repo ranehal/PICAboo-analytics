@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/v/fv1411s2b-21-6-26-1.jpg",
     "unit": "kg",
     "unit_value": 11.0,
-    "price": 119900.0,
-    "special_price": 106990.0,
-    "discount": 11.0,
+    "price": 134900.0,
+    "special_price": 116690.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -99,6 +99,34 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 03:51:28"
+    },
+    {
+      "price": 134900.0,
+      "special_price": 116640.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:23:16"
+    },
+    {
+      "price": 134900.0,
+      "special_price": 116640.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:30:57"
+    },
+    {
+      "price": 134900.0,
+      "special_price": 116640.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 13:54:36"
+    },
+    {
+      "price": 134900.0,
+      "special_price": 116690.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:33:33"
     }
   ]
 }

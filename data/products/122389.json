@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122389",
+    "sku": "T9531WM01WOG",
+    "name": "Titan Glamour Quartz Analog Mother Of Pearl Dial Women\u2019s Watch (NU95316WM01)",
+    "slug": "titan-glamour-quartz-analog-mother-of-pearl-dial-women-s-watch-nu95316wm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/n/u/nu95316wm01-17-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 26000.0,
+    "special_price": 19500.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 26000.0,
+      "special_price": 19500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 13:08:26"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 19500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:00:41"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 19500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:19:16"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 19500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:56:16"
+    }
+  ]
+}

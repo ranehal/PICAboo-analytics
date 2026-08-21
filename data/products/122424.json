@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122424",
+    "sku": "FPX151MOV",
+    "name": "Foneng 20000mAh 22.5W Power Bank (PX151)",
+    "slug": "foneng-20000mah-22-5w-power-bank-px151",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/1/f1-19-8-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2199.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2199.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:05:49"
+    },
+    {
+      "price": 2199.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:43:32"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "122325",
+    "sku": "GGB100X1A9WOG",
+    "name": "Casio G-Shock Master Of G-Land Mudmaster Men\u2019s Watch (GG-B100X-1A9)",
+    "slug": "casio-g-shock-master-of-g-land-mudmaster-men-s-watch-gg-b100x-1a9",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/g/gg-b100x-1a9-16-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 60000.0,
+    "special_price": 46800.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 60000.0,
+      "special_price": 46800.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:00:23"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 46800.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:19:11"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 46800.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:56:03"
+    }
+  ]
+}

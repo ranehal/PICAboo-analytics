@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/4/2480wm02-10-7-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 12500.0,
-    "special_price": 9000.0,
-    "discount": 28.0,
+    "price": 12000.0,
+    "special_price": 10200.0,
+    "discount": 15.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -92,6 +92,34 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:33:24"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10200.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 11:09:21"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10200.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:04:28"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10200.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:24:31"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10200.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 20:00:48"
     }
   ]
 }

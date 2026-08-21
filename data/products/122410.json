@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "122410",
+    "sku": "XT302GSB",
+    "name": "Xiaomi Electric Toothbrush (T302)",
+    "slug": "xiaomi-electric-toothbrush-t302",
+    "category_id": "3984",
+    "category_name": "Healthcare and Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/3/t302-18-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4930.0,
+    "special_price": 3180.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4930.0,
+      "special_price": 3180.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:03:13"
+    },
+    {
+      "price": 4930.0,
+      "special_price": 3180.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:19:04"
+    },
+    {
+      "price": 4930.0,
+      "special_price": 3180.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:56:16"
+    }
+  ]
+}

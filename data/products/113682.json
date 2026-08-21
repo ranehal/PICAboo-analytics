@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-vt01g-7b-10-28-1.jpg",
     "unit": "g",
     "unit_value": 1.0,
-    "price": 5329.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "price": 7079.0,
+    "special_price": 5899.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -92,6 +92,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:20:57"
+    },
+    {
+      "price": 7079.0,
+      "special_price": 5899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:52:21"
+    },
+    {
+      "price": 7079.0,
+      "special_price": 5899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:02:15"
+    },
+    {
+      "price": 7079.0,
+      "special_price": 5899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:22:45"
+    },
+    {
+      "price": 7079.0,
+      "special_price": 5899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:58:15"
     }
   ]
 }

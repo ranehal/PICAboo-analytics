@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122387",
+    "sku": "TN95WM01WOG",
+    "name": "Titan Purple Glamour Quartz Analog Blue Dial Women\u2019s Watch (NU95373WM01)",
+    "slug": "titan-purple-glamour-quartz-analog-blue-dial-women-s-watch-nu95373wm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/u/nu95373wm01-17-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18000.0,
+    "special_price": 14400.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18000.0,
+      "special_price": 14400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 13:08:26"
+    },
+    {
+      "price": 18000.0,
+      "special_price": 14400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:00:41"
+    },
+    {
+      "price": 18000.0,
+      "special_price": 14400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:19:16"
+    },
+    {
+      "price": 18000.0,
+      "special_price": 14400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:56:16"
+    }
+  ]
+}

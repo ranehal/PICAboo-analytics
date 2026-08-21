@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122334",
+    "sku": "27UP600KWGLO",
+    "name": "LG 27 Inch 4K Ultra HD IPS Monitor (27UP600K-W)",
+    "slug": "lg-27-inch-4k-ultra-hd-ips-monitor-27up600k-w",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/g/lg-17-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 55700.0,
+    "special_price": 55000.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 55700.0,
+      "special_price": 55000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:43:13"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:55:16"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:15:16"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:52:56"
+    }
+  ]
+}

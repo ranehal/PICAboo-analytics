@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122442",
+    "sku": "CEFK110D1WOG",
+    "name": "Casio Edifice Automatic Electroformed Textured Black Dial Men's Watch (EFK-110D-1A)",
+    "slug": "casio-edifice-automatic-electroformed-textured-black-dial-men-s-watch-efk-110d-1a",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/f/efk-110d-1a-19-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 42000.0,
+    "special_price": 40000.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 42000.0,
+      "special_price": 40000.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:18:55"
+    },
+    {
+      "price": 42000.0,
+      "special_price": 40000.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:55:40"
+    }
+  ]
+}

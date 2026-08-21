@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122360",
+    "sku": "H43A4SHSO",
+    "name": "Hisense 43 Inch Direct 4K LED TV (43A4S)",
+    "slug": "hisense-43-inch-direct-4k-led-tv-43a4s",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/i/hisense-32-inch-direct-4k-led-tv-_32a4s_-8-17-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 45900.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 45900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:22:46"
+    },
+    {
+      "price": 45900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:29:54"
+    },
+    {
+      "price": 45900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 13:53:14"
+    },
+    {
+      "price": 45900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:31:48"
+    }
+  ]
+}

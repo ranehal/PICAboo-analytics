@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "121925",
+    "sku": "ACEW5ADR",
+    "name": "ACEFAST W5 Hybrid ANC TWS Earbuds",
+    "slug": "acefast-w5-hybrid-anc-enc-tws-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/A/C/ACEFAST-W5-Hybrid-ANC-True-Wireless-Earbuds-1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 1950.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 1950.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:04:57"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1950.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:42:23"
+    }
+  ]
+}

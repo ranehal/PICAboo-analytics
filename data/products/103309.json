@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "103309",
+    "sku": "KOSPETTT3MOV",
+    "name": "KOSPET Tank T3 BT Calling Rugged Smart Watch",
+    "slug": "kospet-tank-t3-bt-calling-rugged-smart-watch",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/a/tank-t3-22.6.24.jpg_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8999.0,
+    "special_price": 7999.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8999.0,
+      "special_price": 7999.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:40:30"
+    },
+    {
+      "price": 8999.0,
+      "special_price": 7999.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:03:49"
+    },
+    {
+      "price": 8999.0,
+      "special_price": 7999.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:41:06"
+    }
+  ]
+}

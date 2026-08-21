@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122349",
+    "sku": "H17BAVBGLO",
+    "name": "Vention H17BAV 1.2m USB 2.0 Type C to 2-in-1 USB-C & Lightning Cable- Black",
+    "slug": "vention-h17bav-1-2m-usb-2-0-type-c-to-2-in-1-usb-c-lightning-cable-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/1/h17bav-17-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 750.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 750.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:34:27"
+    },
+    {
+      "price": 750.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:42:27"
+    },
+    {
+      "price": 750.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:05:54"
+    },
+    {
+      "price": 750.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:43:32"
+    }
+  ]
+}

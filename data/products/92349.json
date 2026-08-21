@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-v300b-1audf-18-11-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 8000.0,
-    "special_price": 6499.0,
-    "discount": 19.0,
+    "price": 10199.0,
+    "special_price": 8499.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -92,6 +92,34 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:29:20"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 8499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 11:06:14"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 8499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:07:34"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 8499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:35:48"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 8499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 20:06:32"
     }
   ]
 }

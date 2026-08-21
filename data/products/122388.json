@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122388",
+    "sku": "VFACW0UKWGLO",
+    "name": "Vention FACW0 22.5W UK-Plug 1-port USB Wall Charger White",
+    "slug": "vention-facw0-22-5w-uk-plug-1-port-usb-wall-charger-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/e/vention-22.5w-17-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 950.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 950.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 12:52:54"
+    },
+    {
+      "price": 950.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:42:12"
+    },
+    {
+      "price": 950.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:05:54"
+    },
+    {
+      "price": 950.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:43:32"
+    }
+  ]
+}

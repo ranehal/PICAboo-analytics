@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "121711",
+    "sku": "HOJ171ADR",
+    "name": "Hoco J171 22.5W 10000mAh Ultra-Thin Power Bank with 2 Built-in Cables",
+    "slug": "hoco-j171-22-5w-10000mah-ultra-thin-power-bank-with-2-built-in-cables",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/H/o/Hoco-J171-Power-Bank-_-High-Speed-Energy-Anywhere-You-Go-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1900.0,
+    "special_price": 1600.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1900.0,
+      "special_price": 1600.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:43:03"
+    },
+    {
+      "price": 1900.0,
+      "special_price": 1600.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:06:29"
+    },
+    {
+      "price": 1900.0,
+      "special_price": 1600.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:46:44"
+    }
+  ]
+}

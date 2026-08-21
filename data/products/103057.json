@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103057",
+    "sku": "RSGSJX06SLSMM",
+    "name": "Titan Raga Viva Analog Blue Dial Leather Strap Women's Watch (2606SL02)",
+    "slug": "titan-raga-viva-analog-blue-dial-leather-strap-women-s-watch-2606sl02",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/6/2606sl02--5-6-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6500.0,
+    "special_price": 5999.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6500.0,
+      "special_price": 5999.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:59:24"
+    }
+  ]
+}

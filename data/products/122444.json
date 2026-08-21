@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122444",
+    "sku": "N5FACZIL",
+    "name": "National 5-Feet Air Curtain",
+    "slug": "national-5-feet-air-curtain",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/a/national_5-feet.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 24000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 13:52:40"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:30:14"
+    }
+  ]
+}

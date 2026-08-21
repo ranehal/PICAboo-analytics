@@ -216,5 +216,13 @@ def main():
 
     print(f"\n[DONE] {total_new} new price records, {total_skip} already recorded today.\n")
 
+    # Auto-export static JSON files for GitHub Pages
+    try:
+        from export_static import export as export_static_json
+        print("Exporting static data for GitHub Pages...")
+        export_static_json()
+    except Exception as e:
+        print(f"  [WARN] Failed to auto-export static data: {e}")
+
 if __name__ == '__main__':
     main()

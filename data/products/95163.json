@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "95163",
+    "sku": "HM98WADR",
+    "name": "Hoco M98 Wired Headphone Volume Control with Mic",
+    "slug": "hoco-m98-wired-headphone-volume-control-with-mic-metal-black",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/9/m98.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 250.0,
+    "special_price": 170.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 250.0,
+      "special_price": 170.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:08:42"
+    },
+    {
+      "price": 250.0,
+      "special_price": 170.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:46:47"
+    }
+  ]
+}

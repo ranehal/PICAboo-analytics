@@ -10,10 +10,10 @@
     "unit": null,
     "unit_value": null,
     "price": 144900.0,
-    "special_price": 124990.0,
-    "discount": 14.0,
+    "special_price": 127490.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -92,6 +92,34 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 03:51:19"
+    },
+    {
+      "price": 144900.0,
+      "special_price": 127490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 10:23:08"
+    },
+    {
+      "price": 144900.0,
+      "special_price": 127490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:31:17"
+    },
+    {
+      "price": 144900.0,
+      "special_price": 127490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 13:53:57"
+    },
+    {
+      "price": 144900.0,
+      "special_price": 127490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:32:39"
     }
   ]
 }

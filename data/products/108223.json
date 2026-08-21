@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-b145d-3avdf-26-10-25-5.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 8999.0,
-    "special_price": 7149.0,
-    "discount": 21.0,
+    "price": 9359.0,
+    "special_price": 7799.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -92,6 +92,34 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:25:23"
+    },
+    {
+      "price": 9359.0,
+      "special_price": 7799.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 11:00:01"
+    },
+    {
+      "price": 9359.0,
+      "special_price": 7799.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:05:27"
+    },
+    {
+      "price": 9359.0,
+      "special_price": 7799.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:29:03"
+    },
+    {
+      "price": 9359.0,
+      "special_price": 7799.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 20:03:11"
     }
   ]
 }

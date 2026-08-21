@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "107230",
+    "sku": "HLBANCTWSMOV",
+    "name": "Haylou Lady Bag ANC TWS Earbuds",
+    "slug": "haylou-lady-bag-anc-tws-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haylou-lady-bag-blue-15-1-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5850.0,
+    "special_price": 5649.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5850.0,
+      "special_price": 5649.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:43:20"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5649.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:08:02"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5649.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:44:23"
+    }
+  ]
+}

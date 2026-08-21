@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122391",
+    "sku": "T95316M01WOG",
+    "name": "Titan Glamour Quartz Analog Brown Dial\u00a0Women\u2019s Watch (95316YM01)",
+    "slug": "titan-glamour-quartz-analog-brown-dial-women-s-watch-95316ym01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/9/5/95316ym01-17-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 22000.0,
+    "special_price": 17600.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22000.0,
+      "special_price": 17600.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-17 13:08:26"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17600.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 22:00:41"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17600.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:19:16"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17600.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:56:16"
+    }
+  ]
+}

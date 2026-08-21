@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "104680",
+    "sku": "KTM3UBTMOV",
+    "name": "KOSPET Tank M3 Ultra BT Calling Smart Watch with GPS",
+    "slug": "kospet-tank-m3-ultra-bt-calling-smart-watch-with-gps",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/a/tank-m3-ultra-28.8.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10499.0,
+    "special_price": 9299.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10499.0,
+      "special_price": 9299.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-18 21:43:05"
+    },
+    {
+      "price": 10499.0,
+      "special_price": 9299.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 14:07:05"
+    },
+    {
+      "price": 10499.0,
+      "special_price": 9299.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:44:08"
+    }
+  ]
+}

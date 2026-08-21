@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122434",
+    "sku": "WCIHEXACOMB60ZWLT",
+    "name": "Walton 5 Ton Cassette Air Conditioner (WCI-HEXACOMB-60Z)",
+    "slug": "walton-5-ton-cassette-air-conditioner-wci-hexacomb-60z",
+    "category_id": "3481",
+    "category_name": "Walton",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/c/wci-hexacomb-60z_19-8-26_4_.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 237900.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 237900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-19 13:52:38"
+    },
+    {
+      "price": 237900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-20 19:30:22"
+    }
+  ]
+}
