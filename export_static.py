@@ -3,9 +3,10 @@ Export SQLite database to static JSON files for GitHub Pages hosting.
 """
 import os, sqlite3, json, sys, io
 
-# Fix Windows console encoding
+# Fix console encoding safely without closing underlying stream
 try:
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+    if hasattr(sys.stdout, 'reconfigure'):
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 except Exception:
     pass
 
