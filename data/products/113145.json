@@ -4,14 +4,14 @@
     "sku": "LLWPLVP",
     "name": "Livpure Elega RO 5L Water Purifier",
     "slug": "livpure-elega-ro-5l-water-purifier",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "78",
+    "category_name": "Water Purifiers & Filters",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/l/elega-ro-7-10-25-1.jpg",
     "unit": "L",
     "unit_value": 5.0,
     "price": 30000.0,
-    "special_price": 28390.0,
-    "discount": 5.0,
+    "special_price": 27990.0,
+    "discount": 7.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -120,6 +120,48 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:39"
+    },
+    {
+      "price": 30000.0,
+      "special_price": 28390.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:43"
+    },
+    {
+      "price": 30000.0,
+      "special_price": 28390.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:06"
+    },
+    {
+      "price": 30000.0,
+      "special_price": 28390.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:50"
+    },
+    {
+      "price": 30000.0,
+      "special_price": 28390.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:02"
+    },
+    {
+      "price": 30000.0,
+      "special_price": 28390.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:48"
+    },
+    {
+      "price": 30000.0,
+      "special_price": 27990.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:10:34"
     }
   ]
 }

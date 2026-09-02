@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122515",
+    "sku": "DLM27EM331AMEXL",
+    "name": "Dahua DHI-LM27-EM331A 27-inch 2K QHD 200Hz Monitor",
+    "slug": "dahua-dhi-lm27-em331a-27-inch-2k-qhd-200hz-monitor",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/m/em331a-.jpg-27-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 35316.0,
+    "special_price": 29430.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 35316.0,
+      "special_price": 29430.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:19"
+    }
+  ]
+}

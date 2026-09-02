@@ -4,8 +4,8 @@
     "sku": "KM026SSB",
     "name": "Kemei Rechargeable Beard & Hair Trimmer For Men\u00a0(KM-026)",
     "slug": "kemei-rechargeable-beard-hair-trimmer-for-men-km-026",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/m/km-026-28-4-25-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 33.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:01"
+    },
+    {
+      "price": 1799.0,
+      "special_price": 1199.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:32"
+    },
+    {
+      "price": 1799.0,
+      "special_price": 1199.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:59"
+    },
+    {
+      "price": 1799.0,
+      "special_price": 1199.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:17"
+    },
+    {
+      "price": 1799.0,
+      "special_price": 1199.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:55"
+    },
+    {
+      "price": 1799.0,
+      "special_price": 1199.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:35"
     }
   ]
 }

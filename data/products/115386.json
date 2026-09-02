@@ -4,14 +4,14 @@
     "sku": "OOCW5251ECCMOV",
     "name": "Oraimo 25W EU GaN Fast Charging Adapter with Type-C to Type-C Cable (OCW-5251ECC)",
     "slug": "oraimo-25w-eu-gan-fast-charging-adapter-with-type-c-to-type-c-cable-ocw-5251ecc",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocw-5251ecc-2-april-2026.jpg",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocw-5251ecc-14-1-26-2.jpg",
     "unit": null,
     "unit_value": null,
     "price": 610.0,
-    "special_price": 580.0,
-    "discount": 5.0,
+    "special_price": 549.0,
+    "discount": 10.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -127,6 +127,41 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:22"
+    },
+    {
+      "price": 610.0,
+      "special_price": 580.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:16"
+    },
+    {
+      "price": 610.0,
+      "special_price": 580.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:09"
+    },
+    {
+      "price": 610.0,
+      "special_price": 580.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:33:44"
+    },
+    {
+      "price": 610.0,
+      "special_price": 580.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:35"
+    },
+    {
+      "price": 610.0,
+      "special_price": 549.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:08"
     }
   ]
 }

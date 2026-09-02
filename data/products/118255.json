@@ -4,8 +4,8 @@
     "sku": "10011NM01WOG",
     "name": "Titan Stellar Automatic Black Dial Stainless Steel Strap Watch for Men (10011NM01)",
     "slug": "titan-stellar-automatic-black-dial-stainless-steel-strap-watch-for-men-10011nm01",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/0/10011NM01_3.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:00"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:03"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:22"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:24"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:21"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:33:49"
     }
   ]
 }

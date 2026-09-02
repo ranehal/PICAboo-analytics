@@ -4,8 +4,8 @@
     "sku": "CUH500GLO",
     "name": "Cudy UH500 6-In-1 HDMI 4K USB-C Hub",
     "slug": "cudy-uh500-6-in-1-hdmi-4k-usb-c-hub",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/h/uh500---18-11-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:24"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 3200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:06"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 3200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:54"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 3200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:59"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 3200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:55"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 3200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:44"
     }
   ]
 }

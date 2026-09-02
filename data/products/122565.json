@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122565",
+    "sku": "W107PRFSHL",
+    "name": "Warmac 107 AC/DC Power 16 inch Rechargeable Fan",
+    "slug": "warmac-107-ac-dc-power-16-inch-rechargeable-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/a/fan-model-107-30-8-36-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7500.0,
+    "special_price": 4190.0,
+    "discount": 44.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7500.0,
+      "special_price": 4190.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:49"
+    }
+  ]
+}

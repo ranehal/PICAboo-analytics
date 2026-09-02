@@ -4,8 +4,8 @@
     "sku": "HEZVIZCSCV310EXL",
     "name": "Hikvision EZVIZ CS-CV310 2.0MP Full HD Wi-fi Outdoor IP Camera",
     "slug": "hikvision-ezviz-cs-cv310-2-0mp-full-hd-wi-fi-outdoor-ip-camera",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "216",
+    "category_name": "IP Cameras",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/s/cs-cv310-01.04_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:35"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5390.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:31"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5390.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:29"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5390.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:16"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5390.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:09"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5390.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:54"
     }
   ]
 }

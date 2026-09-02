@@ -4,8 +4,8 @@
     "sku": "BK3DUSS10ATL",
     "name": "Baykron 3D Ultra-Slim Tempered Glass Screen Protector for Samsung S10 Plus",
     "slug": "baykron-3d-ultra-slim-tempered-glass-screen-protector-for-samsung-s10-plus",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "200",
+    "category_name": "Screen Protector",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baykron-3d-ultra-slim-tempered-glass-screen-protector-for-samsung-s10-plus-28.8.24-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:38"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:32"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:56"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:19"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:48:42"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:53"
     }
   ]
 }

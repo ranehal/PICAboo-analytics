@@ -4,8 +4,8 @@
     "sku": "RW2LMUSBZTC",
     "name": "Redmi Watch 2 Lite Magnetic USB Charging Cable",
     "slug": "redmi-watch-2-lite-magnetic-usb-charging-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1765",
+    "category_name": "Smart Watch Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-watch-2-lite-11.12.23..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 32.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:36"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:35"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:44:28"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:18"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:45"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:13"
     }
   ]
 }

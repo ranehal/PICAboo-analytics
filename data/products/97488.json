@@ -4,8 +4,8 @@
     "sku": "SHASJZTC",
     "name": "Samsung Galaxy Gear S2 Wireless USB Charging Cable",
     "slug": "samsung-galaxy-gear-s2-wireless-usb-charging-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1765",
+    "category_name": "Smart Watch Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/2/s2--04-12-23----1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:46"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:49"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:12"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:38"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:58"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:19"
     }
   ]
 }

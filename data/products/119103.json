@@ -4,8 +4,8 @@
     "sku": "XF66SXOO",
     "name": "XO-F66 5W LED Portable Bluetooth Speaker",
     "slug": "xo-f66-5w-led-portable-bluetooth-speaker",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "211",
+    "category_name": "Speaker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/6/f66-29-april-2026-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:18"
+    },
+    {
+      "price": 1595.0,
+      "special_price": 1235.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:11"
+    },
+    {
+      "price": 1595.0,
+      "special_price": 1235.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:32"
+    },
+    {
+      "price": 1595.0,
+      "special_price": 1235.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:57"
+    },
+    {
+      "price": 1595.0,
+      "special_price": 1235.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:13"
+    },
+    {
+      "price": 1595.0,
+      "special_price": 1235.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:11"
     }
   ]
 }

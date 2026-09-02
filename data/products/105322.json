@@ -4,14 +4,14 @@
     "sku": "PT343GFSSB",
     "name": "Philips BT3435/15 Beard Trimmer",
     "slug": "philips-bt3435-15-beard-trimmer",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/t/bt3435--24-9-24---1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 4399.0,
-    "special_price": 4019.0,
-    "discount": 9.0,
+    "special_price": 3879.0,
+    "discount": 12.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -120,6 +120,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:07"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:56"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:04:40"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:37"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 3879.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:02"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 3879.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:54"
     }
   ]
 }

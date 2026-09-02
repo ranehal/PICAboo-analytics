@@ -4,8 +4,8 @@
     "sku": "YESC230ADR",
     "name": "Yesido Magnetic 360 Degree Rotating Car Cup phone Holder (C230) - Black",
     "slug": "yesido-c230-magnetic-360-degree-rotating-car-cup-phone-holder-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/y/e/yesido-c230-premium-magnetic-car-cup-holder-phone-mount-with-360-rotating-stand-2-3f659ca5-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:33"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1780.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:24"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1780.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:30"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1780.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:12"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1780.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:59"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1780.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:50"
     }
   ]
 }

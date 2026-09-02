@@ -4,8 +4,8 @@
     "sku": "NNQWBNS",
     "name": "Naviforce NF5060 Japan Quartz Watch for Women",
     "slug": "naviforce-nf5060-japan-quartz-watch-for-women",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/f/nf5060-24-2-25-------1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:58:47"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:29:30"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 21:43:34"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:46:06"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 09:00:29"
     }
   ]
 }

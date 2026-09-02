@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122013",
+    "sku": "ACEA110ADR",
+    "name": "ACEFAST A110 PD30W GaN Wall Charger with USB-C Retractable Cable (64cm) ",
+    "slug": "acefast-a110-pd30w-gan-wall-charger-with-usb-c-retractable-cable-64cm",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/9/6957487523112759-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1800.0,
+    "special_price": 1480.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1800.0,
+      "special_price": 1480.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:59"
+    }
+  ]
+}

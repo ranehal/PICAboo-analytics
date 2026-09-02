@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122532",
+    "sku": "ALY010WGLO",
+    "name": "Asus Vivobook 14 AMD Ryzen AI 7 445 16GB RAM 512GB SSD 14 Inch Copilot+ PC Laptop (M1407GA-LY010W)",
+    "slug": "asus-vivobook-14-amd-ryzen-ai-7-445-16gb-ram-512gb-ssd-14-inch-copilot-pc-laptop-m1407ga-ly010w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/3/l3-29-8-26.jpg",
+    "unit": "g",
+    "unit_value": 1407.0,
+    "price": 162000.0,
+    "special_price": 161500.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 162000.0,
+      "special_price": 161500.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:59"
+    }
+  ]
+}

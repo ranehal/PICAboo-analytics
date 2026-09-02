@@ -4,8 +4,8 @@
     "sku": "BQ20000ATL",
     "name": "Baseus Qpow 22.5W 20000 mAh Digital Display Power Bank with Built-in Type C Cable (PPQD2-20C)-Chinese\u00a0Variant",
     "slug": "baseus-qpow-22-5w-20000-mah-digital-display-power-bank-with-built-in-type-c-cable-ppqd-i01",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/p/ppqd2-20c-2-4-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:24"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2387.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:57"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2387.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:01"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2387.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:33:37"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2387.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:48:04"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2387.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:23"
     }
   ]
 }

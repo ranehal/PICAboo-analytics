@@ -4,16 +4,16 @@
     "sku": "A4B135NGLO",
     "name": "A4tech Bloody B135N Neon Light USB Gaming Keyboard",
     "slug": "a4tech-bloody-b135n-neon-light-usb-gaming-keyboard",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "6",
+    "category_name": "Gaming Gears",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/n/bn135--16-5-24--1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1999.0,
-    "special_price": 1750.0,
-    "discount": 12.0,
+    "price": 2131.0,
+    "special_price": 1853.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,41 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:15"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1750.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:09"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1750.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:06"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1750.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:43"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1750.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:40"
+    },
+    {
+      "price": 2131.0,
+      "special_price": 1853.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:39"
     }
   ]
 }

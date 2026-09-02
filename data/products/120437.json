@@ -4,8 +4,8 @@
     "sku": "BFM11IOT",
     "name": "Baseus Enerfill 10000mah 22.5W Magsafe Power Bank (FM11)",
     "slug": "baseus-enerfill-10000mah-22-5w-magsafe-power-bank-fm11",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/n/enerfill-fm11--23-5-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:48"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2529.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:06"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2529.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:50:11"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2529.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:30"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2529.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:45:31"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2529.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:29"
     }
   ]
 }

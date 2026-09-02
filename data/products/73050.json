@@ -4,8 +4,8 @@
     "sku": "TPLINKAC6TPO",
     "name": "TP-Link Archer C6 AC1200 Dual-Band MU-MIMO Gigabit Router (Version 6)",
     "slug": "tp-link-archer-c6-ac1200-dual-band-mu-mimo-gigabit-router",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/6/c6--17.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:04"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3449.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:49"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3449.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:46"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3449.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:40"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3449.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:09"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3449.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:28"
     }
   ]
 }

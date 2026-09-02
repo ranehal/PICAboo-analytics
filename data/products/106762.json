@@ -4,8 +4,8 @@
     "sku": "FPBQ3973HSP",
     "name": "Fossil Penny Three-Hand Watch for Women (BQ3973)",
     "slug": "fossil-penny-three-hand-watch-for-women-bq3973",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/q/bq3973-14-12-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:54"
+    },
+    {
+      "price": 13339.0,
+      "special_price": 11960.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:12"
+    },
+    {
+      "price": 13339.0,
+      "special_price": 11960.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:52"
+    },
+    {
+      "price": 13339.0,
+      "special_price": 11960.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:23"
+    },
+    {
+      "price": 13339.0,
+      "special_price": 11960.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:51"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "CMTPVD300G1ETTS",
     "name": "Casio Enticer Analog Watch for Men (MTP-VD300G-1E)",
     "slug": "casio-enticer-analog-watch-for-men-mtp-vd300g-1e",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-vd300g-1e-10-28-1.jpg",
     "unit": "g",
     "unit_value": 300.0,
@@ -92,6 +92,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:20:57"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:04:40"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:02"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:03:02"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:50"
     }
   ]
 }

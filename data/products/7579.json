@@ -4,16 +4,16 @@
     "sku": "KM600SSB",
     "name": "Kemei KM-600 11 In 1 Multi-Grooming Set For Men",
     "slug": "kemei-km-600-11-in-1-multi-grooming-set-for-men",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/m/km-600-bllack-2.jpg",
     "unit": null,
     "unit_value": null,
     "price": 2949.0,
-    "special_price": 2090.0,
-    "discount": 29.0,
+    "special_price": 2139.0,
+    "discount": 27.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,41 @@
       "discount": 29.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:44"
+    },
+    {
+      "price": 2949.0,
+      "special_price": 2090.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:01"
+    },
+    {
+      "price": 2949.0,
+      "special_price": 2090.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:41"
+    },
+    {
+      "price": 2949.0,
+      "special_price": 2090.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:49"
+    },
+    {
+      "price": 2949.0,
+      "special_price": 2139.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:03"
+    },
+    {
+      "price": 2949.0,
+      "special_price": 2139.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:03"
     }
   ]
 }

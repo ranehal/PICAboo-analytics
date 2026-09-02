@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122474",
+    "sku": "GP12NLGRO",
+    "name": "Gree 1 Ton Portable Air Conditioner (GP-12NLF410)",
+    "slug": "gree-1-ton-portable-air-conditioner-gp-12nlf410",
+    "category_id": "3477",
+    "category_name": "Gree",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/2/12nlf410-24-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 57990.0,
+    "special_price": 48900.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 57990.0,
+      "special_price": 48900.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:14:23"
+    },
+    {
+      "price": 57990.0,
+      "special_price": 48900.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:25:44"
+    },
+    {
+      "price": 57990.0,
+      "special_price": 48900.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:06"
+    },
+    {
+      "price": 57990.0,
+      "special_price": 48900.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:06:04"
+    }
+  ]
+}

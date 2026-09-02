@@ -4,8 +4,8 @@
     "sku": "JRA21GSB",
     "name": "Joyroom A21 Speedy Series 100W 3-in-1 Fast Charging Cable-Black",
     "slug": "joyroom-a21-speedy-series-100w-3-in-1-fast-charging-cable-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/2/a21-3in1-17-6-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 34.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:00"
+    },
+    {
+      "price": 1470.0,
+      "special_price": 970.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:23"
+    },
+    {
+      "price": 1470.0,
+      "special_price": 970.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:36"
+    },
+    {
+      "price": 1470.0,
+      "special_price": 970.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:11"
+    },
+    {
+      "price": 1470.0,
+      "special_price": 970.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:41:39"
+    },
+    {
+      "price": 1470.0,
+      "special_price": 970.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:34"
     }
   ]
 }

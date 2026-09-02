@@ -4,8 +4,8 @@
     "sku": "XPX1PCIL",
     "name": "Xinji PX1 Portable Projector",
     "slug": "xinji-px1-projector",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "329",
+    "category_name": "Projectors",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xinji-px1-lcd-projector-31.3.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:54:38"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:24:44"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 13:00:35"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:39:43"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:55:50"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-02 11:30:58"
     }
   ]
 }

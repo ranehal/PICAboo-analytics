@@ -4,8 +4,8 @@
     "sku": "LDNIOA1204Q3ADR",
     "name": "LDNIO A1204Q 18W 3.0 Travel Adapter with Micro USB Cable",
     "slug": "ldnio-a1204q-18w-3-0-travel-adapter-with-micro-usb-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/1/a1204q.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,27 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:28"
+    },
+    {
+      "price": 899.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:04"
+    },
+    {
+      "price": 899.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:03"
+    },
+    {
+      "price": 899.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:11"
     }
   ]
 }

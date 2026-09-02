@@ -4,8 +4,8 @@
     "sku": "UCR1TTZ",
     "name": "Ulanzi CR1 3-in-1 USB Card Reader (SD/TF/USB)",
     "slug": "ulanzi-cr1-3-in-1-usb-card-reader-sd-tf-usb",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/r/cr1-22-4-226.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:21"
+    },
+    {
+      "price": 1050.0,
+      "special_price": 889.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:57"
+    },
+    {
+      "price": 1050.0,
+      "special_price": 889.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:41"
+    },
+    {
+      "price": 1050.0,
+      "special_price": 889.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:33"
+    },
+    {
+      "price": 1050.0,
+      "special_price": 889.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:53"
     }
   ]
 }

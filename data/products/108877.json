@@ -4,8 +4,8 @@
     "sku": "THA95297WM01WOG",
     "name": "Titan Horizon Quartz Analog Watch for Women (95297WM01)",
     "slug": "titan-horizon-quartz-analog-watch-for-women-95297wm01",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/5/95297wm01-28-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:39"
+    },
+    {
+      "price": 19000.0,
+      "special_price": 15000.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:14"
+    },
+    {
+      "price": 19000.0,
+      "special_price": 15000.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:18"
+    },
+    {
+      "price": 19000.0,
+      "special_price": 15000.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:23"
+    },
+    {
+      "price": 19000.0,
+      "special_price": 15000.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:29"
+    },
+    {
+      "price": 19000.0,
+      "special_price": 15000.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:05"
     }
   ]
 }

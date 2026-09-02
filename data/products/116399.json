@@ -4,8 +4,8 @@
     "sku": "AASAT125CFAEP",
     "name": "Atomberg Aris Starlight AT-125 48\" Energy Efficient Ceiling Fan",
     "slug": "atomberg-aris-starlight-at-125-48-energy-efficient-ceiling-fan",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "88",
+    "category_name": "Fan",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/t/at-125-24-feb-2026-0.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:35"
+    },
+    {
+      "price": 23800.0,
+      "special_price": 18850.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:02"
+    },
+    {
+      "price": 23800.0,
+      "special_price": 18850.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:52"
+    },
+    {
+      "price": 23800.0,
+      "special_price": 18850.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:41"
+    },
+    {
+      "price": 23800.0,
+      "special_price": 18850.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:06"
+    },
+    {
+      "price": 23800.0,
+      "special_price": 18850.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:02"
     }
   ]
 }

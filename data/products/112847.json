@@ -4,14 +4,14 @@
     "sku": "OCD114MMOV",
     "name": "Oraimo RobustLine 2A 1m Micro-USB Charging Cable (OCD-114M)",
     "slug": "oraimo-robustline-2a-1m-micro-usb-charging-cable-ocd-114m",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/o/robustline-2a-2-april-2026.jpg",
+    "category_id": "205",
+    "category_name": "Data Cable",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocd-114m-17-9-25-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 115.0,
-    "special_price": 110.0,
-    "discount": 4.0,
+    "special_price": 104.0,
+    "discount": 10.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -120,6 +120,41 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:26"
+    },
+    {
+      "price": 115.0,
+      "special_price": 110.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:32"
+    },
+    {
+      "price": 115.0,
+      "special_price": 110.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:21"
+    },
+    {
+      "price": 115.0,
+      "special_price": 110.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:33"
+    },
+    {
+      "price": 115.0,
+      "special_price": 110.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:24"
+    },
+    {
+      "price": 115.0,
+      "special_price": 104.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:19"
     }
   ]
 }

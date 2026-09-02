@@ -4,8 +4,8 @@
     "sku": "EF39D5VDWOG",
     "name": "Casio Edifice EF-539D-1A5VDF Chronograph Men\u2019s Watch",
     "slug": "casio-edifice-ef-539d-1a5vdf-chronograph-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/f/ef-539d-1a5v-9-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:05:37"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 18700.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:36:08"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 18700.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:13:09"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 18700.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:52:49"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 18700.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:08:40"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 18700.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:43:21"
     }
   ]
 }

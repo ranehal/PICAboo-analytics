@@ -4,16 +4,16 @@
     "sku": "HFSE4ESBL",
     "name": "Huawei FreeBuds SE 4 ANC Earbuds",
     "slug": "huawei-freebuds-se-4-anc-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/r/freebuds-se-4-anc-21-july-2026.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
+    "price": 4999.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "stock_available": 1,
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:42:36"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:13:09"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 12:50:26"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:25:01"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:39:44"
+    },
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:29"
     }
   ]
 }

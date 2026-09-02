@@ -1,11 +1,11 @@
 {
   "product": {
     "id": "99234",
-    "sku": "JRSC3412GST",
+    "sku": "JRSC3412GSB",
     "name": "LDNIO Power Strip 3 Sockets with 38W 4x USB Ports Multiplug (SC3412) - Black",
     "slug": "ldnio-power-strip-3-sockets-with-38w-4x-usb-ports-multiplug-sc3412-black",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "2257",
+    "category_name": "Others",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/c/sc3412-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:39:20"
+    },
+    {
+      "price": 3400.0,
+      "special_price": 2100.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:11:07"
+    },
+    {
+      "price": 3400.0,
+      "special_price": 2100.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:31"
+    },
+    {
+      "price": 3400.0,
+      "special_price": 2100.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:22:21"
+    },
+    {
+      "price": 3400.0,
+      "special_price": 2100.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:34:16"
+    },
+    {
+      "price": 3400.0,
+      "special_price": 2100.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:51"
     }
   ]
 }

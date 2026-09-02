@@ -4,8 +4,8 @@
     "sku": "AH25BTSAMG",
     "name": "Awei H25 Square Screen BT Calling Smartwatch",
     "slug": "awei-h25-square-screen-bt-calling-smartwatch",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "226",
+    "category_name": "Smart Watch",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/2/h25-19-1-26-9.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:57"
+    },
+    {
+      "price": 2548.0,
+      "special_price": 2150.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:44"
+    },
+    {
+      "price": 2548.0,
+      "special_price": 2150.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:44:46"
+    },
+    {
+      "price": 2548.0,
+      "special_price": 2150.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:13"
+    },
+    {
+      "price": 2548.0,
+      "special_price": 2150.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:28"
+    },
+    {
+      "price": 2548.0,
+      "special_price": 2150.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:13"
     }
   ]
 }

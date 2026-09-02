@@ -4,8 +4,8 @@
     "sku": "HRVG490P8PBKDGBKTSD",
     "name": "Hitachi 443 Liters Stylish Line Refrigerator (R-VG490P8PB (KD) (GBK)",
     "slug": "hitachi-443-liters-stylish-line-refrigerator-r-vg490p8pb-kd-gbk",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/-/r-vg490p8pb-_kd_-_gbk-16-6-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:39"
+    },
+    {
+      "price": 144900.0,
+      "special_price": 127490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:55"
+    },
+    {
+      "price": 144900.0,
+      "special_price": 127490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:01"
+    },
+    {
+      "price": 144900.0,
+      "special_price": 127490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:44"
+    },
+    {
+      "price": 144900.0,
+      "special_price": 127490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:34"
+    },
+    {
+      "price": 144900.0,
+      "special_price": 127490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:17"
+    },
+    {
+      "price": 144900.0,
+      "special_price": 127490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:51"
     }
   ]
 }

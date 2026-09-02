@@ -4,8 +4,8 @@
     "sku": "HPACEGDZTC",
     "name": "Amazfit Pace Magnetic USB Charging Cable",
     "slug": "amazfit-pace-usb-charging-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1765",
+    "category_name": "Smart Watch Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/m/amazfit-pace-usb-charging-cable.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:07"
+    },
+    {
+      "price": 750.0,
+      "special_price": 539.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:55"
+    },
+    {
+      "price": 750.0,
+      "special_price": 539.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:18:17"
+    },
+    {
+      "price": 750.0,
+      "special_price": 539.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:51"
+    },
+    {
+      "price": 750.0,
+      "special_price": 539.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:35"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "LDS16UGSB",
     "name": "LDNIO DS-16U 6 In 1 Type-C Docking Station",
     "slug": "ldnio-ds-16u-6-in-1-type-c-docking-station",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "131",
+    "category_name": "USB Ports & Hubs",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/d/ldnio-ds-16u-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 33.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:42"
+    },
+    {
+      "price": 2570.0,
+      "special_price": 1710.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:27"
+    },
+    {
+      "price": 2570.0,
+      "special_price": 1710.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:09"
+    },
+    {
+      "price": 2570.0,
+      "special_price": 1710.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:31"
+    },
+    {
+      "price": 2570.0,
+      "special_price": 1710.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:07"
+    },
+    {
+      "price": 2570.0,
+      "special_price": 1710.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:19"
     }
   ]
 }

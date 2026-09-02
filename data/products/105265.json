@@ -4,8 +4,8 @@
     "sku": "PDST081030SHL",
     "name": "Philips DST0810/30 1250W Steam Iron",
     "slug": "philips-dst0810-30-1250w-steam-iron",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "86",
+    "category_name": "Iron",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/s/dst081-22.9.24.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 44.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:33"
+    },
+    {
+      "price": 4250.0,
+      "special_price": 2390.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:53"
+    },
+    {
+      "price": 4250.0,
+      "special_price": 2390.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:37:33"
+    },
+    {
+      "price": 4250.0,
+      "special_price": 2390.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:54"
+    },
+    {
+      "price": 4250.0,
+      "special_price": 2390.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:18"
+    },
+    {
+      "price": 4250.0,
+      "special_price": 2390.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:28:21"
+    },
+    {
+      "price": 4250.0,
+      "special_price": 2390.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:29"
     }
   ]
 }

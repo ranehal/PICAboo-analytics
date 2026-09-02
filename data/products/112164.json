@@ -4,8 +4,8 @@
     "sku": "WFMP278LRWPO",
     "name": "Whirlpool Fresh Magic Pro 278L Glass Door Refrigerator-Rosalia",
     "slug": "whirlpool-fresh-magic-pro-278l-glass-door-refrigerator-rosalia",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/o/rosalia-1-11-8-25_1_2.jpg",
     "unit": "L",
     "unit_value": 278.0,
@@ -120,6 +120,48 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:24"
+    },
+    {
+      "price": 52990.0,
+      "special_price": 40990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:45"
+    },
+    {
+      "price": 52990.0,
+      "special_price": 40990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:33:56"
+    },
+    {
+      "price": 52990.0,
+      "special_price": 40990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:40"
+    },
+    {
+      "price": 52990.0,
+      "special_price": 40990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:19"
+    },
+    {
+      "price": 52990.0,
+      "special_price": 40990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:49"
+    },
+    {
+      "price": 52990.0,
+      "special_price": 40990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:45"
     }
   ]
 }

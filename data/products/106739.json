@@ -4,8 +4,8 @@
     "sku": "JLMT38ADR",
     "name": "Jmary Lightweight Extendable Tripod (MT-38)",
     "slug": "jmary-lightweight-extendable-tripod-mt-38",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "148",
+    "category_name": "Camera Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/m/jmary-mt38-heavy-duty-aluminum-lightweight-extendable-tripod-stand-2-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:30"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:27"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:49"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:26"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:36:49"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:07"
     }
   ]
 }

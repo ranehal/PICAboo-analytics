@@ -4,8 +4,8 @@
     "sku": "RB20GLO",
     "name": "Rapoo B20 Silent Wireless Optical Mouse-Black",
     "slug": "rapoo-b20-silent-wireless-optical-mouse-black",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/2/b20-30-1-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:29"
+    },
+    {
+      "price": 775.0,
+      "special_price": 650.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:22:54"
+    },
+    {
+      "price": 775.0,
+      "special_price": 650.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:33"
+    },
+    {
+      "price": 775.0,
+      "special_price": 650.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:49"
+    },
+    {
+      "price": 775.0,
+      "special_price": 650.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:31"
+    },
+    {
+      "price": 775.0,
+      "special_price": 650.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:57"
     }
   ]
 }

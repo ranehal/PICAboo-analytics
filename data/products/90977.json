@@ -4,8 +4,8 @@
     "sku": "B00WSIASDATL",
     "name": "Baseus 300W Super Si Power Inverter CN/EU (CGNB010101)",
     "slug": "baseus-300w-super-si-power-inverter-cn-eu-cgnb010101",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/0/300w-4-9-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:51"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:22:03"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:18"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:48"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:51:08"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:58"
     }
   ]
 }

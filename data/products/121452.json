@@ -4,8 +4,8 @@
     "sku": "MYGVDISGDX",
     "name": "Xiaomi Smart Band 10 Pro Smart Watch with GPS-Black",
     "slug": "xiaomi-smart-band-10-pro-smart-watch-with-1-74-inch-amoled-display-5-system-gnss-150-sports-modes",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "226",
+    "category_name": "Smart Watch",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/m/smart-band-10-pro-22-7-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:26"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:02"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:44:11"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:23:45"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:37:29"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:55"
     }
   ]
 }

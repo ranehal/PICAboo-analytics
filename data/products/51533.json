@@ -4,9 +4,9 @@
     "sku": "WASKPSKRP",
     "name": "Kent 8L Pride Plus Water Purifier (RO+UF+TDS Control)",
     "slug": "kent-pride-plus-water-filter-8liters",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/e/kent-8l-pride-plus-water-purifier-_ro_uf_tds-control_-8-4-26-1.jpg",
+    "category_id": "78",
+    "category_name": "Water Purifiers & Filters",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/e/kent-8l-pride-7-7-26.jpg",
     "unit": "L",
     "unit_value": 8.0,
     "price": 26000.0,
@@ -120,6 +120,48 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:39"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 22290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:43"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 22290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:06"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 22290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:50"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 22290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:02"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 22290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:48"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 22290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:10:34"
     }
   ]
 }

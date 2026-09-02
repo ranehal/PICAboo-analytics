@@ -4,8 +4,8 @@
     "sku": "AX515EAVJNN",
     "name": "Asus Vivobook 15 X515EA 15.6\" FHD i5-1135G7 Processor 4GB RAM 1TB HDD with Win11 Laptop (BQ2312W)",
     "slug": "asus-x515ea-vivobook-15-i5-4gb-ram-512gb-ssd-laptop",
-    "category_id": "4",
-    "category_name": "Computers",
+    "category_id": "18",
+    "category_name": "Laptop & Notebook",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/q/bq2312w-x515ea.jpg",
     "unit": "g",
     "unit_value": 1135.0,
@@ -127,6 +127,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:59"
+    },
+    {
+      "price": 79695.0,
+      "special_price": 72450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:03"
+    },
+    {
+      "price": 79695.0,
+      "special_price": 72450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:57:52"
+    },
+    {
+      "price": 79695.0,
+      "special_price": 72450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:59"
+    },
+    {
+      "price": 79695.0,
+      "special_price": 72450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:51:50"
+    },
+    {
+      "price": 79695.0,
+      "special_price": 72450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:56"
     }
   ]
 }

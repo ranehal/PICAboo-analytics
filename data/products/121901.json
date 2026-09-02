@@ -6,7 +6,7 @@
     "slug": "tcl-1-5-ton-gentlecool-health-full-dc-inverter-air-conditioner-tac-18csd",
     "category_id": "64",
     "category_name": "Air Conditioner",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/c/tcl-1-ton-gentlecool-health_-full-dc-inverter-air-conditioner-_tac-12csd_-8-4-26-5_1.jpg",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/c/tcl-1.5-ton-gentlecool-health_-full-dc-inverter-air-conditioner-_tac-18csd_-8-13-26-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 84900.0,
@@ -120,6 +120,48 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:30:14"
+    },
+    {
+      "price": 84900.0,
+      "special_price": 73871.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:06"
+    },
+    {
+      "price": 84900.0,
+      "special_price": 73871.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:32:18"
+    },
+    {
+      "price": 84900.0,
+      "special_price": 73871.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:14:26"
+    },
+    {
+      "price": 84900.0,
+      "special_price": 73871.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:25:49"
+    },
+    {
+      "price": 84900.0,
+      "special_price": 73871.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:08"
+    },
+    {
+      "price": 84900.0,
+      "special_price": 73871.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:06:04"
     }
   ]
 }

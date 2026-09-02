@@ -4,8 +4,8 @@
     "sku": "HNNB100SMY",
     "name": "Helio Neckband (NB-100)",
     "slug": "helio-neckband-nb-100",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/b/nb-100-2-3-25---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:50"
+    },
+    {
+      "price": 990.0,
+      "special_price": 949.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:57"
+    },
+    {
+      "price": 990.0,
+      "special_price": 949.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:32"
+    },
+    {
+      "price": 990.0,
+      "special_price": 949.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:41"
+    },
+    {
+      "price": 990.0,
+      "special_price": 949.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:02"
+    },
+    {
+      "price": 990.0,
+      "special_price": 949.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:18:58"
     }
   ]
 }

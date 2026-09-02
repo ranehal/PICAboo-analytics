@@ -4,8 +4,8 @@
     "sku": "CELTPVT01G4BUDFAMZ",
     "name": "Casio Enticer Analog Women's Watch (LTP-VT01G-4BUDF)",
     "slug": "casio-enticer-analog-women-s-watch-ltp-vt01g-4budf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-vt01g-4budf-26-12-24--1.jpg",
     "unit": "g",
     "unit_value": 1.0,
@@ -120,6 +120,34 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:54"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5790.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:12"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5790.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:44"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5790.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:20"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5790.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:51"
     }
   ]
 }

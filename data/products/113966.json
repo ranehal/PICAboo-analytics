@@ -4,8 +4,8 @@
     "sku": "LTPV005GL9ATTS",
     "name": "Casio Leather Band Analog Women's Watch (LTP-V005GL-9A)",
     "slug": "casio-leather-band-analog-women-s-watch-ltp-v005gl-9a",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v005gl-9a-13-11-25.jpg",
     "unit": "g",
     "unit_value": 5.0,
@@ -92,6 +92,34 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:18:33"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 2859.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:24"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 2859.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:38"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 2859.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:05"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 2859.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:54"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "CEMLTP1234DD5ATTS",
     "name": "CASIO Enticer Brown Dial Watch for Women (LTP-1234DD-5A)",
     "slug": "casio-enticer-brown-dial-watch-for-women-ltp-1234dd-5a",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1234dd-5adf-20-11-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,27 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:28:04"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 5459.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:34"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 5459.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:06"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 5459.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:36"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "MGFP001AIOT",
     "name": "Pawbby Pet Paw Hair Trimmer (MG-FP001A)",
     "slug": "pawbby-pet-paw-hair-trimmer-mg-fp001a",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg-fp001a-19-5-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 33.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:56"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 1949.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:40"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 1949.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:13"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 1949.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:58"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 1949.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:30"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 1949.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:09"
     }
   ]
 }

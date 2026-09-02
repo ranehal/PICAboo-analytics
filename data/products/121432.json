@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121432",
+    "sku": "CARJNN",
+    "name": "I-Crown Car 2.4GHZ Wireless Mouse",
+    "slug": "i-crown-car-2-4ghz-wireless-mouse",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-07-14T163030_717.png",
+    "unit": "g",
+    "unit_value": 2.4,
+    "price": 932.0,
+    "special_price": 859.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 932.0,
+      "special_price": 859.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:00"
+    }
+  ]
+}

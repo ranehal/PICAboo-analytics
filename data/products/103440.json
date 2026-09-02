@@ -4,8 +4,8 @@
     "sku": "KCWGGT25402WWB",
     "name": "Kenneth Cole Silicon Strap Men's Watch (KCWGO2125402)",
     "slug": "kenneth-cole-silicon-strap-men-s-watch-kcwgo2125402",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/k/_kcwgo2125402_-8-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:04:02"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:34:30"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:11:14"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:51:11"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:07:10"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:41:30"
     }
   ]
 }

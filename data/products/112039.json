@@ -4,8 +4,8 @@
     "sku": "R22WTCADCKHS",
     "name": "Reeoo 22W Type-C Fast Charging Adapter",
     "slug": "reeoo-22w-type-c-fast-charging-adapter-with-type-c-data-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/reeoo-type-c-fast-charger-22w-6-8-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 27.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:56"
+    },
+    {
+      "price": 491.0,
+      "special_price": 360.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:54"
+    },
+    {
+      "price": 491.0,
+      "special_price": 360.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:58"
+    },
+    {
+      "price": 491.0,
+      "special_price": 360.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:27"
+    },
+    {
+      "price": 491.0,
+      "special_price": 360.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:31"
     }
   ]
 }

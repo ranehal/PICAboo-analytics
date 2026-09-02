@@ -4,8 +4,8 @@
     "sku": "HMMJ14ADR",
     "name": "Hoco MMJ14 20000mAh Dual Output Power Bank - Black",
     "slug": "hoco-mmj14-20000mah-dual-output-power-bank",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/W/h/WhatsApp-Image-2026-02-04-at-12_48_46-PM-1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:33"
+    },
+    {
+      "price": 1900.0,
+      "special_price": 1580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:00"
+    },
+    {
+      "price": 1900.0,
+      "special_price": 1580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:51"
+    },
+    {
+      "price": 1900.0,
+      "special_price": 1580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:34"
+    },
+    {
+      "price": 1900.0,
+      "special_price": 1580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:13"
+    },
+    {
+      "price": 1900.0,
+      "special_price": 1580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:18"
     }
   ]
 }

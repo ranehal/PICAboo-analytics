@@ -4,8 +4,8 @@
     "sku": "F3287KM06WOG",
     "name": "Fastrack Tick Tock Quartz Analog Stainless Steel Strap for Men (3287KM06)",
     "slug": "fastrack-tick-tock-quartz-analog-stainless-steel-strap-for-men-3287km06",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/2/3287km06-16-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:01:19"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:32:06"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:08:11"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:49"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:04:41"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:38"
     }
   ]
 }

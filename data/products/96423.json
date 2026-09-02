@@ -4,8 +4,8 @@
     "sku": "CPG810XLBCTRS",
     "name": "Canon PG-810 XL Black Cartridge",
     "slug": "canon-pg-810-xl-black-cartridge",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/8/1/810b30-2_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:36"
+    },
+    {
+      "price": 3386.0,
+      "special_price": 3149.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:22"
+    },
+    {
+      "price": 3386.0,
+      "special_price": 3149.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:22"
+    },
+    {
+      "price": 3386.0,
+      "special_price": 3149.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:01"
+    },
+    {
+      "price": 3386.0,
+      "special_price": 3149.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:28"
+    },
+    {
+      "price": 3386.0,
+      "special_price": 3149.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:55"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "CMTPVD012EVAMZ",
     "name": "Casio Analog Men's Watch (MTP-VD01-2EVUDF)",
     "slug": "casio-mtp-vd01-2ev-men-s-analog-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-vd01-2ev-13.9.23..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:06:01"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4390.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:36:34"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4390.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:13:47"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4390.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:53:20"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4390.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:09:09"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4390.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:44:01"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "200HC7BVDFMHS",
     "name": "Casio MRW-200HC-7BVDF Analog Resin Band Waterproof Men\u2019s Watch",
     "slug": "casio-mrw-200hc-7bvdf-analog-resin-band-waterproof-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/r/mrw-200hc-7bvdf-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:04:47"
+    },
+    {
+      "price": 4090.0,
+      "special_price": 3250.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:35:16"
+    },
+    {
+      "price": 4090.0,
+      "special_price": 3250.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:12:01"
+    },
+    {
+      "price": 4090.0,
+      "special_price": 3250.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:51:54"
+    },
+    {
+      "price": 4090.0,
+      "special_price": 3250.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:07:43"
     }
   ]
 }

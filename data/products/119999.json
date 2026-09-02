@@ -6,7 +6,7 @@
     "slug": "xiaomi-pad-8-keyboard",
     "category_id": "20",
     "category_name": "Computer Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-pad-8-21-7-26-1.jpg",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/a/pad-8-12-5-26.jpg",
     "unit": null,
     "unit_value": null,
     "price": 6999.0,
@@ -127,6 +127,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:52"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 17:35:50"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:21"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:29"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:44:32"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:55"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "XM135ILCDZTC",
     "name": "Xiaomi Mi 13.5 Inch LCD Digital Drawing Electronic Writing Tablet with Pen - White ",
     "slug": "xiaomi-mi-13-5-inch-lcd-digital-drawing-electronic-writing-tablet-with-pen-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-tablet-23.12.23..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:41"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1799.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:41"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1799.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:07"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1799.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:08"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1799.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:50:56"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1799.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:54"
     }
   ]
 }

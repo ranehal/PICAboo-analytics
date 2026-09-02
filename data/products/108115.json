@@ -4,8 +4,8 @@
     "sku": "CDWMTPVD3E1VTTS",
     "name": "Casio Sporty Design Watch for Men (MTP-VD01D-3E1V)",
     "slug": "casio-sporty-design-watch-for-men-mtp-vd01d-3e1v",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-vd01d-3e1vudf-10-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:25:23"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4699.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:04"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4699.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:50:23"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4699.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:06:16"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4699.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:40:30"
     }
   ]
 }

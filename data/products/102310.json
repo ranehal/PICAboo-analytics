@@ -4,8 +4,8 @@
     "sku": "GA30GGZO",
     "name": "Gazi A-30G 2000W Smiss Induction Cooker With Inverter",
     "slug": "gazi-a-30g-2000w-smiss-induction-cooker-with-inverter",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "74",
+    "category_name": "Induction Cooker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/gazi-smiss-induction-cooker-a-30g-marble-1.jpg",
     "unit": "g",
     "unit_value": 30.0,
@@ -120,6 +120,48 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:06"
+    },
+    {
+      "price": 5472.0,
+      "special_price": 4550.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:20"
+    },
+    {
+      "price": 5472.0,
+      "special_price": 4550.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:34"
+    },
+    {
+      "price": 5472.0,
+      "special_price": 4550.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:25"
+    },
+    {
+      "price": 5472.0,
+      "special_price": 4550.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:47"
+    },
+    {
+      "price": 5472.0,
+      "special_price": 4550.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:39"
+    },
+    {
+      "price": 5472.0,
+      "special_price": 4550.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:42"
     }
   ]
 }

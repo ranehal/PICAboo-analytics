@@ -4,8 +4,8 @@
     "sku": "CF91WB7AWEC",
     "name": "Casio POP Digital Unisex Watch (F-91WB-7A)",
     "slug": "casio-pop-digital-unisex-watch-f-91wb-7a",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/-/f-91wb-7a-25-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:41"
+    },
+    {
+      "price": 4064.0,
+      "special_price": 3534.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:34"
+    },
+    {
+      "price": 4064.0,
+      "special_price": 3534.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:40"
+    },
+    {
+      "price": 4064.0,
+      "special_price": 3534.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:30"
+    },
+    {
+      "price": 4064.0,
+      "special_price": 3534.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:55"
+    },
+    {
+      "price": 4064.0,
+      "special_price": 3534.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:16"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "DLN300WRORG",
     "name": "D-Link N300 DIR-650IN 300mbps WiFi Router",
     "slug": "d-link-n300-dir-650in-300mbps-wifi-router",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/-/d-link-dir-650in.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 8.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:00"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1549.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:39"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1549.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:20"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1549.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:31"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1549.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:03"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1549.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:20"
     }
   ]
 }

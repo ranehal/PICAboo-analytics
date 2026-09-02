@@ -4,16 +4,16 @@
     "sku": "PMG3931GSB",
     "name": "Philips 3000 Series 10-in-1 Grooming Kit (MG3931/15)",
     "slug": "philips-3000-series-10-in-1-grooming-kit-mg3931-15",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg3931-11-may-2026-1.jpg",
     "unit": "g",
     "unit_value": 1.0,
     "price": 8000.0,
-    "special_price": 4910.0,
-    "discount": 39.0,
+    "special_price": 5129.0,
+    "discount": 36.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -127,6 +127,41 @@
       "discount": 39.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:56"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 4910.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:40"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 4910.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:13"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 4910.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:43:08"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 5129.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:30"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 5129.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:09"
     }
   ]
 }

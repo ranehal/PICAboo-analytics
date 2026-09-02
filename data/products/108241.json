@@ -4,8 +4,8 @@
     "sku": "F30WEU61MOV",
     "name": "FONENG 30W GaN Charger With 1M Type-C to Type-C Cable (EU61)",
     "slug": "foneng-30w-gan-charger-with-1m-type-c-to-type-c-cable-eu61",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/e/_eu61_-7-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:32"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:16"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:22"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:03"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:58"
     }
   ]
 }

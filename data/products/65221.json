@@ -4,8 +4,8 @@
     "sku": "ST2AVDFTTS",
     "name": "Casio Blue Resin Band Youth Series Wrist Men\u2019s Watch (AEQ-110W-2AVDF)",
     "slug": "casio-blue-resin-band-youth-series-wrist-men-s-watch-aeq-110w-2avdf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio-blue-resin-band-youth-series-wrist-men_s-watch-_aeq-110w-2avdfgfdf_-2-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:31:13"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:16:38"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:55:28"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:11:31"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:46:40"
     }
   ]
 }

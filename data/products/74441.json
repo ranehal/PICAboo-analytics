@@ -4,8 +4,8 @@
     "sku": "BDHU965CGBBSH",
     "name": "BOSCH DHU965CGB Built-Under Cooker Hood",
     "slug": "bosch-dhu965cgb-built-under-cooker-hood",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "156",
+    "category_name": "Kitchen Hood",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/h/dhu965cgb.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:48"
+    },
+    {
+      "price": 55900.0,
+      "special_price": 54782.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:06:55"
+    },
+    {
+      "price": 55900.0,
+      "special_price": 54782.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:01"
+    },
+    {
+      "price": 55900.0,
+      "special_price": 54782.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:19"
+    },
+    {
+      "price": 55900.0,
+      "special_price": 54782.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:55"
+    },
+    {
+      "price": 55900.0,
+      "special_price": 54782.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:16"
     }
   ]
 }

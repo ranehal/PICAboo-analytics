@@ -4,8 +4,8 @@
     "sku": "WI7XL200CMADR",
     "name": "WiWU X7L 200CM Lightning to HDTV Adapter Cable",
     "slug": "wiwu-x7l-lightning-to-hdtv-cable-adapter-200cm-cable",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1731",
+    "category_name": "Converter & Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/7/0/7049785ca582e6790d36a00d9e172c8d-hi-removebg-preview.png",
     "unit": "L",
     "unit_value": 7.0,
@@ -120,6 +120,41 @@
       "discount": 53.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:23"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 750.0,
+      "discount": 53.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:06"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 750.0,
+      "discount": 53.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:03"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 750.0,
+      "discount": 53.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:25"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 750.0,
+      "discount": 53.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:34"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 750.0,
+      "discount": 53.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:46"
     }
   ]
 }

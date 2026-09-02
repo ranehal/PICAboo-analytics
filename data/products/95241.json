@@ -4,8 +4,8 @@
     "sku": "HAI6024SLB",
     "name": "Hored AI6024 Gigabit Uplink 24-Port AI PoE Switch (Built-In Power Supply)",
     "slug": "hored-ai6024-gigabit-uplink-24-port-ai-poe-switch-built-in-power-supply",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/i/ai6024-24.8.23..jpg",
     "unit": "g",
     "unit_value": 6024.0,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:00"
+    },
+    {
+      "price": 17499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:39"
+    },
+    {
+      "price": 17499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:20"
+    },
+    {
+      "price": 17499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:31"
+    },
+    {
+      "price": 17499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:03"
+    },
+    {
+      "price": 17499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:30"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "RRC120KHS",
     "name": "Reeoo Super-Fast Type-C Charging Cable (RC120)",
     "slug": "reeoo-super-fast-type-c-charging-cable-rc120",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/c/rc120-6-8-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:26"
+    },
+    {
+      "price": 195.0,
+      "special_price": 150.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:32"
+    },
+    {
+      "price": 195.0,
+      "special_price": 150.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:21"
+    },
+    {
+      "price": 195.0,
+      "special_price": 150.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:33"
+    },
+    {
+      "price": 195.0,
+      "special_price": 150.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:40:24"
+    },
+    {
+      "price": 195.0,
+      "special_price": 150.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:19"
     }
   ]
 }

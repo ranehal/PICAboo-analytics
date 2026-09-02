@@ -4,16 +4,16 @@
     "sku": "PBHC01000MBT",
     "name": "Philips BHC010/00 Essential Hair Dryer-Pink",
     "slug": "philips-bhc010-00-essential-hair-dryer-pink",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "391",
+    "category_name": "Hair Dryers",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/i/pink029-8-4-25-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 2990.0,
-    "special_price": 2240.0,
-    "discount": 25.0,
+    "special_price": 2360.0,
+    "discount": 21.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:59"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2240.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:59"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2240.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:06:30"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2240.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:16"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2360.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:15"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2360.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:20"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "REDBU5ADR",
     "name": "Xiaomi Redmi Buds 5 Global Version (M2316E1) - Black",
     "slug": "xiaomi-redmi-buds-5-global-version-m2316e1-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/X/i/Xiaomi-Redmi-Buds-5-Black-removebg-preview.png",
     "unit": "g",
     "unit_value": 5.0,
@@ -120,6 +120,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:23"
+    },
+    {
+      "price": 4600.0,
+      "special_price": 4200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:55"
+    },
+    {
+      "price": 4600.0,
+      "special_price": 4200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:38"
+    },
+    {
+      "price": 4600.0,
+      "special_price": 4200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:58"
+    },
+    {
+      "price": 4600.0,
+      "special_price": 4200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:36"
+    },
+    {
+      "price": 4600.0,
+      "special_price": 4200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:22"
     }
   ]
 }

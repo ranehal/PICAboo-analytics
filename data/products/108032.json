@@ -4,8 +4,8 @@
     "sku": "QCY45WGN101GBTTZ",
     "name": "QCY 45W Mini GaN Fast Charging Adapter (GN101GB)",
     "slug": "qcy-45w-mini-gan-fast-charger-gn101gb",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/n/gn101gb-16-2-25-2_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,27 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:32"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 1399.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:16"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 1399.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:22"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 1399.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:03"
     }
   ]
 }

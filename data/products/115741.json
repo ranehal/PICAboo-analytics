@@ -4,8 +4,8 @@
     "sku": "RJumbo75KVRAF",
     "name": "Rahimafrooz 5600W Output IPS (20 Light, 15 Fan, 1 AC (1.5 Ton), 1 Fridge, 1 Oven, 2 PC)- Jumbo 7.5KVA Full IPS Set (Deep Cycle Battery Version)",
     "slug": "rahimafrooz-5600w-output-ips-20-light-15-fan-1-ac-1-5-ton-1-fridge-1-oven-2-pc-jumbo-7-5kv",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "474",
+    "category_name": "IPS",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/u/jumbo-7.5-kva-5-7-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:37"
+    },
+    {
+      "price": 522000.0,
+      "special_price": 492510.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:07:59"
+    },
+    {
+      "price": 522000.0,
+      "special_price": 492510.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:20"
+    },
+    {
+      "price": 522000.0,
+      "special_price": 492510.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:24"
+    },
+    {
+      "price": 522000.0,
+      "special_price": 492510.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:31:41"
+    },
+    {
+      "price": 522000.0,
+      "special_price": 492510.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:09"
     }
   ]
 }

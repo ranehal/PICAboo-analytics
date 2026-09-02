@@ -4,8 +4,8 @@
     "sku": "O5563SGLWHG",
     "name": "Olevs 5563G Stainless Steel Men's Watch\u2013Gold & Silver",
     "slug": "olevs-5563sgl-men-s-quartz-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/5/5563sgl.jpg",
     "unit": "g",
     "unit_value": 5563.0,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:06:45"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:37:20"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:14:58"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:54:09"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:10:03"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:45:05"
     }
   ]
 }

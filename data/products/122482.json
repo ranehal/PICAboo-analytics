@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122482",
+    "sku": "MASL3P280YLDMCCBD",
+    "name": "Miyako Triple Pot 2.8 Liter 3-in-1 Electric Rice Cooker (ASL-3P-280 YLD) (Multi-Color)",
+    "slug": "miyako-triple-pot-2-8-liter-3-in-1-electric-rice-cooker-asl-3p-280-yld-multi-color",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/s/asl-3p-300-yld-23.3.24._1.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 4980.0,
+    "special_price": 4490.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4980.0,
+      "special_price": 4490.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:13"
+    },
+    {
+      "price": 4980.0,
+      "special_price": 4490.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:14"
+    },
+    {
+      "price": 4980.0,
+      "special_price": 4490.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:54"
+    },
+    {
+      "price": 4980.0,
+      "special_price": 4490.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:49"
+    }
+  ]
+}

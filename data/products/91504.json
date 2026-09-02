@@ -4,8 +4,8 @@
     "sku": "O5563SGBLWHG",
     "name": "Olevs 5563 Stainless Steel Quartz Couple Wrist Watch - Silver Gold & Black",
     "slug": "olevs-5563-stainless-steel-quartz-couple-wrist-watch-silver-gold-black",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/l/olevs-couple.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:48"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:37:13"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:14:50"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:54:02"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:02:28"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:44:58"
     }
   ]
 }

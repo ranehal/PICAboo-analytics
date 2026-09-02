@@ -4,8 +4,8 @@
     "sku": "FGJKIUYZTC",
     "name": "Huawei Watch GT 3 42mm Screen Protector",
     "slug": "huawei-watch-gt-3-42mm-screen-protector",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1765",
+    "category_name": "Smart Watch Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/t/gt342--27-11-23.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 46.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:34"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:20"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:15:36"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:15"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:54"
     }
   ]
 }

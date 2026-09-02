@@ -4,8 +4,8 @@
     "sku": "T16ASTIPK",
     "name": "Tuya 16A Smart WiFi Thermostat",
     "slug": "tuya-16a-smart-wifi-thermostat",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "3842",
+    "category_name": "Smart Home",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/i/wifi-smart-thermostat-4-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:03"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3800.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:00"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3800.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:47"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3800.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:19"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3800.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:50"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3800.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:58"
     }
   ]
 }

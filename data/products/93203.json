@@ -4,8 +4,8 @@
     "sku": "FNR3287SL01SMM",
     "name": "Fastrack NR3287SL01 Tick Tock Blue Dial Leather Strap Men\u2019s Watch",
     "slug": "fastrack-nr3287sl01-tick-tock-blue-dial-leather-strap-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/r/nr3287sl-17.5.23..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:06:26"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:37:00"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:14:26"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:53:51"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:09:39"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:44:37"
     }
   ]
 }

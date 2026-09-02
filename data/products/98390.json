@@ -4,8 +4,8 @@
     "sku": "AT53ANCGLBTTZ",
     "name": "Awei T53 ANC TWS Earbuds-Black",
     "slug": "awei-t53-anc-tws-earbuds-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/5/t53anc--5-5-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,27 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:25"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1350.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:11"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1350.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:14:00"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1350.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:59"
     }
   ]
 }

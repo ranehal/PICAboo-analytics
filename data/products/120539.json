@@ -4,8 +4,8 @@
     "sku": "MGFHFGDX",
     "name": "J36 Ultra All-in-One Handheld Gaming Console with Wi-Fi & YouTube Support",
     "slug": "j36-ultra-all-in-one-handheld-gaming-console-with-wi-fi-support",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "6",
+    "category_name": "Gaming Gears",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/3/j36-ultra-2-6-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 34.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:15"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 4620.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:06"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 4620.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:02"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 4620.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:34"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 4620.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:50"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 4620.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:15"
     }
   ]
 }

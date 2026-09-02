@@ -4,8 +4,8 @@
     "sku": "WPO21PPADR",
     "name": "Wiwu Pencil One 2 In 1 Passive Capacitive Pen and Ballpoint Pen",
     "slug": "wiwu-pencil-one-2-in-1-passive-capacitive-pen-and-ballpoint-pen",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/i/wiwu-pencil-one.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:49"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:19"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:51:41"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:33:12"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:48:06"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:38"
     }
   ]
 }

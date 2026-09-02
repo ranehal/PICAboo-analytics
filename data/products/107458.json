@@ -4,8 +4,8 @@
     "sku": "KHTKM779MBT",
     "name": "Kemei Rechargeable Hair Trimmer (KM-779)",
     "slug": "kemei-rechargeable-hair-trimmer-km-779",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/m/km-779-26-1-25--1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 43.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:07"
+    },
+    {
+      "price": 2250.0,
+      "special_price": 1287.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:56"
+    },
+    {
+      "price": 2250.0,
+      "special_price": 1287.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:04:40"
+    },
+    {
+      "price": 2250.0,
+      "special_price": 1287.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:37"
+    },
+    {
+      "price": 2250.0,
+      "special_price": 1287.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:02"
+    },
+    {
+      "price": 2250.0,
+      "special_price": 1287.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:54"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122222",
+    "sku": "HOX88CTCADR",
+    "name": "Hoco X88 60W Type-C to Type-C Charging Cable - Black",
+    "slug": "hoco-x88-60w-type-c-to-type-c-charging-cable-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-x88-60w-30-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 300.0,
+    "special_price": 160.0,
+    "discount": 47.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 300.0,
+      "special_price": 160.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:50"
+    }
+  ]
+}

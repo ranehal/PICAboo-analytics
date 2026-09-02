@@ -4,8 +4,8 @@
     "sku": "TSLBSQCO",
     "name": "Tribit StormBox Lava Portable Bluetooth Speaker",
     "slug": "tribit-stormbox-lava-portable-bluetooth-speaker",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "211",
+    "category_name": "Speaker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/r/tribit-stormbox-lava-_80w_-11-20-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:35"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:24"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:47"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:11"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:30"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:21"
     }
   ]
 }

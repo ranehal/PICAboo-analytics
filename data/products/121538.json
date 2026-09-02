@@ -4,8 +4,8 @@
     "sku": "WI13BOADR",
     "name": "WiWU 13.5 inch LCD Drawing Board Kids Writing Tablet - White",
     "slug": "wiwu-lcd-drawing-board-kids-writing-tablet-13-5-inch-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/i/wiwu-writing-tablet-6-8-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:33"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1870.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:24"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1870.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:17"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1870.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:03"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1870.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:47"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1870.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:44"
     }
   ]
 }

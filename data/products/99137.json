@@ -4,8 +4,8 @@
     "sku": "BB15W10000ATL",
     "name": "Baseus Bipow 15W 10000mAh Digital Display Power Bank",
     "slug": "baseus-bipow-15w-10000mah-digital-display-power-bank",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/p/ppbd050001-3.6.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:49:13"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:19:54"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 12:54:51"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:33:23"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:48:02"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-02 11:25:20"
     }
   ]
 }

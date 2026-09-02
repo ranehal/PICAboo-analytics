@@ -4,8 +4,8 @@
     "sku": "TQNT95061WD04WOG",
     "name": "Titan Quartz Analog White Dial Ceramic Strap Women\u2019s Watch (95061WD04)",
     "slug": "titan-quartz-analog-white-dial-ceramic-strap-women-s-watch-nt95061wd04",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/5/95061wd04-10-7-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:06"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 15000.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:59"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 15000.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:42:59"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 15000.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:44:57"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 15000.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:13"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 15000.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:24"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "HOCM117ADR",
     "name": "Hoco M117 Victory Type-C Universal Digital Headphones with Microphone (Black)",
     "slug": "hoco-m117-victory-type-c-universal-digital-headphones-with-microphone-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/H/o/Hoco-M117-Victory-Type-C-Universal-Earphones-with-Mic-1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:20"
+    },
+    {
+      "price": 360.0,
+      "special_price": 270.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:09"
+    },
+    {
+      "price": 360.0,
+      "special_price": 270.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:47:53"
+    },
+    {
+      "price": 360.0,
+      "special_price": 270.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:30"
+    },
+    {
+      "price": 360.0,
+      "special_price": 270.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:34"
     }
   ]
 }

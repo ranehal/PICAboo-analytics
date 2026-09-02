@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121260",
+    "sku": "MF858JNN",
+    "name": "Ieasun MF858 4G LTE WiFi 6 SIM Pocket Router With 10000mAh Power Bank",
+    "slug": "ieasun-mf858-4g-lte-wifi-6-sim-pocket-router-with-10000mah-power-bank",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_96_.png",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 5467.0,
+    "special_price": 4799.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5467.0,
+      "special_price": 4799.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:30"
+    }
+  ]
+}

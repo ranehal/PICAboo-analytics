@@ -4,8 +4,8 @@
     "sku": "GFRESAGFDATL",
     "name": "Yison Celebrat A15 Bluetooth Wireless Neckband",
     "slug": "yison-celebrat-a15-bluetooth-wireless-neckband",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/1/a15--26-8-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 26.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:42"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 1099.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:52"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 1099.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:32"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 1099.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:44"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 1099.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:53"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 1099.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:26"
     }
   ]
 }

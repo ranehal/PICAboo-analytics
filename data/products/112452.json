@@ -4,8 +4,8 @@
     "sku": "AFTVS4KM2G16GBGDX",
     "name": "Amazon Fire TV Stick 4K Max 2nd Gen (16GB)",
     "slug": "amazon-fire-tv-stick-4k-max-2nd-gen-16gb",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "3842",
+    "category_name": "Smart Home",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/m/amazon-fire-tv-stick-26-8-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:35"
+    },
+    {
+      "price": 10044.0,
+      "special_price": 8512.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:25"
+    },
+    {
+      "price": 10044.0,
+      "special_price": 8512.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:52:57"
+    },
+    {
+      "price": 10044.0,
+      "special_price": 8512.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:37"
+    },
+    {
+      "price": 10044.0,
+      "special_price": 8512.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:07"
+    },
+    {
+      "price": 10044.0,
+      "special_price": 8512.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:30"
     }
   ]
 }

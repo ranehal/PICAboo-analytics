@@ -4,8 +4,8 @@
     "sku": "XL127CXOO",
     "name": "XO\u2011L127 18W EU Fast Charger Adapter with Type-C Cable",
     "slug": "xo-l127-18w-eu-fast-charger-adapter-with-type-c-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/o/xo-l127-28-6-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:27"
+    },
+    {
+      "price": 540.0,
+      "special_price": 405.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:45"
+    },
+    {
+      "price": 540.0,
+      "special_price": 405.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:52:59"
+    },
+    {
+      "price": 540.0,
+      "special_price": 405.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:31:06"
+    },
+    {
+      "price": 540.0,
+      "special_price": 405.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:48:41"
+    },
+    {
+      "price": 540.0,
+      "special_price": 405.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:00"
     }
   ]
 }

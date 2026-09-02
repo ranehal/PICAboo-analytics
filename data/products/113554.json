@@ -1,11 +1,11 @@
 {
   "product": {
     "id": "113554",
-    "sku": "LS10MBCKHS",
-    "name": "S10 Max BT Calling Smart Watch",
-    "slug": "laxasfit-s10-max-bt-calling-smart-watch",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "sku": "LX11PMBCKHS",
+    "name": "Laxasfit X11 Pro Max BT Calling Smart Watch",
+    "slug": "laxasfit-x11-pro-max-bt-calling-smart-watch",
+    "category_id": "226",
+    "category_name": "Smart Watch",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/a/laxasfit-s10--5-11-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 48.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:11"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 840.0,
+      "discount": 48.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:15"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 840.0,
+      "discount": 48.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:42"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 840.0,
+      "discount": 48.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:26"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 840.0,
+      "discount": 48.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:12"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 840.0,
+      "discount": 48.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:32:38"
     }
   ]
 }

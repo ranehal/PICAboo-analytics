@@ -4,8 +4,8 @@
     "sku": "CSLV1WTTS",
     "name": "Casio Standard LTP-V004D-1B2 Date Chain Women's Watch",
     "slug": "casio-standard-ltp-v004d-1b2-date-chain-women-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v004d-1b2-15-march--2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:18:03"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:45"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:41:59"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:51"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:11"
     }
   ]
 }

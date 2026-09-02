@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122010",
+    "sku": "HOAC24ADR",
+    "name": "Hoco AC24 Mini PD25W QC3.0 Universal Travel Charger Set - Black",
+    "slug": "hoco-ac24-mini-pd25w-qc3-0-universal-travel-charger-set-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-ac24-mini-pd25w-qc3-universal-travel-charger-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 900.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:21"
+    }
+  ]
+}

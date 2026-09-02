@@ -4,8 +4,8 @@
     "sku": "KEMWAS6632SSB",
     "name": "Kemei 2-in-1 Nose and Ear Trimmer (KM-6632) - Black",
     "slug": "kemei-2-in-1-nose-and-ear-trimmer-km-6632-black",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/m/km-6632.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 36.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:44"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 699.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:01"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 699.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:41"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 699.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:49"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 699.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:03"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 699.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:03"
     }
   ]
 }

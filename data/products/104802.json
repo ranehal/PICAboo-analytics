@@ -4,8 +4,8 @@
     "sku": "FG2046TY00IOT",
     "name": "Baseus YHG-01 Premium 2 Series Car Ashtray (C20464700111-00)",
     "slug": "baseus-yhg-01-premium-2-series-car-ashtray-c20464700111-00",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/r/prem--2-9-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:38"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1490.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:38"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1490.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:57:58"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1490.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:56"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1490.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:50:35"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1490.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:05"
     }
   ]
 }

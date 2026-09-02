@@ -2,7 +2,7 @@
   "product": {
     "id": "122206",
     "sku": "BP100V2IBPS",
-    "name": "Bluetti\u00a02000W\u00a0Premium 100 V2 Portable IPS (1024Wh Battery)",
+    "name": "Bluetti Portable IPS 2000W Output - 1024WH Battery | Premium 100 V2",
     "slug": "bluetti-2000w-premium-100-v2-portable-ips-1024wh-battery",
     "category_id": "7",
     "category_name": "Electronics & Appliances",
@@ -71,6 +71,48 @@
       "discount": 8.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:33:11"
+    },
+    {
+      "price": 78000.0,
+      "special_price": 71900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:59"
+    },
+    {
+      "price": 78000.0,
+      "special_price": 71900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:00"
+    },
+    {
+      "price": 78000.0,
+      "special_price": 71900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:46"
+    },
+    {
+      "price": 78000.0,
+      "special_price": 71900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:29"
+    },
+    {
+      "price": 78000.0,
+      "special_price": 71900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:12"
+    },
+    {
+      "price": 78000.0,
+      "special_price": 71900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:08:06"
     }
   ]
 }

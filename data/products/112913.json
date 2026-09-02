@@ -4,8 +4,8 @@
     "sku": "HW55PANCHADR",
     "name": "Hoco W55 Plus ANC Wireless Headphones",
     "slug": "hoco-w55-plus-anc-wireless-headphones",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-w55-plus-23-9-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:27"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:00"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:47:46"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:03"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:13"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:06"
     }
   ]
 }

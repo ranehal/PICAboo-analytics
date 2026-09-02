@@ -4,8 +4,8 @@
     "sku": "J100WU5JIA",
     "name": "JIAYOU 100W Flash Ultra-5 USB to Type-C Cable",
     "slug": "jiayou-100w-flash-ultra-5-usb-to-type-c-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/l/ultra-5-11-5-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:53"
+    },
+    {
+      "price": 161.0,
+      "special_price": 149.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:48"
+    },
+    {
+      "price": 161.0,
+      "special_price": 149.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:50:41"
+    },
+    {
+      "price": 161.0,
+      "special_price": 149.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:57"
+    },
+    {
+      "price": 161.0,
+      "special_price": 149.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:10"
+    },
+    {
+      "price": 161.0,
+      "special_price": 149.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:37"
     }
   ]
 }

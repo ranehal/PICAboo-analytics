@@ -4,9 +4,9 @@
     "sku": "AFROC8SGSC",
     "name": "Aqua Fresh RO+UV+UF+Copper+Mineral Water Purifier",
     "slug": "aqua-fresh-ro-uv-uf-copper-mineral-water-purifier",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/q/aqua-fresh-ro_uv_uf_copper_mineral-water-purifier-8-4-26-1.jpg",
+    "category_id": "78",
+    "category_name": "Water Purifiers & Filters",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/q/aqua-fresh--19-8-26.jpg",
     "unit": null,
     "unit_value": null,
     "price": 19500.0,
@@ -120,6 +120,48 @@
       "discount": 39.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:53"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11890.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:49"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11890.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:23"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11890.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:53"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11890.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:51"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11890.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:54"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11890.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:05"
     }
   ]
 }

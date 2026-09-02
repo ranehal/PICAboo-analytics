@@ -2,10 +2,10 @@
   "product": {
     "id": "121504",
     "sku": "COT702ADR",
-    "name": "COTEetCi Travel Version 8-in-1 Data Cable Storage Box (87702-BK)-Black",
+    "name": "COTECi Travel Version 8-in-1 Data Cable Storage Box (87702-BK)-Black",
     "slug": "coteetci-87702-bk-travel-version-8-in-1-data-cable-storage-box-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/8/7/87702-bk-6-8-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:46"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 829.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:28"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 829.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:30"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 829.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:12"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 829.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:59"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 829.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:50"
     }
   ]
 }

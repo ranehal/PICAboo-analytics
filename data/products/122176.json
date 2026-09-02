@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122176",
+    "sku": "ACC16ADR",
+    "name": "ACEFAST C16-05 USB-C to Lightning TPU Fast Charging Cable 2M - Black",
+    "slug": "acefast-c16-05-usb-c-to-lightning-tpu-fast-charging-cable-2m-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/1/c16-05-30-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 600.0,
+    "special_price": 430.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 600.0,
+      "special_price": 430.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:50"
+    }
+  ]
+}

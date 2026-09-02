@@ -4,8 +4,8 @@
     "sku": "CA168WEGB1BWOG",
     "name": "Casio Vintage Black Strap Watch for Unisex (A168WEGB-1B)",
     "slug": "casio-vintage-black-strap-watch-for-unisex-a168wegb-1b",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/1/a168wegb-1b--5-11-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:02"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:19"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:04:01"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:59"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:33"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:11"
     }
   ]
 }

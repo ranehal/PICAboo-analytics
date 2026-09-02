@@ -1,0 +1,55 @@
+{
+  "product": {
+    "id": "120135",
+    "sku": "MIF23WFGDX",
+    "name": "Momax 1\u00b0 Go Clip IF23W High-Speed Mini Cooling Fan",
+    "slug": "momax-1-go-clip-if23w-high-speed-mini-cooling-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/f/if23w-16-5-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3767.0,
+    "special_price": 3192.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3767.0,
+      "special_price": 3192.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:07:28"
+    },
+    {
+      "price": 3767.0,
+      "special_price": 3192.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:25"
+    },
+    {
+      "price": 3767.0,
+      "special_price": 3192.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:43"
+    },
+    {
+      "price": 3767.0,
+      "special_price": 3192.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:31:17"
+    },
+    {
+      "price": 3767.0,
+      "special_price": 3192.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:42"
+    }
+  ]
+}

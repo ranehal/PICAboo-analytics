@@ -4,8 +4,8 @@
     "sku": "XPB312XOO",
     "name": "XO\u2011PB312 10000mAh Power Bank",
     "slug": "xo-pb312-10000mah-power-bank",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/b/pb312-29-april-2026-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:56"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 1015.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:31"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 1015.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:51:11"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 1015.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:30:19"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 1015.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:45:46"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 1015.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:38"
     }
   ]
 }

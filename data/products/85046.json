@@ -4,8 +4,8 @@
     "sku": "BPACBOF",
     "name": "Baseus 1.8m C-Video Pro Adapter Cable (Type- C To 4K HD+PD)",
     "slug": "baseus-1-8m-c-video-pro-adapter-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-1.8m-c---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:51"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2099.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:22:03"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2099.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:18"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2099.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:48"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2099.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:51:08"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2099.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:58"
     }
   ]
 }

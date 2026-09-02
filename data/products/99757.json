@@ -4,8 +4,8 @@
     "sku": "XXCGFDTAJW",
     "name": "Xpert XC08T 18W Fast Charging Charger with Type-C Data Cable - White",
     "slug": "xpert-xco8t-fast-charging-charger-with-type-c-data-cable-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/8/18w---12-2-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:12"
+    },
+    {
+      "price": 799.0,
+      "special_price": 549.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:52"
+    },
+    {
+      "price": 799.0,
+      "special_price": 549.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:46"
+    },
+    {
+      "price": 799.0,
+      "special_price": 549.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:36"
+    },
+    {
+      "price": 799.0,
+      "special_price": 549.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:53"
     }
   ]
 }

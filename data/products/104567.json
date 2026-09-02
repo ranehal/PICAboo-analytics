@@ -4,8 +4,8 @@
     "sku": "A2561IOT",
     "name": "Apple A2561 Type-C to Lightning 1M Cable (MUQ93ZM/A)",
     "slug": "apple-usb-c-to-lightning-1m-cable-a2561",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/s/usb-c-to-lightning-cable-_1-m_-02.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:12"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1649.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:21"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1649.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:55"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1649.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:55"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1649.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:52"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1649.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:12"
     }
   ]
 }

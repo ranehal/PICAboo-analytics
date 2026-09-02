@@ -4,8 +4,8 @@
     "sku": "MK87TMMKTDR",
     "name": "AJAZZ MK87 Tri-Mode Mechanical Keyboard",
     "slug": "ajazz-mk87-tri-mode-mechanical-keyboard",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "6",
+    "category_name": "Gaming Gears",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/j/ajazz-mk87-25-5-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -106,6 +106,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:15"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:06"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:02"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:34"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:50"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:24"
     }
   ]
 }

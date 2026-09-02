@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122416",
+    "sku": "HOX96CCADR",
+    "name": "Hoco X96 Hyper 60W fast charging data cable Type-C to Type-C - Black",
+    "slug": "hoco-x96-hyper-60w-fast-charging-data-cable-type-c-to-type-c-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/9/x96-hyper-60w-31-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 200.0,
+    "special_price": 160.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 200.0,
+      "special_price": 160.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:02"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
     "sku": "CEMTPE600M9BAMZ",
     "name": "Casio Enticer Quartz Watch for Men (MTP-E600M-9BDF)",
     "slug": "casio-enticer-quartz-watch-for-men-mtp-e600m-9bdf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-e600m-9bdf-28-12-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:03:42"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:34:11"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:43"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:50:53"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:06:45"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:40:59"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "TWS1GSRFPSBIPK",
     "name": "Tuya Smart 1 Gang Wifi RF Premium Square Switch - Black  (IP-317)",
     "slug": "tuya-smart-1-gang-wifi-rf-premium-square-switch-black",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "3842",
+    "category_name": "Smart Home",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/u/tuya-wifi-smart-1-gang-31-12-25.jpg",
     "unit": "g",
     "unit_value": 1.0,
@@ -120,6 +120,41 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:20"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1210.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:12"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1210.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:33"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1210.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:30"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1210.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:00"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1210.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:22"
     }
   ]
 }

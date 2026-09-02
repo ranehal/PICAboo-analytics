@@ -4,8 +4,8 @@
     "sku": "T1584SL04QAMZ",
     "name": "Titan 1584SL04\u00a0Leather Casual Watch for Men",
     "slug": "titan-1584sl04-leather-casual-watch-for-men",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/5/1584sl04-logo.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:06:45"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:37:20"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:14:50"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:54:09"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:09:59"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:44:58"
     }
   ]
 }

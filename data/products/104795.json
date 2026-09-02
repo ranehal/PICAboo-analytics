@@ -4,8 +4,8 @@
     "sku": "GDA0FGTD0ATL",
     "name": "Baseus C-Mic CM10 Single Sided Car Bluetooth Earphone (A00054700111-00)",
     "slug": "baseus-c-mic-cm10-single-sided-car-bluetooth-earphone-a00054700111-00",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/i/singl---2-9-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:42"
+    },
+    {
+      "price": 5029.0,
+      "special_price": 4379.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:30"
+    },
+    {
+      "price": 5029.0,
+      "special_price": 4379.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:09:45"
+    },
+    {
+      "price": 5029.0,
+      "special_price": 4379.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:04"
+    },
+    {
+      "price": 5029.0,
+      "special_price": 4379.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:48"
+    },
+    {
+      "price": 5029.0,
+      "special_price": 4379.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:41:13"
     }
   ]
 }

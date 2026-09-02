@@ -4,8 +4,8 @@
     "sku": "IEBAAEIL",
     "name": "Intex Earbuds 71-Black",
     "slug": "intex-earbuds-71-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/a/earbuds-71-27-10-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 37.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:42"
+    },
+    {
+      "price": 990.0,
+      "special_price": 619.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:30"
+    },
+    {
+      "price": 990.0,
+      "special_price": 619.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:09:06"
+    },
+    {
+      "price": 990.0,
+      "special_price": 619.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:04"
+    },
+    {
+      "price": 990.0,
+      "special_price": 619.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:48"
+    },
+    {
+      "price": 990.0,
+      "special_price": 619.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:40:34"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "PBG348515SSB",
     "name": "Philips 3000 Series Body Groom Hair Trimmer (BG3485/15)",
     "slug": "philips-3000-series-body-groom-hair-trimmer-bg3485-15",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/g/bg3485-15-10-2-26-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:33"
+    },
+    {
+      "price": 11990.0,
+      "special_price": 9690.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:46"
+    },
+    {
+      "price": 11990.0,
+      "special_price": 9690.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:44"
+    },
+    {
+      "price": 11990.0,
+      "special_price": 9690.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:26"
+    },
+    {
+      "price": 11990.0,
+      "special_price": 9690.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:39"
+    },
+    {
+      "price": 11990.0,
+      "special_price": 9690.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:18"
     }
   ]
 }

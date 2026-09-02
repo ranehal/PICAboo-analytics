@@ -4,8 +4,8 @@
     "sku": "MGBPRO414CKT",
     "name": "Midea MGB PRO 414 NG Pro Smart Gas Burner",
     "slug": "midea-mgb-pro-414-ng-pro-smart-gas-burner",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "165",
+    "category_name": "Gas Burner",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/midea-q80-pro-smart-gas-burner-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:51"
+    },
+    {
+      "price": 21500.0,
+      "special_price": 19449.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:07:01"
+    },
+    {
+      "price": 21500.0,
+      "special_price": 19449.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:32"
+    },
+    {
+      "price": 21500.0,
+      "special_price": 19449.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:19:32"
+    },
+    {
+      "price": 21500.0,
+      "special_price": 19449.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:55"
+    },
+    {
+      "price": 21500.0,
+      "special_price": 19449.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:28:37"
+    },
+    {
+      "price": 21500.0,
+      "special_price": 19449.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:34"
     }
   ]
 }

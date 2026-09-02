@@ -4,8 +4,8 @@
     "sku": "RWB640V0PBRNG",
     "name": "Hitachi 638L Inverter 4 Door French Bottom Refrigerator (R-WB640V0PB-KD-GBK)",
     "slug": "hitachi-638l-inverter-4-door-french-bottom-refrigerator-r-wb640v0pb-kd-gbk",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/-/r-wb640v0pb-kd-gbk-25-6-26-1.jpg",
     "unit": "L",
     "unit_value": 638.0,
@@ -120,6 +120,48 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:31:44"
+    },
+    {
+      "price": 305900.0,
+      "special_price": 256990.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:14"
+    },
+    {
+      "price": 305900.0,
+      "special_price": 256990.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:33:27"
+    },
+    {
+      "price": 305900.0,
+      "special_price": 256990.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:00"
+    },
+    {
+      "price": 305900.0,
+      "special_price": 256990.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:26:42"
+    },
+    {
+      "price": 305900.0,
+      "special_price": 256990.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:06"
+    },
+    {
+      "price": 305900.0,
+      "special_price": 256990.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:16"
     }
   ]
 }

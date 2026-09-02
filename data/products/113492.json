@@ -4,8 +4,8 @@
     "sku": "CAQ800E1ADFMHS",
     "name": "Casio Vintage Dual Time Silver Strap Watch for Unisex (AQ-800E-1ADF)",
     "slug": "casio-vintage-dual-time-silver-strap-watch-for-unisex-aq-800e-1adf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/q/aq-800e-1adf-10-20.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:50"
+    },
+    {
+      "price": 8259.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:13"
+    },
+    {
+      "price": 8259.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:34"
+    },
+    {
+      "price": 8259.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:48"
+    },
+    {
+      "price": 8259.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:18"
+    },
+    {
+      "price": 8259.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:06"
     }
   ]
 }

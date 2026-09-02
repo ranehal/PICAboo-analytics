@@ -4,8 +4,8 @@
     "sku": "JTCF08ADR",
     "name": "Joyroom JR-TCF08 30W A+C EU Dual Port Fast Charger Adapter-Black",
     "slug": "joyroom-jr-tcf08-30w-a-c-dual-port-mini-intelligent-fast-charger-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/-/1-3_24e77b14-4cc7-434a-a9b6-41b92d95ba5d_540x-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:03"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1050.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:09"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1050.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:06"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1050.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:33:39"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1050.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:52:07"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1050.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:04"
     }
   ]
 }

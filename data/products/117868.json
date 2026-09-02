@@ -4,8 +4,8 @@
     "sku": "TG3HADSLIPK",
     "name": "Tuya G3 High Accuracy Glass Door Smart Lock   (IP-369)",
     "slug": "tuya-g3-high-accuracy-glass-door-smart-lock",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "3842",
+    "category_name": "Smart Home",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/u/tuya-g3--2-4-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 33.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:56"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 11000.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:46"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 11000.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:08"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 11000.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:05"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 11000.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:42"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 11000.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:49"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "KM3909SSB",
     "name": "Kemei KM-3909 Electric Hair Clippers Trimmer For Men",
     "slug": "kemei-km-3909-electric-hair-clippers-trimmer-for-men",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/m/km-3909.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:40"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1150.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:57"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1150.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:28"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1150.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:40"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1150.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:44"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1150.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:59"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "XN300MOV",
     "name": "Xiaomi N300 WiFi Range Extender with 300Mbps",
     "slug": "xiaomi-n300-wifi-range-extender-with-300mbps",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-wifi-range-extender-n300-4.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:55:52"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:25:21"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 13:01:04"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:40:15"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:56:50"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-02 11:32:19"
     }
   ]
 }

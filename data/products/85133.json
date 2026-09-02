@@ -4,8 +4,8 @@
     "sku": "C1200WHB1BVTTS",
     "name": "Casio AE-1200WHB-1BV World Time Men\u2019s Watch",
     "slug": "casio-ae-1200whb-1bv-world-time-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio-ae-1200whb-1bv-world-time-men_s-watch.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:30:23"
+    },
+    {
+      "price": 5290.0,
+      "special_price": 4523.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:15:48"
+    },
+    {
+      "price": 5290.0,
+      "special_price": 4523.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:54:45"
+    },
+    {
+      "price": 5290.0,
+      "special_price": 4523.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:10:42"
+    },
+    {
+      "price": 5290.0,
+      "special_price": 4523.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:45:50"
     }
   ]
 }

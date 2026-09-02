@@ -4,8 +4,8 @@
     "sku": "XL127XOO",
     "name": "XO\u2011L127 18W EU Fast Charger Adapter with Micro USB Cable",
     "slug": "xo-l127-18w-pd-fast-charging-eu-power-adapter",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/o/xo-l127-28-6-26-1_2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:27"
+    },
+    {
+      "price": 520.0,
+      "special_price": 415.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:45"
+    },
+    {
+      "price": 520.0,
+      "special_price": 415.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:52:59"
+    },
+    {
+      "price": 520.0,
+      "special_price": 415.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:31:17"
+    },
+    {
+      "price": 520.0,
+      "special_price": 415.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:49:02"
+    },
+    {
+      "price": 520.0,
+      "special_price": 415.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:00"
     }
   ]
 }

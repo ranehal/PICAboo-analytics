@@ -4,16 +4,16 @@
     "sku": "CANG1010PNW",
     "name": "Canon Pixma G1010 Refillable Ink Tank Printer",
     "slug": "canon-pixma-g1010-refillable-ink-tank-printer",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "56",
+    "category_name": "Printer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/1/m1010-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 15748.0,
-    "special_price": 13080.0,
-    "discount": 17.0,
+    "price": 15293.0,
+    "special_price": 13298.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:03"
+    },
+    {
+      "price": 15748.0,
+      "special_price": 13080.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:19"
+    },
+    {
+      "price": 15748.0,
+      "special_price": 13080.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:55"
+    },
+    {
+      "price": 15748.0,
+      "special_price": 13080.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:47"
+    },
+    {
+      "price": 15293.0,
+      "special_price": 13298.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:23"
+    },
+    {
+      "price": 15293.0,
+      "special_price": 13298.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:33"
     }
   ]
 }

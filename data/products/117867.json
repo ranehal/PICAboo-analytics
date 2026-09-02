@@ -4,9 +4,9 @@
     "sku": "XAP4CFXGO",
     "name": "Xiaomi Smart Air Purifier 4 Compact Filter (AFEP7TFM01)",
     "slug": "xiaomi-smart-air-purifier-4-compact-filter-afep7tfm01",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-smart-air-purifier-4--11-6-26-1.jpg",
+    "category_id": "452",
+    "category_name": "Air Purifier",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/2/f27-8-26.jpg",
     "unit": null,
     "unit_value": null,
     "price": 3999.0,
@@ -120,6 +120,48 @@
       "discount": 8.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:18"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 3699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:29"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 3699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:51"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 3699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:23"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 3699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:30"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 3699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:27:19"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 3699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:03"
     }
   ]
 }

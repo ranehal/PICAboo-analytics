@@ -4,8 +4,8 @@
     "sku": "CMTPM100D1AVDFTTS",
     "name": "Casio MTP-M100D-1AVDF Analog Black Dial Men's Watch",
     "slug": "casio-mtp-m100d-1avdf-analog-black-dial-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-m100d-1avdf-27-10-25-5.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:28:33"
+    },
+    {
+      "price": 11299.0,
+      "special_price": 10139.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:13:40"
+    },
+    {
+      "price": 11299.0,
+      "special_price": 10139.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:53:07"
+    },
+    {
+      "price": 11299.0,
+      "special_price": 10139.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:09:05"
+    },
+    {
+      "price": 11299.0,
+      "special_price": 10139.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:43:54"
     }
   ]
 }

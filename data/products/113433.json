@@ -4,8 +4,8 @@
     "sku": "EAAR11493HSP",
     "name": "Emporio Armani Two-Hand Black Leather Women\u2019s Watch (AR11493)",
     "slug": "emporio-armani-two-hand-black-leather-women-s-watch-ar11493",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/r/ar11493-19-10-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:50"
+    },
+    {
+      "price": 22599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:13"
+    },
+    {
+      "price": 22599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:04:01"
+    },
+    {
+      "price": 22599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:59"
+    },
+    {
+      "price": 22599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:33"
+    },
+    {
+      "price": 22599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:11"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "CL83G7ADFTTS",
     "name": "Casio Enticer Women\u2019s Watch (LTP-1183G-7ADF)",
     "slug": "casio-women-s-watch-ltp-1183g-7adf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1183g-7adf-7-1-25.jpg",
     "unit": "g",
     "unit_value": 1183.0,
@@ -92,6 +92,27 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:33:52"
+    },
+    {
+      "price": 6290.0,
+      "special_price": 5528.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:45:54"
+    },
+    {
+      "price": 6290.0,
+      "special_price": 5528.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:58:01"
+    },
+    {
+      "price": 6290.0,
+      "special_price": 5528.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:02:34"
     }
   ]
 }

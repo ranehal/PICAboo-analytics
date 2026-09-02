@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122278",
+    "sku": "BACZ17ADR",
+    "name": "Baseus Encok Semi-In-Ear Wired Type-C Earphone (CZ17)-Cluster Black",
+    "slug": "baseus-type-c-earphone-encok-cz17-semi-in-ear-wired-cluster-black",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/A/0/A00170000113-Z1-2_jpg-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 880.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 880.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:36"
+    }
+  ]
+}

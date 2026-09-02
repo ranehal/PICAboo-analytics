@@ -4,8 +4,8 @@
     "sku": "SUHMCPADR",
     "name": "Spigen Ultra Hybrid MagFit Case for iPhone 14 Pro Max ",
     "slug": "spigen-ultra-hybrid-magfit-case-for-iphone-14-pro-max",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1742",
+    "category_name": "Case & Cover",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/p/spigen-for-iphone-14-pro-max-ultra-hybrid-case-3.4.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 40.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:03"
+    },
+    {
+      "price": 750.0,
+      "special_price": 449.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:44"
+    },
+    {
+      "price": 750.0,
+      "special_price": 449.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:48"
+    },
+    {
+      "price": 750.0,
+      "special_price": 449.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:33:59"
+    },
+    {
+      "price": 750.0,
+      "special_price": 449.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:48:18"
+    },
+    {
+      "price": 750.0,
+      "special_price": 449.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:06"
     }
   ]
 }

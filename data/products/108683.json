@@ -1,7 +1,7 @@
 {
   "product": {
     "id": "108683",
-    "sku": "PNA231PNE",
+    "sku": "PNA231FNI",
     "name": "Philips 6.2L Digital Display Air Fryer (NA231) ",
     "slug": "philips-6-2l-digital-display-air-fryer-na231",
     "category_id": "7",
@@ -10,10 +10,10 @@
     "unit": "L",
     "unit_value": 6.2,
     "price": 18500.0,
-    "special_price": 12690.0,
+    "special_price": 12790.0,
     "discount": 31.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,48 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:28"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 12690.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:22"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 12690.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:23"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 12690.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:32"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 12790.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:35"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 12790.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:26"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 12790.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:23"
     }
   ]
 }

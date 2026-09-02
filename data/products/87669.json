@@ -4,8 +4,8 @@
     "sku": "FFTW6079VHSP",
     "name": "Fossil FTW6079V Gen 6 Gray Leather Women's Smart Watch",
     "slug": "fossil-ftw6079v-gen-6-gray-leather-women-s-smart-watch",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "226",
+    "category_name": "Smart Watch",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/3/o39fms.jpg",
     "unit": "g",
     "unit_value": 6.0,
@@ -120,6 +120,41 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:37"
+    },
+    {
+      "price": 35490.0,
+      "special_price": 24750.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:47"
+    },
+    {
+      "price": 35490.0,
+      "special_price": 24750.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:00"
+    },
+    {
+      "price": 35490.0,
+      "special_price": 24750.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:08"
+    },
+    {
+      "price": 35490.0,
+      "special_price": 24750.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:28"
+    },
+    {
+      "price": 35490.0,
+      "special_price": 24750.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:48:18"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "DSBH189B1KLHITDWO",
     "name": "DAEWOO\u00a01.5 Ton DC Inverter Split Type Air Conditioner\u00a0(DSB-H189B1KLHI-T)",
     "slug": "daewoo-1-5-ton-dc-inverter-split-type-air-conditioner-dsb-h189b1klhi-t",
-    "category_id": "64",
-    "category_name": "Air Conditioner",
+    "category_id": "3589",
+    "category_name": "DAEWOO",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/a/daewoo-1-ton-dc-inverter-3-7-25_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,48 @@
       "discount": 34.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:30:43"
+    },
+    {
+      "price": 82900.0,
+      "special_price": 54490.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:28"
+    },
+    {
+      "price": 82900.0,
+      "special_price": 54490.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:32:46"
+    },
+    {
+      "price": 82900.0,
+      "special_price": 54490.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:14:45"
+    },
+    {
+      "price": 82900.0,
+      "special_price": 54490.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:26:09"
+    },
+    {
+      "price": 82900.0,
+      "special_price": 54490.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:48"
+    },
+    {
+      "price": 82900.0,
+      "special_price": 54490.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:06:30"
     }
   ]
 }

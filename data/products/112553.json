@@ -4,8 +4,8 @@
     "sku": "EZPTEEZP",
     "name": "EZPLAY Onyx ANC TWS Earbuds",
     "slug": "ez-play-onyx-anc-tws-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/n/onyx-2-9-25-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:13"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:58"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:48"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:18"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:17"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:33:53"
     }
   ]
 }

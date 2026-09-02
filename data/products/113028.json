@@ -4,8 +4,8 @@
     "sku": "T1881NL01WOG",
     "name": "Titan Edge Carbon Fibre Quartz Analog Black Dial Unisex Watch (1881NL01)",
     "slug": "titan-edge-carbon-fibre-quartz-analog-black-dial-unisex-watch-1881nl01",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/8/1881nl01-29-9-25-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:50"
+    },
+    {
+      "price": 130000.0,
+      "special_price": 104000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:13"
+    },
+    {
+      "price": 130000.0,
+      "special_price": 104000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:04:01"
+    },
+    {
+      "price": 130000.0,
+      "special_price": 104000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:59"
+    },
+    {
+      "price": 130000.0,
+      "special_price": 104000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:33"
+    },
+    {
+      "price": 130000.0,
+      "special_price": 104000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:11"
     }
   ]
 }

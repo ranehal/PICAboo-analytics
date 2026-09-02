@@ -4,8 +4,8 @@
     "sku": "C1A2VDFATTS",
     "name": "Casio Enticer Date Chain Black Dial Men's Watch (MTP-1308D-1A2VDF)",
     "slug": "casio-watch-mtp-1308d-1a2vdf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/a/1a2v.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:30:14"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:15:31"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:54:39"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:10:32"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:45:36"
     }
   ]
 }

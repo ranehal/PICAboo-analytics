@@ -4,8 +4,8 @@
     "sku": "RAF1800WCHGRCBD",
     "name": "RAF 1800W Ceramic Fan Heater",
     "slug": "raf-1800w-ceramic-fan-heater",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "308",
+    "category_name": "Room Heater",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/orange--201223_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:34:49"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:05:22"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 12:36:39"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:18:21"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:29:35"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-29 10:27:02"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-02 11:11:05"
     }
   ]
 }

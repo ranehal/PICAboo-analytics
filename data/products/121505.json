@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "121505",
+    "sku": "COT012ADR",
+    "name": "Coteci Aviation Audio Transmitter Receiver (MS-012)",
+    "slug": "coteci-ms-012-aviation-audio-transmitter-receiver-bluetooth-converter-3-5mm",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/coteci-ms-012-aviation-audio-transmitter-receiver-bluetooth-converter-3_5mm-gadgetalltime-3-1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2100.0,
+    "special_price": 1749.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2100.0,
+      "special_price": 1749.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:12"
+    },
+    {
+      "price": 2100.0,
+      "special_price": 1749.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:59"
+    },
+    {
+      "price": 2100.0,
+      "special_price": 1749.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:50"
+    }
+  ]
+}

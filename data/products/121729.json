@@ -4,9 +4,9 @@
     "sku": "OOIC201AMOV",
     "name": "Oraimo InstaCooker 2100W Induction Cooker (OIC-201A)",
     "slug": "oraimo-instacooker-2100w-induction-cooker-oic-201a",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/i/oic-201a-28-7-26-3.jpg",
+    "category_id": "74",
+    "category_name": "Induction Cooker",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/i/oic-201a-28-7-26-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 5110.0,
@@ -120,6 +120,48 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:33:56"
+    },
+    {
+      "price": 5110.0,
+      "special_price": 4850.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:22"
+    },
+    {
+      "price": 5110.0,
+      "special_price": 4850.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:22"
+    },
+    {
+      "price": 5110.0,
+      "special_price": 4850.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:15"
+    },
+    {
+      "price": 5110.0,
+      "special_price": 4850.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:40"
+    },
+    {
+      "price": 5110.0,
+      "special_price": 4850.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:25"
+    },
+    {
+      "price": 5110.0,
+      "special_price": 4850.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:34"
     }
   ]
 }

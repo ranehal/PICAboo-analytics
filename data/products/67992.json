@@ -1,11 +1,11 @@
 {
   "product": {
     "id": "67992",
-    "sku": "AEPLMOV",
+    "sku": "AEPLIOT",
     "name": "Apple EarPods with Lightning Connector",
     "slug": "apple-earpods-with-lightning-connector",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/p/apple-emi-22.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:57"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2990.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:58"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2990.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:50:00"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2990.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:30:34"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2990.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:45:19"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2990.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:44"
     }
   ]
 }

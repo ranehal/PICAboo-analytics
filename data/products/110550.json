@@ -4,8 +4,8 @@
     "sku": "W236LCXWPO",
     "name": "Whirlpool 236 Liters Fresh Magic Pro Frost Refrigerator\u2013Chromium Steel X",
     "slug": "whirlpool-236-liters-fresh-magic-pro-frost-refrigerator-chromium-steel-x",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/h/whirlpool-31-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:39"
+    },
+    {
+      "price": 39990.0,
+      "special_price": 27499.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:55"
+    },
+    {
+      "price": 39990.0,
+      "special_price": 27690.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:01"
+    },
+    {
+      "price": 39990.0,
+      "special_price": 27690.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:44"
+    },
+    {
+      "price": 39990.0,
+      "special_price": 27690.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:34"
+    },
+    {
+      "price": 39990.0,
+      "special_price": 27690.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:59"
+    },
+    {
+      "price": 39990.0,
+      "special_price": 27499.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:09"
     }
   ]
 }

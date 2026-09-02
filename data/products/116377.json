@@ -4,8 +4,8 @@
     "sku": "ARTAX82URGLO",
     "name": "ASUS RT-AX82U AX5400 Dual Band Wi-Fi 6 Gaming Router",
     "slug": "asus-rt-ax82u-ax5400-dual-band-wi-fi-6-gaming-router",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/s/asus-rt-ax82u-22-2-26-1.jpg",
     "unit": "g",
     "unit_value": 6.0,
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:18"
+    },
+    {
+      "price": 20500.0,
+      "special_price": 18190.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:54"
+    },
+    {
+      "price": 20500.0,
+      "special_price": 18190.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:46"
+    },
+    {
+      "price": 20500.0,
+      "special_price": 18190.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:50"
+    },
+    {
+      "price": 20500.0,
+      "special_price": 18190.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:51"
+    },
+    {
+      "price": 20500.0,
+      "special_price": 18190.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:43"
     }
   ]
 }

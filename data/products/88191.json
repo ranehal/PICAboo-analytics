@@ -4,8 +4,8 @@
     "sku": "CAQ230A7DHDFTTS",
     "name": "Casio AQ-230A-7DMQ Silver Analog Digital Stainless Steel Strap Watch for Men",
     "slug": "casio-aq-230a-7dhdf-silver-stainless-steel-strap-watch-for-men",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1308d-1avdf1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:06:57"
+    },
+    {
+      "price": 6239.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:37:33"
+    },
+    {
+      "price": 6239.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:15:15"
+    },
+    {
+      "price": 6239.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:54:26"
+    },
+    {
+      "price": 6239.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:10:18"
+    },
+    {
+      "price": 6239.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:45:20"
     }
   ]
 }

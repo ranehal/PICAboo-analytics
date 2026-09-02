@@ -4,8 +4,8 @@
     "sku": "PGRWSHR22FFT",
     "name": "Philips 350W Series 5000 Blender (HR2222/00)",
     "slug": "philips-350w-series-5000-blender-hr2222-00",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/a/laven--21-3-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,48 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:52"
+    },
+    {
+      "price": 8299.0,
+      "special_price": 8190.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:21"
+    },
+    {
+      "price": 8299.0,
+      "special_price": 8190.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:38"
+    },
+    {
+      "price": 8299.0,
+      "special_price": 8190.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:05"
+    },
+    {
+      "price": 8299.0,
+      "special_price": 8190.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:08"
+    },
+    {
+      "price": 8299.0,
+      "special_price": 8190.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:23"
+    },
+    {
+      "price": 8299.0,
+      "special_price": 8190.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:10:36"
     }
   ]
 }

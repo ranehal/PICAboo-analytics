@@ -4,8 +4,8 @@
     "sku": "VVCSUL01ATL",
     "name": "Vyvylabs Crystal Series 1m USB to Lightning Fast Charging Data Cable (VCSUL-01)",
     "slug": "vyvylabs-crystal-series-1m-usb-to-lightning-fast-charging-data-cable-vcsul-01",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/c/vcsul-01-28.9.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:47"
+    },
+    {
+      "price": 365.0,
+      "special_price": 349.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:38"
+    },
+    {
+      "price": 365.0,
+      "special_price": 349.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:17"
+    },
+    {
+      "price": 365.0,
+      "special_price": 349.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:11"
+    },
+    {
+      "price": 365.0,
+      "special_price": 349.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:41:08"
+    },
+    {
+      "price": 365.0,
+      "special_price": 349.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:18"
     }
   ]
 }

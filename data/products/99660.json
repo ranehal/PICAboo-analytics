@@ -4,8 +4,8 @@
     "sku": "BCAHUBG01ADR",
     "name": "Baseus 4-in-1 Round Box Hub Adapter - Black",
     "slug": "baseus-4-in-1-round-box-hub-adapter-with-type-c-cable-cahub-g01-black",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "131",
+    "category_name": "USB Ports & Hubs",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-round-box-8.2.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:06"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1049.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:52"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1049.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:12"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1049.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:34"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1049.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:19"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1049.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:59"
     }
   ]
 }

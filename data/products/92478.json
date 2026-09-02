@@ -4,8 +4,8 @@
     "sku": "CMTPV004D7BUTTS",
     "name": "Casio MTP-V004D-7BUDF Silver Case Band Men's Watch",
     "slug": "casio-mtp-v004d-7budf-silver-case-band-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-v004d-7bu.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:29:20"
+    },
+    {
+      "price": 3700.0,
+      "special_price": 3639.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:14:26"
+    },
+    {
+      "price": 3700.0,
+      "special_price": 3639.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:53:51"
+    },
+    {
+      "price": 3700.0,
+      "special_price": 3639.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:09:43"
+    },
+    {
+      "price": 3700.0,
+      "special_price": 3639.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:44:37"
     }
   ]
 }

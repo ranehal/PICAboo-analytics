@@ -4,8 +4,8 @@
     "sku": "CEBHT22BEATL",
     "name": "Choetech Breath Lighting TWS Earbuds (BH-T22-BE)",
     "slug": "choetech-breath-lighting-tws-earbuds-bh-t22-be",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/h/bh-t22-be-20-2-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:02"
+    },
+    {
+      "price": 2540.0,
+      "special_price": 2399.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:13"
+    },
+    {
+      "price": 2540.0,
+      "special_price": 2399.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:18"
+    },
+    {
+      "price": 2540.0,
+      "special_price": 2399.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:35"
+    },
+    {
+      "price": 2540.0,
+      "special_price": 2399.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:45"
+    },
+    {
+      "price": 2540.0,
+      "special_price": 2399.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:55"
     }
   ]
 }

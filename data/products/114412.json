@@ -4,8 +4,8 @@
     "sku": "U7CWSWLEDLBDO",
     "name": "Universal 7 Color Waterproof Strobe Warning LED Light for Motorcycle-(1 Piece)",
     "slug": "universal-7-color-waterproof-strobe-warning-led-light-for-motorcycle",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "3926",
+    "category_name": "Bike Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/n/universal-7-color-13-12-25.jpg",
     "unit": "pcs",
     "unit_value": 1.0,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:01:20"
+    },
+    {
+      "price": 199.0,
+      "special_price": 149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:40"
+    },
+    {
+      "price": 199.0,
+      "special_price": 149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:06:57"
+    },
+    {
+      "price": 199.0,
+      "special_price": 149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:25"
+    },
+    {
+      "price": 199.0,
+      "special_price": 149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:01"
+    },
+    {
+      "price": 199.0,
+      "special_price": 149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:13"
     }
   ]
 }

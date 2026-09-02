@@ -4,8 +4,8 @@
     "sku": "RAFL5ENCDXD",
     "name": "Riversong AirFly L5 ENC TWS Earbuds-White ",
     "slug": "riversong-airfly-l5-enc-tws-earbuds-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/i/airfly-l5-white-19-11-24.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 46.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:42"
+    },
+    {
+      "price": 1590.0,
+      "special_price": 857.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:30"
+    },
+    {
+      "price": 1590.0,
+      "special_price": 857.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:08:43"
+    },
+    {
+      "price": 1590.0,
+      "special_price": 857.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:04"
+    },
+    {
+      "price": 1590.0,
+      "special_price": 857.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:48"
+    },
+    {
+      "price": 1590.0,
+      "special_price": 857.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:40:17"
     }
   ]
 }

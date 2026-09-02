@@ -4,8 +4,8 @@
     "sku": "HRF362TBGHRB",
     "name": "Haier 342L Top Mount Inverter Refrigerator (HRF-362TBG) ",
     "slug": "haier-342l-top-mount-inverter-refrigerator-hrf-362tbg",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/r/hrf-362tbg-8-11-25.jpg",
     "unit": "L",
     "unit_value": 342.0,
@@ -120,6 +120,48 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:18"
+    },
+    {
+      "price": 75900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:36"
+    },
+    {
+      "price": 75900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:33:44"
+    },
+    {
+      "price": 75900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:34"
+    },
+    {
+      "price": 75900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:15"
+    },
+    {
+      "price": 75900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:21"
+    },
+    {
+      "price": 75900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:36"
     }
   ]
 }

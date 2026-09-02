@@ -4,8 +4,8 @@
     "sku": "RRZ1125VARAF",
     "name": "Rahimafrooz 750W Output IPS (6 Light, 5 Fan, 1 TV, 1 PC)- RZ 1125VA Full IPS Set (Deep Cycle Battery Version)",
     "slug": "rahimafrooz-750w-output-ips-6-light-5-fan-1-tv-1-pc-rz-1125va",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "474",
+    "category_name": "IPS",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/z/rz-1125va-5-7-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:47"
+    },
+    {
+      "price": 64500.0,
+      "special_price": 60310.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:11"
+    },
+    {
+      "price": 64500.0,
+      "special_price": 60310.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:25"
+    },
+    {
+      "price": 64500.0,
+      "special_price": 60310.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:24"
+    },
+    {
+      "price": 64500.0,
+      "special_price": 60310.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:31:41"
+    },
+    {
+      "price": 64500.0,
+      "special_price": 60310.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:32"
     }
   ]
 }

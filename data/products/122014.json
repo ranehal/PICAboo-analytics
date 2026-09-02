@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122014",
+    "sku": "ACEA90ADR",
+    "name": "ACEFAST 18W Wall Charger with 1.2m USB-A to USB-C Cable (A90) ",
+    "slug": "acefast-18w-wall-charger-with-1-2m-usb-a-to-usb-c-cable-a90",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acefast-a90-qc18w-gan-usba-wall-charger-eu-usba-usbc-set-black-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 980.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 980.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:59"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
     "sku": "MHSGDS2MGS",
     "name": "Megastar Noise A23 Metallic Neckband",
     "slug": "megastar-noise-a23-metallic-neckband",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/2/a23--19-5-24.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:42"
+    },
+    {
+      "price": 990.0,
+      "special_price": 799.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:52"
+    },
+    {
+      "price": 990.0,
+      "special_price": 799.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:11:58"
+    },
+    {
+      "price": 990.0,
+      "special_price": 799.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:44"
+    },
+    {
+      "price": 990.0,
+      "special_price": 799.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:53"
+    },
+    {
+      "price": 990.0,
+      "special_price": 799.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:31"
     }
   ]
 }

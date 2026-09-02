@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122492",
+    "sku": "DLM19-L200NMEXL",
+    "name": "Dahua DHI-LM19-L200N 19.5\" 75Hz HD+ Monitor",
+    "slug": "dahua-dhi-lm19-l200n-19-5-75hz-hd-monitor",
+    "category_id": "47",
+    "category_name": "Monitor",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/m/lm19-l200n-25-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9810.0,
+    "special_price": 8175.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9810.0,
+      "special_price": 8175.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:42:37"
+    },
+    {
+      "price": 9810.0,
+      "special_price": 8175.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:29"
+    }
+  ]
+}

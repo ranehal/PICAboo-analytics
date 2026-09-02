@@ -4,8 +4,8 @@
     "sku": "SHAT1ADR",
     "name": "SHARGE Flow Mini 2 5000mAh Power Bank with Built-in Cable (T1)-Black",
     "slug": "sharge-flow-mini-2-power-bank-t1-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/h/sharge-flow-mini-2-3-8-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:31"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 3250.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:56"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 3250.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:38"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 3250.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:20"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 3250.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:08"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 3250.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:55"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122007",
+    "sku": "HOHB22ADR",
+    "name": "Hoco HB22 TF To SD Memory Card\u00a0Adapter (Only Adapter)",
+    "slug": "hoco-hb22-memory-card-adapter-tf-to-sd-only-adapter",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/m/images_57_-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 300.0,
+    "special_price": 200.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 300.0,
+      "special_price": 200.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:36"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
     "sku": "FA2DJF801IOT",
     "name": "Flame Aroma 200ml Diffuser (JF801)",
     "slug": "flame-aroma-200ml-diffuser-jf801",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "452",
+    "category_name": "Air Purifier",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/f/jf801-31-12-24--1_1.jpg",
     "unit": "ml",
     "unit_value": 200.0,
@@ -120,6 +120,48 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:31"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 1869.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:57"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 1869.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:37:00"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 1869.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:31"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 1869.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:33"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 1869.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:27:33"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 1869.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:23"
     }
   ]
 }

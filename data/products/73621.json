@@ -4,8 +4,8 @@
     "sku": "TP1PACKTPO",
     "name": "TP-Link Deco E4 (1 Pack) AC1200 Whole Home Mesh Wi-Fi System Dual-Band Router-White",
     "slug": "tp-link-deco-e4-1-pack-whole-home-mesh-wi-fi-system-dual-band-router-white",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/c/eco_e4--18-2-24.jpg",
     "unit": "pack",
     "unit_value": 1.0,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:04"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2950.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:49"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2950.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:46"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2950.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:40"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2950.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:09"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2950.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:23"
     }
   ]
 }

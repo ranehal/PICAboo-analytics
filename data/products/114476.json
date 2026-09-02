@@ -4,8 +4,8 @@
     "sku": "ACISWSGJ054ACI",
     "name": "ACI Smart Weight Scale Groove -20Kg",
     "slug": "aci-smart-weight-scale-groove-20-kg",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/e/weight-scale-j054-14-12-25-2.jpg",
     "unit": "kg",
     "unit_value": 20.0,
@@ -120,6 +120,41 @@
       "discount": 45.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:36"
+    },
+    {
+      "price": 4540.0,
+      "special_price": 2480.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:26"
+    },
+    {
+      "price": 4540.0,
+      "special_price": 2480.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:08"
+    },
+    {
+      "price": 4540.0,
+      "special_price": 2480.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:20"
+    },
+    {
+      "price": 4540.0,
+      "special_price": 2480.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:02"
+    },
+    {
+      "price": 4540.0,
+      "special_price": 2480.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:45"
     }
   ]
 }

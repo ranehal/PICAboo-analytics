@@ -4,8 +4,8 @@
     "sku": "CFS1010PGLO",
     "name": "Cudy FS1010P 8 Port PoE+Switch",
     "slug": "cudy-fs1010p-8-port-poe-switch",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/e/best--1010p--14-5-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:00"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 3300.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:39"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 3300.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:20"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 3300.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:31"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 3300.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:03"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 3300.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:54"
     }
   ]
 }

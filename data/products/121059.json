@@ -4,16 +4,16 @@
     "sku": "HAPRGOA",
     "name": "Honor Earbuds A Pro ANC TWS",
     "slug": "honor-earbuds-a-pro-anc-tws",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/i/pixel-9a-21-7-26.jpg",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/a/earbuds-a-pro-1-7-26.jpg",
     "unit": null,
     "unit_value": null,
     "price": 2999.0,
-    "special_price": 2699.0,
-    "discount": 10.0,
+    "special_price": 2750.0,
+    "discount": 8.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -127,6 +127,41 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:40:54"
+    },
+    {
+      "price": 2999.0,
+      "special_price": 2699.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:35"
+    },
+    {
+      "price": 2999.0,
+      "special_price": 2699.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:43:32"
+    },
+    {
+      "price": 2999.0,
+      "special_price": 2699.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:23:42"
+    },
+    {
+      "price": 2999.0,
+      "special_price": 2750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:37:53"
+    },
+    {
+      "price": 2999.0,
+      "special_price": 2750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:18:00"
     }
   ]
 }

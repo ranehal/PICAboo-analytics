@@ -4,8 +4,8 @@
     "sku": "USBPPMKLPNE",
     "name": "USB/Plug-in Portable Physical Mosquito Killer Lamp",
     "slug": "rechargeable-usb-plug-in-portable-physical-mosquito-killer-lamp",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "2257",
+    "category_name": "Others",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/o/mosquito-lamp-3-feb-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:13"
+    },
+    {
+      "price": 790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:10:11"
+    },
+    {
+      "price": 790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:06"
+    },
+    {
+      "price": 790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:10"
+    },
+    {
+      "price": 790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:34"
+    },
+    {
+      "price": 790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:55"
     }
   ]
 }

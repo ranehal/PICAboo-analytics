@@ -4,9 +4,9 @@
     "sku": "SG2201FJNN",
     "name": "Suirge 22 Inch 100Hz FHD IPS Monitor (SG-2201F)",
     "slug": "suirge-22-inch-100hz-fhd-ips-monitor-sg-2201f",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/g/sg-2201f-29-july-2026.jpg",
+    "category_id": "47",
+    "category_name": "Monitor",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/u/suirge-sg-2201-25-6-26-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 11990.0,
@@ -127,6 +127,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:12"
+    },
+    {
+      "price": 11990.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:30"
+    },
+    {
+      "price": 11990.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:13"
+    },
+    {
+      "price": 11990.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:34"
+    },
+    {
+      "price": 11990.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:53"
+    },
+    {
+      "price": 11990.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:15"
     }
   ]
 }

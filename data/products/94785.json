@@ -4,8 +4,8 @@
     "sku": "AMZGTR4SWSPZTC",
     "name": "Amazfit GTR 4 Smart Watch Screen Protector",
     "slug": "amazfit-gtr-4-smart-watch-screen-protector",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1765",
+    "category_name": "Smart Watch Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/m/amazfit-gtr-4-smart-watch-screen-protector.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 46.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:49"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:28"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:16:26"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:19"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:16"
     }
   ]
 }

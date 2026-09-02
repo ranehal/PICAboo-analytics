@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122295",
+    "sku": "BAAIRSDADR",
+    "name": "Baseus Airjoy USB A to SD/TF Card Reader",
+    "slug": "baseus-airjoy-usb-a-to-sd-tf-card-reader",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-airjoy-usb-a-to-sd-tf-card-reader-1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 970.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 970.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:29"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
     "sku": "A4DST40CGLO",
     "name": "A4tech DST-40C 4-in-1 Docking Station-Black",
     "slug": "a4tech-dst-40c-4-in-1-docking-station-black",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "131",
+    "category_name": "USB Ports & Hubs",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/s/dst-40c-29.1.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:16"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1780.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:52"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1780.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:12"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1780.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:34"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1780.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:19"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1780.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:59"
     }
   ]
 }

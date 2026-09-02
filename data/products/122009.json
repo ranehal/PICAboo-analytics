@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122009",
+    "sku": "HOUA17ADR",
+    "name": "Hoco UA17 2-in-1 iP male/Type-C Male to USB Female Adapter - Black",
+    "slug": "hoco-ua17-2-in-1-ip-male-type-c-male-to-usb-female-adapter-black",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/H/o/Hoco-UA17-2-in-1-iP-maleType-C-Male-to-USB-Female-Adapter-4-600x600-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 600.0,
+    "special_price": 480.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 600.0,
+      "special_price": 480.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:36"
+    }
+  ]
+}

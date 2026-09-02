@@ -8,7 +8,7 @@ import sqlite3, requests, re, time, argparse, sys, io
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, date
 # Fix Windows console encoding
-try: sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+try: getattr(sys.stdout, "reconfigure", lambda **kw: None)(encoding="utf-8", errors="replace")
 except: pass
 
 DB_FILE = 'pickaboo_prices.db'

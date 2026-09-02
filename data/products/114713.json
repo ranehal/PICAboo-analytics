@@ -2,10 +2,10 @@
   "product": {
     "id": "114713",
     "sku": "C2P3OMRFL",
-    "name": "Click 2-Pin 3 Outlets Safe Extenstion Socket (Multiplug)",
+    "name": "Click 2-Pin 3 Outlets Safe Extension Socket (Multiplug)",
     "slug": "click-2-pin-3-outlets-safe-extenstion-socket-multiplug",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "2257",
+    "category_name": "Others",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/l/click-2-pin-3-ot-28-12-25-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 26.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:13"
+    },
+    {
+      "price": 800.0,
+      "special_price": 590.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:10:11"
+    },
+    {
+      "price": 800.0,
+      "special_price": 590.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:05"
+    },
+    {
+      "price": 800.0,
+      "special_price": 590.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:15"
+    },
+    {
+      "price": 800.0,
+      "special_price": 590.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:29"
+    },
+    {
+      "price": 800.0,
+      "special_price": 590.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:57"
+    },
+    {
+      "price": 800.0,
+      "special_price": 590.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:02"
     }
   ]
 }

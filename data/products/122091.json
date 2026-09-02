@@ -4,8 +4,8 @@
     "sku": "VC241CFTB",
     "name": "Villaon USB to Type-C 1M Data Cable (VC-241C)",
     "slug": "villaon-usb-to-type-c-1m-data-cable-vc-241c",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/c/vc-241c-10-8-26-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:39"
+    },
+    {
+      "price": 120.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:31"
+    },
+    {
+      "price": 120.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:47:22"
+    },
+    {
+      "price": 120.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:30"
+    },
+    {
+      "price": 120.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:52"
+    },
+    {
+      "price": 120.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:59"
     }
   ]
 }

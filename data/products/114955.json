@@ -4,8 +4,8 @@
     "sku": "T3AUACTTN",
     "name": "Teton QC 3.0 3A USB-A to Type-C Fast Charging Data Cable",
     "slug": "teton-qc-3-0-3a-usb-a-to-type-c-fast-charging-data-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/e/te-3a-atc--31-12-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 37.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:15"
+    },
+    {
+      "price": 349.0,
+      "special_price": 219.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:21"
+    },
+    {
+      "price": 349.0,
+      "special_price": 219.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:27"
+    },
+    {
+      "price": 349.0,
+      "special_price": 219.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:22"
+    },
+    {
+      "price": 349.0,
+      "special_price": 219.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:01"
+    },
+    {
+      "price": 349.0,
+      "special_price": 219.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:10"
     }
   ]
 }

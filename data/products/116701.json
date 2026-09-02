@@ -4,8 +4,8 @@
     "sku": "CRE1500AX1500GLO",
     "name": "Cudy RE1500- AX1500 Mesh Wi-Fi 6 Range Extender",
     "slug": "cudy-re1500-ax1500-mesh-wi-fi-6-range-extender",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/re1500-22-jun-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:18"
+    },
+    {
+      "price": 3850.0,
+      "special_price": 3500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:54"
+    },
+    {
+      "price": 3850.0,
+      "special_price": 3500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:46"
+    },
+    {
+      "price": 3850.0,
+      "special_price": 3500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:50"
+    },
+    {
+      "price": 3850.0,
+      "special_price": 3500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:51"
+    },
+    {
+      "price": 3850.0,
+      "special_price": 3500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:40"
     }
   ]
 }

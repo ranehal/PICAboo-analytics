@@ -2,7 +2,7 @@
   "product": {
     "id": "122017",
     "sku": "ATU256WGLO",
-    "name": "ASUS TUF Gaming F16 Intel Core i7 14650HX 16GB RAM 1TB SSD RTX 5050 16 Inch FHD Laptop (FX608JHI-TU256W)",
+    "name": "ASUS TUF Gaming F16 16 Inch FHD Intel Core i7 14650HX 16GB RAM 1TB SSD RTX 5050 Laptop (FX608JHI-TU256W)",
     "slug": "asus-tuf-gaming-f16-intel-core-i7-14650hx-16gb-ram-1tb-ssd-rtx-5050-16-inch-fhd-laptop-fx608jhi-tu256w",
     "category_id": "4",
     "category_name": "Computers",
@@ -99,6 +99,41 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:35"
+    },
+    {
+      "price": 237000.0,
+      "special_price": 233500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:27"
+    },
+    {
+      "price": 237000.0,
+      "special_price": 233500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:37"
+    },
+    {
+      "price": 237000.0,
+      "special_price": 233500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:54"
+    },
+    {
+      "price": 237000.0,
+      "special_price": 233500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:50:19"
+    },
+    {
+      "price": 237000.0,
+      "special_price": 233500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:16"
     }
   ]
 }

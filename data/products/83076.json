@@ -4,8 +4,8 @@
     "sku": "ANSCLQ30MOV",
     "name": "Anker SoundCore Life Q30 ANC Headphone (A3028H11)",
     "slug": "anker-soundcore-life-q30-anc-headphone",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anker-soundcore-life-q30--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:59"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7899.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:15"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7899.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:18:07"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7899.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:30"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7899.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:24"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7899.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:45"
     }
   ]
 }

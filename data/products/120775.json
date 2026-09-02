@@ -4,8 +4,8 @@
     "sku": "ACER3ADR",
     "name": "ACEFAST R3 Wireless Magnetic Lavalier AI Microphone",
     "slug": "acefast-r3-wireless-magnetic-lavalier-ai-microphones",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "148",
+    "category_name": "Camera Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acefast-r3-wireless-lavalier-microphone-set-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:26"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2800.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:16"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2800.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:33"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2800.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:14"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2800.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:39"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2800.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:45"
     }
   ]
 }

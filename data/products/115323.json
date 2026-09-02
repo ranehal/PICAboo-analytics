@@ -4,8 +4,8 @@
     "sku": "BBOP44SED",
     "name": "BWOO 20000mAh 22.5W Fast Charging Power Bank (BO-P44)",
     "slug": "bwoo-20000mah-22-5w-fast-charging-power-bank-bo-p44",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/bo-p44-14-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:00"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 2350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:46"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 2350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:52:19"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 2350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:31:48"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 2350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:22"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 2350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:25"
     }
   ]
 }

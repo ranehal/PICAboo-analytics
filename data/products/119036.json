@@ -4,8 +4,8 @@
     "sku": "TA3HCWEQCO",
     "name": "TOZO Aerosound3 Hybrid Active Noise Cancelling Wireless Earbuds",
     "slug": "tozo-aerosound3-hybrid-active-noise-cancelling-wireless-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/o/tozo-aerosound3-28-4-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 8.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:14"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:11"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:47:06"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:34"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:59"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:43"
     }
   ]
 }

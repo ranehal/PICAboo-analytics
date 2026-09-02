@@ -4,16 +4,16 @@
     "sku": "AGNWPDWSCADR",
     "name": "Anker 313 GaN 30W PD Wall Series 3 Charger (A2639)",
     "slug": "anker-313-gan-30w-pd-wall-series-3-charger-a2639",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/2/a2639-31-10-24--1.jpg",
     "unit": "g",
     "unit_value": 313.0,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 1499.0,
+    "special_price": 1149.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   "history": [
     {
@@ -113,6 +113,34 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:52:27"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:20:37"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 12:54:43"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:35:20"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 1149.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:06"
     }
   ]
 }

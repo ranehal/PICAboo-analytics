@@ -4,8 +4,8 @@
     "sku": "QANT2679WM02WOG",
     "name": "Titan Karishma Quartz Analog Off White Dial Rose Gold Stainless Steel Strap Women\u2019s Watch (2679WM02)",
     "slug": "titan-karishma-quartz-analog-off-white-women-s-watch-nt2679wm02",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/6/2679wm02-10-6-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:58"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:55"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:42:49"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:44:18"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:59"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:20"
     }
   ]
 }

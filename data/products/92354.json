@@ -4,8 +4,8 @@
     "sku": "M30MT30DBLCBD",
     "name": "Miyako 30L Convection Electric Oven (MT-30DBL-RCL)",
     "slug": "miyako-30l-convection-electric-oven-mt-30dbl",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "68",
+    "category_name": "Oven",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mt-30dbl-21.8.24..jpg",
     "unit": "L",
     "unit_value": 30.0,
@@ -120,6 +120,48 @@
       "discount": 34.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:53"
+    },
+    {
+      "price": 12790.0,
+      "special_price": 8499.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:56"
+    },
+    {
+      "price": 12790.0,
+      "special_price": 8499.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:19"
+    },
+    {
+      "price": 12790.0,
+      "special_price": 8499.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:27"
+    },
+    {
+      "price": 12790.0,
+      "special_price": 8499.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:35"
+    },
+    {
+      "price": 12790.0,
+      "special_price": 8499.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:08"
+    },
+    {
+      "price": 12790.0,
+      "special_price": 8499.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:15"
     }
   ]
 }

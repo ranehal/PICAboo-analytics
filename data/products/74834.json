@@ -4,14 +4,14 @@
     "sku": "CANG2010PNW",
     "name": "Canon Pixma G2010 Ink Tank All-In-One Printer",
     "slug": "canon-pixma-g2010-ink-tank-all-in-one-printer",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "56",
+    "category_name": "Printer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/1/m1010-5_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 19685.0,
-    "special_price": 16720.0,
-    "discount": 15.0,
+    "price": 19805.0,
+    "special_price": 17222.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:03"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16720.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:19"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16720.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:55"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16720.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:47"
+    },
+    {
+      "price": 19805.0,
+      "special_price": 17222.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:23"
+    },
+    {
+      "price": 19805.0,
+      "special_price": 17222.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:01"
     }
   ]
 }

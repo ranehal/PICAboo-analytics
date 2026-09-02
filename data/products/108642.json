@@ -4,8 +4,8 @@
     "sku": "C6002BWHG",
     "name": "Cuena 6002 Date Rhinestone Bracelet Women\u2019s Watch-Black",
     "slug": "cuena-6002-date-rhinestone-bracelet-women-s-watch-black",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/cuena-6002-black-11-3-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:39"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 2150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:14"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 2150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:18"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 2150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:23"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 2150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:29"
     }
   ]
 }

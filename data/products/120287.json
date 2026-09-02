@@ -4,8 +4,8 @@
     "sku": "CWE3000SGLO",
     "name": "Cudy AX5400 Wi-Fi 6E Bluetooth 5.3 PCI-E Adapter (WE3000S)",
     "slug": "cudy-ax5400-wi-fi-6e-bluetooth-5-3-pci-e-adapter-we3000s",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/e/we3000s-19-may-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:22"
+    },
+    {
+      "price": 4300.0,
+      "special_price": 4000.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:38"
+    },
+    {
+      "price": 4300.0,
+      "special_price": 4000.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:07"
+    },
+    {
+      "price": 4300.0,
+      "special_price": 4000.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:46"
+    },
+    {
+      "price": 4300.0,
+      "special_price": 4000.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:16"
+    },
+    {
+      "price": 4300.0,
+      "special_price": 4000.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:30"
     }
   ]
 }

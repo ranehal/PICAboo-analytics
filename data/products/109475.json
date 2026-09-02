@@ -4,8 +4,8 @@
     "sku": "PQP162410TSSB",
     "name": "Philips OneBlade Face & Body Hybrid Trimmer For Men (QP1624/10)",
     "slug": "philips-oneblade-face-body-hybrid-trimmer-for-men-qp1624-10",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/p/qp162410-24-4-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:01"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3599.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:32"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3599.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:59"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3599.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:17"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3599.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:55"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3599.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:35"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "SPEATSFEQCO",
     "name": "SoundPEATS Free2 Classic TWS Earbuds",
     "slug": "soundpeats-free2-classic-wireless-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/soundpeats-free2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:39"
+    },
+    {
+      "price": 1890.0,
+      "special_price": 1849.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:29"
+    },
+    {
+      "price": 1890.0,
+      "special_price": 1849.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:17:31"
+    },
+    {
+      "price": 1890.0,
+      "special_price": 1849.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:18"
+    },
+    {
+      "price": 1890.0,
+      "special_price": 1849.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:47:59"
     }
   ]
 }

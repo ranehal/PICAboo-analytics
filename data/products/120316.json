@@ -4,8 +4,8 @@
     "sku": "MJXFJ02XWIOT",
     "name": "Xiaomi Mijia Automatic Fragrance Diffuser (MJXFJ02XW)",
     "slug": "xiaomi-mijia-automatic-fragrance-diffuser-mjxfj02xw",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "452",
+    "category_name": "Air Purifier",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/j/mjxfj02xw-20-5-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:18"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3449.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:29"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3449.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:51"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3449.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:23"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3449.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:30"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3449.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:27:19"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3449.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:03"
     }
   ]
 }

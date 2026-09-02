@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "122495",
+    "sku": "WFE2N5GDENDDWLT",
+    "name": "Walton 316L Direct Cool Inverter Refrigerator (WFE-2N5-GDEN-DD)",
+    "slug": "walton-316l-direct-cool-inverter-refrigerator-wfe-2n5-gden-dd",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/w/f/wfe-2n5-gden-dd-_inverter_-8-25-26-1.jpg",
+    "unit": "L",
+    "unit_value": 316.0,
+    "price": 49990.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 49990.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:22:37"
+    },
+    {
+      "price": 49990.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:59"
+    },
+    {
+      "price": 49990.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:12"
+    }
+  ]
+}

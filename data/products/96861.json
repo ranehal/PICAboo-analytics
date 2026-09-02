@@ -4,8 +4,8 @@
     "sku": "XXC01VAJW",
     "name": "Xpert XC01V 1M Micro Cable with Charging Adapter - White",
     "slug": "xpert-xc01v-1m-micro-cable-with-charging-adapter-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/c/xcv01-33.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:21"
+    },
+    {
+      "price": 320.0,
+      "special_price": 259.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:17"
+    },
+    {
+      "price": 320.0,
+      "special_price": 259.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:16"
+    },
+    {
+      "price": 320.0,
+      "special_price": 259.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:41"
+    },
+    {
+      "price": 320.0,
+      "special_price": 259.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:42:03"
+    },
+    {
+      "price": 320.0,
+      "special_price": 259.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:54"
     }
   ]
 }

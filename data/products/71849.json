@@ -4,14 +4,14 @@
     "sku": "PMG3730SSB",
     "name": "Philips MG3730/15 8 In 1 Hair Clipper & Face Multigroomer Trimmer",
     "slug": "philips-mg3730-15-8-in-1-hair-clipper-face-multigroomer-trimmer",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-mg3730.jpg",
     "unit": null,
     "unit_value": null,
     "price": 6499.0,
-    "special_price": 4939.0,
-    "discount": 24.0,
+    "special_price": 4769.0,
+    "discount": 27.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -120,6 +120,41 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:40"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4939.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:57"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4939.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:28"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4939.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:40"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4769.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:44"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4769.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:59"
     }
   ]
 }

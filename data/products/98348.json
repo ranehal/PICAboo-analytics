@@ -4,8 +4,8 @@
     "sku": "CELTP1303SG7AVDFTTS",
     "name": "Casio Enticer LTP-1303SG-7AVDF Two-Tone Stainless-Steel Women\u2019s Watch",
     "slug": "casio-enticer-ltp-1303sg-7avdf-two-tone-stainless-steel-women-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1303sg-7avdf-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,27 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:31:43"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 6533.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:44:26"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 6533.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:55:57"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 6533.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:01:40"
     }
   ]
 }

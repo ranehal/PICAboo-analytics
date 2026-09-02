@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121146",
+    "sku": "F2058JNN",
+    "name": "AULA F2058 Mechanical Wired Gaming Keyboard (Blue Switch) ",
+    "slug": "aula-f2058-blue-switch-mechanical-wired-gaming-keyboard",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/A/U/AULA_F2058_Blue_Sitch_Mechanical_Wired_Gaming_Keyboard_3_.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 3604.0,
+    "special_price": 3169.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3604.0,
+      "special_price": 3169.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:30"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
     "sku": "XEP81XOO",
     "name": "XO-EP81 Type-C Wired Earphone with Mic",
     "slug": "xo-ep81-type-c-wired-earphone-with-mic",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/p/ep81-28-april-2026-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:20"
+    },
+    {
+      "price": 380.0,
+      "special_price": 290.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:09"
+    },
+    {
+      "price": 380.0,
+      "special_price": 290.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:47:53"
+    },
+    {
+      "price": 380.0,
+      "special_price": 290.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:30"
+    },
+    {
+      "price": 380.0,
+      "special_price": 290.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:34"
+    },
+    {
+      "price": 380.0,
+      "special_price": 290.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:48"
     }
   ]
 }

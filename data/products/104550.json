@@ -4,8 +4,8 @@
     "sku": "BMS54IP12MATL",
     "name": "Baykron\u00a05.4 Inch Tough Case for iPhone 12 Mini-Clear",
     "slug": "baykron-5-4-inch-tough-case-for-iphone-12-mini-clear",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1742",
+    "category_name": "Case & Cover",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/r/premium-tough-case-for-iphone-12-mini-26.8.24-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:58"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 1049.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:36"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 1049.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:43"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 1049.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:33:49"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 1049.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:48:12"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 1049.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:00"
     }
   ]
 }

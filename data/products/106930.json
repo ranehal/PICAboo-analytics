@@ -4,8 +4,8 @@
     "sku": "CMW240B3BVWEC",
     "name": "Casio Enticer Men's Watch (MW-240B-3BVDF)",
     "slug": "casio-enticer-men-s-watch-mw-240b-3bvdf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/w/mw-240b-3bvdf-29-12-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:03:36"
+    },
+    {
+      "price": 5290.0,
+      "special_price": 4193.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:34:04"
+    },
+    {
+      "price": 5290.0,
+      "special_price": 4193.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:36"
+    },
+    {
+      "price": 5290.0,
+      "special_price": 4193.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:50:47"
+    },
+    {
+      "price": 5290.0,
+      "special_price": 4193.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:06:41"
+    },
+    {
+      "price": 5290.0,
+      "special_price": 4193.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:40:59"
     }
   ]
 }

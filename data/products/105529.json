@@ -4,8 +4,8 @@
     "sku": "BL34MOV",
     "name": "FONENG BL34 Bluetooth Neckband Earphone",
     "slug": "foneng-bl34-bluetooth-neckband-earphone",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/l/bl34--7-2-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:20"
+    },
+    {
+      "price": 799.0,
+      "special_price": 699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:48"
+    },
+    {
+      "price": 799.0,
+      "special_price": 699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:09:13"
+    },
+    {
+      "price": 799.0,
+      "special_price": 699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:32"
+    },
+    {
+      "price": 799.0,
+      "special_price": 699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:49"
+    },
+    {
+      "price": 799.0,
+      "special_price": 699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:18"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "PWD3238PNE",
     "name": "Panasonic WD3238 20L Top Loading Water Dispenser ",
     "slug": "panasonic-wd3238-20l-top-loading-water-dispenser",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "78",
+    "category_name": "Water Purifiers & Filters",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/d/wd3238-21.8.23..jpg",
     "unit": "L",
     "unit_value": 20.0,
@@ -120,6 +120,48 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:24"
+    },
+    {
+      "price": 25100.0,
+      "special_price": 20390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:10"
+    },
+    {
+      "price": 25100.0,
+      "special_price": 20390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:33"
+    },
+    {
+      "price": 25100.0,
+      "special_price": 20390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:28"
+    },
+    {
+      "price": 25100.0,
+      "special_price": 20390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:16"
+    },
+    {
+      "price": 25100.0,
+      "special_price": 20390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:27:14"
+    },
+    {
+      "price": 25100.0,
+      "special_price": 20390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:28"
     }
   ]
 }

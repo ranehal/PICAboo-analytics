@@ -4,8 +4,8 @@
     "sku": "YCA28BHATL",
     "name": "YISON Celebrat A28 Bluetooth Headphone",
     "slug": "yison-celebrat-a28-bluetooth-headphone",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/y/a/ya28.24.9.24.b1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:20"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2149.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:48"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2149.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:09:21"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2149.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:32"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2149.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:49"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2149.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:26"
     }
   ]
 }

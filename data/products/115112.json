@@ -4,8 +4,8 @@
     "sku": "SHWQ60TCUE",
     "name": "Samsung 5.1ch Soundbar with Wireless Subwoofer (HW-Q60T)",
     "slug": "samsung-5-1ch-soundbar-with-wireless-subwoofer-hw-q60t",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "30",
+    "category_name": "Home Theater & Sound System",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-hw-q60t-6-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:02"
+    },
+    {
+      "price": 34000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:07:22"
+    },
+    {
+      "price": 34000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:13"
+    },
+    {
+      "price": 34000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:19:56"
+    },
+    {
+      "price": 34000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:01"
+    },
+    {
+      "price": 34000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:43"
     }
   ]
 }

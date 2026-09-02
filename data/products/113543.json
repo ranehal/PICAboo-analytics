@@ -4,8 +4,8 @@
     "sku": "S30PMKHS",
     "name": "S30 Pro 10 Series\u00a0Max BT Calling Smart Watch with 7 Straps",
     "slug": "s30-pro-max-bt-calling-smart-watch",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "226",
+    "category_name": "Smart Watch",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/3/s30-pro-max-26-10-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 57.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:11"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 860.0,
+      "discount": 57.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:15"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 860.0,
+      "discount": 57.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:42"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 860.0,
+      "discount": 57.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:26"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 860.0,
+      "discount": 57.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:12"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 860.0,
+      "discount": 57.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:32:38"
     }
   ]
 }

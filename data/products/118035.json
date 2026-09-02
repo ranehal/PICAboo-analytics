@@ -4,8 +4,8 @@
     "sku": "RB48CFRCIPK",
     "name": "Retractable Blades Crystal Chandelier 48\" Ceiling Fan Remote Control   (IP-375)",
     "slug": "retractable-blades-crystal-chandelier-48-ceiling-fan-remote-control",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "88",
+    "category_name": "Fan",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/retractable-blades-crystal-8-4-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:50"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:07:45"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:33"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:50"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:31:23"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:56"
     }
   ]
 }

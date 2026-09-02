@@ -4,8 +4,8 @@
     "sku": "DKDKWWB",
     "name": "Daniel Klein DK.1.13475-2 Women's Watch",
     "slug": "daniel-klein-dk-1-13475-2-women-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/k/dk.1.13475-2-26-2-25---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:39"
+    },
+    {
+      "price": 6020.0,
+      "special_price": 4819.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:14"
+    },
+    {
+      "price": 6020.0,
+      "special_price": 4819.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:18"
+    },
+    {
+      "price": 6020.0,
+      "special_price": 4819.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:23"
+    },
+    {
+      "price": 6020.0,
+      "special_price": 4819.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:29"
     }
   ]
 }

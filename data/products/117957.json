@@ -4,8 +4,8 @@
     "sku": "REM128SDHCIOT",
     "name": "Remax 128GB MicroSD Class 10 Memory Card",
     "slug": "remax-128gb-micro-sdhc-class-10-uhs-1-memory-card",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "212",
+    "category_name": "Memory Card",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/remax-128gb-6-4-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:55"
+    },
+    {
+      "price": 5625.0,
+      "special_price": 4890.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:07"
+    },
+    {
+      "price": 5625.0,
+      "special_price": 4890.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:58"
+    },
+    {
+      "price": 5625.0,
+      "special_price": 4890.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:31:32"
+    },
+    {
+      "price": 5625.0,
+      "special_price": 4890.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:48:32"
+    },
+    {
+      "price": 5625.0,
+      "special_price": 4890.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:48"
     }
   ]
 }

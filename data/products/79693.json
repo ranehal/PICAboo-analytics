@@ -4,8 +4,8 @@
     "sku": "SRS74R5101SLSMO",
     "name": "Samsung 676 Liters Side by Side Refrigerator with SpaceMax Technology (RS74R5101SL)",
     "slug": "samsung-rs74r5101sl-side-by-side-refrigerator",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/s/rs74r5101sl-14-10-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:33:30"
+    },
+    {
+      "price": 202900.0,
+      "special_price": 179900.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:46"
+    },
+    {
+      "price": 202900.0,
+      "special_price": 179900.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:04"
+    },
+    {
+      "price": 202900.0,
+      "special_price": 179900.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:04"
+    },
+    {
+      "price": 202900.0,
+      "special_price": 179900.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:08"
+    },
+    {
+      "price": 202900.0,
+      "special_price": 179900.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:22"
+    },
+    {
+      "price": 202900.0,
+      "special_price": 179900.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:14"
     }
   ]
 }

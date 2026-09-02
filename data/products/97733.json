@@ -4,8 +4,8 @@
     "sku": "MB8PSWZTC",
     "name": "Mi Band 8 Pro Smart Watch Magnetic USB Charging Cable",
     "slug": "mi-band-8-pro-smart-watch-magnetic-usb-charging-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1765",
+    "category_name": "Smart Watch Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mi-band-8pro-11.12.23..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:36"
+    },
+    {
+      "price": 549.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:35"
+    },
+    {
+      "price": 549.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:44:28"
+    },
+    {
+      "price": 549.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:18"
+    },
+    {
+      "price": 549.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:45"
+    },
+    {
+      "price": 549.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:13"
     }
   ]
 }

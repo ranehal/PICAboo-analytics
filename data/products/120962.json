@@ -4,9 +4,9 @@
     "sku": "SPRP100GSC",
     "name": "Smart Pure RO 100 GPD 7 Stage Premium Water Purifier",
     "slug": "smart-pure-ro-100-gpd-7-stage-premium-water-purifier",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/m/smart-pure-ro-100-gpd-7-stage-premium-water-purifier-8-4-26-1.jpg",
+    "category_id": "78",
+    "category_name": "Water Purifiers & Filters",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/u/pure-ro-100-22-6-26-1.jpg",
     "unit": "g",
     "unit_value": 100.0,
     "price": 22000.0,
@@ -120,6 +120,48 @@
       "discount": 45.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:53"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 12180.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:49"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 12180.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:23"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 12180.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:53"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 12180.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:51"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 12180.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:54"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 12180.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:05"
     }
   ]
 }

@@ -4,9 +4,9 @@
     "sku": "ONEC106OMO",
     "name": "Omron Compressor Nebulizer (NE-C106)",
     "slug": "omron-compressor-nebulizer-ne-c106",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/e/ne-c106-5-2-26-.jpg",
+    "category_id": "3984",
+    "category_name": "Healthcare and Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/2/f25-8-26.jpg",
     "unit": null,
     "unit_value": null,
     "price": 4221.0,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:01:24"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3520.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:31:41"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3520.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:44"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3520.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:11"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3520.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:53"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3520.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:30"
     }
   ]
 }

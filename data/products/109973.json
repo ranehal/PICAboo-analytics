@@ -4,8 +4,8 @@
     "sku": "FQA05IEFTB",
     "name": "Foomee QA05 In-ear Earphones",
     "slug": "foomee-qa05-in-ear-earphones",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/o/foomee-qa05-13-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:41"
+    },
+    {
+      "price": 179.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:22"
+    },
+    {
+      "price": 179.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:53"
+    },
+    {
+      "price": 179.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:24"
+    },
+    {
+      "price": 179.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:41"
+    },
+    {
+      "price": 179.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:14"
     }
   ]
 }

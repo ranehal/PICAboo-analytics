@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122177",
+    "sku": "ACC1604ADR",
+    "name": "Acefast C16-04 USB-A to Type-C Charging Data Cable 1.2M- Black",
+    "slug": "acefast-c16-04-usb-a-to-type-c-charging-data-cable-1-2m-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acefast-c16-04-usba-to-usbc-tpe-charging-data-cable-connectors-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 500.0,
+    "special_price": 320.0,
+    "discount": 36.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 500.0,
+      "special_price": 320.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:50"
+    }
+  ]
+}

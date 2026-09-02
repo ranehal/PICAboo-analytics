@@ -6,7 +6,7 @@
     "slug": "aci-submersible-drainage-pump-aci-v1500f",
     "category_id": "7",
     "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/1/v1500f-9-aug-2026-1.jpg",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/1/v1500f-18-aug-2026.jpg",
     "unit": null,
     "unit_value": null,
     "price": 21712.0,
@@ -99,6 +99,48 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:33:27"
+    },
+    {
+      "price": 21712.0,
+      "special_price": 13570.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:17"
+    },
+    {
+      "price": 21712.0,
+      "special_price": 13570.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:17"
+    },
+    {
+      "price": 21712.0,
+      "special_price": 13570.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:17"
+    },
+    {
+      "price": 21712.0,
+      "special_price": 13570.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:14"
+    },
+    {
+      "price": 21712.0,
+      "special_price": 13570.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:30"
+    },
+    {
+      "price": 21712.0,
+      "special_price": 13570.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:08:36"
     }
   ]
 }

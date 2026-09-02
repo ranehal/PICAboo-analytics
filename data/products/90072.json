@@ -4,8 +4,8 @@
     "sku": "BFG1100SSB",
     "name": "Braun FG1100 Silk Epil Bikini Styler 3-in-1 Trimmer Hair Removal for Women",
     "slug": "braun-fg1100-silk-epil-bikini-styler-3-in-1-trimmer-hair-removal-for-women",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/r/braun-fg1100---13-11-23--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:11"
+    },
+    {
+      "price": 5399.0,
+      "special_price": 4049.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:39"
+    },
+    {
+      "price": 5399.0,
+      "special_price": 4049.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:05"
+    },
+    {
+      "price": 5399.0,
+      "special_price": 4049.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:03"
+    },
+    {
+      "price": 5399.0,
+      "special_price": 4049.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:08"
+    },
+    {
+      "price": 5399.0,
+      "special_price": 4049.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:35"
     }
   ]
 }

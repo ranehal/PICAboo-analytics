@@ -4,9 +4,9 @@
     "sku": "WFE2H2GDENDDWLT",
     "name": "Walton 282L Direct Cool Inverter Refrigerator (WFE-2H2-GDEN-DD)",
     "slug": "walton-282l-direct-cool-inverter-refrigerator-wfe-2h2-gden-dd",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/f/wfe-2h2-gden-dd-5-7-26-1.jpg",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/f/wfe-2h2-29-8-261.jpg",
     "unit": "L",
     "unit_value": 282.0,
     "price": 47490.0,
@@ -120,6 +120,48 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:33:19"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:12"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:53"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:58"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:58"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:56"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:08:45"
     }
   ]
 }

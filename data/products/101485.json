@@ -1,7 +1,7 @@
 {
   "product": {
     "id": "101485",
-    "sku": "MDHDM250DSQ",
+    "sku": "MDHDM250FFT",
     "name": "Moulinex Easymax Hand Mixer/Egg Beater (HM2501B1)",
     "slug": "moulinex-easymax-hand-mixer-egg-beater-hm2501b1",
     "category_id": "7",
@@ -120,6 +120,48 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:09"
+    },
+    {
+      "price": 4799.0,
+      "special_price": 4790.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:10"
+    },
+    {
+      "price": 4799.0,
+      "special_price": 4790.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:30"
+    },
+    {
+      "price": 4799.0,
+      "special_price": 4790.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:37"
+    },
+    {
+      "price": 4799.0,
+      "special_price": 4790.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:53"
+    },
+    {
+      "price": 4799.0,
+      "special_price": 4790.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:33"
+    },
+    {
+      "price": 4799.0,
+      "special_price": 4790.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:29"
     }
   ]
 }

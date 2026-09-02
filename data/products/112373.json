@@ -4,9 +4,9 @@
     "sku": "OSW807MOV",
     "name": "Oraimo Watch 6 Bluetooth Calling Smart Watch (OSW-807)",
     "slug": "oraimo-watch-6-bluetooth-calling-smart-watch-osw-807",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/oraimo-watch-6-bluetooth-calling-smart-watch-_osw-807_-4-15-2-61.jpg",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/s/osw-807-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 2860.0,
@@ -120,6 +120,34 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:15"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:25"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:50"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:35"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:19"
     }
   ]
 }

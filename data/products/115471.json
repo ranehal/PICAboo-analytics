@@ -4,12 +4,12 @@
     "sku": "TSGO34GB64GB",
     "name": "TECNO SPARK Go 3 4GB/64GB",
     "slug": "tecno-spark-go-3-4gb-64gb",
-    "category_id": "171",
-    "category_name": "Smartphones",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/p/spark-go-3-4gb-64gb-2-aug-2026.jpg",
+    "category_id": "1635",
+    "category_name": "TECNO",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/e/tecno-spark-go-3-12-8-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 14999.0,
+    "price": 16999.0,
     "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
@@ -127,6 +127,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:31:17"
+    },
+    {
+      "price": 14999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:01:30"
+    },
+    {
+      "price": 14999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:41:51"
+    },
+    {
+      "price": 14999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:15:22"
+    },
+    {
+      "price": 14999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:35:28"
+    },
+    {
+      "price": 16999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:47"
     }
   ]
 }

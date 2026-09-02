@@ -4,8 +4,8 @@
     "sku": "XCY90860WCREE",
     "name": "XCY 908 60W Temperature Adjustable Control Complete Soldering Iron Combo Set (6 Pcs)",
     "slug": "xcy-908-60w-temperature-adjustable-control-complete-soldering-iron-combo-set-6-pcs",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/soldering-set-21-jan-2026-1_1.jpg",
     "unit": "pcs",
     "unit_value": 6.0,
@@ -120,6 +120,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:55"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:51"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:47"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:45"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:37"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:30"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "CDM13AC1PGLO",
     "name": "Cudy M1300 AC1200 Dual Band Whole Home Wi-Fi Mesh Router (1 Pack)",
     "slug": "cudy-m1300-ac1200-dual-band-whole-home-wi-fi-mesh-router-1-pack",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/cudy-m1300-_1-pack_-ac1200--1.jpg",
     "unit": "pack",
     "unit_value": 1.0,
@@ -120,6 +120,41 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:57"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 3045.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:31"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 3045.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:16"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 3045.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:24"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 3045.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:57"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 3045.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:32:40"
     }
   ]
 }

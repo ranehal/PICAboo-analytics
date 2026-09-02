@@ -4,8 +4,8 @@
     "sku": "HPIT315PETRS",
     "name": "HP Ink Tank 315 Photo and Document All-in-One Printers",
     "slug": "hp-ink-tank-315-photo-and-document-all-in-one-printers",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "56",
+    "category_name": "Printer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/p/hp-ink-tank-315_15.11.23_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 8.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:47"
+    },
+    {
+      "price": 13999.0,
+      "special_price": 12949.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:06"
+    },
+    {
+      "price": 13999.0,
+      "special_price": 12949.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:42"
+    },
+    {
+      "price": 13999.0,
+      "special_price": 12949.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:37"
+    },
+    {
+      "price": 13999.0,
+      "special_price": 12949.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:13"
+    },
+    {
+      "price": 13999.0,
+      "special_price": 12949.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:17"
     }
   ]
 }

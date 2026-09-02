@@ -4,8 +4,8 @@
     "sku": "MKBE52EAMG",
     "name": "MKB E52 Sports TWS Earbuds",
     "slug": "mkb-e52-sports-tws-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/5/e52-black-11-25-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:59"
+    },
+    {
+      "price": 820.0,
+      "special_price": 729.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:42"
+    },
+    {
+      "price": 820.0,
+      "special_price": 729.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:42"
+    },
+    {
+      "price": 820.0,
+      "special_price": 729.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:57"
+    },
+    {
+      "price": 820.0,
+      "special_price": 729.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:03"
+    },
+    {
+      "price": 820.0,
+      "special_price": 729.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:28"
     }
   ]
 }

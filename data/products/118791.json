@@ -4,8 +4,8 @@
     "sku": "XCC68XOO",
     "name": "XO\u2011CC68 18W Single USB Fast Car Charger",
     "slug": "xo-cc68-18w-single-usb-fast-car-charger",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/c/cc68-23-april-2026-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:23"
+    },
+    {
+      "price": 420.0,
+      "special_price": 325.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:30"
+    },
+    {
+      "price": 420.0,
+      "special_price": 325.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:52:38"
+    },
+    {
+      "price": 420.0,
+      "special_price": 325.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:30:54"
+    },
+    {
+      "price": 420.0,
+      "special_price": 325.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:48:30"
+    },
+    {
+      "price": 420.0,
+      "special_price": 325.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:23"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "BBD05ADR",
     "name": "Baseus Bowie D05 Wireless & Type-C to 3.5mm Headphone",
     "slug": "baseus-bowie-d05-bluetooth-5-3-headphone",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/bowie-d05-9.11.23..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:49"
+    },
+    {
+      "price": 5200.0,
+      "special_price": 3249.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:03"
+    },
+    {
+      "price": 5200.0,
+      "special_price": 3249.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:15:52"
+    },
+    {
+      "price": 5200.0,
+      "special_price": 3249.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:59"
+    },
+    {
+      "price": 5200.0,
+      "special_price": 3249.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:20"
+    },
+    {
+      "price": 5200.0,
+      "special_price": 3249.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:39"
     }
   ]
 }

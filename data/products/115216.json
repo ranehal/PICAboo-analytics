@@ -4,8 +4,8 @@
     "sku": "BMG99THL",
     "name": "Beurer Compact Deep Tissue Massager (MG99)",
     "slug": "beurer-compact-deep-tissue-massager-mg99",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "3984",
+    "category_name": "Healthcare and Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg99-12-april-2026.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:52"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:31:33"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:32"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:50"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:49"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:21"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "104311HCL",
     "name": "Havells Digitouch 7L RO UV Mineral Water Purifier",
     "slug": "havells-digitouch-7l-ro-uv-mineral-water-purifier",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "78",
+    "category_name": "Water Purifiers & Filters",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/havells-digitouch-7l-ro-uv-mineral-water-purifier-1-20-26-1.jpg",
     "unit": "L",
     "unit_value": 7.0,
@@ -120,6 +120,48 @@
       "discount": 32.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:37"
+    },
+    {
+      "price": 43490.0,
+      "special_price": 29690.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:17"
+    },
+    {
+      "price": 43490.0,
+      "special_price": 29690.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:42"
+    },
+    {
+      "price": 43490.0,
+      "special_price": 29690.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:32"
+    },
+    {
+      "price": 43490.0,
+      "special_price": 29690.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:28"
+    },
+    {
+      "price": 43490.0,
+      "special_price": 29690.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:27:24"
+    },
+    {
+      "price": 43490.0,
+      "special_price": 29690.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:39"
     }
   ]
 }

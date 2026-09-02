@@ -4,8 +4,8 @@
     "sku": "H1T12TW4RYETACHSO",
     "name": "Hisense 1 Ton Full DC Inverter Air Conditioner (AS-12TW4RYETD00BU)",
     "slug": "hisense-1-ton-inverter-air-conditioner-as-12tw4ryetd00bu",
-    "category_id": "64",
-    "category_name": "Air Conditioner",
+    "category_id": "3479",
+    "category_name": "Hisense",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/2/12tw4ryetd00bu-main_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,48 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:30:21"
+    },
+    {
+      "price": 59900.0,
+      "special_price": 45490.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:07"
+    },
+    {
+      "price": 59900.0,
+      "special_price": 45490.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:32:19"
+    },
+    {
+      "price": 59900.0,
+      "special_price": 45490.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:14:24"
+    },
+    {
+      "price": 59900.0,
+      "special_price": 45490.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:26:20"
+    },
+    {
+      "price": 59900.0,
+      "special_price": 45490.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:11"
+    },
+    {
+      "price": 59900.0,
+      "special_price": 45490.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:06:02"
     }
   ]
 }

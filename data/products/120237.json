@@ -1,7 +1,7 @@
 {
   "product": {
     "id": "120237",
-    "sku": "MTS138P2NEP",
+    "sku": "MTS138P2PRE",
     "name": "Many 2 Pin 3 Port Extension Socket (Multiplug) | MTS-138",
     "slug": "many-2-pin-3-port-extension-socket-multiplug-mts-138",
     "category_id": "7",
@@ -50,6 +50,41 @@
       "discount": 43.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:44"
+    },
+    {
+      "price": 1170.0,
+      "special_price": 670.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:07:20"
+    },
+    {
+      "price": 1170.0,
+      "special_price": 670.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:49"
+    },
+    {
+      "price": 1170.0,
+      "special_price": 670.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:02"
+    },
+    {
+      "price": 1170.0,
+      "special_price": 670.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:21"
+    },
+    {
+      "price": 1170.0,
+      "special_price": 670.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:19"
     }
   ]
 }

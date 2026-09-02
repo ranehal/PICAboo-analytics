@@ -4,16 +4,16 @@
     "sku": "A4AT75WKGLO",
     "name": "A4Tech Bloody AT75 Wired Mechanical Gaming Keyboard",
     "slug": "a4tech-bloody-at75-wired-mechanical-gaming-keyboard",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "6",
+    "category_name": "Gaming Gears",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/t/at75-11-9-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 10028.0,
+    "special_price": 8720.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:55:03"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:25:37"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 13:00:49"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:40:03"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:56:22"
+    },
+    {
+      "price": 10028.0,
+      "special_price": 8720.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:24"
     }
   ]
 }

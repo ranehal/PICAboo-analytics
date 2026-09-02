@@ -4,8 +4,8 @@
     "sku": "CC03BAPTC",
     "name": "CHARG 12W Fast Charging Adapter (C-03B)",
     "slug": "charg-12w-fast-charging-adapter-c-03b",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/0/c03c-19-5-25-1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 48.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:19"
+    },
+    {
+      "price": 380.0,
+      "special_price": 199.0,
+      "discount": 48.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:59"
+    },
+    {
+      "price": 380.0,
+      "special_price": 199.0,
+      "discount": 48.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:04"
+    },
+    {
+      "price": 380.0,
+      "special_price": 199.0,
+      "discount": 48.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:47"
+    },
+    {
+      "price": 380.0,
+      "special_price": 199.0,
+      "discount": 48.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:31"
     }
   ]
 }

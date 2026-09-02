@@ -4,8 +4,8 @@
     "sku": "RCEO35RVB",
     "name": "Rivo\u00a03.5mm Male to Female AUX Extension Cable\u00a0(CE-01)\u00a0\u2013 Black",
     "slug": "rivo-ce-o1-3-5mm-male-to-female-aux-extension-cable-black",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/e/ce-01--10-1-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:29"
+    },
+    {
+      "price": 199.0,
+      "special_price": 149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:08"
+    },
+    {
+      "price": 199.0,
+      "special_price": 149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:08"
+    },
+    {
+      "price": 199.0,
+      "special_price": 149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:52"
+    },
+    {
+      "price": 199.0,
+      "special_price": 149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:02"
+    },
+    {
+      "price": 199.0,
+      "special_price": 149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:46"
     }
   ]
 }

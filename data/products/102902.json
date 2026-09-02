@@ -4,8 +4,8 @@
     "sku": "CGFTT40BSRVB",
     "name": "Rivo 3A USB to Micro Type-B Fast Charging Data Cable (CT-402 BS)-White",
     "slug": "rivo-3a-usb-to-micro-type-b-fast-charging-data-cable-ct-402-bs-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/s/bs-1-6-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:54"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:14"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:27"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:29"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:41:35"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:57"
     }
   ]
 }

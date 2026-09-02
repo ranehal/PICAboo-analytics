@@ -4,8 +4,8 @@
     "sku": "KSJBS8704KIO",
     "name": "Kiam 2.8L Rice Cooker (SJBS-8704)",
     "slug": "kiam-2-8l-rice-cooker-sjbs-8704",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "77",
+    "category_name": "Rice Cooker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/cooker-steel-8704-11-11-25.jpg",
     "unit": "L",
     "unit_value": 2.8,
@@ -120,6 +120,48 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:34:14"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:04:40"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 12:36:19"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:17:51"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:29:04"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-29 10:26:37"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-02 11:09:40"
     }
   ]
 }

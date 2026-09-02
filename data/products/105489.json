@@ -4,8 +4,8 @@
     "sku": "HD928091PNE",
     "name": "Philips 6.2L Smart Air Fryer (HD9280/91)",
     "slug": "philips-6-2l-smart-air-fryer-hd9280-91",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "2936",
+    "category_name": "Air Fryer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/h/_hd9280-5-7-26.jpg",
     "unit": "L",
     "unit_value": 6.2,
@@ -120,6 +120,48 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:33:55"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 16290.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:07"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 16290.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:46"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 16290.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:26"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 16290.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:45"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 16290.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:05"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 16290.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:25"
     }
   ]
 }

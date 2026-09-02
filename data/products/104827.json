@@ -4,8 +4,8 @@
     "sku": "10928AJW",
     "name": "UGREEN CM408\u00a0USB 2.0 Bluetooth 5.0 Adapter\u00a0(10928)",
     "slug": "ugreen-cm408-usb2-0-bluetooth-5-0-adapter-10928",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/0/10928-3.9.24-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:27"
+    },
+    {
+      "price": 1160.0,
+      "special_price": 899.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:37"
+    },
+    {
+      "price": 1160.0,
+      "special_price": 899.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:43"
+    },
+    {
+      "price": 1160.0,
+      "special_price": 899.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:20"
+    },
+    {
+      "price": 1160.0,
+      "special_price": 899.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:06"
     }
   ]
 }

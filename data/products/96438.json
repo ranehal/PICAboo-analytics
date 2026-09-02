@@ -4,8 +4,8 @@
     "sku": "HPCBG680BTRS",
     "name": "HP 680 Black & Tri-Color Ink Advantage Cartridge (Set)",
     "slug": "hp-680-black-tri-color-ink-advantage-cartridge-set",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/p/hp-680-black-8-7-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:36"
+    },
+    {
+      "price": 2956.0,
+      "special_price": 2749.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:22"
+    },
+    {
+      "price": 2956.0,
+      "special_price": 2749.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:22"
+    },
+    {
+      "price": 2956.0,
+      "special_price": 2749.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:01"
+    },
+    {
+      "price": 2956.0,
+      "special_price": 2749.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:28"
+    },
+    {
+      "price": 2956.0,
+      "special_price": 2749.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:55"
     }
   ]
 }

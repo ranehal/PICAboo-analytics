@@ -4,8 +4,8 @@
     "sku": "INFXSM8ZTC",
     "name": "Rinbo Tempered Glass Screen Protector for Infinix Smart 8",
     "slug": "rinbo-tempered-glass-screen-protector-for-infinix-smart-8",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "200",
+    "category_name": "Screen Protector",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/m/smart-8.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 34.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:13"
+    },
+    {
+      "price": 149.0,
+      "special_price": 99.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:35"
+    },
+    {
+      "price": 149.0,
+      "special_price": 99.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:02"
+    },
+    {
+      "price": 149.0,
+      "special_price": 99.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:23"
+    },
+    {
+      "price": 149.0,
+      "special_price": 99.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:49:28"
+    },
+    {
+      "price": 149.0,
+      "special_price": 99.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:55"
     }
   ]
 }

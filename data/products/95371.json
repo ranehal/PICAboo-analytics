@@ -4,8 +4,8 @@
     "sku": "CDW291HX1AVAMZ",
     "name": "Casio DW-291HX-1AV Youth Multifunction Digital Men\u2019s Watch",
     "slug": "casio-dw-291hx-1av-youth-multifunction-digital-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/w/dw-291hx-4123.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 27.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:06:01"
+    },
+    {
+      "price": 9590.0,
+      "special_price": 6999.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:36:34"
+    },
+    {
+      "price": 9590.0,
+      "special_price": 6999.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:13:47"
+    },
+    {
+      "price": 9590.0,
+      "special_price": 6999.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:53:20"
+    },
+    {
+      "price": 9590.0,
+      "special_price": 6999.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:09:09"
+    },
+    {
+      "price": 9590.0,
+      "special_price": 6999.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:44:01"
     }
   ]
 }

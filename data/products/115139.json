@@ -4,8 +4,8 @@
     "sku": "PBP26000ASDCCUE",
     "name": "Pandora Box Plus with 29800 Arcade Games (Split Double Control)",
     "slug": "pandora-box-plus-with-29800-arcade-games-split-double-control",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "6",
+    "category_name": "Gaming Gears",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/a/pandora-box-split-double-control-7-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:03"
+    },
+    {
+      "price": 16000.0,
+      "special_price": 14190.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:37"
+    },
+    {
+      "price": 16000.0,
+      "special_price": 14190.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:49"
+    },
+    {
+      "price": 16000.0,
+      "special_price": 14190.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:03"
+    },
+    {
+      "price": 16000.0,
+      "special_price": 14190.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:22"
+    },
+    {
+      "price": 16000.0,
+      "special_price": 14190.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:05"
     }
   ]
 }

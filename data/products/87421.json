@@ -4,16 +4,16 @@
     "sku": "A4FG20GLO",
     "name": "A4tech FG20 Fstyler 2.4G Slim Wireless Mouse",
     "slug": "a4tech-fg20-fstyler-2-4g-slim-wireless-mouse",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/4/a4tech-fg20-f.jpg",
     "unit": "g",
     "unit_value": 2.4,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 1202.0,
+    "special_price": 1045.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:54:01"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:23:15"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 12:58:51"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:38:14"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:53:52"
+    },
+    {
+      "price": 1202.0,
+      "special_price": 1045.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:01"
     }
   ]
 }

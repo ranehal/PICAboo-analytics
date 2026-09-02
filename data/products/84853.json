@@ -4,8 +4,8 @@
     "sku": "FFS5708SETHSP",
     "name": "Fossil FS5708SET Neutra Chronograph Men\u2019s Watch",
     "slug": "fossil-fs5708set-neutra-chronograph-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/s/fs5708set.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,20 @@
       "discount": 36.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:07:15"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:37:52"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:15:48"
     }
   ]
 }

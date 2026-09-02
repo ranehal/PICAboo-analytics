@@ -4,8 +4,8 @@
     "sku": "UG1ALAJW",
     "name": "UGREEN 1M Alu Case Braided Lightning Cable",
     "slug": "ugreen-1m-alu-case-braided-lightning-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/l/alu-12-5-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:53"
+    },
+    {
+      "price": 1365.0,
+      "special_price": 890.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:48"
+    },
+    {
+      "price": 1365.0,
+      "special_price": 890.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:50:32"
+    },
+    {
+      "price": 1365.0,
+      "special_price": 890.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:47"
+    },
+    {
+      "price": 1365.0,
+      "special_price": 890.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:03"
+    },
+    {
+      "price": 1365.0,
+      "special_price": 890.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:37"
     }
   ]
 }

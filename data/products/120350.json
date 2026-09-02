@@ -4,14 +4,14 @@
     "sku": "HB11DPSBL",
     "name": "Huawei Band 11 (Durable Polymer)",
     "slug": "huawei-band-11-durable-polymer",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/band-11-polymer-30-july-2026.jpg",
+    "category_id": "334",
+    "category_name": "Smart Band",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/u/huawei-band-11-_durable-polymer_-11-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 5499.0,
-    "special_price": 5009.0,
-    "discount": 9.0,
+    "special_price": 4899.0,
+    "discount": 11.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -127,6 +127,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:40:54"
+    },
+    {
+      "price": 5499.0,
+      "special_price": 5009.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:29"
+    },
+    {
+      "price": 5499.0,
+      "special_price": 5009.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:43:32"
+    },
+    {
+      "price": 5499.0,
+      "special_price": 5009.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:23:42"
+    },
+    {
+      "price": 5499.0,
+      "special_price": 5009.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:37:53"
+    },
+    {
+      "price": 5499.0,
+      "special_price": 4899.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:19"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122417",
+    "sku": "BSV65ADR",
+    "name": "Baseus\u00a0Superior Series\u00a0Supervooc 65W\u00a0USB-A to Type-C\u00a0Fast Charging Data Cable 1M - Black",
+    "slug": "baseus-cable-supervooc-65w-superior-series-fast-charging-data-cable-usb-to-type-c-1m-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/1/51Qyvq7-5DL-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 900.0,
+    "special_price": 700.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 900.0,
+      "special_price": 700.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:02"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
     "sku": "YSNG9ATL",
     "name": "Yison Celebrat G9 3.5mm Wired Earphones",
     "slug": "yison-celebrat-g9-3-5mm-earphone",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/9/g9--27-8-24-.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 29.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:47"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:25"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:35"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:30:22"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:11"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:40"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "Philips Air Purifier AC0917SMB",
     "name": "Philips Air Purifier AC-0917",
     "slug": "philips-air-purifier-ac-0917",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "452",
+    "category_name": "Air Purifier",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/ac-0917-16-4-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:18"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:29"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:51"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:23"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:30"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:27:19"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:03"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "S21DSSSWBWHG",
     "name": "Skmei 2150 Digital Square Silicone Strap Watch for Men\u2013Black",
     "slug": "skmei-2150-digital-square-silicone-strap-watch-for-men-black",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/k/skmei-2150-9-2-25--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:03:17"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:33:43"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:13"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:50:23"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:06:20"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:40:30"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "LC442C1GSB",
     "name": "LDNIO LC442C 100W\u00a0Fast Charging Type-C To Type-C\u00a0Data Cable",
     "slug": "ldnio-lc442c-100w-fast-charging-type-c-to-type-c-data-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/d/ldnio-lc442c_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 33.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:04"
+    },
+    {
+      "price": 780.0,
+      "special_price": 520.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:17"
+    },
+    {
+      "price": 780.0,
+      "special_price": 520.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:52:47"
+    },
+    {
+      "price": 780.0,
+      "special_price": 520.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:31:46"
+    },
+    {
+      "price": 780.0,
+      "special_price": 520.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:49:45"
+    },
+    {
+      "price": 780.0,
+      "special_price": 520.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:52"
     }
   ]
 }

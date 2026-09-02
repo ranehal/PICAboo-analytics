@@ -4,8 +4,8 @@
     "sku": "SPB543J1WOG",
     "name": "Seiko Prospex SPB543J1 Limited Edition Men\u2019s Watch - Blue",
     "slug": "seiko-prospex-spb543j1-limited-edition-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/p/spb543j1-13-july-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:22"
+    },
+    {
+      "price": 180000.0,
+      "special_price": 117000.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:14"
+    },
+    {
+      "price": 180000.0,
+      "special_price": 117000.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:49"
+    },
+    {
+      "price": 180000.0,
+      "special_price": 117000.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:41:43"
+    },
+    {
+      "price": 180000.0,
+      "special_price": 117000.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:33"
+    },
+    {
+      "price": 180000.0,
+      "special_price": 117000.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:32:25"
     }
   ]
 }

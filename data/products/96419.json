@@ -4,8 +4,8 @@
     "sku": "HPGT539070TRS",
     "name": "HP Black (GT53) 90ml, Cyan, Magenta & Yellow (GT52) 70ml Ink Bottle (All Pack of 4)",
     "slug": "hp-black-gt53-90ml-cyan-magenta-yellow-gt52-70ml-ink-bottle-all-pack-of-4",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/p/4pack30-2.jpg",
     "unit": "ml",
     "unit_value": 90.0,
@@ -120,6 +120,41 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:36"
+    },
+    {
+      "price": 4784.0,
+      "special_price": 4449.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:22"
+    },
+    {
+      "price": 4784.0,
+      "special_price": 4449.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:22"
+    },
+    {
+      "price": 4784.0,
+      "special_price": 4449.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:01"
+    },
+    {
+      "price": 4784.0,
+      "special_price": 4449.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:28"
+    },
+    {
+      "price": 4784.0,
+      "special_price": 4449.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:55"
     }
   ]
 }

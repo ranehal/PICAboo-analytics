@@ -4,8 +4,8 @@
     "sku": "A1WCUCCIL",
     "name": "Anker Charger (140W, 4-Port, PD 3.1) with USB-C Cable",
     "slug": "anker-charger-140w-4-port-pd-3-1-with-usb-c-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anker-charger-_140w_--25-3-26-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:04"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 5699.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:58"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 5699.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:43:54"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 5699.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:23:49"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 5699.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:00"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 5699.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:18:10"
     }
   ]
 }

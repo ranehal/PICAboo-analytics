@@ -4,8 +4,8 @@
     "sku": "FLHA21PRODABA",
     "name": "FLH A21 PRO Professional HD Dual Camera FPV Racing Drone",
     "slug": "flh-a21-pro-professional-hd-dual-camera-fpv-racing-drone",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "3925",
+    "category_name": "Drone & Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/l/flh-a21-pro-12-8-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:03"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:59"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:59"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:33"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:25"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:39"
     }
   ]
 }

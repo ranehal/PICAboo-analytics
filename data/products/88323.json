@@ -4,8 +4,8 @@
     "sku": "PHI1200V1000W10LPEL",
     "name": "Power Home IPS 1200VA Without Battery",
     "slug": "power-home-ips-1200va-1000-watt-6-light-5-fan-1-led-tv",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "474",
+    "category_name": "IPS",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/o/power-home-ips-2000va-1600-watt-_10-light-10-fan-1-led-tv_1_1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:58"
+    },
+    {
+      "price": 18900.0,
+      "special_price": 18790.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:16"
+    },
+    {
+      "price": 18900.0,
+      "special_price": 18790.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:57"
+    },
+    {
+      "price": 18900.0,
+      "special_price": 18790.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:32"
+    },
+    {
+      "price": 18900.0,
+      "special_price": 18790.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:31:48"
+    },
+    {
+      "price": 18900.0,
+      "special_price": 18790.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:35"
     }
   ]
 }

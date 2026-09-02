@@ -4,8 +4,8 @@
     "sku": "CGS010PEGLO",
     "name": "Cudy GS1010PE 10-Port Gigabit PoE+ Switch",
     "slug": "cudy-gs1010pe-10-port-gigabit-poe-switch",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "131",
+    "category_name": "USB Ports & Hubs",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/s/gs1010pe--14-5-24---4.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 8.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:46"
+    },
+    {
+      "price": 6400.0,
+      "special_price": 5900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:52"
+    },
+    {
+      "price": 6400.0,
+      "special_price": 5900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:12"
+    },
+    {
+      "price": 6400.0,
+      "special_price": 5900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:34"
+    },
+    {
+      "price": 6400.0,
+      "special_price": 5900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:19"
+    },
+    {
+      "price": 6400.0,
+      "special_price": 5900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:59"
     }
   ]
 }

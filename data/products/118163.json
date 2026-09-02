@@ -4,8 +4,8 @@
     "sku": "POE36EGDX",
     "name": "SKE 20000MAH 36W Mini DC Router UPS (POE-36E)",
     "slug": "ske-20000mah-36w-mini-dc-router-ups-poe-36e",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "460",
+    "category_name": "UPS",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/k/ske-poe-36e-12-4-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 47.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:16"
+    },
+    {
+      "price": 7500.0,
+      "special_price": 3999.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:58"
+    },
+    {
+      "price": 7500.0,
+      "special_price": 3999.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:43"
+    },
+    {
+      "price": 7500.0,
+      "special_price": 3999.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:21"
+    },
+    {
+      "price": 7500.0,
+      "special_price": 3999.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:58"
+    },
+    {
+      "price": 7500.0,
+      "special_price": 3999.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:15"
     }
   ]
 }

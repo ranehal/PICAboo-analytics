@@ -1,11 +1,11 @@
 {
   "product": {
     "id": "118442",
-    "sku": "M18SFNEP",
+    "sku": "M18SFPRE",
     "name": "MIRA 18\" Stand Fan",
     "slug": "mira-18-stand-fan",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "88",
+    "category_name": "Fan",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mira-18-inch-stand-fan-28-6-26-3.jpg",
     "unit": null,
     "unit_value": null,
@@ -50,6 +50,20 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:44"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8640.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:07:39"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8640.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:56"
     }
   ]
 }

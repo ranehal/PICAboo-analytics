@@ -4,8 +4,8 @@
     "sku": "R21WRC05TBRML",
     "name": "Rimlo 21W Fast Charging Adapter with Type-B Cable (RC-05)",
     "slug": "rimlo-21w-fast-charging-adapter-with-type-b-cable-rc-05",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/c/rc-05-11n-18-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:42"
+    },
+    {
+      "price": 430.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:19"
+    },
+    {
+      "price": 430.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:15"
+    },
+    {
+      "price": 430.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:04"
+    },
+    {
+      "price": 430.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:10"
+    },
+    {
+      "price": 430.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:17"
     }
   ]
 }

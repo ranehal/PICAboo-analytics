@@ -4,8 +4,8 @@
     "sku": "CWU650GLO",
     "name": "CUDY WU650 Dual Band 650Mbps Wi-Fi USB Adapter",
     "slug": "cudy-wu650-dual-band-650mbps-wi-fi-usb-adapter-mini-size",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/cudy-wu650-650mbps-wi-fi-dual-band-usb-adapter-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:04"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 1000.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:49"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 1000.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:46"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 1000.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:40"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 1000.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:09"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 1000.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:50"
     }
   ]
 }

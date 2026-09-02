@@ -4,8 +4,8 @@
     "sku": "CQMTPE515D1AVAMZ",
     "name": "Casio Quartz Men\u2019s Watch (MTP-E515D-1AVDF)",
     "slug": "casio-quartz-men-s-watch-mtp-e515d-1avdf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-e515d-1avdf-28-12-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:03:42"
+    },
+    {
+      "price": 13490.0,
+      "special_price": 11490.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:34:11"
+    },
+    {
+      "price": 13490.0,
+      "special_price": 11490.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:43"
+    },
+    {
+      "price": 13490.0,
+      "special_price": 11490.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:50:53"
+    },
+    {
+      "price": 13490.0,
+      "special_price": 11490.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:06:45"
+    },
+    {
+      "price": 13490.0,
+      "special_price": 11490.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:41:08"
     }
   ]
 }

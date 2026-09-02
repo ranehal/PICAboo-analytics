@@ -4,8 +4,8 @@
     "sku": "YSE5FGDATL",
     "name": "Yison SE5 Bluetooth Wireless Neckband - Black",
     "slug": "yison-se5-bluetooth-wireless-neckband-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/5/e5--27-8-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 46.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:42"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 799.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:52"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 799.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:32"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 799.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:44"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 799.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:53"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 799.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:26"
     }
   ]
 }

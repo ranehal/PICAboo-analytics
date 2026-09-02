@@ -4,8 +4,8 @@
     "sku": "JRTCG02ADR",
     "name": "Joyroom GaN Ultra 67W 4-ports Fast Charging Adapter with 1.2m 100W Type-C to Type-C Cable (JR-TCG02)",
     "slug": "joyroom-gan-ultra-67w-4-tcg02",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/c/tcg02.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:28"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2699.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:04"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2699.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:03"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2699.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:47"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2699.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:31"
     }
   ]
 }

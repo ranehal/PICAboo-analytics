@@ -4,8 +4,8 @@
     "sku": "A4TBP91SGLO",
     "name": "A4tech Bloody P91s 8000 Dpi RGB Gaming Mouse",
     "slug": "a4tech-bloody-p91s-8000-dpi-rgb-gaming-mouse",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/4/a4tech-bloody-p91s-23.09.24.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:01"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2250.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:15"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2250.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:51"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2250.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:14"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2250.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:52"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2250.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:05"
     }
   ]
 }

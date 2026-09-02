@@ -4,8 +4,8 @@
     "sku": "VH600WPSSTI",
     "name": "VOLTME Hako 600W Power Station",
     "slug": "voltme-hako-600w-power-station",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/o/voltme-hako-lite--600w-navy-blue-26.5.24.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:29"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:08"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:08"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:52"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:02"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:46"
     }
   ]
 }

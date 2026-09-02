@@ -4,8 +4,8 @@
     "sku": "TABMF920ADR",
     "name": "TABWD 4G Wireless Pocket Router (MF920)-White",
     "slug": "tabwd-4g-wireless-pocket-router-mf920-white",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/a/taw--26-5-24--1.jpg",
     "unit": "g",
     "unit_value": 4.0,
@@ -120,6 +120,41 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:52"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2149.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:21"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2149.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:04"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2149.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:15"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2149.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:50"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2149.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:32:19"
     }
   ]
 }

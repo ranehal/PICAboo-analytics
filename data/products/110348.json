@@ -4,8 +4,8 @@
     "sku": "CCH9109414NASMT",
     "name": "Corsair K70 RGB Pro Mechanical Gaming Keyboard (CH-9109414-NA)",
     "slug": "corsair-k70-rgb-pro-mechanical-gaming-keyboard-ch-9109414-na",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/7/k70-rgb-pro-26-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:26"
+    },
+    {
+      "price": 19210.0,
+      "special_price": 18990.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:22:49"
+    },
+    {
+      "price": 19210.0,
+      "special_price": 18990.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:20"
+    },
+    {
+      "price": 19210.0,
+      "special_price": 18990.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:46"
+    },
+    {
+      "price": 19210.0,
+      "special_price": 18990.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:25"
+    },
+    {
+      "price": 19210.0,
+      "special_price": 18990.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:47"
     }
   ]
 }

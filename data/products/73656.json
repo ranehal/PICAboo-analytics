@@ -4,8 +4,8 @@
     "sku": "FNG1474SM01WOG",
     "name": "Fastrack Stainless Steel Men\u2019s Watch (1474SM01)",
     "slug": "fastrack-ng1474sm01-stainless-steel-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/4/1474sm01-10-7-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:07:32"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 7225.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:38:12"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 7225.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:16:12"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 7225.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:55:09"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 7225.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:11:14"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 7225.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:46:15"
     }
   ]
 }

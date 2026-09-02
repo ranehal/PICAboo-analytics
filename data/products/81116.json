@@ -4,8 +4,8 @@
     "sku": "FCPGPXSRNB",
     "name": "Rinbo Full Curved Premium Screen Protector for iPhone XS Max/11 Pro Max ",
     "slug": "rinbo-full-curved-premium-glass-protector-for-iphone-xs-max-11-pro-max",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "200",
+    "category_name": "Screen Protector",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/c/screen-protector-glass03.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 40.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:34"
+    },
+    {
+      "price": 249.0,
+      "special_price": 149.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:02"
+    },
+    {
+      "price": 249.0,
+      "special_price": 149.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:46:23"
+    },
+    {
+      "price": 249.0,
+      "special_price": 149.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:39"
+    },
+    {
+      "price": 249.0,
+      "special_price": 149.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:09"
+    },
+    {
+      "price": 249.0,
+      "special_price": 149.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:26"
     }
   ]
 }

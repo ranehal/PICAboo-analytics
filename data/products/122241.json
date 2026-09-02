@@ -4,8 +4,8 @@
     "sku": "VeFHWY0GYGLO",
     "name": "Vention FHWY0 20W 5000mAh Power Bank- Gradient Yellow",
     "slug": "vention-fhwy0-20w-5000mah-power-bank-gradient-yellow",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/h/fhwy0-15-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -57,6 +57,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:55"
+    },
+    {
+      "price": 2049.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:47"
+    },
+    {
+      "price": 2049.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:47:15"
+    },
+    {
+      "price": 2049.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:18"
+    },
+    {
+      "price": 2049.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:46"
+    },
+    {
+      "price": 2049.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:36"
     }
   ]
 }

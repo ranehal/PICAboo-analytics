@@ -4,8 +4,8 @@
     "sku": "TOS5BCWSTI",
     "name": "TOZO S5 Bluetooth Calling Smart Watch",
     "slug": "tozo-s5-bluetooth-calling-smart-watch",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "226",
+    "category_name": "Smart Watch",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/o/tozo-s5-bluetooth-calling-smart-watch-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:59"
+    },
+    {
+      "price": 6299.0,
+      "special_price": 5849.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:54"
+    },
+    {
+      "price": 6299.0,
+      "special_price": 5849.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:46:10"
+    },
+    {
+      "price": 6299.0,
+      "special_price": 5849.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:32"
+    },
+    {
+      "price": 6299.0,
+      "special_price": 5849.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:56"
+    },
+    {
+      "price": 6299.0,
+      "special_price": 5849.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:25"
     }
   ]
 }

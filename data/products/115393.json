@@ -4,14 +4,14 @@
     "sku": "OOPB7103CMOV",
     "name": "Oraimo PowerNova L11 Mini 10000mAh 22.5W Power Bank with Built-in Cable (OPB-7103C)",
     "slug": "oraimo-powernova-l11-10000mah-power-bank-with-built-in-cable-opb-7103c",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/oraimo-powernova-l11-mini-10000mah-22.5w-power-bank-with-built-in-cable-_opb-7103c_-4-15-26-1.jpg",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/opb-7103c-15-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 2390.0,
-    "special_price": 2275.0,
-    "discount": 5.0,
+    "special_price": 2151.0,
+    "discount": 10.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -120,6 +120,41 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:20"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2275.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:33"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2275.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:44:08"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2275.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:47"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2275.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:13"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2151.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:18:14"
     }
   ]
 }

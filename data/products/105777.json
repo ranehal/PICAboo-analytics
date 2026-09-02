@@ -4,8 +4,8 @@
     "sku": "X6A1TATCXGO",
     "name": "Xiaomi 6A Type-A to Type-C Cable (1m)",
     "slug": "xiaomi-6a-1m-type-a-to-type-c-fast-charging-data-cable-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-6a-9-3-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:04"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:21"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:39"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:46"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:07"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:04"
     }
   ]
 }

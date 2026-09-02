@@ -4,8 +4,8 @@
     "sku": "XBPCFFIOT",
     "name": "Beebest Portable Charging Flashlight (F1P)",
     "slug": "xiaomi-beebest-portable-charging-flashlight-f1p",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "3915",
+    "category_name": "Light",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/l/flashlight-f1p-19-10-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:39:12"
+    },
+    {
+      "price": 1890.0,
+      "special_price": 1549.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:10:18"
+    },
+    {
+      "price": 1890.0,
+      "special_price": 1549.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:25"
+    },
+    {
+      "price": 1890.0,
+      "special_price": 1549.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:22:04"
+    },
+    {
+      "price": 1890.0,
+      "special_price": 1549.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:34:48"
+    },
+    {
+      "price": 1890.0,
+      "special_price": 1549.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:29"
     }
   ]
 }

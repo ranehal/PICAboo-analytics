@@ -4,8 +4,8 @@
     "sku": "LG502XPTKE",
     "name": "Logitech G502 X Plus Gaming Mouse",
     "slug": "logitech-g502-x-plus-gaming-mouse",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "6",
+    "category_name": "Gaming Gears",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/d/sdvgbdxfbnc.jpg222.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:15"
+    },
+    {
+      "price": 16549.0,
+      "special_price": 16000.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:09"
+    },
+    {
+      "price": 16549.0,
+      "special_price": 16000.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:06"
+    },
+    {
+      "price": 16549.0,
+      "special_price": 16000.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:43"
+    },
+    {
+      "price": 16549.0,
+      "special_price": 16000.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:40"
+    },
+    {
+      "price": 16549.0,
+      "special_price": 16000.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:39"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "CL5G7BUDFTTS",
     "name": "Casio General Watch for Women (LTP-V005G-7BUDF)",
     "slug": "casio-general-watch-for-women-ltp-v005g-7budf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/l/cl5g7budfsmm.jpg",
     "unit": "g",
     "unit_value": 5.0,
@@ -92,6 +92,27 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:33:52"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4419.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:45:54"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4419.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:58:01"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4419.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:02:34"
     }
   ]
 }

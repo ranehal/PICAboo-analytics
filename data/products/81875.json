@@ -4,8 +4,8 @@
     "sku": "BDJE350MBT",
     "name": "Black+Decker 1000W Compact Juice Extractor (JE350-B5)",
     "slug": "black-decker-1000w-compact-juicer-je350",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/l/black-_-decker-je350-b5-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:38"
+    },
+    {
+      "price": 9850.0,
+      "special_price": 7590.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:08"
+    },
+    {
+      "price": 9850.0,
+      "special_price": 7590.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:35"
+    },
+    {
+      "price": 9850.0,
+      "special_price": 7590.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:16"
+    },
+    {
+      "price": 9850.0,
+      "special_price": 7590.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:31"
+    },
+    {
+      "price": 9850.0,
+      "special_price": 7590.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:27:05"
+    },
+    {
+      "price": 9850.0,
+      "special_price": 7590.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:10:55"
     }
   ]
 }

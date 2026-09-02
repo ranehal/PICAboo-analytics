@@ -4,8 +4,8 @@
     "sku": "CLTP1303DD7AVWEC",
     "name": "Casio Analog Silver Dial Stainless Steel Watch for Women (LTP-1303DD-7AV)",
     "slug": "casio-analog-silver-dial-stainless-steel-watch-for-women-ltp-1303dd-7av",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1303dd-7a-25-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:36"
+    },
+    {
+      "price": 5637.0,
+      "special_price": 4902.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:21"
+    },
+    {
+      "price": 5637.0,
+      "special_price": 4902.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:45"
+    },
+    {
+      "price": 5637.0,
+      "special_price": 4902.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:41:59"
+    },
+    {
+      "price": 5637.0,
+      "special_price": 4902.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:51"
+    },
+    {
+      "price": 5637.0,
+      "special_price": 4902.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:11"
     }
   ]
 }

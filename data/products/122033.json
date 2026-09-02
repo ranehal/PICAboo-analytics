@@ -4,8 +4,8 @@
     "sku": "PMG794075GSB",
     "name": "Philips All-in-One 7000 Series Beard & Hair Trimmer (MG7940/75)",
     "slug": "philips-all-in-one-7000-series-beard-hair-trimmer-mg7940-75",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg7940-12-17-25-1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -99,6 +99,41 @@
       "discount": 33.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:39"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 9990.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:40"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 9990.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:18"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 9990.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:41:46"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 9990.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:45"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 9990.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:33:08"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "LJDD400128GBGLO",
     "name": "Lexar JumpDrive D400 Dual Drive 128GB USB 3.2 Type-C Pen Drive",
     "slug": "lexar-jumpdrive-d400-dual-drive-128gb-usb-3-1-type-c-pen-drive",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "52",
+    "category_name": "Pen Drive",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/4/d400_2_.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:38"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1995.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:11"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1995.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:51"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1995.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:19"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1995.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:23"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1995.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:44"
     }
   ]
 }

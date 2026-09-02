@@ -4,8 +4,8 @@
     "sku": "KZYTREDCXADR",
     "name": "KZ EDCX 10mm\u00a0In-Ear Wired Earphone \u2013 Grey",
     "slug": "kz-edcx-10mm-in-ear-wired-earphone-grey",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/z/kz--edcx--8-1-24---2off.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:44"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:19"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:27"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:30:03"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:04"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:38"
     }
   ]
 }

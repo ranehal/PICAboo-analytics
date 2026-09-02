@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122563",
+    "sku": "WW1001SHL",
+    "name": "Warmac\u00a02200W Infrared Cooker (W1001)",
+    "slug": "warmac-2200w-infrared-cooker-w1001",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/1/w1001-30-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4990.0,
+    "special_price": 3190.0,
+    "discount": 36.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4990.0,
+      "special_price": 3190.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:49"
+    }
+  ]
+}

@@ -4,9 +4,9 @@
     "sku": "GP8P5G12GB128GB",
     "name": "Google Pixel 8 Pro 5G 12GB/128GB\u00a0",
     "slug": "google-pixel-8-pro-5g-12gb-128gb",
-    "category_id": "171",
-    "category_name": "Smartphones",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/i/pixel-8-pro-12gb-2-8-26.jpg",
+    "category_id": "3757",
+    "category_name": "5G Smartphone",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/o/google-pixel-8-pro-19-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
     "price": 79999.0,
@@ -127,6 +127,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:30:54"
+    },
+    {
+      "price": 79999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:38"
+    },
+    {
+      "price": 79999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:53"
+    },
+    {
+      "price": 79999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:14:55"
+    },
+    {
+      "price": 79999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:34:13"
+    },
+    {
+      "price": 79999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:32"
     }
   ]
 }

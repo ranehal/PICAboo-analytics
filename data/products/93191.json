@@ -4,8 +4,8 @@
     "sku": "UGUS261CIL",
     "name": "UGREEN US261 USB 2.0C 1m M/M Round Cable Nickel Plating Aluminum Shell (50150)",
     "slug": "ugreen-us261-usb-2-0c-1m-m-m-round-cable-nickel-plating-aluminum-shell-50150",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/5/_50150_-17-5-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:21"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:17"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:16"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:41"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:42:03"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:07"
     }
   ]
 }

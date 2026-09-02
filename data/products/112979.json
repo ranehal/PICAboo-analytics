@@ -4,8 +4,8 @@
     "sku": "AA2795IOT",
     "name": "Apple A2795 60W Type-C to Type-C 1m Charging Cable (MQKJ3ZM/A)",
     "slug": "apple-a2795-60w-type-c-to-type-c-1m-charging-cable-mqkj3zm-a",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/p/apple-60w-24-9-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 22.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:26"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1945.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:32"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1945.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:21"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1945.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:33"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1945.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:07"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1945.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:19"
     }
   ]
 }

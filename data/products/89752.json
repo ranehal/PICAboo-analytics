@@ -4,8 +4,8 @@
     "sku": "DAC1200JNN",
     "name": "D-Link COVR-1100 Wireless AC1200 Dual Band Mesh Router",
     "slug": "d-link-covr-1100-wireless-ac1200-dual-band-mesh-router",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/-/d-link-covr-1100-wireless-ac1200-dual-band-mesh-router.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:00"
+    },
+    {
+      "price": 5005.0,
+      "special_price": 4550.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:39"
+    },
+    {
+      "price": 5005.0,
+      "special_price": 4550.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:20"
+    },
+    {
+      "price": 5005.0,
+      "special_price": 4550.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:31"
+    },
+    {
+      "price": 5005.0,
+      "special_price": 4550.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:03"
+    },
+    {
+      "price": 5005.0,
+      "special_price": 4550.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:26"
     }
   ]
 }

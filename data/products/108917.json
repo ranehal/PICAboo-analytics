@@ -4,8 +4,8 @@
     "sku": "C9097WWSBMHS",
     "name": "Curren 9097 Women\u2019s Watch-Silver Blue",
     "slug": "curren-9097-women-s-watch-silver-blue",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/9097-silver-blue_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:35"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1300.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:08"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1300.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:11"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1300.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:09"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1300.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:16"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1300.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:05"
     }
   ]
 }

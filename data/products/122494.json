@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122494",
+    "sku": "DLM22A201YMEXL",
+    "name": "Dahua DHI-LM22-A201YW 21.45\u2033 FHD 100Hz IPS Panel Monitor",
+    "slug": "dahua-dhi-lm22-a201yw-21-45-fhd-100hz-ips-panel-monitor",
+    "category_id": "47",
+    "category_name": "Monitor",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/m/lm22-a201yw-25-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10860.0,
+    "special_price": 9050.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10860.0,
+      "special_price": 9050.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:42:37"
+    },
+    {
+      "price": 10860.0,
+      "special_price": 9050.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:29"
+    }
+  ]
+}

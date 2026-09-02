@@ -4,8 +4,8 @@
     "sku": "FSSA40KSSB",
     "name": "Panasonic ES-SA40 Electric Shaver ",
     "slug": "panasonic-es-sa40-electric-shaver",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/s/es-sa40-28-6-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:44"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6199.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:01"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6199.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:41"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6199.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:49"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6199.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:03"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6199.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:03"
     }
   ]
 }

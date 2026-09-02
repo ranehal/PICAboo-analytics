@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121434",
+    "sku": "M260JNN",
+    "name": "HP M260 Black Wired Optical Gaming Mouse (7ZZ81AA)",
+    "slug": "hp-m260-black-wired-optical-gaming-mouse-7zz81aa",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-07-14T163911_470.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 793.0,
+    "special_price": 679.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 793.0,
+      "special_price": 679.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:00"
+    }
+  ]
+}

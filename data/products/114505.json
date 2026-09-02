@@ -4,8 +4,8 @@
     "sku": "G16CCLGLM",
     "name": "Glimmer 16 Color Changing LED Atmosphere Lamp with Remote Control",
     "slug": "glimmer-16-color-changing-led-atmosphere-lamp-with-remote-control",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/color-changing-led-atmosphere-lamp--15-12-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 22.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:40"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1169.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:39"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1169.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:51:20"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1169.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:32:56"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1169.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:47:04"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1169.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:04"
     }
   ]
 }

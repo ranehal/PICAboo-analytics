@@ -4,8 +4,8 @@
     "sku": "ACEC13ADR",
     "name": "ACEFAST C13-04 Charging Data Cable USB-A Type-C to Type-C",
     "slug": "acefast-c13-04-charging-data-cable-usb-a-type-c-to-type-c",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acefast-c13-04-usba-usbc-to-usbc-charging-data-cable-connectors-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:53"
+    },
+    {
+      "price": 600.0,
+      "special_price": 480.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:48"
+    },
+    {
+      "price": 600.0,
+      "special_price": 480.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:50:47"
+    },
+    {
+      "price": 600.0,
+      "special_price": 480.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:30:08"
+    },
+    {
+      "price": 600.0,
+      "special_price": 480.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:33"
+    },
+    {
+      "price": 600.0,
+      "special_price": 480.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:37"
     }
   ]
 }

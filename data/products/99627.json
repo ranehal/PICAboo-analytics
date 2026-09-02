@@ -4,8 +4,8 @@
     "sku": "B0133110511100ADR",
     "name": "Baseus 2-in-1 Out HDMI Converter Switcher (B01331105111-00)-Black",
     "slug": "baseus-2-in-1-out-hdmi-converter-switcher-b01331105111-00-black",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "131",
+    "category_name": "USB Ports & Hubs",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-2-in-1--8.2.24.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:06"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:52"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:12"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:34"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:19"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:59"
     }
   ]
 }

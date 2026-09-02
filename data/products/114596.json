@@ -4,8 +4,8 @@
     "sku": "AJ042ACI",
     "name": "ACI Smart 85L Air Compressor",
     "slug": "aci-smart-85l-air-compressor",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/0/j040-18-12-25-1_1.jpg",
     "unit": "L",
     "unit_value": 85.0,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:59"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:58"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:50"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:51"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:40"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:34"
     }
   ]
 }

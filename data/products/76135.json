@@ -4,8 +4,8 @@
     "sku": "VGRV052MBT",
     "name": "VGR V-052 Electric Hair Clipper",
     "slug": "vgr-v-052-electric-hair-clipper",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/-/v-052-30-9-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 59.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:17"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1112.0,
+      "discount": 59.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:51"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1112.0,
+      "discount": 59.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:23"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1112.0,
+      "discount": 59.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:34"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1112.0,
+      "discount": 59.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:38"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1112.0,
+      "discount": 59.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:49"
     }
   ]
 }

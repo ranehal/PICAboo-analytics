@@ -4,9 +4,9 @@
     "sku": "GP10PRO16GB128GB",
     "name": "Google Pixel 10 Pro 5G 16GB/128GB",
     "slug": "google-pixel-10-pro-5g-16gb-128gb",
-    "category_id": "171",
-    "category_name": "Smartphones",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/i/pixel-10-pro-16gb-2-8-26.jpg",
+    "category_id": "337",
+    "category_name": "Google",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/o/google-pixel-10-19-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
     "price": 139999.0,
@@ -127,6 +127,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:31:11"
+    },
+    {
+      "price": 139999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:01:03"
+    },
+    {
+      "price": 139999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:41:32"
+    },
+    {
+      "price": 139999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:15:20"
+    },
+    {
+      "price": 139999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:35:28"
+    },
+    {
+      "price": 139999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:53"
     }
   ]
 }

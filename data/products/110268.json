@@ -4,8 +4,8 @@
     "sku": "CCH9302211APSMT",
     "name": "Corsair Glaive Pro RGB Wired Gaming Mouse (CH-9302211-AP)",
     "slug": "corsair-glaive-pro-rgb-wired-gaming-mouse-ch-9302211-ap",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/l/glaive-rgb-24-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:26"
+    },
+    {
+      "price": 7399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:22:49"
+    },
+    {
+      "price": 7399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:20"
+    },
+    {
+      "price": 7399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:46"
+    },
+    {
+      "price": 7399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:25"
+    },
+    {
+      "price": 7399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:53"
     }
   ]
 }

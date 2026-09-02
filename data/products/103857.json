@@ -4,8 +4,8 @@
     "sku": "AH21AMG",
     "name": "Awei H21 2.01 Inch Sports Smart Watch",
     "slug": "awei-h21-2-01-inch-ips-screen-sports-smart-watch",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "226",
+    "category_name": "Smart Watch",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/w/awei-h21-sports-smart-watch-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:21"
+    },
+    {
+      "price": 2366.0,
+      "special_price": 1999.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:16"
+    },
+    {
+      "price": 2366.0,
+      "special_price": 1999.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:46:58"
+    },
+    {
+      "price": 2366.0,
+      "special_price": 1999.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:32"
+    },
+    {
+      "price": 2366.0,
+      "special_price": 1999.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:34"
+    },
+    {
+      "price": 2366.0,
+      "special_price": 1999.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:42:10"
     }
   ]
 }

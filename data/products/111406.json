@@ -4,8 +4,8 @@
     "sku": "F38162NM02WOG",
     "name": "Fastrack Stunners X Black Dial Watch for Men (38162NM02)",
     "slug": "fastrack-stunners-x-black-dial-watch-for-men-38162nm02",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/8/38162nm02-17-7-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:59"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5650.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:54"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5650.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:56"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5650.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:09"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5650.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:03:58"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5650.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:57"
     }
   ]
 }

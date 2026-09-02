@@ -4,8 +4,8 @@
     "sku": "CWR3AX3GBRGLO",
     "name": "Cudy WR3000 AX3000 Gigabit Dual Band Wi-Fi 6 Router",
     "slug": "cudy-wr3000-ax3000-gigabit-dual-band-wi-fi-6-router",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/cudy-wr3000-ax3000-gigabit-dual-band-wi-fi-6-router-1.jpg",
     "unit": "g",
     "unit_value": 3000.0,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:57"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4900.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:31"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4900.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:16"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4900.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:24"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4900.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:57"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4900.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:32:40"
     }
   ]
 }

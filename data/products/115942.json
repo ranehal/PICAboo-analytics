@@ -4,15 +4,15 @@
     "sku": "HWGT6WSMT",
     "name": "Huawei Watch GT 6 46mm BT Calling Smart Watch",
     "slug": "huawei-watch-gt-6-46mm-bt-calling-smart-watch",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "226",
+    "category_name": "Smart Watch",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/watch-gt6-3-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 29999.0,
-    "special_price": 26699.0,
-    "discount": 11.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   "history": [
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:57"
+    },
+    {
+      "price": 29999.0,
+      "special_price": 26699.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:44"
+    },
+    {
+      "price": 29999.0,
+      "special_price": 26699.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:44:46"
+    },
+    {
+      "price": 29999.0,
+      "special_price": 26699.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:13"
+    },
+    {
+      "price": 29999.0,
+      "special_price": 26699.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:28"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-02 11:29:00"
     }
   ]
 }

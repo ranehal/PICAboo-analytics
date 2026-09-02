@@ -4,8 +4,8 @@
     "sku": "CLTP1215A2A2TTS",
     "name": "Casio LTP-1215A-2A2 Analog Stainless Steel Women\u2019s Watch",
     "slug": "casio-ltp-1215a-2a2-analog-stainless-steel-women-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio_ltp-121.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,27 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:31:34"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4029.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:44:26"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4029.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:55:48"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4029.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:01:40"
     }
   ]
 }

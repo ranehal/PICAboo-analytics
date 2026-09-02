@@ -4,16 +4,16 @@
     "sku": "VREL4006SSRFL",
     "name": "Vision 1.8 Liter Double Pot Rice Cooker (REL-40-06 SS) ",
     "slug": "vision-1-8-liter-double-pot-rice-cooker-rel-40-06-ss",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "77",
+    "category_name": "Rice Cooker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/1/v103921.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 2990.0,
+    "special_price": 2449.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,48 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:34:29"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:05:00"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 12:36:28"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:18:03"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:29:16"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-29 10:26:46"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2449.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:41"
     }
   ]
 }

@@ -2,10 +2,10 @@
   "product": {
     "id": "121344",
     "sku": "COI069ADR",
-    "name": "COTEetCi 14-in-1 Multifunctional Cleaning Set (OT-069)",
+    "name": "COTECi 14-in-1 Multifunctional Cleaning Set (OT-069)",
     "slug": "coteci-ot-069-14-in-1-multifunctional-cleaning-set-for-electronic-devices",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/t/ot-069-14-in-1-multifunctional-cleaning-set-1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:46"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:28"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:45"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:25"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:48"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:01"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "PMXEX1021PNE",
     "name": "Panasonic\u00a0400W 3-in-1\u00a0Blender (MX-EX1021)",
     "slug": "panasonic-mx-ex1021-400-watt-3-in-1-stand-mixer",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/x/mx-ex1021-17-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:38"
+    },
+    {
+      "price": 6400.0,
+      "special_price": 4190.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:08"
+    },
+    {
+      "price": 6400.0,
+      "special_price": 4190.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:35"
+    },
+    {
+      "price": 6400.0,
+      "special_price": 4190.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:16"
+    },
+    {
+      "price": 6400.0,
+      "special_price": 4190.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:31"
+    },
+    {
+      "price": 6400.0,
+      "special_price": 4190.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:27:05"
+    },
+    {
+      "price": 6400.0,
+      "special_price": 4190.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:10:55"
     }
   ]
 }

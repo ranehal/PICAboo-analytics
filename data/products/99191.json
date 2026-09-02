@@ -4,8 +4,8 @@
     "sku": "BCAKF000001ATL",
     "name": "Baseus Cafule Series Metal 66W 0.25m USB to Type-C Data Cable (CAKF000001)",
     "slug": "baseus-cafule-series-metal-66w-0-25m-usb-to-type-c-data-cable-cakf000001",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/cakf000001-3.6.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:13"
+    },
+    {
+      "price": 599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:58"
+    },
+    {
+      "price": 599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:51"
+    },
+    {
+      "price": 599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:29"
+    },
+    {
+      "price": 599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:41:49"
+    },
+    {
+      "price": 599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:49"
     }
   ]
 }

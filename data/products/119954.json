@@ -4,8 +4,8 @@
     "sku": "DRF358T1G2BXBPDWO",
     "name": "Daewoo 358L Top Mounted Inverter Refrigerator (DRF-358T1G2BX) - Black Pearl",
     "slug": "daewoo-358l-top-mounted-inverter-refrigerator-drf-358t1g2bx-black-pearl",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/a/daewoo-drf-358t1g2bx-top-mounted-inverter-358l-refrigerator5-11-26-4.jpg",
     "unit": "L",
     "unit_value": 358.0,
@@ -120,6 +120,48 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:31:53"
+    },
+    {
+      "price": 65900.0,
+      "special_price": 58990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:18"
+    },
+    {
+      "price": 65900.0,
+      "special_price": 58390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:33:31"
+    },
+    {
+      "price": 65900.0,
+      "special_price": 58390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:05"
+    },
+    {
+      "price": 65900.0,
+      "special_price": 58390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:26:48"
+    },
+    {
+      "price": 65900.0,
+      "special_price": 58990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:10"
+    },
+    {
+      "price": 65900.0,
+      "special_price": 58990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:25"
     }
   ]
 }

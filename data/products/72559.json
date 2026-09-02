@@ -4,8 +4,8 @@
     "sku": "RM201INV",
     "name": "Remax RM-201 Wired Earphone With Mic-Tarnish",
     "slug": "remax-rm-201-wired-earphone-with-mic-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/remax-rm-201-wired-earphone-with-mic.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:19"
+    },
+    {
+      "price": 349.0,
+      "special_price": 269.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:54"
+    },
+    {
+      "price": 349.0,
+      "special_price": 269.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:46:29"
+    },
+    {
+      "price": 349.0,
+      "special_price": 269.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:54"
+    },
+    {
+      "price": 349.0,
+      "special_price": 269.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:15"
+    },
+    {
+      "price": 349.0,
+      "special_price": 269.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:33"
     }
   ]
 }

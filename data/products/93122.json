@@ -4,9 +4,9 @@
     "sku": "SRS72R5011B4D3SBN",
     "name": "Samsung 700 Liters Side by Side Refrigerator (RS72R5011B4/D2)",
     "slug": "samsung-700-liter-side-by-side-refrigerator-rs72r5011b4-d3",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/s/rs72r5011b4-d2-1-8-26.jpg",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-700-liters-side-by-side-refrigerator-_rs72r5011b4-8-18-26-10.jpg",
     "unit": null,
     "unit_value": null,
     "price": 204900.0,
@@ -120,6 +120,48 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:31:41"
+    },
+    {
+      "price": 204900.0,
+      "special_price": 166502.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:11"
+    },
+    {
+      "price": 204900.0,
+      "special_price": 166502.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:33:24"
+    },
+    {
+      "price": 204900.0,
+      "special_price": 166502.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:15:52"
+    },
+    {
+      "price": 204900.0,
+      "special_price": 166502.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:26:34"
+    },
+    {
+      "price": 204900.0,
+      "special_price": 166502.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:59"
+    },
+    {
+      "price": 204900.0,
+      "special_price": 166502.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:12"
     }
   ]
 }

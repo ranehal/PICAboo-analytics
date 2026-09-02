@@ -4,8 +4,8 @@
     "sku": "RUABDLIOT",
     "name": " realme Buds Wireless 3 ANC",
     "slug": "realme-buds-wireless-3-bluetooth-neckband",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/y/l/yl--10--6-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 32.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:42"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2699.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:52"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2699.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:11:18"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2699.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:44"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2699.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:53"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2699.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:26"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "UL532ATL",
     "name": "UGREEN (L532) 240W Type-C to C PD Fast Charging Cable",
     "slug": "ugreen-l532-240w-type-c-to-c-pd-fast-charging-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/5/l532-21-5-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:44"
+    },
+    {
+      "price": 493.0,
+      "special_price": 449.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:34"
+    },
+    {
+      "price": 493.0,
+      "special_price": 449.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:50:26"
+    },
+    {
+      "price": 493.0,
+      "special_price": 449.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:42"
+    },
+    {
+      "price": 493.0,
+      "special_price": 449.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:45:51"
+    },
+    {
+      "price": 493.0,
+      "special_price": 449.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:24"
     }
   ]
 }

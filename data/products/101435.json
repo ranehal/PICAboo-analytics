@@ -4,8 +4,8 @@
     "sku": "BASFDERIOT",
     "name": "Baseus Minimalist Series 20W Type-C to Lightning Fast Charging Data Cable",
     "slug": "baseus-minimalist-series-20w-type-c-to-lightning-fast-charging-data-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/0/20w15-4-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 50.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:00"
+    },
+    {
+      "price": 990.0,
+      "special_price": 499.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:23"
+    },
+    {
+      "price": 990.0,
+      "special_price": 499.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:36"
+    },
+    {
+      "price": 990.0,
+      "special_price": 499.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:11"
+    },
+    {
+      "price": 990.0,
+      "special_price": 499.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:41:39"
+    },
+    {
+      "price": 990.0,
+      "special_price": 499.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:34"
     }
   ]
 }

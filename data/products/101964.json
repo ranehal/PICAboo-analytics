@@ -4,8 +4,8 @@
     "sku": "V007D2EUTTS",
     "name": "Casio LTP-V007D-2EUDF Classic Stainless Steel Women\u2019s Watch",
     "slug": "casio-ltp-v007d-2eudf-classic-stainless-steel-women-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v007d-2eudf1.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,27 @@
       "discount": 26.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:30:41"
+    },
+    {
+      "price": 4749.0,
+      "special_price": 3509.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:44:08"
+    },
+    {
+      "price": 4749.0,
+      "special_price": 3509.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:55:12"
+    },
+    {
+      "price": 4749.0,
+      "special_price": 3509.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:01:17"
     }
   ]
 }

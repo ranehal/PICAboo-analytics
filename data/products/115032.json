@@ -4,8 +4,8 @@
     "sku": "IEC6P4KSCSLX",
     "name": "IMILAB EC6 Pro 4K Wi-Fi Plug-in Spotlight Outdoor Security Camera",
     "slug": "imilab-ec6-pro-4k-wi-fi-plug-in-spotlight-outdoor-security-camera",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "216",
+    "category_name": "IP Cameras",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/c/ec6-pro-4-aug-2026.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:32"
+    },
+    {
+      "price": 9499.0,
+      "special_price": 8499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:16"
+    },
+    {
+      "price": 9499.0,
+      "special_price": 8499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:26"
+    },
+    {
+      "price": 9499.0,
+      "special_price": 8499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:07"
+    },
+    {
+      "price": 9499.0,
+      "special_price": 8499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:52:57"
+    },
+    {
+      "price": 9499.0,
+      "special_price": 8499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:14"
     }
   ]
 }

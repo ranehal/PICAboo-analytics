@@ -4,8 +4,8 @@
     "sku": "AF34TTZ",
     "name": "Awei F34 Folding Desk Circulator Fan",
     "slug": "awei-f34-folding-desk-circulator-fan",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "88",
+    "category_name": "Fan",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/3/f34-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:04"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:18"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:14"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:22:06"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:38"
     }
   ]
 }

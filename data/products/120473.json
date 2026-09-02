@@ -4,8 +4,8 @@
     "sku": "BAHZ11ADR",
     "name": "Baseus HZ11 3.5mm Wired Earphone with Mic",
     "slug": "baseus-earphone-hz11-3-5mm-wired-earphone-mic-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/B/a/Baseus-Earphone-3_5mm-HZ11-A00164200113-Z1-1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:20"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:09"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:47:53"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:30"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:34"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:48"
     }
   ]
 }

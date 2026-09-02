@@ -4,8 +4,8 @@
     "sku": "CMTPB146D2AVTTS",
     "name": "Casio Standard Blue Dial Watch for Unisex (MTP-B146D-2AV)",
     "slug": "casio-standard-blue-dial-watch-for-unisex-mtp-b146d-2av",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-b146d-2av-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:02"
+    },
+    {
+      "price": 9959.0,
+      "special_price": 8299.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:19"
+    },
+    {
+      "price": 9959.0,
+      "special_price": 8299.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:04:01"
+    },
+    {
+      "price": 9959.0,
+      "special_price": 8299.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:59"
+    },
+    {
+      "price": 9959.0,
+      "special_price": 8299.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:33"
+    },
+    {
+      "price": 9959.0,
+      "special_price": 8299.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:11"
     }
   ]
 }

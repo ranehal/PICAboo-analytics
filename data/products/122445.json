@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/ops-5102-19-aug-2026-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 48600.0,
-    "special_price": 39990.0,
-    "discount": 18.0,
+    "price": 47010.0,
+    "special_price": 42309.0,
+    "discount": 10.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -29,6 +29,48 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:58"
+    },
+    {
+      "price": 48600.0,
+      "special_price": 39990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:42"
+    },
+    {
+      "price": 48600.0,
+      "special_price": 39990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:47"
+    },
+    {
+      "price": 48600.0,
+      "special_price": 39990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:13"
+    },
+    {
+      "price": 48600.0,
+      "special_price": 39990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:14"
+    },
+    {
+      "price": 47010.0,
+      "special_price": 42309.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:54"
+    },
+    {
+      "price": 47010.0,
+      "special_price": 42309.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:08:00"
     }
   ]
 }

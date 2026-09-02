@@ -4,8 +4,8 @@
     "sku": "BBE18TADR",
     "name": "Baseus Bowie E18 TWS Earbuds",
     "slug": "baseus-bowie-e18-tws-earphones",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/1/e18-7-4-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:43"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:49"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:06:34"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:28"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:31"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:41"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "product": {
     "id": "112133",
-    "sku": "MA102YKZBE",
+    "sku": "MA102YKFNI",
     "name": "Miyako 2200W Infrared Cooker (ATC-102YK)",
     "slug": "miyako-2200w-infrared-cooker-atc-102yk",
     "category_id": "7",
@@ -120,6 +120,48 @@
       "discount": 29.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:23"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:10"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:30"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:22"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:43"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:36"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:39"
     }
   ]
 }

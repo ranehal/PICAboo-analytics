@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122544",
+    "sku": "ABQ4930WGLO",
+    "name": "Asus Vivobook Go 14 Ryzen 5 40 16GB RAM 512GB SSD 15.6 Inch IPS Laptop (E1504FA-BQ4930W)",
+    "slug": "asus-vivobook-go-14-ryzen-5-40-16gb-ram-512gb-ssd-15-6-inch-ips-laptop-e1504fa-bq4930w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/9/l9-29-8-26_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 93000.0,
+    "special_price": 92700.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 93000.0,
+      "special_price": 92700.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:59"
+    }
+  ]
+}

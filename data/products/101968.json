@@ -4,8 +4,8 @@
     "sku": "V009D2EUTTS",
     "name": "Casio LTP-V009D-2EUDF Stylish Analog Waterproof Women\u2019s Watch",
     "slug": "casio-ltp-v009d-2eudf-stylish-analog-waterproof-women-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v009d-2eudf-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,27 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:30:41"
+    },
+    {
+      "price": 4490.0,
+      "special_price": 4159.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:44:08"
+    },
+    {
+      "price": 4490.0,
+      "special_price": 4159.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:55:06"
+    },
+    {
+      "price": 4490.0,
+      "special_price": 4159.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:01:17"
     }
   ]
 }

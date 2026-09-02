@@ -4,8 +4,8 @@
     "sku": "GSDRC18RRCGZO",
     "name": "Gazi Smiss DRC-18R 1.8 Liters Rice Cooker",
     "slug": "gazi-smiss-drc-18r-1-8-liters-rice-cooker",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "77",
+    "category_name": "Rice Cooker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/r/drc-18r-26-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:21"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:52"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:25"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:54"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:07"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:41"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:49"
     }
   ]
 }

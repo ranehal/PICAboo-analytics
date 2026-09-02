@@ -4,8 +4,8 @@
     "sku": "HFEH1OKPSTTZ",
     "name": "Hi-Future Event Horizon 100w Output Karaoke Party Speaker",
     "slug": "hi-future-event-horizon-100w-output-karaoke-party-speaker",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "211",
+    "category_name": "Speaker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/v/event-horizon-22-4-26-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:24"
+    },
+    {
+      "price": 19900.0,
+      "special_price": 18999.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:20"
+    },
+    {
+      "price": 19900.0,
+      "special_price": 18999.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:40"
+    },
+    {
+      "price": 19900.0,
+      "special_price": 18999.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:05"
+    },
+    {
+      "price": 19900.0,
+      "special_price": 18999.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:15"
     }
   ]
 }

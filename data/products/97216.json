@@ -4,8 +4,8 @@
     "sku": "MMJK18KNCBD",
     "name": "Miyako MJK-18 KN 1.8L Electric Kettle-Blue",
     "slug": "miyako-mjk-18-kn-1-8l-electric-kettle-blue",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "75",
+    "category_name": "Electric Kettle",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/j/mjk-18-kn-26.11.23..jpg",
     "unit": "L",
     "unit_value": 1.8,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:00"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1250.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:06:09"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1250.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:37:31"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1250.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:19:02"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1250.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:31:41"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1250.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:28:04"
     }
   ]
 }

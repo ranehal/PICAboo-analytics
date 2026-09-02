@@ -4,8 +4,8 @@
     "sku": "S21RDTWWHG",
     "name": "Skmei 2190 Rainbow Dial Trendy Women\u2019s Wristwatch",
     "slug": "skmei-2190-rainbow-dial-trendy-women-s-wristwatch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/k/skmei-2190-9-2-25--2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:47"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:30"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:34"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:06"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:36"
     }
   ]
 }

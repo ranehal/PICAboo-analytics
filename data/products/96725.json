@@ -4,8 +4,8 @@
     "sku": "SPEATSE4TTZ",
     "name": "SoundPEATS Engine4 TWS Earbuds",
     "slug": "soundpeats-engine4-tws-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/n/engine-4-21-1-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,27 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:25"
+    },
+    {
+      "price": 4050.0,
+      "special_price": 3949.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:11"
+    },
+    {
+      "price": 4050.0,
+      "special_price": 3949.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:15:52"
+    },
+    {
+      "price": 4050.0,
+      "special_price": 3949.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:59"
     }
   ]
 }

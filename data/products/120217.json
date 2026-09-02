@@ -4,8 +4,8 @@
     "sku": "CWU900GLO",
     "name": "Cudy AX900 Dual-Band Wi-Fi 6 USB Adapter (WU900)",
     "slug": "cudy-ax900-dual-band-wi-fi-6-usb-adapter-wu900",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/u/wu900-18-may-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:27"
+    },
+    {
+      "price": 1550.0,
+      "special_price": 1450.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:46"
+    },
+    {
+      "price": 1550.0,
+      "special_price": 1450.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:17"
+    },
+    {
+      "price": 1550.0,
+      "special_price": 1450.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:49"
+    },
+    {
+      "price": 1550.0,
+      "special_price": 1450.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:37"
+    },
+    {
+      "price": 1550.0,
+      "special_price": 1450.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:30"
     }
   ]
 }

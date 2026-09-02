@@ -6,7 +6,7 @@
     "slug": "titan-2480wm02-sparkle-purple-watch-for-women",
     "category_id": "1837",
     "category_name": "Lifestyle",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/4/2480wm02-10-7-25.jpg",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/4/2480wm02.jpg",
     "unit": null,
     "unit_value": null,
     "price": 12000.0,
@@ -120,6 +120,34 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:48"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10200.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:41:35"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10200.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:45:48"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10200.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:57:35"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10200.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:02:28"
     }
   ]
 }

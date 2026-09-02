@@ -1,7 +1,7 @@
 {
   "product": {
     "id": "118483",
-    "sku": "OACDCELBNEP",
+    "sku": "OACDCELBPRE",
     "name": "Osaka AC/DC Emergency LED Bulb",
     "slug": "osaka-ac-dc-emergency-led-bulb",
     "category_id": "7",
@@ -43,6 +43,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:42"
+    },
+    {
+      "price": 730.0,
+      "special_price": 650.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:07"
+    },
+    {
+      "price": 730.0,
+      "special_price": 650.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:35"
+    },
+    {
+      "price": 730.0,
+      "special_price": 650.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:36"
+    },
+    {
+      "price": 730.0,
+      "special_price": 650.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:54"
+    },
+    {
+      "price": 730.0,
+      "special_price": 650.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:25"
     }
   ]
 }

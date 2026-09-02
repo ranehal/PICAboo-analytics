@@ -4,16 +4,16 @@
     "sku": "LGUA8443RNG",
     "name": "LG UA84 UHD AI 43 Inch 4K Smart TV (43UA8450PSA)",
     "slug": "lg-ua84-uhd-ai-43-inch-4k-smart-tv",
-    "category_id": "29",
-    "category_name": "Television",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/g/lg-ua84-uhd-ai-43-inch-4k-smart-tv-_43ua8450psa_-7-30-26-1.jpg",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/5/f51-8-26.jpg",
     "unit": null,
     "unit_value": null,
     "price": 69900.0,
     "special_price": 53990.0,
     "discount": 23.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -127,6 +127,48 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:31:24"
+    },
+    {
+      "price": 69900.0,
+      "special_price": 53990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:01:19"
+    },
+    {
+      "price": 69900.0,
+      "special_price": 52990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:32:56"
+    },
+    {
+      "price": 69900.0,
+      "special_price": 52990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:15:36"
+    },
+    {
+      "price": 69900.0,
+      "special_price": 52990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:26:25"
+    },
+    {
+      "price": 69900.0,
+      "special_price": 53990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:47"
+    },
+    {
+      "price": 69900.0,
+      "special_price": 53990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:06:30"
     }
   ]
 }

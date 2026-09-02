@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122418",
+    "sku": "BCFCCADR",
+    "name": "Baseus Cafule Type-C to Type-C 100W PD Charging Cable 2M - Black",
+    "slug": "baseus-cafule-type-c-to-type-c-100w-pd-charging-cable-2m-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/0/8/08984edca877c47c0c0401dff3129c4d_1_-removebg-preview_1_.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 800.0,
+    "special_price": 520.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 800.0,
+      "special_price": 520.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:02"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
     "sku": "HCS21AEUACIL",
     "name": "Hoco 18W CS21A Rich Single Port QC3.0 EU Adapter",
     "slug": "hoco-18w-cs21a-rich-single-port-qc3-0-eu-adapter",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/s/cs21a-6-1-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:40"
+    },
+    {
+      "price": 319.0,
+      "special_price": 299.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:58"
+    },
+    {
+      "price": 319.0,
+      "special_price": 299.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:07"
+    },
+    {
+      "price": 319.0,
+      "special_price": 299.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:33"
+    },
+    {
+      "price": 319.0,
+      "special_price": 299.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:33"
+    },
+    {
+      "price": 319.0,
+      "special_price": 299.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:18:49"
     }
   ]
 }

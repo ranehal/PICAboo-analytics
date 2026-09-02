@@ -4,8 +4,8 @@
     "sku": "JROK6SWGSB",
     "name": "Joyroom Car Phone Mount for Windshield (JR-OK6)",
     "slug": "joyroom-car-phone-mount-for-windshield-jr-ok6",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/r/jr-ok6-ws-8-4-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:59"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:43"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:58"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:31:32"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:49:21"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:38"
     }
   ]
 }

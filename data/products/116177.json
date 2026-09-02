@@ -4,8 +4,8 @@
     "sku": "MET18KDCUEXL",
     "name": "Marsriva ET1 8000mAh Smart Mini DC UPS",
     "slug": "marsriva-et1-8000mah-smart-mini-dc-ups",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/a/marsriva-et1-2-14-26-4.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:24"
+    },
+    {
+      "price": 1988.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:06"
+    },
+    {
+      "price": 1988.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:54"
+    },
+    {
+      "price": 1988.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:59"
+    },
+    {
+      "price": 1988.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:55"
+    },
+    {
+      "price": 1988.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:43"
     }
   ]
 }

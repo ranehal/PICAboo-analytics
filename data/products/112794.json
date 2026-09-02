@@ -4,8 +4,8 @@
     "sku": "VVKGZJ01GNATL",
     "name": "Vyvylabs VitaMix Portable Juice Blender (VKGZJ01-GN)",
     "slug": "vyvylabs-vitamix-portable-juice-blender-vkgzj01-gn",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/y/vyvylabs-vitamix-15-9-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:26"
+    },
+    {
+      "price": 3360.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:48"
+    },
+    {
+      "price": 3360.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:55"
+    },
+    {
+      "price": 3360.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:19"
+    },
+    {
+      "price": 3360.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:00"
+    },
+    {
+      "price": 3360.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:21"
+    },
+    {
+      "price": 3360.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:27"
     }
   ]
 }

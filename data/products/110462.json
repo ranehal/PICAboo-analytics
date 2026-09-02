@@ -4,9 +4,9 @@
     "sku": "TMABTCWSLX",
     "name": "Titan Maestro AMOLED BT Calling Smart Watch",
     "slug": "titan-maestro-amoled-bt-calling-smart-watch",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/i/titan-maestro-28-5-25-1.jpg",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/4/x4-11-8-26-4.jpg",
     "unit": null,
     "unit_value": null,
     "price": 23995.0,
@@ -120,6 +120,41 @@
       "discount": 33.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:21"
+    },
+    {
+      "price": 23995.0,
+      "special_price": 15999.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:34"
+    },
+    {
+      "price": 23995.0,
+      "special_price": 15999.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:57"
+    },
+    {
+      "price": 23995.0,
+      "special_price": 15999.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:57"
+    },
+    {
+      "price": 23995.0,
+      "special_price": 15999.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:26"
+    },
+    {
+      "price": 23995.0,
+      "special_price": 15999.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:42"
     }
   ]
 }

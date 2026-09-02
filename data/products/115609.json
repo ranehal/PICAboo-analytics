@@ -4,8 +4,8 @@
     "sku": "UCD226CIL",
     "name": "UGREEN 15336 Nexode 100W 4-Port PD GaN Fast Charger US CD226-White",
     "slug": "ugreen-15336-nexode-100w-4-port-pd-gan-fast-charger-us-cd226-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/e/nexode-100w-20-1-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:22"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:16"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:09"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:33:44"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:22"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:08"
     }
   ]
 }

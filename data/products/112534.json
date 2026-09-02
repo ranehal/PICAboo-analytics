@@ -4,8 +4,8 @@
     "sku": "CSMTPB185D1AVAMZ",
     "name": "Casio Standard Watch for Men (MTP-B185D-1AV)",
     "slug": "casio-standard-watch-for-men-mtp-b185d-1av",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-b185d-1av-1-9-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 22.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:31"
+    },
+    {
+      "price": 11500.0,
+      "special_price": 8990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:33"
+    },
+    {
+      "price": 11500.0,
+      "special_price": 8990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:26"
+    },
+    {
+      "price": 11500.0,
+      "special_price": 8990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:39"
+    },
+    {
+      "price": 11500.0,
+      "special_price": 8990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:03:28"
+    },
+    {
+      "price": 11500.0,
+      "special_price": 8990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:37"
     }
   ]
 }

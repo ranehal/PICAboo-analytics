@@ -4,8 +4,8 @@
     "sku": "HOCW63ADR",
     "name": "Hoco W63 Triunfo ANC Noise Reduction Over-Ear Bluetooth Headphone-Black",
     "slug": "hoco-w63-triunfo-anc-noise-reduction-over-ear-bluetooth-earphone-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/E/D/EDA008769601A-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:02"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:07"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:46:38"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:20"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:11"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:21"
     }
   ]
 }

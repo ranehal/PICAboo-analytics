@@ -4,14 +4,14 @@
     "sku": "OJPN750OMO",
     "name": "Omron Blood Pressure Monitor (JPN 750)",
     "slug": "omron-blood-pressure-monitor-jpn-750",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/p/jpn-750-2-6-26.jpg",
+    "category_id": "3984",
+    "category_name": "Healthcare and Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/3/f35-8-26.jpg",
     "unit": null,
     "unit_value": null,
     "price": 8175.0,
-    "special_price": 6420.0,
-    "discount": 21.0,
+    "special_price": 6170.0,
+    "discount": 25.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -120,6 +120,41 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:01:24"
+    },
+    {
+      "price": 8175.0,
+      "special_price": 6420.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:31:41"
+    },
+    {
+      "price": 8175.0,
+      "special_price": 6420.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:44"
+    },
+    {
+      "price": 8175.0,
+      "special_price": 6420.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:11"
+    },
+    {
+      "price": 8175.0,
+      "special_price": 6170.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:53"
+    },
+    {
+      "price": 8175.0,
+      "special_price": 6170.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:30"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122497",
+    "sku": "DLM24A221YWMEXL",
+    "name": "Dahua DHI-LM24-A221YW 23.8\" 144Hz FHD IPS Monitor",
+    "slug": "dahua-dhi-lm24-a221yw-23-8-144hz-fhd-ips-monitor",
+    "category_id": "47",
+    "category_name": "Monitor",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/l/m/lm24-a221yw-25-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15042.0,
+    "special_price": 12535.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15042.0,
+      "special_price": 12535.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:42:37"
+    },
+    {
+      "price": 15042.0,
+      "special_price": 12535.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:29"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122566",
+    "sku": "OCD176MOV",
+    "name": "Oraimo SpeedLine 4 2-in-1 60W Fast Charging Cable (OCD-176)",
+    "slug": "oraimo-speedline-4-2-in-1-60w-fast-charging-cable-ocd-176",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocd-176-30-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 820.0,
+    "special_price": 738.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 820.0,
+      "special_price": 738.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:42"
+    }
+  ]
+}

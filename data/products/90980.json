@@ -4,8 +4,8 @@
     "sku": "BWM05ANCATL",
     "name": "Baseus Bowie WM05 ANC TWS Earbuds",
     "slug": "baseus-bowie-wm05-anc-tws-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/g/ngtw200001-3.6.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:39"
+    },
+    {
+      "price": 4770.0,
+      "special_price": 4549.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:29"
+    },
+    {
+      "price": 4770.0,
+      "special_price": 4549.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:17:06"
+    },
+    {
+      "price": 4770.0,
+      "special_price": 4549.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:18"
+    },
+    {
+      "price": 4770.0,
+      "special_price": 4549.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:47:33"
     }
   ]
 }

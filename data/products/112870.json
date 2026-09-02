@@ -4,8 +4,8 @@
     "sku": "A4R36UGLO",
     "name": "A4Tech Bloody R36 Ultra Dual Mode Wireless + Type-C Gaming Mouse",
     "slug": "a4tech-bloody-r36-ultra-dual-mode-wireless-type-c-gaming-mouse",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/3/r36-ultra-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:45"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3825.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:22:28"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3825.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:13"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3825.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:39"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3825.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:13"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3825.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:47"
     }
   ]
 }

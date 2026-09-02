@@ -4,8 +4,8 @@
     "sku": "FW6172SL04AMZ",
     "name": "Fastrack Wear Your Look Quartz Grey Dial Analog Watch For Women (6172SL04)",
     "slug": "fastrack-wear-your-look-quartz-grey-dial-analog-watch-for-women-6172sl04",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/1/6172sl04-13-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:51"
+    },
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:41"
+    },
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:42:22"
+    },
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:44:12"
+    },
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:55"
+    },
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:16"
     }
   ]
 }

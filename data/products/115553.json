@@ -4,8 +4,8 @@
     "sku": "ICHSFNCTWJBICE",
     "name": "ICE Prime Premium ENC TWS Earbuds-Jungle Black",
     "slug": "ice-prime-premium-enc-tws-earbuds-jungle-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/r/prime-premium-enc-blk-21-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 27.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:10"
+    },
+    {
+      "price": 2599.0,
+      "special_price": 1899.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:41"
+    },
+    {
+      "price": 2599.0,
+      "special_price": 1899.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:44:02"
+    },
+    {
+      "price": 2599.0,
+      "special_price": 1899.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:07"
+    },
+    {
+      "price": 2599.0,
+      "special_price": 1899.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:06"
+    },
+    {
+      "price": 2599.0,
+      "special_price": 1899.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:18:14"
     }
   ]
 }

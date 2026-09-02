@@ -4,8 +4,8 @@
     "sku": "PBHD32100MBT",
     "name": "Philips 1600W 30 Million Ion Com Hair Dryer (BHD321/00)",
     "slug": "philips-1600w-30-million-ion-com-hair-dryer-bhd321-00",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "391",
+    "category_name": "Hair Dryers",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/h/bhd321-00-15-7-25.jpg_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 39.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:59"
+    },
+    {
+      "price": 9699.0,
+      "special_price": 5950.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:59"
+    },
+    {
+      "price": 9699.0,
+      "special_price": 5950.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:06:30"
+    },
+    {
+      "price": 9699.0,
+      "special_price": 5950.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:16"
+    },
+    {
+      "price": 9699.0,
+      "special_price": 5950.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:15"
+    },
+    {
+      "price": 9699.0,
+      "special_price": 5950.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:20"
     }
   ]
 }

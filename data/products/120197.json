@@ -4,8 +4,8 @@
     "sku": "TVK21SCSSGLO",
     "name": "Thonet & Vander Kino 2.1 System 2-Channel Soundbar & Subwoofer",
     "slug": "thonet-vander-kino-2-1-system-2-channel-soundbar-subwoofer",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "30",
+    "category_name": "Home Theater & Sound System",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/i/kino-18-5-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:53"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 21400.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:07:16"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 21400.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:05"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 21400.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:19:43"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 21400.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:31:50"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 21400.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:36"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "product": {
     "id": "90357",
-    "sku": "SP750WSHL",
+    "sku": "SP750WFFT",
     "name": "Sahara Pride 750W 4-In-1 Mixer Grinder & Blender-White",
     "slug": "sahara-pride-750w-4-in-1-mixer-grinder-blender",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/sahara-pride-01.jpg",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/sahara-pride-750w-blu-10-10-23.jpg",
     "unit": null,
     "unit_value": null,
     "price": 6799.0,
@@ -120,6 +120,48 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:36"
+    },
+    {
+      "price": 6799.0,
+      "special_price": 6690.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:52"
+    },
+    {
+      "price": 6799.0,
+      "special_price": 6690.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:25"
+    },
+    {
+      "price": 6799.0,
+      "special_price": 6690.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:11"
+    },
+    {
+      "price": 6799.0,
+      "special_price": 6690.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:28"
+    },
+    {
+      "price": 6799.0,
+      "special_price": 6690.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:44"
+    },
+    {
+      "price": 6799.0,
+      "special_price": 6690.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:10:48"
     }
   ]
 }

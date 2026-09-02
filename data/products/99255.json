@@ -4,8 +4,8 @@
     "sku": "EWLACBLBKMATL",
     "name": "Energizer 10W Wireless Charging Pad with Micro USB Cable (WLACBLBKM) - Black",
     "slug": "energizer-10w-wireless-charging-pad-with-micro-usb-cable-wlacblbkm-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/l/wlacblbkm-28.8.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 50.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:12"
+    },
+    {
+      "price": 799.0,
+      "special_price": 399.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:52"
+    },
+    {
+      "price": 799.0,
+      "special_price": 399.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:46"
+    },
+    {
+      "price": 799.0,
+      "special_price": 399.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:36"
+    },
+    {
+      "price": 799.0,
+      "special_price": 399.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:53"
     }
   ]
 }

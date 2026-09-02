@@ -4,8 +4,8 @@
     "sku": "RTVGDTSGFATL",
     "name": "Vyvylabs Bean TWS Earbuds (VGDTS1-02) - Black",
     "slug": "vyvylabs-bean-tws-earbuds-vgdts1-02-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/y/vyv--39-8-24---4.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:45"
+    },
+    {
+      "price": 2085.0,
+      "special_price": 1849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:43"
+    },
+    {
+      "price": 2085.0,
+      "special_price": 1849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:09"
+    },
+    {
+      "price": 2085.0,
+      "special_price": 1849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:11"
+    },
+    {
+      "price": 2085.0,
+      "special_price": 1849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:55"
+    },
+    {
+      "price": 2085.0,
+      "special_price": 1849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:41:34"
     }
   ]
 }

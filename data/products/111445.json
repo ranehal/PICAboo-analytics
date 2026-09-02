@@ -4,14 +4,14 @@
     "sku": "A45WA2692MOV",
     "name": "Anker Nano 45W GaN US Plug Type-C Charging Adapter (A2692)",
     "slug": "anker-nano-pro-45w-gan-charging-adapter-a2692",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anker-45w-6-6-26-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2390.0,
-    "special_price": 2099.0,
-    "discount": 12.0,
+    "price": 2399.0,
+    "special_price": 1960.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -120,6 +120,34 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:19"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2099.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:59"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2099.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:04"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2099.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:47"
+    },
+    {
+      "price": 2399.0,
+      "special_price": 1960.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:31"
     }
   ]
 }

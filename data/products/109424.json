@@ -4,8 +4,8 @@
     "sku": "HQ5T020MOV",
     "name": "Haylou HQ5 ANC TWS Earbuds (T020)",
     "slug": "haylou-hq5-anc-tws-earbuds-t020",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haylou-hq5-23-4-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 33.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:43"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 999.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:49"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 999.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:06:18"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 999.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:28"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 999.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:31"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 999.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:33"
     }
   ]
 }

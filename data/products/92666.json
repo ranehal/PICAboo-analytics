@@ -4,8 +4,8 @@
     "sku": "BWKQX000001ATL",
     "name": "Baseus Lite Series Ethernet 100Mbps USB-A to RJ45 LAN Port Adapter (WKQX000001)",
     "slug": "baseus-lite-series-ethernet-100mbps-usb-a-to-rj45-lan-port-adapter-wkqx000001",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "131",
+    "category_name": "USB Ports & Hubs",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/k/wkqx000001--4-9-24.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:43"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:52"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:12"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:37"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:26"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:59"
     }
   ]
 }

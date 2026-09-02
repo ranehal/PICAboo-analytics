@@ -4,8 +4,8 @@
     "sku": "HCW6PADR",
     "name": "Hoco CW6 Pro 15W Wireless Charger",
     "slug": "hoco-cw6-pro-ultra-thin-fast-charging-wireless-charger",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-cw6-pro-ultra-thin--05.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:34"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1240.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:45"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1240.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:53"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1240.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:27"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1240.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:32"
     }
   ]
 }

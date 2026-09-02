@@ -4,8 +4,8 @@
     "sku": "C9017SWWBMHS",
     "name": "Curren 9017 Stainless Steel Watch for Women-Black",
     "slug": "curren-9017-stainless-steel-watch-for-women-black",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/curren-9017-14-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 26.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:41"
+    },
+    {
+      "price": 1790.0,
+      "special_price": 1323.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:34"
+    },
+    {
+      "price": 1790.0,
+      "special_price": 1323.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:24"
+    },
+    {
+      "price": 1790.0,
+      "special_price": 1323.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:38"
+    },
+    {
+      "price": 1790.0,
+      "special_price": 1323.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:05"
+    },
+    {
+      "price": 1790.0,
+      "special_price": 1323.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:16"
     }
   ]
 }

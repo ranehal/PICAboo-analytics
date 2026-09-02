@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "121444",
+    "sku": "LANMF168ADR",
+    "name": "LanDai\u00a03600mAh\u00a0Mini Handheld Cooling Fan (MF168)",
+    "slug": "landai-mf168-mini-handheld-fan-with-ice-cooling-and-3600mah-type-c-recharge",
+    "category_id": "88",
+    "category_name": "Fan",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/l/a/landai-mf168-mini-handheld-fan-with-ice-cooling-3-600x600_1_-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2900.0,
+    "special_price": 2600.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2900.0,
+      "special_price": 2600.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:31:04"
+    },
+    {
+      "price": 2900.0,
+      "special_price": 2600.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:28:39"
+    },
+    {
+      "price": 2900.0,
+      "special_price": 2600.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:10:32"
+    }
+  ]
+}

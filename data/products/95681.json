@@ -4,8 +4,8 @@
     "sku": "CEMTS100D2AVDFAMZ",
     "name": "Casio Enticer MTS-100D-2AVDF Sapphire Date Stainless Steel Chain Men\u2019s Watch ",
     "slug": "casio-enticer-mts-100d-2avdf-sapphire-date-stainless-steel-chain-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio-mts-100d-2avdf-26.9.23..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:05:55"
+    },
+    {
+      "price": 10990.0,
+      "special_price": 9290.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:36:28"
+    },
+    {
+      "price": 10990.0,
+      "special_price": 9290.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:13:32"
+    },
+    {
+      "price": 10990.0,
+      "special_price": 9290.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:53:07"
+    },
+    {
+      "price": 10990.0,
+      "special_price": 9290.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:09:05"
+    },
+    {
+      "price": 10990.0,
+      "special_price": 9290.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:43:43"
     }
   ]
 }

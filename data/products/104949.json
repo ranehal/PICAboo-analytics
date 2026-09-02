@@ -4,8 +4,8 @@
     "sku": "W260NCSMT",
     "name": "Edifier W260NC ANC TWS Earbuds",
     "slug": "edifier-w260nc-anc-tws-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/d/edifier-w260nc-8.9.24-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:42"
+    },
+    {
+      "price": 8199.0,
+      "special_price": 6999.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:30"
+    },
+    {
+      "price": 8199.0,
+      "special_price": 6999.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:09:29"
+    },
+    {
+      "price": 8199.0,
+      "special_price": 6999.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:04"
+    },
+    {
+      "price": 8199.0,
+      "special_price": 6999.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:48"
+    },
+    {
+      "price": 8199.0,
+      "special_price": 6999.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:40:56"
     }
   ]
 }

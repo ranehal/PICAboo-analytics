@@ -4,8 +4,8 @@
     "sku": "CLTPVT04D1AWEC",
     "name": "Casio Chain Watch for Women(LTP-VT04D-1A)",
     "slug": "casio-chain-watch-for-women-ltp-vt04d-1a",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio_ltp-vt04d-1a_.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:36"
+    },
+    {
+      "price": 5506.0,
+      "special_price": 4788.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:21"
+    },
+    {
+      "price": 5506.0,
+      "special_price": 4788.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:45"
+    },
+    {
+      "price": 5506.0,
+      "special_price": 4788.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:41:59"
+    },
+    {
+      "price": 5506.0,
+      "special_price": 4788.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:51"
+    },
+    {
+      "price": 5506.0,
+      "special_price": 4788.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:11"
     }
   ]
 }

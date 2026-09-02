@@ -4,8 +4,8 @@
     "sku": "XNB230XOO",
     "name": "XO-NB230 3A 3-in-1 Fast Charging Cable",
     "slug": "xo-nb230-3a-3-in-1-fast-charging-cable",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1731",
+    "category_name": "Converter & Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/b/nb230-19-april-2026-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:23"
+    },
+    {
+      "price": 235.0,
+      "special_price": 185.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:06"
+    },
+    {
+      "price": 235.0,
+      "special_price": 185.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:03"
+    },
+    {
+      "price": 235.0,
+      "special_price": 185.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:25"
+    },
+    {
+      "price": 235.0,
+      "special_price": 185.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:34"
+    },
+    {
+      "price": 235.0,
+      "special_price": 185.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:04"
     }
   ]
 }

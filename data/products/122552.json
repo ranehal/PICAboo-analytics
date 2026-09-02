@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122552",
+    "sku": "AQL638WGLO",
+    "name": "Asus\u00a0Zenbook 14 OLED UX3405CA Core Ultra 7 255H 14 Inch WUXGA Touch Laptop (UX3405CA-QL638W)",
+    "slug": "asus-zenbook-14-oled-ux3405ca-core-ultra-7-255h-14-inch-wuxga-touch-laptop-ux3405ca-ql638w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/1/l13-29-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 210000.0,
+    "special_price": 209500.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 210000.0,
+      "special_price": 209500.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:59"
+    }
+  ]
+}

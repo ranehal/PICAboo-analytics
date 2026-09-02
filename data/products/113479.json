@@ -4,8 +4,8 @@
     "sku": "CBM763381XHSP",
     "name": "Citizen Eco-Drive Green Dial Men's Watch (BM7633-81X)",
     "slug": "citizen-eco-drive-green-dial-men-s-watch-bm7633-81x",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/m/bm7633-81x-20-10-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:23"
+    },
+    {
+      "price": 45049.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:59"
+    },
+    {
+      "price": 45049.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:02"
+    },
+    {
+      "price": 45049.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:21"
+    },
+    {
+      "price": 45049.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:03:15"
+    },
+    {
+      "price": 45049.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:05"
     }
   ]
 }

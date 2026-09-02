@@ -4,8 +4,8 @@
     "sku": "RRLSL15ADR",
     "name": "Recci RLS-L15 3-In-1 Wireless Charger - White",
     "slug": "recci-rls-l15-3-in-1-wireless-charger-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/l/rls-l15-18.1.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:16"
+    },
+    {
+      "price": 2600.0,
+      "special_price": 2299.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:58"
+    },
+    {
+      "price": 2600.0,
+      "special_price": 2299.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:53"
+    },
+    {
+      "price": 2600.0,
+      "special_price": 2299.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:43"
+    },
+    {
+      "price": 2600.0,
+      "special_price": 2299.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:07"
     }
   ]
 }

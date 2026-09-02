@@ -4,9 +4,9 @@
     "sku": "WGXX255FWLT",
     "name": "Walton WCG-2E5-GDEL-XX 255Ltr Direct Cool Freezer",
     "slug": "walton-wcg-2e5-gdel-xx-255ltr-direct-cool-freezer-inverter",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/c/wcg-2e5-gdel-xx-5-7-26-1_1.jpg",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-wcg-2e5-gdel-xx-255ltr-direct-cool-freezer-8-10-26-1.jpg",
     "unit": "L",
     "unit_value": 255.0,
     "price": 0.0,
@@ -120,6 +120,48 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:33:30"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:03:46"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 12:35:04"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:17:04"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:28:08"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-29 10:26:22"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-02 11:09:14"
     }
   ]
 }

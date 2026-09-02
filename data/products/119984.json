@@ -1,11 +1,11 @@
 {
   "product": {
     "id": "119984",
-    "sku": "AAK820V2DDTR",
+    "sku": "AAK820V2DTDR",
     "name": "Ajazz AK820 V2 Tri-Mode Mechanical Keyboard (White Peach Switch)",
     "slug": "ajazz-ak820-v2-tri-mode-mechanical-keyboard-white-peach-switch",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/k/ak820-v2-display-12-5-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:14"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:22:14"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:05"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:27"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:52:48"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:33"
     }
   ]
 }

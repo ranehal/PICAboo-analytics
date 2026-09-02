@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122059",
+    "sku": "ACEC2103ADR",
+    "name": "ACEFAST C21-03 1.2M 3A Type-C Cable - Black",
+    "slug": "acefast-c21-03-1-2m-3a-type-c-cable-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/A/C/ACEFAST-C21-03-60W-USB-C-to-USB-C-charging-data-cable-2-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 600.0,
+    "special_price": 450.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 600.0,
+      "special_price": 450.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:59"
+    }
+  ]
+}

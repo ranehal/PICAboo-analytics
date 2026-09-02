@@ -4,8 +4,8 @@
     "sku": "BOBR105ADR",
     "name": "Borofone BR105 Bluetooth Portable Speaker",
     "slug": "borofone-br105-bluetooth-portable-speaker-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "211",
+    "category_name": "Speaker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/I/m/Image_20260425010716_1734_21-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:18"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1370.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:11"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1370.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:19"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1370.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:44"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1370.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:50"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1370.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:52"
     }
   ]
 }

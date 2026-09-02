@@ -4,8 +4,8 @@
     "sku": "NEB2502CBD",
     "name": "Niyama 350W Egg Beater (NEB-2502)",
     "slug": "niyama-350w-egg-beater-neb-2502",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "2257",
+    "category_name": "Others",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/e/neb-2502-26-10-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:52"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:10:51"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:19"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:48"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:56"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:32"
     }
   ]
 }

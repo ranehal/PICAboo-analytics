@@ -4,8 +4,8 @@
     "sku": "BNGTW140101ATL",
     "name": "Baseus Storm 3 ANC TWS Earbuds (NGTW140101)",
     "slug": "baseus-storm-3-anc-tws-earbuds-ngtw140101",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/g/ngtw140101-3.6.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:39"
+    },
+    {
+      "price": 9590.0,
+      "special_price": 9189.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:29"
+    },
+    {
+      "price": 9590.0,
+      "special_price": 9189.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:16:51"
+    },
+    {
+      "price": 9590.0,
+      "special_price": 9189.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:18"
+    },
+    {
+      "price": 9590.0,
+      "special_price": 9189.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:47:16"
     }
   ]
 }

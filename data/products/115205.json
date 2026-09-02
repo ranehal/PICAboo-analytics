@@ -4,8 +4,8 @@
     "sku": "PBP29800DCCUE",
     "name": "Pandora Box Plus with 29800 Arcade Games (Double Control)",
     "slug": "pandora-box-plus-with-29800-arcade-games-double-control",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "6",
+    "category_name": "Gaming Gears",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/box-plus-with-29800--10-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:03"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 13490.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:37"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 13490.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:49"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 13490.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:03"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 13490.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:22"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 13490.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:05"
     }
   ]
 }

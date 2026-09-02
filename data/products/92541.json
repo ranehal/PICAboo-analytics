@@ -4,8 +4,8 @@
     "sku": "PMG7720SSSB",
     "name": "Philips MG7720/15 14-in-1 Face Hair and Body Trimmer",
     "slug": "philips-mg7720-14-in-1-face-hair-and-body-trimmer",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-mg7720--3.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:11"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 8150.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:39"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 8150.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:05"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 8150.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:03"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 8150.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:08"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 8150.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:35"
     }
   ]
 }

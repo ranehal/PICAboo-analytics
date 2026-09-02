@@ -4,8 +4,8 @@
     "sku": "BCCGP100201ATL",
     "name": "Baseus GaN5 Pro 140W Fast Charging Adapter with 240W 1M Type-C to Type-C Cable (EU Plug) (CCGP100201) - Black",
     "slug": "baseus-gan5-pro-140w-fast-charging-adapter-with-240w-1m-type-c-to-type-c-cable-eu-plug-ccgp100201-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/4/140w--4-9-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:16"
+    },
+    {
+      "price": 7776.0,
+      "special_price": 7449.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:58"
+    },
+    {
+      "price": 7776.0,
+      "special_price": 7449.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:53"
+    },
+    {
+      "price": 7776.0,
+      "special_price": 7449.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:43"
+    },
+    {
+      "price": 7776.0,
+      "special_price": 7449.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:07"
     }
   ]
 }

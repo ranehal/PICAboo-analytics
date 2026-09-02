@@ -4,16 +4,16 @@
     "sku": "AG200SGLO",
     "name": "A4tech Bloody G200s Hifi Stereo Surround USB Gaming Headset\u2013Black",
     "slug": "a4tech-bloody-g200s-hifi-stereo-surround-usb-gaming-headset-black",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "324",
+    "category_name": "Headset",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/4/a4tech-bloody-g200s_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2200.0,
-    "special_price": 1819.0,
-    "discount": 17.0,
+    "price": 2197.0,
+    "special_price": 1910.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:30"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1819.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:57"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1819.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:45"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1819.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:15"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1819.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:04"
+    },
+    {
+      "price": 2197.0,
+      "special_price": 1910.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:17"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "MHM5028ZBE",
     "name": "Miyako 1200W Hand Blender (HM-5028 RD)",
     "slug": "miyako-1200w-hand-blender-hm-5028-rd",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/m/hm-5028-rd-12-8-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 29.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:26"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2420.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:48"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2420.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:55"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2420.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:19"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2420.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:38"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2420.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:35"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2420.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:56"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "CFZ370DTTS",
     "name": "Casio MTP-1370d-7A2VDF Analog Watch for Men",
     "slug": "casio-mtp-1370d-7a2vdf-analog-watch-for-men",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-1370d-7a2vdf.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:31:05"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:16:29"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:55:21"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:11:27"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:46:32"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "AZ1EGLBTTZ",
     "name": "Awei Z1 3.5mm In-ear Dual Dynamic Earphone-Black",
     "slug": "awei-z1-in-ear-dual-dynamic-earphone",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/z/1/z1--14-7-24---1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:44"
+    },
+    {
+      "price": 899.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:19"
+    },
+    {
+      "price": 899.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:27"
+    },
+    {
+      "price": 899.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:30:03"
+    },
+    {
+      "price": 899.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:04"
     }
   ]
 }

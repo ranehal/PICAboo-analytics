@@ -4,8 +4,8 @@
     "sku": "RM590WMBLGLO",
     "name": "Rapoo M590 Multi-Mode Wireless Mouse-Blue",
     "slug": "rapoo-m590-multi-mode-wireless-mouse-blue",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/a/rapoo-m590b-1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:45"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2140.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:22:28"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2140.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:13"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2140.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:39"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2140.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:13"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2140.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:41"
     }
   ]
 }

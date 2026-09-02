@@ -4,8 +4,8 @@
     "sku": "V007L7B2AMZ",
     "name": "Casio LTP-V007L-7B2UDF Classic Leather Band Women\u2019s Watch",
     "slug": "casio-ltp-v007l-7b2udf-classic-leather-band-women-s-watch",
-    "category_id": "568",
-    "category_name": "Women's Watches",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v007l-7b2udf-1.jpg",
     "unit": "L",
     "unit_value": 7.0,
@@ -85,6 +85,34 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:28"
+    },
+    {
+      "price": 3590.0,
+      "special_price": 3090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:39:16"
+    },
+    {
+      "price": 3590.0,
+      "special_price": 3090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:44:08"
+    },
+    {
+      "price": 3590.0,
+      "special_price": 3090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:55:12"
+    },
+    {
+      "price": 3590.0,
+      "special_price": 3090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:01:17"
     }
   ]
 }

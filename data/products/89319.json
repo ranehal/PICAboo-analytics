@@ -4,8 +4,8 @@
     "sku": "AAPR20222GVTECH",
     "name": "Apple AirPods Pro 2 (USB-C)",
     "slug": "apple-airpods-pro-2nd-generation",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/p/apple-airpods-pro-2022-4.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:46"
+    },
+    {
+      "price": 28999.0,
+      "special_price": 25300.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:31"
+    },
+    {
+      "price": 28999.0,
+      "special_price": 25300.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:17:41"
+    },
+    {
+      "price": 28999.0,
+      "special_price": 25300.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:32"
+    },
+    {
+      "price": 28999.0,
+      "special_price": 25300.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:48:09"
     }
   ]
 }

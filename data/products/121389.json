@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121389",
+    "sku": "SG-270GRJNN",
+    "name": "Suirge SG-270GR 27 Inch 100Hz FHD Curved Monitor",
+    "slug": "suirge-sg-270gr-27-inch-100hz-fhd-curved-monitor",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/g/sg-2005vh-2-9-26-1.jpg",
+    "unit": "g",
+    "unit_value": 270.0,
+    "price": 21373.0,
+    "special_price": 18749.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 21373.0,
+      "special_price": 18749.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:30"
+    }
+  ]
+}

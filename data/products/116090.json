@@ -6,14 +6,14 @@
     "slug": "nubia-zte-blade-v80-pro-8gb-256gb",
     "category_id": "171",
     "category_name": "Smartphones",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/8/v80-pro-8gb-1-8-26.jpg",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/u/nubia-v80-pro--20-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
+    "price": 21999.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "stock_available": 1,
+    "is_atl": 0
   },
   "history": [
     {
@@ -127,6 +127,41 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:31:13"
+    },
+    {
+      "price": 21999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:48"
+    },
+    {
+      "price": 21999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:41:14"
+    },
+    {
+      "price": 21999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:15:13"
+    },
+    {
+      "price": 21999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:34:12"
+    },
+    {
+      "price": 21999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:47"
     }
   ]
 }

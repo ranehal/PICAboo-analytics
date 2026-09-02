@@ -4,14 +4,14 @@
     "sku": "EM1120PNW",
     "name": "Epson EcoTank Monochrome Wi-Fi Ink Tank Printer (M1120)",
     "slug": "epson-ecotank-monochrome-wi-fi-ink-tank-printer-m1120",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "56",
+    "category_name": "Printer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/1/m1120-8-1-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 20700.0,
-    "special_price": 19295.0,
-    "discount": 7.0,
+    "price": 22563.0,
+    "special_price": 19620.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -120,6 +120,41 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:47"
+    },
+    {
+      "price": 20700.0,
+      "special_price": 19295.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:06"
+    },
+    {
+      "price": 20700.0,
+      "special_price": 19295.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:42"
+    },
+    {
+      "price": 20700.0,
+      "special_price": 19295.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:37"
+    },
+    {
+      "price": 22563.0,
+      "special_price": 19620.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:10"
+    },
+    {
+      "price": 22563.0,
+      "special_price": 19620.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:17"
     }
   ]
 }

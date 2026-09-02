@@ -4,8 +4,8 @@
     "sku": "MCA7560ADR",
     "name": "Mcdodo CA-7560 Beethoven Series Type-C to 3.5mm AUX Jack Converter - Black",
     "slug": "mcdodo-ca-7560-beethoven-series-type-c-to-3-5mm-aux-jack-converter-black",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1731",
+    "category_name": "Converter & Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/ca-7560-1.6.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:28"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 850.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:11"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 850.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:13"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 850.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:35"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 850.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:39"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 850.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:46"
     }
   ]
 }

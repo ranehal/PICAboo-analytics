@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "121314",
+    "sku": "JRPR2LADR",
+    "name": "Joyroom 10000mAh 35W Mini Power Bank with Built In Retractable Cables\u00a0(JR-PR2L)",
+    "slug": "joyroom-jr-pr2l-10000mah-35w-mini-with-built-in-retractable-cable-type-c-and-lightning",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/J/o/Joyroom-JR-PR2-35W-Mini-Power-Bank---10000mAhaaaa-3627-removebg-preview.png",
+    "unit": "L",
+    "unit_value": 2.0,
+    "price": 3900.0,
+    "special_price": 3650.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3900.0,
+      "special_price": 3650.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:48"
+    },
+    {
+      "price": 3900.0,
+      "special_price": 3650.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:01"
+    }
+  ]
+}

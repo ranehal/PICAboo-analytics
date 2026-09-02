@@ -4,8 +4,8 @@
     "sku": "TS22IPS100WJNN",
     "name": "Trendsonic 22 Inch 100Hz IPS FHD Monitor (TS22IPS100W)",
     "slug": "trendsonic-22-inch-100hz-ips-fhd-monitor-ts22ips100w",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "47",
+    "category_name": "Monitor",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/_/m.png",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:56"
+    },
+    {
+      "price": 12232.0,
+      "special_price": 11120.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:24"
+    },
+    {
+      "price": 12232.0,
+      "special_price": 11120.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:55"
+    },
+    {
+      "price": 12232.0,
+      "special_price": 11120.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:18"
+    },
+    {
+      "price": 12232.0,
+      "special_price": 11120.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:53"
+    },
+    {
+      "price": 12232.0,
+      "special_price": 11120.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:37"
     }
   ]
 }

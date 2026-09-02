@@ -4,9 +4,9 @@
     "sku": "VFEQW0WGLO",
     "name": "Vention FEQW0 US 30W 2-Port USB (C+A) GaN Charger-White",
     "slug": "vention-feqw0-us-30w-2-port-usb-c-a-gan-charger-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/f/e/feqb0-17-8-26-3-jpg.jpg",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/e/feqb0-17-8-26-3-jpg.jpg",
     "unit": null,
     "unit_value": null,
     "price": 970.0,
@@ -43,6 +43,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:32"
+    },
+    {
+      "price": 970.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:38"
+    },
+    {
+      "price": 970.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:46:35"
+    },
+    {
+      "price": 970.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:01"
+    },
+    {
+      "price": 970.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:25"
+    },
+    {
+      "price": 970.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:12"
     }
   ]
 }

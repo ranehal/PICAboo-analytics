@@ -4,16 +4,16 @@
     "sku": "OPB1102MOV",
     "name": "Oraimo PowerFlow B11 10000mAh Power Bank (OPB-1102)",
     "slug": "oraimo-powerflow-b11-10000mah-power-bank-opb-1102",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/1/b11-12-5-26-3.jpg",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/1/b11-12-5-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1250.0,
-    "special_price": 1150.0,
-    "discount": 8.0,
+    "price": 1350.0,
+    "special_price": 1215.0,
+    "discount": 10.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,41 @@
       "discount": 8.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:48"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 1150.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:06"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 1150.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:50:32"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 1150.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:57"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 1150.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:45:37"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1215.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:29"
     }
   ]
 }

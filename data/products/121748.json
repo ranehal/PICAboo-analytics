@@ -1,0 +1,55 @@
+{
+  "product": {
+    "id": "121748",
+    "sku": "DRLSL24DIM",
+    "name": "Dolphin Rechargeable LED Study Desk Lamp with Clock & Pen Holder \u2013 2400mAh",
+    "slug": "dolphin-rechargeable-led-study-desk-lamp-with-clock-pen-holder-2400mah",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/o/dolphin-lamp-23-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3000.0,
+    "special_price": 1450.0,
+    "discount": 52.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3000.0,
+      "special_price": 1450.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:11:36"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 1450.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:19:07"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 1450.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:13"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 1450.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:27:53"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 1450.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:32"
+    }
+  ]
+}

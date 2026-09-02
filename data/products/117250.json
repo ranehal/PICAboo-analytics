@@ -4,8 +4,8 @@
     "sku": "AATM44RDKT",
     "name": "Ausek 5K Wi-fi Action Camera Combo (AT-M44R)",
     "slug": "ausek-5k-wi-fi-action-camera-at-m44r-combo",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "440",
+    "category_name": "Action Cameras",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/4/m44r-14-3-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:41"
+    },
+    {
+      "price": 7590.0,
+      "special_price": 6590.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:40"
+    },
+    {
+      "price": 7590.0,
+      "special_price": 6590.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:51:09"
+    },
+    {
+      "price": 7590.0,
+      "special_price": 6590.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:32:15"
+    },
+    {
+      "price": 7590.0,
+      "special_price": 6590.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:20"
+    },
+    {
+      "price": 7590.0,
+      "special_price": 6590.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:31"
     }
   ]
 }

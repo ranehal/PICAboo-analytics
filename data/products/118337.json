@@ -4,8 +4,8 @@
     "sku": "GAB27AWOG",
     "name": "Casio 2100 Series Analog-Digital Watch (GA-B2100FC-7A)",
     "slug": "casio-analog-digital-2100-series-ga-b2100fc-7a",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/G/A/GA-B2100FC-7A.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:39"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 19760.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:56"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 19760.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:15"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 19760.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:14"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 19760.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:21"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 19760.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:33:49"
     }
   ]
 }

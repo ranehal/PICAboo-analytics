@@ -4,8 +4,8 @@
     "sku": "TWS3P16ABASIPK",
     "name": "Tuya 16A 3 Pin Smart WiFi Round Plug With Power Monitor (IP76)",
     "slug": "tuya-wifi-smart-3-pin-16a-big-round-plug-air-condition-african-socket",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "3842",
+    "category_name": "Smart Home",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/u/tuya-16a--31-12-25-5.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 46.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:06"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:04"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:54"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:22"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:54"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:07"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122548",
+    "sku": "OPPOA6K4GB64GB",
+    "name": "OPPO A6k 4GB/64GB",
+    "slug": "oppo-a6k-4gb-64gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/6/a6k-4gb-64gb-29-aug-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 19999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 19999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:06"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
     "sku": "HOM111ADR",
     "name": "Hoco M111 Pro 8 Pin In-Ear Call Gaming Wired 1.2m Earphone-Black",
     "slug": "hoco-m111-pro-8-pin-in-ear-call-gaming-wired-earphone-cable-length-1-2m-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/E/D/EDA007034301A-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 45.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:37"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:18"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:26"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:44"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:26"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:08"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "CLTPV300L1ATTS",
     "name": "Casio Enticer Watch for Women (LTP-V300L-1A)",
     "slug": "casio-enticer-watch-for-women-ltp-v300l-1a",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v300l-1audf-28-10-25-2.jpg",
     "unit": "L",
     "unit_value": 300.0,
@@ -92,6 +92,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:18:33"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:30"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:44"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:11"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:03"
     }
   ]
 }

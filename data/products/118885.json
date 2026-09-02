@@ -4,8 +4,8 @@
     "sku": "ES5392HSP",
     "name": "Fossil Two-Hand Gold-Tone Women\u2019s Watch Ring (ES5392)",
     "slug": "two-hand-gold-tone-women-s-watch-ring-es5392",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/s/es5392-26-4-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:36"
+    },
+    {
+      "price": 23598.0,
+      "special_price": 20520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:21"
+    },
+    {
+      "price": 23598.0,
+      "special_price": 20520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:45"
+    },
+    {
+      "price": 23598.0,
+      "special_price": 20520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:41:59"
+    },
+    {
+      "price": 23598.0,
+      "special_price": 20520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:51"
+    },
+    {
+      "price": 23598.0,
+      "special_price": 20520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:01"
     }
   ]
 }

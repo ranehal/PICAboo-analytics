@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122508",
+    "sku": "DLM27B221BMEXL",
+    "name": "Dahua LM27-B221B 27\" 144Hz IPS FHD Gaming Monitor",
+    "slug": "dahua-lm27-b221b-27-144hz-ips-fhd-gaming-monitor",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/m/lm27-b221b-27-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18966.0,
+    "special_price": 15805.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18966.0,
+      "special_price": 15805.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:19"
+    }
+  ]
+}

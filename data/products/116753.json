@@ -4,8 +4,8 @@
     "sku": "RXR310SPGLO",
     "name": "Rapoo XR310 Spotlight Presenter",
     "slug": "rapoo-xr310-spotlight-presenter",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "3135",
+    "category_name": "Presenter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/a/rapoo-xr310-1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:34"
+    },
+    {
+      "price": 4200.0,
+      "special_price": 3692.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:02"
+    },
+    {
+      "price": 4200.0,
+      "special_price": 3692.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:14"
+    },
+    {
+      "price": 4200.0,
+      "special_price": 3692.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:14"
+    },
+    {
+      "price": 4200.0,
+      "special_price": 3692.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:30"
+    },
+    {
+      "price": 4200.0,
+      "special_price": 3692.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:34"
     }
   ]
 }

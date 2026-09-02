@@ -4,8 +4,8 @@
     "sku": "UQT01TTZ",
     "name": "Ulanzi QT01 Mac Mini Aluminum\u2011Alloy Case",
     "slug": "ulanzi-qt01-mac-mini-aluminum-alloy-case",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "167",
+    "category_name": "Computer Casing",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/t/qt01-22-4-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:35"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4450.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:28"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4450.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:14"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4450.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:33"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4450.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:05"
     }
   ]
 }

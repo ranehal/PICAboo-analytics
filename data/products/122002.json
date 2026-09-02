@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122002",
+    "sku": "HOJ148ADR",
+    "name": "HOCO J148 Handy 5000 mAh PD20W Power Bank Adapter with Cable - White",
+    "slug": "hoco-j148-handy-5000-mah-pd20w-power-bank-adapter-with-cable-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/H/o/Hoco-J148-Handy-5000mAh-PD20W-power-bank-with-built-in-USB-C-cable-LED-digital-display-and-slim-190g-ABS-PC-design-3-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 2050.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 2050.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:21"
+    }
+  ]
+}

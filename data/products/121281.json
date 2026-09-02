@@ -4,8 +4,8 @@
     "sku": "CCFV460TXEUB",
     "name": "Candy Built-In Steam Oven (CFV.460.TX)",
     "slug": "candy-built-in-steam-oven-cfv-460-tx",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "68",
+    "category_name": "Oven",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/f/cfv460tx-9-77-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 63.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:31"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 39290.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:34"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 39290.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:21"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 39290.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:51"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 39290.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:10"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 39290.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:40"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 39290.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:08:21"
     }
   ]
 }

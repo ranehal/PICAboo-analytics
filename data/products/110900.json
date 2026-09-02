@@ -4,8 +4,8 @@
     "sku": "Sk2088MHS",
     "name": "Skmei Stainless Steel Analog Watch for Men (2088)",
     "slug": "skmei-stainless-steel-analog-watch-for-men-2088",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/0/2088-black-_-blue-18-6-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:58"
+    },
+    {
+      "price": 1530.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:31:53"
+    },
+    {
+      "price": 1530.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:39"
+    },
+    {
+      "price": 1530.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:19"
+    },
+    {
+      "price": 1530.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:04:28"
+    },
+    {
+      "price": 1530.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:16"
     }
   ]
 }

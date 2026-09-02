@@ -4,8 +4,8 @@
     "sku": "HOHC29ADR",
     "name": "Hoco HC29 Bluetooth Speaker",
     "slug": "hoco-hc29-bluetooth-speaker",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "211",
+    "category_name": "Speaker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/H/C/HC29-BK-550x550-1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:24"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2349.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:20"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2349.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:40"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2349.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:05"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2349.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:15"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2349.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:18"
     }
   ]
 }

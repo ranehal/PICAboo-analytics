@@ -4,8 +4,8 @@
     "sku": "BB0043340211100ATL",
     "name": "Baseus Display Dongle 4K Wireless Adapter (B00433402111-00)",
     "slug": "baseus-display-dongle-4k-wireless-adapter-b00433402111-00",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/0/b00433402111-00-17-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:19"
+    },
+    {
+      "price": 4540.0,
+      "special_price": 3999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:59"
+    },
+    {
+      "price": 4540.0,
+      "special_price": 3999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:04"
+    },
+    {
+      "price": 4540.0,
+      "special_price": 3999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:47"
+    },
+    {
+      "price": 4540.0,
+      "special_price": 3999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:46"
     }
   ]
 }

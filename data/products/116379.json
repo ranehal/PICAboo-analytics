@@ -4,8 +4,8 @@
     "sku": "ARTBE58URGLO",
     "name": "ASUS RT-BE58U Dual Band WiFi 7 Smart AiMesh Extendable Router",
     "slug": "asus-rt-be58u-dual-band-wifi-7-smart-aimesh-extendable-router",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/s/asus-rt-be58u-22-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:18"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 16000.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:54"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 16000.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:46"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 16000.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:50"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 16000.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:51"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 16000.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:43"
     }
   ]
 }

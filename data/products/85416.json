@@ -4,8 +4,8 @@
     "sku": "WM615WTLXADR",
     "name": "WiWU Power Air M6 3 in 1 Wireless Charging Pad 15W for Phone, Watch, Airpods",
     "slug": "wiwu-power-air-m6-3-in-1-wireless-charging-pad",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/6/m6.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,27 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:53"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:11"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:07"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:11"
     }
   ]
 }

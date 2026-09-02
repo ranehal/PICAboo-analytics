@@ -4,8 +4,8 @@
     "sku": "1698KM01WOG",
     "name": "TITAN 1698KM01 Workwear Watch for Men",
     "slug": "titan-1698km01-workwear-watch-for-men",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/6/1698km01-18-3-25-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:07:45"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 11399.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:38:24"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 11399.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:16:22"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 11399.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:55:15"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 11399.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:11:22"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 11399.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:46:22"
     }
   ]
 }

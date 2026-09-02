@@ -4,8 +4,8 @@
     "sku": "PA504WJNN",
     "name": "ViewSonic PA504W 4000 Lumen WXGA DLP Projector",
     "slug": "viewsonic-pa504w-4000-lumen-wxga-dlp-projector",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "329",
+    "category_name": "Projectors",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/_/h_1.png",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:22"
+    },
+    {
+      "price": 68904.0,
+      "special_price": 62640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:44"
+    },
+    {
+      "price": 68904.0,
+      "special_price": 62640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:07"
+    },
+    {
+      "price": 68904.0,
+      "special_price": 62640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:46"
+    },
+    {
+      "price": 68904.0,
+      "special_price": 62640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:50"
+    },
+    {
+      "price": 68904.0,
+      "special_price": 62640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:30"
     }
   ]
 }

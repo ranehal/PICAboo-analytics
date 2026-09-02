@@ -4,14 +4,14 @@
     "sku": "ICEPETEBICE",
     "name": "ICE Prime Pro ENC TWS Earbuds-Black",
     "slug": "ice-prime-pro-enc-tws-earbuds-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/r/prime-pro-enc-21-1-26-2.jpg",
     "unit": null,
     "unit_value": null,
     "price": 2799.0,
-    "special_price": 2169.0,
-    "discount": 23.0,
+    "special_price": 2249.0,
+    "discount": 20.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:50"
+    },
+    {
+      "price": 2799.0,
+      "special_price": 2169.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:46"
+    },
+    {
+      "price": 2799.0,
+      "special_price": 2169.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:32"
+    },
+    {
+      "price": 2799.0,
+      "special_price": 2169.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:55"
+    },
+    {
+      "price": 2799.0,
+      "special_price": 2249.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:02"
+    },
+    {
+      "price": 2799.0,
+      "special_price": 2249.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:18:58"
     }
   ]
 }

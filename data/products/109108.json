@@ -4,8 +4,8 @@
     "sku": "EB2TMBT",
     "name": "Enchen Boost 2 Type-C Trimmer (Updated Version)",
     "slug": "enchen-boost-2-type-c-trimmer-updated-version",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/n/enchen-boost-2-6-4-25-1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 32.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:01"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1697.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:32"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1697.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:59"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1697.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:17"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1697.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:55"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1697.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:35"
     }
   ]
 }

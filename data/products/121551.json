@@ -4,8 +4,8 @@
     "sku": "MEDL20ADR",
     "name": "MEMO DL20 Semiconductor Phone Cooler - Black",
     "slug": "memo-dl20-semiconductor-phone-cooler-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/e/memo-dl20-2-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:08"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1520.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:37"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1520.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:17"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1520.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:03"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1520.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:47"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1520.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:44"
     }
   ]
 }

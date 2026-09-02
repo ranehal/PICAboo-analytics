@@ -4,8 +4,8 @@
     "sku": "H586RW690RNG",
     "name": "Hitachi 586L Water Dispenser Refrigerator (R-W690P7PB-GBK)",
     "slug": "hitachi-586-liter-water-dispenser-refrigerator-r-w690p7pb-gbk",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/hatachi-586-7-19-23.jpg",
     "unit": "L",
     "unit_value": 586.0,
@@ -120,6 +120,48 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:33:30"
+    },
+    {
+      "price": 237500.0,
+      "special_price": 207990.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:46"
+    },
+    {
+      "price": 237500.0,
+      "special_price": 207990.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:04"
+    },
+    {
+      "price": 237500.0,
+      "special_price": 207990.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:04"
+    },
+    {
+      "price": 237500.0,
+      "special_price": 207990.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:08"
+    },
+    {
+      "price": 237500.0,
+      "special_price": 207990.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:22"
+    },
+    {
+      "price": 237500.0,
+      "special_price": 207990.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:14"
     }
   ]
 }

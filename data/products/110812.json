@@ -4,8 +4,8 @@
     "sku": "CMTPE175MB1EVTTS",
     "name": "Casio Stainless Steel Analog Watch for Men (MTP-E175MB-1EV)",
     "slug": "casio-stainless-steel-analog-watch-for-men-mtp-e175mb-1ev",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-e175mb-1evdf-16-6-25-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:23:28"
+    },
+    {
+      "price": 9890.0,
+      "special_price": 8059.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:39"
+    },
+    {
+      "price": 9890.0,
+      "special_price": 8059.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:19"
+    },
+    {
+      "price": 9890.0,
+      "special_price": 8059.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:04:28"
+    },
+    {
+      "price": 9890.0,
+      "special_price": 8059.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:16"
     }
   ]
 }

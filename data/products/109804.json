@@ -4,8 +4,8 @@
     "sku": "T197LTM197GD3STSN",
     "name": "Toshin 197L Bottom Mount Refrigerator (TM197GD3S)-3 Sisters",
     "slug": "toshin-197l-bottom-mount-refrigerator-tm197gd3s",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/m/tm186gd3s_1.jpg",
     "unit": "L",
     "unit_value": 197.0,
@@ -120,6 +120,48 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:43"
+    },
+    {
+      "price": 36790.0,
+      "special_price": 31490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:01"
+    },
+    {
+      "price": 36790.0,
+      "special_price": 31490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:19"
+    },
+    {
+      "price": 36790.0,
+      "special_price": 31490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:46"
+    },
+    {
+      "price": 36790.0,
+      "special_price": 31490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:43"
+    },
+    {
+      "price": 36790.0,
+      "special_price": 31490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:28"
+    },
+    {
+      "price": 36790.0,
+      "special_price": 31490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:55"
     }
   ]
 }

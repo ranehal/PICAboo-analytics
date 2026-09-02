@@ -4,8 +4,8 @@
     "sku": "H15AS18CW4RXSKF00AUHSO",
     "name": "Hisense 1.5 Ton Smart Comfort Non-Inverter Air Conditioner (AS-18CW4RXSKF00AU)",
     "slug": "hisense-1-5-ton-smart-comfort-non-inverter-air-conditioner-as-18cw4rxskf00au",
-    "category_id": "64",
-    "category_name": "Air Conditioner",
+    "category_id": "3479",
+    "category_name": "Hisense",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/s/as-24cw4rbtkf00au-7-5-25-1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,48 @@
       "discount": 32.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:30:20"
+    },
+    {
+      "price": 63900.0,
+      "special_price": 43290.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:07"
+    },
+    {
+      "price": 63900.0,
+      "special_price": 42990.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:32:19"
+    },
+    {
+      "price": 63900.0,
+      "special_price": 42990.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:14:24"
+    },
+    {
+      "price": 63900.0,
+      "special_price": 42990.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:25:52"
+    },
+    {
+      "price": 63900.0,
+      "special_price": 43290.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:11"
+    },
+    {
+      "price": 63900.0,
+      "special_price": 43290.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:06:02"
     }
   ]
 }

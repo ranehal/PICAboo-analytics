@@ -4,9 +4,9 @@
     "sku": "WWNI5F3GDELIIWLT",
     "name": "Walton 563 Liters Intelligent Inverter Refrigerator (WNI-5F3-GDEL-II)",
     "slug": "walton-501-liters-intelligent-inverter-refrigerator-wni-5f3-gdel-ii",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/n/wni-5f3-gdel-ii-5-7-26-1.jpg",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-563-liters-intelligent-inverter-refrigerator-_wni-5f3-gdel-ii_-8-13-26-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 94990.0,
@@ -120,6 +120,48 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:18"
+    },
+    {
+      "price": 94990.0,
+      "special_price": 80390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:36"
+    },
+    {
+      "price": 94990.0,
+      "special_price": 80390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:33:44"
+    },
+    {
+      "price": 94990.0,
+      "special_price": 80390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:34"
+    },
+    {
+      "price": 94990.0,
+      "special_price": 80390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:15"
+    },
+    {
+      "price": 94990.0,
+      "special_price": 80390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:21"
+    },
+    {
+      "price": 94990.0,
+      "special_price": 80390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:36"
     }
   ]
 }

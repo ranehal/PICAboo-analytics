@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121299",
+    "sku": "RGEW3200GXPJNN",
+    "name": "Ruijie RG-EW3200GX Pro 3200Mbps Gigabit WiFi 6 Router",
+    "slug": "ruijie-rg-ew3200gx-pro-3200mbps-gigabit-wifi-6-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-07-11T113214_495.png",
+    "unit": "g",
+    "unit_value": 3200.0,
+    "price": 15533.0,
+    "special_price": 13629.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15533.0,
+      "special_price": 13629.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:30"
+    }
+  ]
+}

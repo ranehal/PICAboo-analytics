@@ -4,8 +4,8 @@
     "sku": "FPX136MOV",
     "name": "FONENG 20000mAh 22.5W Power Bank with Built-in Cables (PX136)",
     "slug": "foneng-20000mah-22-5w-power-bank-with-built-in-cables-px136",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/x/px136-9-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:00"
+    },
+    {
+      "price": 2799.0,
+      "special_price": 2399.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:46"
+    },
+    {
+      "price": 2799.0,
+      "special_price": 2399.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:52:19"
+    },
+    {
+      "price": 2799.0,
+      "special_price": 2399.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:31:48"
+    },
+    {
+      "price": 2799.0,
+      "special_price": 2399.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:22"
+    },
+    {
+      "price": 2799.0,
+      "special_price": 2399.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:25"
     }
   ]
 }

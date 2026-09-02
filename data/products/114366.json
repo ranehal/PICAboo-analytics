@@ -4,8 +4,8 @@
     "sku": "BT22HMHBDO",
     "name": "BT22 Hands-Free Calling Motorcycle Helmet Headset (Not Device to Device)",
     "slug": "bt22-hands-free-calling-motorcycle-helmet-headset-not-device-to-device",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "3926",
+    "category_name": "Bike Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/t/bt22-8-12-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:01:26"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2360.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:55"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2360.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:45"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2360.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:32"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2360.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:04"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2360.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:18"
     }
   ]
 }

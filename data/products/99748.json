@@ -4,8 +4,8 @@
     "sku": "BCASX020001ADR",
     "name": "Baseus 66W 1m USB to Type-C Display Fast Charging Data Cable (CASX020001) - Black",
     "slug": "baseus-66w-1m-usb-to-type-c-display-fast-charging-data-cable-casx020001-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casx020001-12.2.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:08"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:26"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:44"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:22"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:41:46"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:34"
     }
   ]
 }

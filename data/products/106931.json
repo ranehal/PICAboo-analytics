@@ -4,8 +4,8 @@
     "sku": "CSMW620H3AMZ",
     "name": "Casio Standard Men\u2019s Watch (MW-620H-3AVF)",
     "slug": "casio-standard-men-s-watch-mw-620h-3avf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/w/mw-620h-3avf-30-12-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:03:36"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:34:04"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:36"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:50:47"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:06:41"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:40:59"
     }
   ]
 }

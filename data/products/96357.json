@@ -4,8 +4,8 @@
     "sku": "LBRIO500TKE",
     "name": "Logitech BRIO 500 Full HD 1080p Webcam",
     "slug": "logitech-brio-500-full-hd-1080p-webcam",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "57",
+    "category_name": "Webcam",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/content_smartwatch_1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:35"
+    },
+    {
+      "price": 13499.0,
+      "special_price": 13000.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:44"
+    },
+    {
+      "price": 13499.0,
+      "special_price": 13000.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:35"
+    },
+    {
+      "price": 13499.0,
+      "special_price": 13000.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:57"
+    },
+    {
+      "price": 13499.0,
+      "special_price": 13000.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:22"
+    },
+    {
+      "price": 13499.0,
+      "special_price": 13000.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:45"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "SC8DLEDCBD",
     "name": "Silver Crest 8L Digital LED Display Non-Stick Air Fryer \u2013 Black",
     "slug": "silver-crest-8-liter-digital-led-display-non-stic-air-fryer-black",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "2936",
+    "category_name": "Air Fryer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/i/silver-crest8l-5-7-26.jpg",
     "unit": "L",
     "unit_value": 8.0,
@@ -120,6 +120,48 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:33:55"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:07"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:46"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:26"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:45"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:05"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:28"
     }
   ]
 }

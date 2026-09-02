@@ -4,8 +4,8 @@
     "sku": "GMB22AWOG",
     "name": "Casio Full Metal 2100 Series Watch for Men (GM-B2100AD-2A)",
     "slug": "full-metal-2100-series-gm-b2100ad-2a",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/G/M/GM-B2100AD-2A_f.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:39"
+    },
+    {
+      "price": 98000.0,
+      "special_price": 78400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:56"
+    },
+    {
+      "price": 98000.0,
+      "special_price": 78400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:15"
+    },
+    {
+      "price": 98000.0,
+      "special_price": 78400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:14"
+    },
+    {
+      "price": 98000.0,
+      "special_price": 78400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:21"
+    },
+    {
+      "price": 98000.0,
+      "special_price": 78400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:33:49"
     }
   ]
 }

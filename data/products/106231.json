@@ -4,8 +4,8 @@
     "sku": "EZVHSCEXL",
     "name": "EZVIZ H6C Pro 4MP Pan & Tilt Smart Home Security Camera",
     "slug": "ezviz-h6c-pro-4mp-pan-tilt-smart-home-security-camera",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "216",
+    "category_name": "IP Cameras",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/s/cs-h6c-pro-4mp-28-1-25--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:35"
+    },
+    {
+      "price": 4519.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:31"
+    },
+    {
+      "price": 4519.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:29"
+    },
+    {
+      "price": 4519.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:16"
+    },
+    {
+      "price": 4519.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:09"
+    },
+    {
+      "price": 4519.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:33:59"
     }
   ]
 }

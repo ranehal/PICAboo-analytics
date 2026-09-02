@@ -4,8 +4,8 @@
     "sku": "C25WCLPCT",
     "name": "CHARG 25W PD Type-C to Lightning  Charger",
     "slug": "charg-25w-pd-type-c-to-lightning-charger",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/h/charg-25w-ctl-12-7-26-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 29.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:27"
+    },
+    {
+      "price": 695.0,
+      "special_price": 490.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:38"
+    },
+    {
+      "price": 695.0,
+      "special_price": 490.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:45"
+    },
+    {
+      "price": 695.0,
+      "special_price": 490.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:25"
+    },
+    {
+      "price": 695.0,
+      "special_price": 490.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:48"
+    },
+    {
+      "price": 695.0,
+      "special_price": 490.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:01"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "T95256WM01WOG",
     "name": "Titan Raga Memoirs Pinwheel Quartz Analog Metal Strap Watch for Women (95256WM01)",
     "slug": "titan-raga-memoirs-pinwheel-quartz-analog-metal-strap-watch-for-women-95256wm01",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/5/95256wm01-8-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:31"
+    },
+    {
+      "price": 37000.0,
+      "special_price": 29800.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:23"
+    },
+    {
+      "price": 37000.0,
+      "special_price": 29800.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:42:00"
+    },
+    {
+      "price": 37000.0,
+      "special_price": 29800.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:43:40"
+    },
+    {
+      "price": 37000.0,
+      "special_price": 29800.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:23"
+    },
+    {
+      "price": 37000.0,
+      "special_price": 29800.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:56"
     }
   ]
 }

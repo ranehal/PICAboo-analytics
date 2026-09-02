@@ -4,8 +4,8 @@
     "sku": "HEQ5AMG",
     "name": "Hoco EQ5 Dual Mic ANC+ENC TWS Earbuds - Black",
     "slug": "hoco-eq5-dual-mic-anc-enc-tws-earbuds-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/q/eq5-18.4.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:25"
+    },
+    {
+      "price": 1833.0,
+      "special_price": 1550.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:11"
+    },
+    {
+      "price": 1833.0,
+      "special_price": 1550.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:13:37"
+    },
+    {
+      "price": 1833.0,
+      "special_price": 1550.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:59"
+    },
+    {
+      "price": 1833.0,
+      "special_price": 1550.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:44:34"
     }
   ]
 }

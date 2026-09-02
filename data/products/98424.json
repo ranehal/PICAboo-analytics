@@ -4,8 +4,8 @@
     "sku": "BACGGBK01ADR",
     "name": "Baseus 4Pcs Small Shell Vehicle Hook Car Mount Holder (ACGGBK-01) - Black",
     "slug": "baseus-4pcs-small-shell-vehicle-hook-car-mount-holder-acggbk-01-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acggbk-01-3.1.24..jpg",
     "unit": "pcs",
     "unit_value": 4.0,
@@ -120,6 +120,41 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:41"
+    },
+    {
+      "price": 650.0,
+      "special_price": 449.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:41"
+    },
+    {
+      "price": 650.0,
+      "special_price": 449.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:07"
+    },
+    {
+      "price": 650.0,
+      "special_price": 449.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:08"
+    },
+    {
+      "price": 650.0,
+      "special_price": 449.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:50:56"
+    },
+    {
+      "price": 650.0,
+      "special_price": 449.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:54"
     }
   ]
 }

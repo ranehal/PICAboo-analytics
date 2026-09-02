@@ -4,8 +4,8 @@
     "sku": "CAQ800ECGG4AMHS",
     "name": "Casio Vintage Dual Time Grey Strap Watch for Unisex (AQ-800ECGG-4A)",
     "slug": "casio-vintage-dual-time-grey-strap-watch-for-unisex-aq-800ecgg-4a",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/q/aq-800ecgg-4a-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:02"
+    },
+    {
+      "price": 8529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:19"
+    },
+    {
+      "price": 8529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:04:01"
+    },
+    {
+      "price": 8529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:59"
+    },
+    {
+      "price": 8529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:33"
+    },
+    {
+      "price": 8529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:11"
     }
   ]
 }

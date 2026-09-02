@@ -6,13 +6,13 @@
     "slug": "oppo-a6k-gb-128gb",
     "category_id": "171",
     "category_name": "Smartphones",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/oppo-a6k-4gb128gb-2-8-26-1.jpg",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/oppo-a6k-4-9-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 23999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
+    "stock_available": 0,
     "is_atl": 1
   },
   "history": [
@@ -127,6 +127,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:31:08"
+    },
+    {
+      "price": 23999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:35"
+    },
+    {
+      "price": 23999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:46"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:15:26"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:35:01"
     }
   ]
 }

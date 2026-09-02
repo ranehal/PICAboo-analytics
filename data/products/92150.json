@@ -4,8 +4,8 @@
     "sku": "CGS1028PS2GLO",
     "name": "Cudy GS1028PS2 24 Port Gigabit PoE+ Switch",
     "slug": "cudy-gs1028ps2-24-port-gigabit-poe-switch",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/s/gs1028ps2--14-5-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:00"
+    },
+    {
+      "price": 19690.0,
+      "special_price": 18900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:39"
+    },
+    {
+      "price": 19690.0,
+      "special_price": 18900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:20"
+    },
+    {
+      "price": 19690.0,
+      "special_price": 18900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:31"
+    },
+    {
+      "price": 19690.0,
+      "special_price": 18900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:03"
+    },
+    {
+      "price": 19690.0,
+      "special_price": 18900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:54"
     }
   ]
 }

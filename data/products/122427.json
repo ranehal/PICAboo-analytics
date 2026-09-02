@@ -4,14 +4,14 @@
     "sku": "OPNQ4135MOV",
     "name": "Oraimo PowerNova Q41 35W Ultra Fast Charging 40000mAh Power Bank (OPB-7401Q)",
     "slug": "oraimo-powernova-q41-35w-ultra-fast-charging-40000mah-power-bank-opb-7401q",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/1/o1-19-8-26-3.jpg",
     "unit": null,
     "unit_value": null,
     "price": 4940.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "special_price": 4446.0,
+    "discount": 10.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -29,6 +29,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:19"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:38"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:46:29"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:54"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:15"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 4446.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:02"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "BCCZC20USIOT",
     "name": "Baseus Palm Series\u00a0PD\u00a020W Fast Charging US Plug Adapter with Type-C to Type-C Cable (CCZC20US)",
     "slug": "baseus-palm-series-pd-20w-fast-charging-adapter-with-type-c-to-type-c-cable-cczc20us",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/c/cczc20us-18-5-26-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:11"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 1190.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:03"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 1190.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:50:32"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 1190.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:47"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 1190.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:03"
+    },
+    {
+      "price": 1490.0,
+      "special_price": 1190.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:23"
     }
   ]
 }

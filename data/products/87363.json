@@ -4,8 +4,8 @@
     "sku": "CF94WA8DGAMZ",
     "name": "Casio F-94WA-8DG Classic Retro Digital Fiber Belt Men\u2019s Watch",
     "slug": "casio-classic-retro-digital-fiber-belt-men-s-watch-f-94wa-8dg",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/-/f-94wa-8dg3.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 26.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:07:03"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:37:39"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:15:23"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:54:33"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:10:23"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:45:27"
     }
   ]
 }

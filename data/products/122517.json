@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122517",
+    "sku": "DLM32E330CAMEXL",
+    "name": "Dahua DHI-LM32-E330CA 31.5\" 180Hz 2K QHD Curved Gaming Monitor",
+    "slug": "dahua-dhi-lm32-e330ca-31-5-180hz-2k-qhd-curved-gaming-monitor",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/m/lm32-e330ca-27-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 45126.0,
+    "special_price": 37605.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 45126.0,
+      "special_price": 37605.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:19"
+    }
+  ]
+}

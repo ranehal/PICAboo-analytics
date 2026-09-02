@@ -2,11 +2,11 @@
   "product": {
     "id": "115699",
     "sku": "RP2P8GB256GBWIFI",
-    "name": "Redmi Pad 2 Pro 8GB/256GB (Wi-Fi) with Free Travel Bag",
+    "name": "Redmi Pad 2 Pro 8GB/256GB (Wi-Fi)",
     "slug": "redmi-pad-2-pro-8gb-256gb-wi-fi",
-    "category_id": "171",
-    "category_name": "Smartphones",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-pad-2-pro-8gb-256gb-8-1-26-1.jpg",
+    "category_id": "239",
+    "category_name": "Xiaomi",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-pad-2-pro-8gb-18-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 0.0,
@@ -127,6 +127,41 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:31:00"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:00:40"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 12:41:05"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:15:05"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:34:29"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-02 11:15:30"
     }
   ]
 }

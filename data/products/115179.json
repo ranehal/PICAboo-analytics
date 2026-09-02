@@ -4,8 +4,8 @@
     "sku": "BCRY2ADR",
     "name": "Baseus Crystal Shine Series 2.4A 1.2m USB to Lightning Fast Charging Data Cable-Black",
     "slug": "baseus-crystal-shine-series-2-4a-1-2m-usb-to-lightning-fast-charging-data-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/B/a/Baseus-Crystal-Shine-Series-Fast-Charging-Data-Cable-USB-to-iP-2.4A-a-8358-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:15"
+    },
+    {
+      "price": 800.0,
+      "special_price": 649.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:21"
+    },
+    {
+      "price": 800.0,
+      "special_price": 649.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:27"
+    },
+    {
+      "price": 800.0,
+      "special_price": 649.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:22"
+    },
+    {
+      "price": 800.0,
+      "special_price": 649.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:41"
+    },
+    {
+      "price": 800.0,
+      "special_price": 649.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:58"
     }
   ]
 }

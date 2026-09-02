@@ -1,7 +1,7 @@
 {
   "product": {
     "id": "103056",
-    "sku": "TGSC56WMSMM",
+    "sku": "TGSC56WMWOG",
     "name": "Titan Lagan Rose Gold Accents Refined Elegance Women's Watch (2656WM01)",
     "slug": "titan-lagan-rose-gold-accents-refined-elegance-women-s-watch-2656wm01",
     "category_id": "1837",
@@ -120,6 +120,34 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:24"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5600.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:38:49"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5600.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:44:04"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5600.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:54:42"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 5600.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:01:11"
     }
   ]
 }

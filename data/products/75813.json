@@ -4,14 +4,14 @@
     "sku": "PNI100DXIZBE",
     "name": "Panasonic Non-Stick Cordless Dry Iron (NI-100DX)",
     "slug": "panasonics-ni-100dx-cordless-iron",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "86",
+    "category_name": "Iron",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/n/_ni-100dx_cordless_iron-2.jpg",
     "unit": null,
     "unit_value": null,
     "price": 7390.0,
-    "special_price": 5490.0,
-    "discount": 26.0,
+    "special_price": 5610.0,
+    "discount": 24.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -120,6 +120,48 @@
       "discount": 26.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:46"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5490.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:06:32"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5490.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:37:44"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5490.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:19:19"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5490.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:40"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5490.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:28:41"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5610.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:35"
     }
   ]
 }

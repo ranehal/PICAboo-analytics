@@ -4,8 +4,8 @@
     "sku": "ONEBSGZTC",
     "name": "One Minute Full Curved Tempered Glass Screen Protector for HONOR X9b",
     "slug": "one-minute-full-curved-tempered-glass-screen-protector-for-honor-x9b",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "200",
+    "category_name": "Screen Protector",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/l/glasss-on1m--15-4-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:13"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:35"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:02"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:23"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:49:28"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:55"
     }
   ]
 }

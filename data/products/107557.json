@@ -4,8 +4,8 @@
     "sku": "A4BGWUGCGLO",
     "name": "A4Tech Bloody GPW50 2.4G Wireless & USB Gaming Controller",
     "slug": "a4tech-bloody-gpw50-2-4g-wireless-usb-gaming-controller",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "6",
+    "category_name": "Gaming Gears",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/p/gpw50-30-1-25---1.jpg",
     "unit": "g",
     "unit_value": 2.4,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:09"
+    },
+    {
+      "price": 2900.0,
+      "special_price": 2465.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:41"
+    },
+    {
+      "price": 2900.0,
+      "special_price": 2465.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:02"
+    },
+    {
+      "price": 2900.0,
+      "special_price": 2465.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:38"
+    },
+    {
+      "price": 2900.0,
+      "special_price": 2465.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:29"
+    },
+    {
+      "price": 2900.0,
+      "special_price": 2465.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:39"
     }
   ]
 }

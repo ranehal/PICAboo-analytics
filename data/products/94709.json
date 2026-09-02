@@ -4,14 +4,14 @@
     "sku": "K16KN2926END",
     "name": "Kennede 16 Inch Rechargeable Table Fan (KN-2926)",
     "slug": "kennede-16-inch-rechargeable-table-fan-kn-2926",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "88",
+    "category_name": "Fan",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/e/kennede-2926-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 8500.0,
-    "special_price": 4180.0,
-    "discount": 51.0,
+    "price": 9000.0,
+    "special_price": 3590.0,
+    "discount": 60.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -120,6 +120,48 @@
       "discount": 51.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:29"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:23"
+    },
+    {
+      "price": 8900.0,
+      "special_price": 4180.0,
+      "discount": 53.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:20"
+    },
+    {
+      "price": 8900.0,
+      "special_price": 4180.0,
+      "discount": 53.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:22:09"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 3590.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:09"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 3590.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:33"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 3590.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:29"
     }
   ]
 }

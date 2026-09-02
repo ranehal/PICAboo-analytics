@@ -4,8 +4,8 @@
     "sku": "CWR1300GLO",
     "name": "CUDY WR1300 Dual Band AC1200 Gigabit Mesh Wi-Fi Router",
     "slug": "cudy-wr1300-dual-band-ac1200-gigabit-smart-wi-fi-router",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/cudy-wr1300-ac1200-dual-band-gigabit-wi-fi-mesh-router-base-image.jpg",
     "unit": "g",
     "unit_value": 1200.0,
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:04"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 3200.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:49"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 3200.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:46"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 3200.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:40"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 3200.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:09"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 3200.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:50"
     }
   ]
 }

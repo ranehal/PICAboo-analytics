@@ -4,14 +4,14 @@
     "sku": "OEPE40MOV",
     "name": "Oraimo Trumpet 3 In-Ear Wired Earphone (OEP-E40)-Black",
     "slug": "oraimo-trumpet-3-in-ear-wired-earphone-oep-e40-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/e/oep-e40_-black-2-april-2026.jpg",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/e/oep-e40-27.8.24..jpg",
     "unit": null,
     "unit_value": null,
     "price": 560.0,
-    "special_price": 535.0,
-    "discount": 4.0,
+    "special_price": 504.0,
+    "discount": 10.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -120,6 +120,41 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:12"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:14"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:19"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:30:00"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:56"
+    },
+    {
+      "price": 560.0,
+      "special_price": 504.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:28"
     }
   ]
 }

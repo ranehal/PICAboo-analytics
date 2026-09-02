@@ -4,8 +4,8 @@
     "sku": "XQ282BXOO",
     "name": "XO-NB-Q282B 1m Type-C to Type-C Cable",
     "slug": "xo-nb-q282b-1m-type-c-to-type-c-cable",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1731",
+    "category_name": "Converter & Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/2/q282b-19-april-2026-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 22.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:23"
+    },
+    {
+      "price": 380.0,
+      "special_price": 295.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:06"
+    },
+    {
+      "price": 380.0,
+      "special_price": 295.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:03"
+    },
+    {
+      "price": 380.0,
+      "special_price": 295.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:25"
+    },
+    {
+      "price": 380.0,
+      "special_price": 295.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:34"
+    },
+    {
+      "price": 380.0,
+      "special_price": 295.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:04"
     }
   ]
 }

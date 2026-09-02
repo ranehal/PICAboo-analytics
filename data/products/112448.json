@@ -1,11 +1,11 @@
 {
   "product": {
     "id": "112448",
-    "sku": "MMJXCQ01QWGDX",
+    "sku": "MMJXCQ01QWGSB",
     "name": "Mijia 150ml Bagless Car Vacuum Cleaner (MJXCQ01QW)",
     "slug": "mijia-150ml-bagless-car-vacuum-cleaner-mjxcq01qw",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "2257",
+    "category_name": "Others",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/j/mjxcq01qw-26-8-25-1.jpg",
     "unit": "ml",
     "unit_value": 150.0,
@@ -120,6 +120,41 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:52"
+    },
+    {
+      "price": 14200.0,
+      "special_price": 9160.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:10:51"
+    },
+    {
+      "price": 14200.0,
+      "special_price": 9160.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:19"
+    },
+    {
+      "price": 14200.0,
+      "special_price": 9160.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:48"
+    },
+    {
+      "price": 14200.0,
+      "special_price": 9160.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:56"
+    },
+    {
+      "price": 14200.0,
+      "special_price": 9160.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:32"
     }
   ]
 }

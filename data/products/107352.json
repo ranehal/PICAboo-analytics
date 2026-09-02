@@ -4,8 +4,8 @@
     "sku": "JSYC03GSB",
     "name": "Joyroom Type-C to 2x Type-C 2-in-1 DAC Adapter\u00a0(SY-C03)",
     "slug": "joyroom-usb-c-to-2x-usb-c-2in1-dac-adapter-sy-c03",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1731",
+    "category_name": "Converter & Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/y/sy-c03-17-6-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 34.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:23"
+    },
+    {
+      "price": 1430.0,
+      "special_price": 940.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:06"
+    },
+    {
+      "price": 1430.0,
+      "special_price": 940.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:03"
+    },
+    {
+      "price": 1430.0,
+      "special_price": 940.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:35"
+    },
+    {
+      "price": 1430.0,
+      "special_price": 940.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:39"
+    },
+    {
+      "price": 1430.0,
+      "special_price": 940.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:46"
     }
   ]
 }

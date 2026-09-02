@@ -4,8 +4,8 @@
     "sku": "AA2687MOV",
     "name": "Anker Prime GaN 160W 3-Port Fast Charger with Smart Display US Plug (A2687)",
     "slug": "anker-prime-gan-160w-3-port-fast-charger-with-smart-display-a2687",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/r/prime-gan-160w-6-6-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:57"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 12299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:50"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 12299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:44"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 12299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:14"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 12299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:57"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 12299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:13"
     }
   ]
 }

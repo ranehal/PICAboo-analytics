@@ -4,8 +4,8 @@
     "sku": "RT62AADR",
     "name": "Rock T62 35.5W Global Travel Multifunctional Charger Adapter",
     "slug": "rock-t62-35-5w-global-travel-multifunctional-charger-adapter",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/o/rock-t62--1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:12"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:52"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:46"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:36"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:53"
     }
   ]
 }

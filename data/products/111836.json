@@ -4,8 +4,8 @@
     "sku": "RROP2KHS",
     "name": "Reeoo Bass PRO Plus+ TWS Earbuds (RO Pro2) with Free Jersey",
     "slug": "reeoo-bass-pro-plus-tws-earbuds-ro-pro2",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/o/ro-pro2-b-12-10-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 47.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:23"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 799.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:04"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 799.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:04:31"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 799.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:21"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 799.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:23"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 799.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:38"
     }
   ]
 }

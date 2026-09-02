@@ -4,8 +4,8 @@
     "sku": "CVD300GLTTS",
     "name": "Casio MTP-VD300GL-1EUDF Enticer Golden Dial Black Leather Watch for Men ",
     "slug": "casio-mtp-vd300gl-1eudf-enticer-golden-dial-black-leather-watch-for-men",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/d/vd300gl.jpg",
     "unit": "g",
     "unit_value": 300.0,
@@ -92,6 +92,34 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:30:14"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:15:31"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:54:39"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:10:32"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:45:36"
     }
   ]
 }

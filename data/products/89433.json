@@ -4,8 +4,8 @@
     "sku": "J6154WATSRGSB",
     "name": "Joyroom JR-CL06 Combined 210W 9-in-1 PD Adapter 3 Socket Lighter Splitter Car Charger \u2013 Black",
     "slug": "joyroom-jr-cl06-154w-adapter-3-sockets-6-six-ports-car-charger",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/l/cl06-17-6-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 34.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:53"
+    },
+    {
+      "price": 2850.0,
+      "special_price": 1880.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:11"
+    },
+    {
+      "price": 2850.0,
+      "special_price": 1880.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:07"
+    },
+    {
+      "price": 2850.0,
+      "special_price": 1880.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:11"
+    },
+    {
+      "price": 2850.0,
+      "special_price": 1880.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:31"
     }
   ]
 }

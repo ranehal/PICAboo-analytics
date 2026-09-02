@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/p/iphone-17-pro-cosmic-orange-8-10-25_3_2.png",
     "unit": null,
     "unit_value": null,
-    "price": 249999.0,
-    "special_price": 168999.0,
-    "discount": 32.0,
+    "price": 219999.0,
+    "special_price": 199999.0,
+    "discount": 9.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -120,6 +120,13 @@
       "discount": 32.0,
       "stock_available": 1,
       "scraped_at": "2026-08-19 14:01:57"
+    },
+    {
+      "price": 219999.0,
+      "special_price": 199999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:56"
     }
   ]
 }

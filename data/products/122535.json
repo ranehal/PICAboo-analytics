@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122535",
+    "sku": "DLM49EW410CAMEXL",
+    "name": "Dahua DHI-LM49-EW410CA 49\" 120Hz DQHD ELED VA Curved Ultrawide Gaming Monitor",
+    "slug": "dahua-dhi-lm49-ew410ca-49-120hz-dqhd-eled-va-curved-ultrawide-gaming-monitor",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/m/lm49-ew410ca-29-8-261.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 119028.0,
+    "special_price": 99190.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 119028.0,
+      "special_price": 99190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:19"
+    }
+  ]
+}

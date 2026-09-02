@@ -4,8 +4,8 @@
     "sku": "CLTPV006L1BTTS",
     "name": "Casio Standard Watch for Women (LTP-V006L-1B)",
     "slug": "casio-standard-watch-for-women-ltp-v006l-1b",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v006l-1budf-28-10-25-2.jpg",
     "unit": "L",
     "unit_value": 6.0,
@@ -92,6 +92,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:18:48"
+    },
+    {
+      "price": 3379.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:30"
+    },
+    {
+      "price": 3379.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:44"
+    },
+    {
+      "price": 3379.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:11"
+    },
+    {
+      "price": 3379.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:03"
     }
   ]
 }

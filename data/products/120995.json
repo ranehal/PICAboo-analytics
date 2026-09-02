@@ -4,8 +4,8 @@
     "sku": "HOGA5ADR",
     "name": "Hoco GA5 Triumph Mobile Phone Cooler - Black",
     "slug": "hoco-ga5-triumph-semiconductor-mobile-phone-cooler-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/8/8/88e86e2b054d2b67c105d125e6451c0b_png_720x720q80-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:15"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1250.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:44"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1250.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:51"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1250.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:34"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1250.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:13"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1250.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:18"
     }
   ]
 }

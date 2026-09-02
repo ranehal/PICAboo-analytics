@@ -4,8 +4,8 @@
     "sku": "MOMY2F2GMST",
     "name": "MyOne 262L Border-Less Bottom Refrigerator (MY-2F2G)",
     "slug": "myone-my-2f2g-262l-full-match-bottom-refrigerator-fractal-spiral-black",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/y/my-2f2g-1.6.24..jpg",
     "unit": "L",
     "unit_value": 262.0,
@@ -120,6 +120,48 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-08-20 19:33:19"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-22 14:03:12"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-23 12:34:53"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:16:58"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-25 08:27:58"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-29 10:25:56"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-02 11:08:45"
     }
   ]
 }

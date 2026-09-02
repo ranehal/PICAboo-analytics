@@ -4,8 +4,8 @@
     "sku": "CMTPW500L2AVTTS",
     "name": "Casio Standard MTP-W500L-2AVDF Analog Watch for Men ",
     "slug": "casio-standard-mtp-w500l-2av-analog-watch-for-men",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-w500l-2avdf---18-11-25.jpg",
     "unit": "L",
     "unit_value": 500.0,
@@ -92,6 +92,34 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:29:00"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:14:11"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:53:38"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:09:30"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:44:23"
     }
   ]
 }

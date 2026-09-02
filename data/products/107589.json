@@ -4,8 +4,8 @@
     "sku": "AAP4ANCCMA",
     "name": "Airpods 4th Gen (ANC) (Singapore Variant)",
     "slug": "apple-airpods-4-anc",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/i/airpods-4th-gen-30-july-2026.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:14"
+    },
+    {
+      "price": 26999.0,
+      "special_price": 20499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:16"
+    },
+    {
+      "price": 26999.0,
+      "special_price": 20499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:36"
+    },
+    {
+      "price": 26999.0,
+      "special_price": 20499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:41"
+    },
+    {
+      "price": 26999.0,
+      "special_price": 20499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:28"
+    },
+    {
+      "price": 26999.0,
+      "special_price": 20499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:11"
     }
   ]
 }

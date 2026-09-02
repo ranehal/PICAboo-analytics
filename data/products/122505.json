@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122505",
+    "sku": "DLM25E231BNMEXL",
+    "name": "Dahua DHI-LM25-E231BN 24.5\" IPS FHD 200Hz Gaming Monitor",
+    "slug": "dahua-dhi-lm25-e231bn-24-5-ips-fhd-200hz-gaming-monitor",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/m/lm25-e231bn-25-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 20274.0,
+    "special_price": 16895.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 20274.0,
+      "special_price": 16895.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:29"
+    }
+  ]
+}

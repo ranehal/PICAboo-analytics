@@ -4,8 +4,8 @@
     "sku": "RK800TCS",
     "name": "Rapoo K800 2.4G Wireless Low-Profile Compact Keyboard",
     "slug": "rapoo-k800-2-4g-wireless-low-profile-compact-keyboard",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/a/rapoo-k800-2.4g-wireless-low-profile-compact-keyboard.jpg",
     "unit": "g",
     "unit_value": 2.4,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:01"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1149.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:15"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1149.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:51"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1149.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:14"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1149.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:52"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1149.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:01"
     }
   ]
 }

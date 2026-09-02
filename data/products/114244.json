@@ -4,8 +4,8 @@
     "sku": "MAC6670ADR",
     "name": "Mcdodo 36W Type-C to Lightning 1.2M Fast Charging Data Cable (CA-6670)",
     "slug": "mcdodo-ca-6670-type-c-to-lightning-cable-36w-1-2m",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/M/c/Mcdodo-CA-6670-Type-C-to-Lightning-Cable-36W-1-1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:22"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:25"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:58"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:25"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:31"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:10"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "UMT91TTZ",
     "name": "Ulanzi MT91 Cka Quick Release Octopus Tripod",
     "slug": "ulanzi-mt91-cka-quick-release-octopus-tripod",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1767",
+    "category_name": "Selfie Stick",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mt91-21-4-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:38"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1749.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:00"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1749.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:13"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1749.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:31:11"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1749.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:48:51"
     }
   ]
 }

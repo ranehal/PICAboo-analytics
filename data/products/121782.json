@@ -4,8 +4,8 @@
     "sku": "MXAE475ZBE",
     "name": "Panasonic 2000W 4-Jar Super Mixer Grinder (MX-AE475)",
     "slug": "panasonic-mx-ae475-red-monster-4-jar-super-mixer-grinder",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/x/mx-ae475-red-30-july-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 29.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:08"
+    },
+    {
+      "price": 18480.0,
+      "special_price": 13200.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:32"
+    },
+    {
+      "price": 18480.0,
+      "special_price": 13200.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:38"
+    },
+    {
+      "price": 18480.0,
+      "special_price": 13200.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:06"
+    },
+    {
+      "price": 18480.0,
+      "special_price": 13200.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:41"
+    },
+    {
+      "price": 18480.0,
+      "special_price": 13200.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:08"
+    },
+    {
+      "price": 18480.0,
+      "special_price": 13200.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:08:56"
     }
   ]
 }

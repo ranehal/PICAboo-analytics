@@ -4,8 +4,8 @@
     "sku": "BKPTGSPXSMATL",
     "name": "Baykron Privacy Filtered Tempered Glass Screen Protector for iPhone XS Max",
     "slug": "baykron-privacy-filtered-tempered-glass-screen-protector-for-iphone-xs-max",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "200",
+    "category_name": "Screen Protector",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/t/ot-ipxm-p-baykron-temperd-glass-iphonexs-max-priva-27-8-24-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 29.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:38"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1199.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:32"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1199.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:56"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1199.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:19"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1199.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:48:42"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1199.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:53"
     }
   ]
 }

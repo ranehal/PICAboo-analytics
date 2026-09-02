@@ -4,8 +4,8 @@
     "sku": "HL15TCADR",
     "name": "Hoco L15 Type-C Wireless Digital Microphone - Black ",
     "slug": "hoco-l15-type-c-wireless-digital-microphone-black",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/1/l15-type-c-17.1.24.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:29"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 989.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:08"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 989.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:08"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 989.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:52"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 989.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:02"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 989.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:46"
     }
   ]
 }

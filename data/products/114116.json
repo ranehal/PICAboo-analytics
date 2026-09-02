@@ -4,8 +4,8 @@
     "sku": "S10WWSLBSBX",
     "name": "SmartX WiFi Smart LED Bulb 10W E27",
     "slug": "smartx-10w-wifi-smart-led-bulb",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "3842",
+    "category_name": "Smart Home",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/e/led-bulb-10w-20-11-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:20"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 990.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:12"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 990.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:33"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 990.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:30"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 990.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:00"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 990.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:22"
     }
   ]
 }

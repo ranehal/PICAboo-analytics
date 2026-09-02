@@ -4,8 +4,8 @@
     "sku": "PMKGX1700DSQ",
     "name": "Panasonic 1700W Meat Grinder (MK-GX1700)",
     "slug": "panasonic-1700w-meat-grinder-mk-gx1700",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/k/mk-gx1700-14-6-25-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:31"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 17190.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:58"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 17190.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:02"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 17190.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:32"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 17190.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:38"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 17190.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:35"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 17190.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:56"
     }
   ]
 }

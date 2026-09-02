@@ -4,8 +4,8 @@
     "sku": "XCF27XOO",
     "name": "XO-CF27 PPT Rechargeable Flip Pen Remote Control",
     "slug": "xo-cf27-ppt-rechargeable-flip-pen-remote-control",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/f/cf27-27-april-2026-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:21"
+    },
+    {
+      "price": 1680.0,
+      "special_price": 1300.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:25"
+    },
+    {
+      "price": 1680.0,
+      "special_price": 1300.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:50:55"
+    },
+    {
+      "price": 1680.0,
+      "special_price": 1300.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:30:38"
+    },
+    {
+      "price": 1680.0,
+      "special_price": 1300.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:29"
+    },
+    {
+      "price": 1680.0,
+      "special_price": 1300.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:49"
     }
   ]
 }

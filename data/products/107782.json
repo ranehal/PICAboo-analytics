@@ -4,9 +4,9 @@
     "sku": "OBPENCWHMOV",
     "name": "Oraimo BoomPop Lite Wireless Bluetooth Headphone (OHP-317)-Speed Black",
     "slug": "oraimo-boompop-lite-enc-over-ear-wireless-headphones",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/oraimo-boompop-lite-wireless-bluetooth-headphone-_ohp-317_-speed-black-4-15-26-1.jpg",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/h/ohp-317-21-1-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 3050.0,
@@ -120,6 +120,34 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:11"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:45"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:36"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:13"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:38"
     }
   ]
 }

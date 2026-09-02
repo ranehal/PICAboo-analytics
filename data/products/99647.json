@@ -4,8 +4,8 @@
     "sku": "BSLK2PADR",
     "name": "Baseus Slim Laptop Kickstand (2Pcs)",
     "slug": "baseus-slim-laptop-kickstand-2pcs",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/a/laptop-stand-8.2.24..jpg",
     "unit": "pcs",
     "unit_value": 2.0,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:29"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 849.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:08"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 849.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:08"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 849.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:52"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 849.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:02"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 849.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:46"
     }
   ]
 }

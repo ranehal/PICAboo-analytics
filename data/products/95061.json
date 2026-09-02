@@ -4,8 +4,8 @@
     "sku": "IIMIKIST1MOV",
     "name": "Imilab IMIKI ST1 Bluetooth Calling Smart Watch",
     "slug": "imilab-imiki-st1-bluetooth-calling-smart-watch",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "226",
+    "category_name": "Smart Watch",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/m/imiki-st1-17.8.23..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:06"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:11:55"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:43:45"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:23:34"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:37:18"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:18:02"
     }
   ]
 }

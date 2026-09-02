@@ -4,8 +4,8 @@
     "sku": "GBDH20002WOG",
     "name": "Casio G-Shock G-Squad Resin Band Men\u2019s Watch (GBD-H2000-2)",
     "slug": "casio-g-shock-g-squad-resin-band-men-s-watch-gbd-h2000-2",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/b/gbd-h2000-2-8-7-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:27"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 58500.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:19"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 58500.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:54"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 58500.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:41:49"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 58500.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:46"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 58500.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:32:45"
     }
   ]
 }

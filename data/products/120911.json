@@ -4,8 +4,8 @@
     "sku": "CGW95001A4WOG",
     "name": "Casio G-Shock Master of G- Land Mudman Watch for Men (GW-9500-1A4)",
     "slug": "casio-g-shock-master-of-g-land-mudman-watch-for-men-gw-9500-1a4",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/w/gw-9500-1a4-21-6-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:27"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 45500.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:19"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 45500.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:54"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 45500.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:41:49"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 45500.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:53"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 45500.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:33:13"
     }
   ]
 }

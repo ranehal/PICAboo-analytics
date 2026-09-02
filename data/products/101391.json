@@ -1,7 +1,7 @@
 {
   "product": {
     "id": "101391",
-    "sku": "SVA420BDSQ",
+    "sku": "SVA420BFFT",
     "name": "Black & Decker 4.4V 2-in-1 Cordless Stick Vacuum Cleaner (SVA420B)",
     "slug": "black-decker-4-4v-2-in-1-cordless-stick-vacuum-cleaner-sva420b",
     "category_id": "7",
@@ -120,6 +120,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:15"
+    },
+    {
+      "price": 15999.0,
+      "special_price": 15990.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:15"
+    },
+    {
+      "price": 15999.0,
+      "special_price": 15990.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:33:27"
+    },
+    {
+      "price": 15999.0,
+      "special_price": 15990.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:06"
+    },
+    {
+      "price": 15999.0,
+      "special_price": 15990.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:52:44"
     }
   ]
 }

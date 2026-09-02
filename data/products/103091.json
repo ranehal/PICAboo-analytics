@@ -4,8 +4,8 @@
     "sku": "AUT201NHRO",
     "name": "1HORA AUT201 TWS Earbuds with Free 1m Type-C Cable-Black",
     "slug": "1hora-aut201n-tws-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/u/aut201n-00001.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 45.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:55"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:53"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:11:18"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:14"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:32"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:42:25"
     }
   ]
 }

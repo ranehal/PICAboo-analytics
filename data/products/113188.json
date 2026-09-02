@@ -4,8 +4,8 @@
     "sku": "IPA256GB",
     "name": "iPhone Air 256GB with Free 20W Adapter",
     "slug": "iphone-air-256gb",
-    "category_id": "171",
-    "category_name": "Smartphones",
+    "category_id": "173",
+    "category_name": "iPhone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/p/iphone-air-256gb-20-7-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -13,7 +13,7 @@
     "special_price": 174999.0,
     "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -127,6 +127,34 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:31:10"
+    },
+    {
+      "price": 209999.0,
+      "special_price": 174999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:01:00"
+    },
+    {
+      "price": 209999.0,
+      "special_price": 174999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:41:28"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-24 21:15:16"
+    },
+    {
+      "price": 209999.0,
+      "special_price": 174999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:35:29"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "LQ93WCGSB",
     "name": "LDNIO Q9 33W Safe PD Fast Charger with Retractable Type-C Cable",
     "slug": "ldnio-q9-33w-safe-pd-fast-charger-with-retractable-type-c-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/9/q9-4-jun-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:57"
+    },
+    {
+      "price": 1849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:50"
+    },
+    {
+      "price": 1849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:44"
+    },
+    {
+      "price": 1849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:14"
+    },
+    {
+      "price": 1849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:57"
+    },
+    {
+      "price": 1849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:13"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "PEHFADPIOT",
     "name": "Pure Essential Oil 10ml for Humidifier Fragrance Aroma Diffuser (6pcs Package)",
     "slug": "pure-essential-oil-10ml-for-humidifier-fragrance-aroma-diffuser-6pcs-package",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "3047",
+    "category_name": "Gift Set",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/s/essential-oil-for-aroma-diffuser--31-12-24--1.jpg",
     "unit": "ml",
     "unit_value": 10.0,
@@ -120,6 +120,41 @@
       "discount": 37.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:13"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1069.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:13"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1069.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:49"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1069.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:11"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1069.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:45"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1069.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:21"
     }
   ]
 }

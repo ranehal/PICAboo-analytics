@@ -4,8 +4,8 @@
     "sku": "HWF2MZTC",
     "name": "Huawei Watch Fit 2 Magnetic USB Charging Cable",
     "slug": "huawei-watch-fit-2-magnetic-usb-charging-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1765",
+    "category_name": "Smart Watch Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/u/huawei-watch-fit-2_2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:27"
+    },
+    {
+      "price": 350.0,
+      "special_price": 229.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:32"
+    },
+    {
+      "price": 350.0,
+      "special_price": 229.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:17:01"
+    },
+    {
+      "price": 350.0,
+      "special_price": 229.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:25"
+    },
+    {
+      "price": 350.0,
+      "special_price": 229.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:24"
     }
   ]
 }

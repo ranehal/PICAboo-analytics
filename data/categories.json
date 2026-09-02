@@ -4,119 +4,119 @@
     "name": "5G Smartphone",
     "slug": "5g-smartphone",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 15
   },
   {
     "id": "440",
     "name": "Action Cameras",
     "slug": "action-camera-camcorder",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 37
   },
   {
     "id": "64",
     "name": "Air Conditioner",
     "slug": "air-conditioner",
     "parent_id": "7",
-    "prod_count": 175
+    "prod_count": 29
   },
   {
     "id": "2936",
     "name": "Air Fryer",
     "slug": "air-fryer",
     "parent_id": "7",
-    "prod_count": 1
+    "prod_count": 72
   },
   {
     "id": "452",
     "name": "Air Purifier",
     "slug": "air-purifier",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 44
   },
   {
     "id": "3926",
     "name": "Bike Accessories",
     "slug": "bike-accessories",
     "parent_id": "1837",
-    "prod_count": 0
+    "prod_count": 41
   },
   {
     "id": "2528",
     "name": "Bluetooth Headphone",
     "slug": "bluetooth-headphone",
     "parent_id": "197",
-    "prod_count": 4
+    "prod_count": 260
   },
   {
     "id": "148",
     "name": "Camera Accessories",
     "slug": "camera-accessories",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 39
   },
   {
     "id": "1742",
     "name": "Case & Cover",
     "slug": "cases-covers",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 47
   },
   {
     "id": "201",
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 10
+    "prod_count": 458
   },
   {
     "id": "3565",
     "name": "Chigo",
     "slug": "chigo",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "71",
     "name": "Coffee Maker",
     "slug": "coffee-maker",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 35
   },
   {
     "id": "20",
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 1187
+    "prod_count": 303
   },
   {
     "id": "167",
     "name": "Computer Casing",
     "slug": "computer-case",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 2
   },
   {
     "id": "4",
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 213
+    "prod_count": 125
   },
   {
     "id": "1731",
     "name": "Converter & Cable",
     "slug": "cable-connector-adapter",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 25
   },
   {
     "id": "3589",
     "name": "DAEWOO",
     "slug": "daewoo-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 3
   },
   {
     "id": "3591",
@@ -130,14 +130,14 @@
     "name": "Daikin",
     "slug": "daikin-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 8
   },
   {
     "id": "3486",
     "name": "Danaaz",
     "slug": "danaaz-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 3
   },
   {
     "id": "3492",
@@ -151,56 +151,56 @@
     "name": "Dash Camera",
     "slug": "dash-camera",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 5
   },
   {
     "id": "205",
     "name": "Data Cable",
     "slug": "data-cable",
     "parent_id": "197",
-    "prod_count": 5
+    "prod_count": 479
   },
   {
     "id": "122",
     "name": "Dishwashers",
     "slug": "dishwashers",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 13
   },
   {
     "id": "3925",
     "name": "Drone & Accessories",
     "slug": "drone-accessories",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 32
   },
   {
     "id": "3551",
     "name": "Edison",
     "slug": "edison-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 5
   },
   {
     "id": "75",
     "name": "Electric Kettle",
     "slug": "kettle",
     "parent_id": "7",
-    "prod_count": 2
+    "prod_count": 62
   },
   {
     "id": "3531",
     "name": "Electric Vehicle (EV)",
     "slug": "electric-vehicle",
     "parent_id": "1837",
-    "prod_count": 0
+    "prod_count": 13
   },
   {
     "id": "7",
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 3144
+    "prod_count": 886
   },
   {
     "id": "4312",
@@ -221,105 +221,105 @@
     "name": "Explore Mac",
     "slug": "apple-mac",
     "parent_id": "4",
-    "prod_count": 0
+    "prod_count": 13
   },
   {
     "id": "88",
     "name": "Fan",
     "slug": "fan",
     "parent_id": "7",
-    "prod_count": 2
+    "prod_count": 214
   },
   {
     "id": "73",
     "name": "Food Processor",
     "slug": "food-processor",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 13
   },
   {
     "id": "6",
     "name": "Gaming Gears",
     "slug": "gaming-console",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 73
   },
   {
     "id": "165",
     "name": "Gas Burner",
     "slug": "gas-stove",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 80
   },
   {
     "id": "3482",
     "name": "General",
     "slug": "general-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 2
   },
   {
     "id": "274",
     "name": "Geyser",
     "slug": "geyser",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 85
   },
   {
     "id": "3047",
     "name": "Gift Set",
     "slug": "gift-set",
     "parent_id": "1837",
-    "prod_count": 0
+    "prod_count": 10
   },
   {
     "id": "2723",
     "name": "Gimbal",
     "slug": "gimbal",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 19
   },
   {
     "id": "337",
     "name": "Google",
     "slug": "google",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 2
   },
   {
     "id": "3477",
     "name": "Gree",
     "slug": "gree-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 31
   },
   {
     "id": "69",
     "name": "Grinder & Blender",
     "slug": "blender",
     "parent_id": "7",
-    "prod_count": 2
+    "prod_count": 202
   },
   {
     "id": "59",
     "name": "HDD & SSD",
     "slug": "hdd",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 3
   },
   {
     "id": "175",
     "name": "HTC",
     "slug": "htc",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 2
   },
   {
     "id": "3478",
     "name": "Haier",
     "slug": "haier-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 34
   },
   {
     "id": "3472",
@@ -333,35 +333,35 @@
     "name": "Hair Dryers",
     "slug": "hair-dryer",
     "parent_id": "1837",
-    "prod_count": 0
+    "prod_count": 32
   },
   {
     "id": "389",
     "name": "Hair Straighteners",
     "slug": "hair-straightener",
     "parent_id": "1837",
-    "prod_count": 0
+    "prod_count": 21
   },
   {
     "id": "324",
     "name": "Headset",
     "slug": "headphone-headset",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 89
   },
   {
     "id": "3984",
     "name": "Healthcare and Accessories",
     "slug": "health-care-and-accessories",
     "parent_id": "1837",
-    "prod_count": 2
+    "prod_count": 63
   },
   {
     "id": "3479",
     "name": "Hisense",
     "slug": "hisense-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 7
   },
   {
     "id": "3473",
@@ -375,70 +375,70 @@
     "name": "Home Theater & Sound System",
     "slug": "home-theater-sound-system",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 56
   },
   {
     "id": "1227",
     "name": "Honor",
     "slug": "honor",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 15
   },
   {
     "id": "190",
     "name": "Huawei",
     "slug": "huawei",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 5
   },
   {
     "id": "3507",
     "name": "Hyundai",
     "slug": "hyundai-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 3
   },
   {
     "id": "216",
     "name": "IP Cameras",
     "slug": "ip-camera",
     "parent_id": "20",
-    "prod_count": 1
+    "prod_count": 37
   },
   {
     "id": "474",
     "name": "IPS",
     "slug": "ips",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 85
   },
   {
     "id": "74",
     "name": "Induction Cooker",
     "slug": "induction-cooker",
     "parent_id": "7",
-    "prod_count": 2
+    "prod_count": 62
   },
   {
     "id": "441",
     "name": "Infinix",
     "slug": "infinix",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 10
   },
   {
     "id": "86",
     "name": "Iron",
     "slug": "iron",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 77
   },
   {
     "id": "156",
     "name": "Kitchen Hood",
     "slug": "chimney-kitchen-hood",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 72
   },
   {
     "id": "4469",
@@ -459,21 +459,21 @@
     "name": "Laptop & Notebook",
     "slug": "laptop-notebook",
     "parent_id": "4",
-    "prod_count": 0
+    "prod_count": 60
   },
   {
     "id": "1837",
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 3067
+    "prod_count": 424
   },
   {
     "id": "3915",
     "name": "Light",
     "slug": "light",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 97
   },
   {
     "id": "3496",
@@ -487,35 +487,35 @@
     "name": "Memory Card",
     "slug": "memory-card",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 6
   },
   {
     "id": "566",
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 39
+    "prod_count": 1959
   },
   {
     "id": "3480",
     "name": "Midea",
     "slug": "midea-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 19
   },
   {
     "id": "3105",
     "name": "Mini PC",
     "slug": "mini-pc",
     "parent_id": "4",
-    "prod_count": 0
+    "prod_count": 20
   },
   {
     "id": "3483",
     "name": "Minister",
     "slug": "minister-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 3
   },
   {
     "id": "3491",
@@ -529,14 +529,14 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 3913
+    "prod_count": 109
   },
   {
     "id": "47",
     "name": "Monitor",
     "slug": "monitor",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 81
   },
   {
     "id": "46",
@@ -557,7 +557,7 @@
     "name": "Mouse & Keyboard",
     "slug": "mouse",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 193
   },
   {
     "id": "4036",
@@ -571,7 +571,7 @@
     "name": "MyONE",
     "slug": "myone-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "3493",
@@ -585,21 +585,21 @@
     "name": "Nokia",
     "slug": "nokia",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 3
   },
   {
     "id": "536",
     "name": "Nubia",
     "slug": "nubia",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "183",
     "name": "OPPO",
     "slug": "oppo",
     "parent_id": "171",
-    "prod_count": 1
+    "prod_count": 5
   },
   {
     "id": "187",
@@ -613,70 +613,70 @@
     "name": "Others",
     "slug": "electronics-others",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 171
   },
   {
     "id": "202",
     "name": "Others ",
     "slug": "mobile-accessories-others",
     "parent_id": "197",
-    "prod_count": 1
+    "prod_count": 207
   },
   {
     "id": "1983",
     "name": "Others Accessories",
     "slug": "others-accessories",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 56
   },
   {
     "id": "68",
     "name": "Oven",
     "slug": "microwave-oven",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 111
   },
   {
     "id": "52",
     "name": "Pen Drive",
     "slug": "pendrive",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 15
   },
   {
     "id": "4057",
     "name": "Portable Power Station",
     "slug": "portable-power-station",
     "parent_id": "7",
-    "prod_count": 1
+    "prod_count": 2
   },
   {
     "id": "203",
     "name": "Power Bank",
     "slug": "power-bank",
     "parent_id": "197",
-    "prod_count": 1
+    "prod_count": 331
   },
   {
     "id": "3135",
     "name": "Presenter",
     "slug": "presenter",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 7
   },
   {
     "id": "56",
     "name": "Printer",
     "slug": "printer",
     "parent_id": "20",
-    "prod_count": 1
+    "prod_count": 65
   },
   {
     "id": "329",
     "name": "Projectors",
     "slug": "projector",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 18
   },
   {
     "id": "3592",
@@ -690,28 +690,28 @@
     "name": "Refrigerator & Freezer",
     "slug": "refrigerator",
     "parent_id": "7",
-    "prod_count": 2
+    "prod_count": 233
   },
   {
     "id": "77",
     "name": "Rice Cooker",
     "slug": "rice-cooker",
     "parent_id": "7",
-    "prod_count": 4
+    "prod_count": 68
   },
   {
     "id": "308",
     "name": "Room Heater",
     "slug": "room-heater",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 20
   },
   {
     "id": "325",
     "name": "Router & Networking",
     "slug": "networking-accessories",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 196
   },
   {
     "id": "3490",
@@ -725,14 +725,14 @@
     "name": "Samsung",
     "slug": "samsung-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 4
   },
   {
     "id": "172",
     "name": "Samsung",
     "slug": "samsung",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 13
   },
   {
     "id": "3471",
@@ -746,14 +746,14 @@
     "name": "Screen Protector",
     "slug": "screen-protector",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 92
   },
   {
     "id": "1767",
     "name": "Selfie Stick",
     "slug": "selfie-sticks-vr-otg",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 28
   },
   {
     "id": "3494",
@@ -767,7 +767,7 @@
     "name": "Shaver & Trimmer",
     "slug": "shaver-trimmer",
     "parent_id": "1837",
-    "prod_count": 0
+    "prod_count": 169
   },
   {
     "id": "3593",
@@ -788,42 +788,42 @@
     "name": "Smart Band",
     "slug": "wearable",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 4
   },
   {
     "id": "2299",
     "name": "Smart Gadget",
     "slug": "smart-gadgets",
     "parent_id": "197",
-    "prod_count": 0
+    "prod_count": 170
   },
   {
     "id": "3842",
     "name": "Smart Home",
     "slug": "smart-home",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 119
   },
   {
     "id": "226",
     "name": "Smart Watch",
     "slug": "smart-watches",
     "parent_id": "197",
-    "prod_count": 12
+    "prod_count": 431
   },
   {
     "id": "1765",
     "name": "Smart Watch Accessories",
     "slug": "smart-watches-accessories",
     "parent_id": "197",
-    "prod_count": 1
+    "prod_count": 355
   },
   {
     "id": "171",
     "name": "Smartphones",
     "slug": "smartphone",
     "parent_id": "",
-    "prod_count": 196
+    "prod_count": 85
   },
   {
     "id": "3475",
@@ -844,28 +844,28 @@
     "name": "Sound System",
     "slug": "sound-system",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 23
   },
   {
     "id": "211",
     "name": "Speaker",
     "slug": "bluetooth-speaker",
     "parent_id": "197",
-    "prod_count": 1
+    "prod_count": 218
   },
   {
     "id": "4046",
     "name": "Switches & Sockets",
     "slug": "switches-sockets",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "174",
     "name": "Symphony",
     "slug": "symphony",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 10
   },
   {
     "id": "4499",
@@ -886,7 +886,7 @@
     "name": "TECNO",
     "slug": "tecno",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 2
   },
   {
     "id": "180",
@@ -900,14 +900,14 @@
     "name": "Television",
     "slug": "television",
     "parent_id": "",
-    "prod_count": 199
+    "prod_count": 195
   },
   {
     "id": "418",
     "name": "Tools & Hardware",
     "slug": "tools-hardware",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 177
   },
   {
     "id": "3476",
@@ -921,42 +921,42 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 10
+    "prod_count": 453
   },
   {
     "id": "460",
     "name": "UPS",
     "slug": "ups",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 6
   },
   {
     "id": "131",
     "name": "USB Ports & Hubs",
     "slug": "usb-ports-hubs",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 49
   },
   {
     "id": "3485",
     "name": "Viomi",
     "slug": "viomi-ac",
     "parent_id": "64",
-    "prod_count": 0
+    "prod_count": 2
   },
   {
     "id": "3481",
     "name": "Walton",
     "slug": "walton-ac",
     "parent_id": "64",
-    "prod_count": 1
+    "prod_count": 22
   },
   {
     "id": "66",
     "name": "Washing Machine",
     "slug": "washing-machine",
     "parent_id": "",
-    "prod_count": 99
+    "prod_count": 95
   },
   {
     "id": "4148",
@@ -970,35 +970,35 @@
     "name": "Water Purifiers & Filters",
     "slug": "water-filter",
     "parent_id": "7",
-    "prod_count": 0
+    "prod_count": 131
   },
   {
     "id": "57",
     "name": "Webcam",
     "slug": "webcam",
     "parent_id": "20",
-    "prod_count": 0
+    "prod_count": 18
   },
   {
     "id": "206",
     "name": "Wired Headphone ",
     "slug": "headphones",
     "parent_id": "197",
-    "prod_count": 1
+    "prod_count": 235
   },
   {
     "id": "568",
     "name": "Women's Watches",
     "slug": "womens-watch",
     "parent_id": "1837",
-    "prod_count": 10
+    "prod_count": 393
   },
   {
     "id": "239",
     "name": "Xiaomi",
     "slug": "xiaomi",
     "parent_id": "171",
-    "prod_count": 1
+    "prod_count": 12
   },
   {
     "id": "3474",
@@ -1012,14 +1012,14 @@
     "name": "Xtra",
     "slug": "xtra",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "173",
     "name": "iPhone",
     "slug": "iphone",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 3
   },
   {
     "id": "3173",
@@ -1033,13 +1033,13 @@
     "name": "realme",
     "slug": "realme",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 10
   },
   {
     "id": "1636",
     "name": "vivo",
     "slug": "vivo",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 11
   }
 ]

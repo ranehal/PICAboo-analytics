@@ -4,8 +4,8 @@
     "sku": "HHPCM01OMO",
     "name": "Adapter for Omron Digital BP Monitor (HHP-CM01)",
     "slug": "adapter-for-omron-digital-bp-monitor-hhp-cm01",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "3984",
+    "category_name": "Healthcare and Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/h/hhp-cm01-23-12-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:01:15"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:31:33"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:32"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:11"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:49"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:21"
     }
   ]
 }

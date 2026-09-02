@@ -4,8 +4,8 @@
     "sku": "F3287QM03WOG",
     "name": "Fastrack Tick Tock Brown Dial Watch for Men (3287QM03)",
     "slug": "fastrack-tick-tock-brown-dial-watch-for-men-3287qm03",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/2/3287qm03-17-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:59"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8800.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:54"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8800.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:56"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8800.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:09"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8800.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:03:58"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8800.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:57"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122011",
+    "sku": "ACEE22ADR",
+    "name": "Acefast E22 3 in 1 22.5W Desktop Wireless Charging Station - Black",
+    "slug": "acefast-e22-3-in-1-22-5w-desktop-wireless-charging-station-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/A/C/ACEFAST-E22-Fast-Wireless-Charger-Desktop-Holder-1-600x600-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2800.0,
+    "special_price": 2300.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2800.0,
+      "special_price": 2300.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:21"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122622",
+    "sku": "OSV201AMOV",
+    "name": "Oraimo CyberVac 2 Lightweight Cordless Vacuum Cleaner (OSV-201A)",
+    "slug": "oraimo-cybervac-2-lightweight-cordless-vacuum-cleaner-osv-201a",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/s/osv-201a-2-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14500.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:49"
+    }
+  ]
+}

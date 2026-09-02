@@ -4,8 +4,8 @@
     "sku": "GEGFL4653FFT",
     "name": "GEEPAS GFL4653 Rechargeable LED Flashlight",
     "slug": "geepas-gfl4653-rechargeable-led-flashlight",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "2257",
+    "category_name": "Others",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/6/465312-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -99,6 +99,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:39:23"
+    },
+    {
+      "price": 3699.0,
+      "special_price": 3690.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:11:19"
+    },
+    {
+      "price": 3699.0,
+      "special_price": 3690.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:35"
+    },
+    {
+      "price": 3699.0,
+      "special_price": 3690.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:22:24"
+    },
+    {
+      "price": 3699.0,
+      "special_price": 3690.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:34:16"
+    },
+    {
+      "price": 3699.0,
+      "special_price": 3690.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:51"
     }
   ]
 }

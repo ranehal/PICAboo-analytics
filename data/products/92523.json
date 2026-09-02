@@ -4,8 +4,8 @@
     "sku": "CMDV106B1A2VCFBNS",
     "name": "Casio Duro Pepsi MDV-106B-1A2VCF Stainless Steel Quartz Men\u2019s Watch",
     "slug": "casio-duro-pepsi-mdv-106b-1a2vcf-stainless-steel-quartz-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/d/mdv-106b-1a2vcf-02.04.23.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:06:26"
+    },
+    {
+      "price": 12999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:37:00"
+    },
+    {
+      "price": 12999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:14:26"
+    },
+    {
+      "price": 12999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:53:51"
+    },
+    {
+      "price": 12999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:09:43"
+    },
+    {
+      "price": 12999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:44:37"
     }
   ]
 }

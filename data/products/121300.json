@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121300",
+    "sku": "RGEW7200BEJNN",
+    "name": "Ruijie RG-EW7200BE Pro 7200 Mbps Dual Band WiFi 7 Gaming Router",
+    "slug": "ruijie-rg-ew7200be-pro-7200-mbps-dual-band-wifi-7-gaming-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-07-11T115459_222.png",
+    "unit": "g",
+    "unit_value": 7.0,
+    "price": 25473.0,
+    "special_price": 22349.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 25473.0,
+      "special_price": 22349.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:30"
+    }
+  ]
+}

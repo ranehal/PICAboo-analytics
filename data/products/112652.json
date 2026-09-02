@@ -4,8 +4,8 @@
     "sku": "CWR11000GLO",
     "name": "Cudy WR11000 BE11000 2.5G Mesh Wi-Fi 7 Router",
     "slug": "cudy-wr11000-be11000-2-5g-mesh-wi-fi-7-router",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/cudy-wr11000-4-9-25-1.jpg",
     "unit": "g",
     "unit_value": 2.5,
@@ -120,6 +120,41 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:24"
+    },
+    {
+      "price": 17900.0,
+      "special_price": 17500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:06"
+    },
+    {
+      "price": 17900.0,
+      "special_price": 17500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:54"
+    },
+    {
+      "price": 17900.0,
+      "special_price": 17500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:59"
+    },
+    {
+      "price": 17900.0,
+      "special_price": 17500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:55"
+    },
+    {
+      "price": 17900.0,
+      "special_price": 17500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:24"
     }
   ]
 }

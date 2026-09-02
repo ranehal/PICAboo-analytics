@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "121509",
+    "sku": "MOUA13ADR",
+    "name": "MOMAX UA13 2500W 1-World Global Adapter Socket - UK Plug",
+    "slug": "momax-ua13-2500w-1-world-global-adapter-socket",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/u/a/ua13-25-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1300.0,
+    "special_price": 970.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1300.0,
+      "special_price": 970.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:25:56"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 970.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:28:15"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 970.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:10:02"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
     "sku": "T1885WM01WOG",
     "name": "Titan Neo Curve Brown Dial Stainless Steel Watch for Men (1885WM01)",
     "slug": "titan-neo-curve-brown-dial-stainless-steel-watch-for-men-1885wm01",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/8/1885wm01-28-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 27.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:02:47"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10200.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:33:11"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10200.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:09:24"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10200.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:49:51"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10200.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:05:50"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10200.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:46"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "RRZ75CCKT",
     "name": "Rizco RKH 75 Cooker Hood (30 Inch)",
     "slug": "rizco-rkh-75-cooker-hood-30-inch",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "156",
+    "category_name": "Kitchen Hood",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/i/rizco-rz-bl-fiesta-75-cooker-hood-_30-inches_.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:45"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:06:51"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:37:50"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:12"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:52"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:04"
     }
   ]
 }

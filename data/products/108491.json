@@ -4,8 +4,8 @@
     "sku": "FFW3270SL04WOG",
     "name": "Fastrack Fleek Quartz Multifunction Men\u2019s Watch (3270SL04)",
     "slug": "fastrack-fleek-quartz-multifunction-men-s-watch-3270sl04",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/2/3270sl04-5-3-25---2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 22.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:03:05"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:33:30"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:09:48"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:50:10"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:06:02"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:40:12"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "F68045WM01AMZ",
     "name": "Fastrack Stunners X Quartz Analog Strap Watch for Women (68045WM01)",
     "slug": "fastrack-stunners-x-quartz-analog-strap-watch-for-women-68045wm01",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/8/68045wm01-24-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:02"
+    },
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:19"
+    },
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:04:24"
+    },
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:43:05"
+    },
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:43"
+    },
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:32"
     }
   ]
 }

@@ -4,16 +4,16 @@
     "sku": "HRS800PBORNG",
     "name": "Hitachi 641L Side by Side Refrigerator (R-S800PB0-KD-GBK) ",
     "slug": "hitachi-641l-side-by-side-refrigerator-r-s800pb0-kd-gbk",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/-/r-s800pb0-gbk-24.5.23..jpg",
     "unit": "L",
     "unit_value": 641.0,
     "price": 266300.0,
-    "special_price": 221990.0,
-    "discount": 17.0,
+    "special_price": 227900.0,
+    "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,48 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:33:30"
+    },
+    {
+      "price": 266300.0,
+      "special_price": 221990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:46"
+    },
+    {
+      "price": 266300.0,
+      "special_price": 221990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:04"
+    },
+    {
+      "price": 266300.0,
+      "special_price": 227900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:04"
+    },
+    {
+      "price": 266300.0,
+      "special_price": 227900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:08"
+    },
+    {
+      "price": 266300.0,
+      "special_price": 227900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:22"
+    },
+    {
+      "price": 266300.0,
+      "special_price": 227900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:14"
     }
   ]
 }

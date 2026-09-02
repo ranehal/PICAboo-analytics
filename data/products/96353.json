@@ -4,8 +4,8 @@
     "sku": "NNF9126BNS",
     "name": "Naviforce NF9126 Analog Quartz Leather Men\u2019s Watch \u2013 Golden",
     "slug": "naviforce-nf9126-analog-quartz-leather-men-s-watch-golden",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/a/navi9126f-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:05:43"
+    },
+    {
+      "price": 3049.0,
+      "special_price": 2299.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:36:15"
+    },
+    {
+      "price": 3049.0,
+      "special_price": 2299.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:13:24"
+    },
+    {
+      "price": 3049.0,
+      "special_price": 2299.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:52:55"
+    },
+    {
+      "price": 3049.0,
+      "special_price": 2299.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:08:52"
+    },
+    {
+      "price": 3049.0,
+      "special_price": 2299.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:43:36"
     }
   ]
 }

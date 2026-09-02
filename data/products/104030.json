@@ -4,8 +4,8 @@
     "sku": "HIPS1000VAPEL",
     "name": "Hamko IPS 1000VA with Battery (5 Lights, 5 Fans, 1 LED TV)",
     "slug": "hamko-ips-1000va-with-battery-5-lights-5-fans-1-led-tv",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "474",
+    "category_name": "IPS",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/hamko-ips-1000va-8.8.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:47"
+    },
+    {
+      "price": 49490.0,
+      "special_price": 48990.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:11"
+    },
+    {
+      "price": 49490.0,
+      "special_price": 48990.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:25"
+    },
+    {
+      "price": 49490.0,
+      "special_price": 48990.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:29"
+    },
+    {
+      "price": 49490.0,
+      "special_price": 48990.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:31:45"
+    },
+    {
+      "price": 49490.0,
+      "special_price": 48990.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:32"
     }
   ]
 }

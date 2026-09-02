@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122057",
+    "sku": "ACC20ADR",
+    "name": "ACEFAST C20-04 USB-A to USB-C Braided Data Cable",
+    "slug": "acefast-c20-04-usb-a-to-usb-c-braided-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/A/C/ACEFAST-C20-04-USB-A-to-USB-C-Braided-Data-Cable-3-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 400.0,
+    "special_price": 330.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 400.0,
+      "special_price": 330.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:59"
+    }
+  ]
+}

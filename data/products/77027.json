@@ -4,8 +4,8 @@
     "sku": "MTPE321RLTTS",
     "name": "Casio MTP-E321RL-5AVDF Men\u2019s Watch",
     "slug": "casio-mtp-e321rl-5avdf-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio-mtp-e321rl-5avdf-men_s-watch.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:30:37"
+    },
+    {
+      "price": 11490.0,
+      "special_price": 9229.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:16:05"
+    },
+    {
+      "price": 11490.0,
+      "special_price": 9229.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:55:03"
+    },
+    {
+      "price": 11490.0,
+      "special_price": 9229.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:11:01"
+    },
+    {
+      "price": 11490.0,
+      "special_price": 9229.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:46:07"
     }
   ]
 }

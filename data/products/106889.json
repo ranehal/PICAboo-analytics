@@ -4,8 +4,8 @@
     "sku": "CAMQ712BDFAMZ",
     "name": "Casio Analog Black & Blue Dial Resin Strap Unisex Watch (MQ-71-2BDF)",
     "slug": "casio-analog-black-blue-dial-resin-strap-unisex-watch-mq-71-2bdf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/q/mq-71-2bdf-26-12-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:54"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:12"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:43"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:20"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:51"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:41:08"
     }
   ]
 }

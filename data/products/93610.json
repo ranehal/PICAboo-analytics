@@ -4,8 +4,8 @@
     "sku": "SMW73ADBD2SBN",
     "name": "Samsung 20L Solo Microwave Oven (MW73AD-B/D2)",
     "slug": "samsung-20-liters-solo-microwave-oven-mw73ad-b-d2",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "68",
+    "category_name": "Oven",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-20-liters-solo-11-25-23.jpg",
     "unit": "L",
     "unit_value": 20.0,
@@ -120,6 +120,48 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:53"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 12790.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:56"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 12790.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:19"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 12790.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:27"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 12790.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:35"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 12790.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:08"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 12790.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:15"
     }
   ]
 }

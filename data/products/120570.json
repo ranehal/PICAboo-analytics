@@ -4,8 +4,8 @@
     "sku": "HP4003DJNN",
     "name": "HP LaserJet Pro 4003dw (2Z610A) Wi-Fi Single Function Mono Laser Printer",
     "slug": "hp-laserjet-pro-4003dw-2z610a-wi-fi-single-function-mono-laser-printer",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "56",
+    "category_name": "Printer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_56_.png",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:26"
+    },
+    {
+      "price": 47520.0,
+      "special_price": 43200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:36"
+    },
+    {
+      "price": 47520.0,
+      "special_price": 43200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:07"
+    },
+    {
+      "price": 47520.0,
+      "special_price": 43200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:30"
+    },
+    {
+      "price": 47520.0,
+      "special_price": 43200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:10"
+    },
+    {
+      "price": 47520.0,
+      "special_price": 43200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:02"
     }
   ]
 }

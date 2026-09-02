@@ -4,8 +4,8 @@
     "sku": "WFMP257LRGWPO",
     "name": "Whirlpool Fresh Magic Pro 257L Glass Door Refrigerator-Glow",
     "slug": "whirlpool-fresh-magic-pro-257l-glass-door-refrigerator-glow",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/l/glow-1_11_8_25_1.jpg",
     "unit": "L",
     "unit_value": 257.0,
@@ -120,6 +120,48 @@
       "discount": 27.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:24"
+    },
+    {
+      "price": 50990.0,
+      "special_price": 37390.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:45"
+    },
+    {
+      "price": 50990.0,
+      "special_price": 37390.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:33:56"
+    },
+    {
+      "price": 50990.0,
+      "special_price": 37390.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:40"
+    },
+    {
+      "price": 50990.0,
+      "special_price": 37390.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:19"
+    },
+    {
+      "price": 50990.0,
+      "special_price": 37390.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:49"
+    },
+    {
+      "price": 50990.0,
+      "special_price": 37390.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:45"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "E18WC25XCL",
     "name": "Excel 18W Super VOOC Fast Charging Adapter with Type-C Cable (B-25)",
     "slug": "excel-18w-super-vooc-fast-charging-adapter-with-type-c-cable-b-26",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/2/b25-_6500_-11-17-25-1_1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:53"
+    },
+    {
+      "price": 410.0,
+      "special_price": 340.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:31"
+    },
+    {
+      "price": 410.0,
+      "special_price": 340.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:21"
+    },
+    {
+      "price": 410.0,
+      "special_price": 340.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:23"
+    },
+    {
+      "price": 410.0,
+      "special_price": 340.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:20"
+    },
+    {
+      "price": 410.0,
+      "special_price": 340.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:21"
     }
   ]
 }

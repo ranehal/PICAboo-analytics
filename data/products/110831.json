@@ -4,8 +4,8 @@
     "sku": "AA3156RLCMB",
     "name": "Acer Aspire 3 15.6\u2033 FHD Ryzen 3 7330U 8GB RAM 512GB SSD Laptop",
     "slug": "acer-aspire-3-15-6-fhd-ryzen-3-7330u-8gb-ram-512gb-ssd-laptop",
-    "category_id": "4",
-    "category_name": "Computers",
+    "category_id": "18",
+    "category_name": "Laptop & Notebook",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/s/aspire-3-17-6-25-3.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:31"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 47700.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:22:31"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 47700.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:57:20"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 47700.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:08"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 47700.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:51:23"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 47700.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:43"
     }
   ]
 }

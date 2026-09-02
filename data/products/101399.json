@@ -4,8 +4,8 @@
     "sku": "HEW6PATWSNCIL",
     "name": "Hoco EW60 Plus ANC TWS Earbuds",
     "slug": "hoco-ew60-plus-anc-tws-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/w/ew60-plus-black-18.4.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:21"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1500.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:55"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1500.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:55"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1500.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:55"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1500.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:09"
+    },
+    {
+      "price": 1599.0,
+      "special_price": 1500.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:12"
     }
   ]
 }

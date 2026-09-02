@@ -4,8 +4,8 @@
     "sku": "XGP5CXOO",
     "name": "XO-GP5 PS4 Wireless Gaming Controller",
     "slug": "xo-gp5-ps4-wireless-gaming-controller",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "6",
+    "category_name": "Gaming Gears",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/p/gp5-20-april-2026-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:58"
+    },
+    {
+      "price": 2015.0,
+      "special_price": 1560.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:16"
+    },
+    {
+      "price": 2015.0,
+      "special_price": 1560.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:37"
+    },
+    {
+      "price": 2015.0,
+      "special_price": 1560.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:33"
+    },
+    {
+      "price": 2015.0,
+      "special_price": 1560.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:57"
+    },
+    {
+      "price": 2015.0,
+      "special_price": 1560.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:04"
     }
   ]
 }

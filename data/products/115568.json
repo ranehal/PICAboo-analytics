@@ -4,8 +4,8 @@
     "sku": "HQ5V5AVRREE",
     "name": "High Quality 5V-28V 12V 5A PWM DC Motor Speed Control Controller Volt Regulator LED Dima Equipment Professional for DC Only",
     "slug": "high-quality-5v-28v-12v-5a-pwm-dc-motor-speed-control-controller-volt-regulator-led-dima-equipment-professional-for-dc-only",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/o/volt-control-20-jan-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:59"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:58"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:50"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:51"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:40"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:34"
     }
   ]
 }

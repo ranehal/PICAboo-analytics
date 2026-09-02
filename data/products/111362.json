@@ -4,8 +4,8 @@
     "sku": "PHD743090CSHL",
     "name": "Philips 1000W Electric Drip Coffee Maker (HD7430/90)",
     "slug": "philips-1000w-electric-drip-coffee-maker-hd7430-90",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "71",
+    "category_name": "Coffee Maker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/d/hd743090-7-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 22.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:49"
+    },
+    {
+      "price": 7900.0,
+      "special_price": 6190.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:06:15"
+    },
+    {
+      "price": 7900.0,
+      "special_price": 6190.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:37:08"
+    },
+    {
+      "price": 7900.0,
+      "special_price": 6190.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:55"
+    },
+    {
+      "price": 7900.0,
+      "special_price": 6190.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:04"
+    },
+    {
+      "price": 7900.0,
+      "special_price": 6190.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:28:02"
+    },
+    {
+      "price": 7900.0,
+      "special_price": 6190.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:37"
     }
   ]
 }

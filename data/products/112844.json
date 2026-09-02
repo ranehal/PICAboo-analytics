@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "112844",
+    "sku": "VY21D6GB128GB",
+    "name": "vivo Y21d 6GB/128GB ",
+    "slug": "vivo-y21d-6gb-128gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/v/i/vivo-y21d-6gb-128gb-8-25-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 26999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 26999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:35:35"
+    },
+    {
+      "price": 26999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:56"
+    }
+  ]
+}

@@ -4,9 +4,9 @@
     "sku": "WNI6A9GDNEDWILTP",
     "name": "Walton 591\u00a0Liters Inverter\u00a0Non-Frost Refrigerator (WNI-6A9-GDNE-WI) (Water Dispenser)",
     "slug": "walton-548-liters-non-frost-refrigerator-wni-6a9-gdne-wi-inverter-water",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-591-liters-5-7-26-1.jpg",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-591-13-8-26-7.jpg",
     "unit": null,
     "unit_value": null,
     "price": 124990.0,
@@ -120,6 +120,48 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:18"
+    },
+    {
+      "price": 124990.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:36"
+    },
+    {
+      "price": 124990.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:33:44"
+    },
+    {
+      "price": 124990.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:34"
+    },
+    {
+      "price": 124990.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:15"
+    },
+    {
+      "price": 124990.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:21"
+    },
+    {
+      "price": 124990.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:36"
     }
   ]
 }

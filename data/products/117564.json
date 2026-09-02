@@ -4,9 +4,9 @@
     "sku": "ZG18INVPX6PHRB",
     "name": "Haier 1.5 Ton ZenGlow Inverter Air Conditioner [ZenGlow-18INVPX6P]",
     "slug": "haier-1-5-ton-zenglow-inverter-ac-zenglow-18invpx6p",
-    "category_id": "64",
-    "category_name": "Air Conditioner",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-1.5-ton-zenglow-inverter-air-conditioner-_zenglow-18invpx6b_-7-30-26-1_1.jpg",
+    "category_id": "3478",
+    "category_name": "Haier",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-1-ton-zenglow-inverter-air-conditioner-_zenglow-13invpx6b_-8-18-26-2.jpg",
     "unit": null,
     "unit_value": null,
     "price": 71990.0,
@@ -127,6 +127,48 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:30:14"
+    },
+    {
+      "price": 71990.0,
+      "special_price": 51990.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:01"
+    },
+    {
+      "price": 71990.0,
+      "special_price": 51990.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:32:18"
+    },
+    {
+      "price": 71990.0,
+      "special_price": 51990.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:14:26"
+    },
+    {
+      "price": 71990.0,
+      "special_price": 51990.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:25:46"
+    },
+    {
+      "price": 71990.0,
+      "special_price": 51990.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:08"
+    },
+    {
+      "price": 71990.0,
+      "special_price": 51990.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:06:04"
     }
   ]
 }

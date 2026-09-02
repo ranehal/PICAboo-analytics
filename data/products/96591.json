@@ -4,8 +4,8 @@
     "sku": "C007LEUTTS",
     "name": "Casio Standard LTP-V007L-9EUDF Leather Strap Women\u2019s Watch",
     "slug": "casio-standard-ltp-v007l-9eudf-leather-strap-women-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/e/newlad050-1_1.jpg",
     "unit": "L",
     "unit_value": 7.0,
@@ -92,6 +92,27 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:32:05"
+    },
+    {
+      "price": 3590.0,
+      "special_price": 3090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:44:39"
+    },
+    {
+      "price": 3590.0,
+      "special_price": 3090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:56:20"
+    },
+    {
+      "price": 3590.0,
+      "special_price": 3090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:01:53"
     }
   ]
 }

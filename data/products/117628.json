@@ -4,8 +4,8 @@
     "sku": "HSX3SEFGGLO",
     "name": "Hohem iSteady X3 SE Foldable Gimbal Stabilizer",
     "slug": "hohem-isteady-x3-se-foldable-gimbal-stabilizer",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2723",
+    "category_name": "Gimbal",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hohem-isteady-x3-se-28-3-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:44"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:54"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:51:27"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:31:38"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:27"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:37"
     }
   ]
 }

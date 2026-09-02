@@ -4,14 +4,14 @@
     "sku": "LC3BGSLVP",
     "name": "Livpure Celestia 3B Gas Stove (Three Burners)",
     "slug": "livpure-celestia-3b-gas-stove",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "165",
+    "category_name": "Gas Burner",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/e/celestia-3b-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 25000.0,
-    "special_price": 23790.0,
-    "discount": 5.0,
+    "special_price": 23290.0,
+    "discount": 7.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -120,6 +120,48 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:14"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 23790.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:06:41"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 23790.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:37:20"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 23790.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:19:11"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 23790.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:42"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 23790.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:28:17"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 23290.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:08"
     }
   ]
 }

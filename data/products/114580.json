@@ -4,8 +4,8 @@
     "sku": "SSFFTGDX",
     "name": "Surpass Smart Finder Find Tag (Android+IOS)",
     "slug": "surpass-smart-finder-find-tag",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/u/surpass-tag-17-12-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 37.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:37"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:36"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:51:16"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:32:12"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:51"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:00"
     }
   ]
 }

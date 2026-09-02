@@ -4,8 +4,8 @@
     "sku": "AP52KTTZ",
     "name": "Awei P52K 10000mAh Magnetic Wireless Power Bank",
     "slug": "awei-p52k-10000mah-magnetic-wireless-power-bank",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/5/p52k-14.7.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:52"
+    },
+    {
+      "price": 2749.0,
+      "special_price": 2199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:17"
+    },
+    {
+      "price": 2749.0,
+      "special_price": 2199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:11"
+    },
+    {
+      "price": 2749.0,
+      "special_price": 2199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:33:01"
+    },
+    {
+      "price": 2749.0,
+      "special_price": 2199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:47:59"
     }
   ]
 }

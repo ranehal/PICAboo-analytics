@@ -4,8 +4,8 @@
     "sku": "F91WS8DFAMZ",
     "name": "Casio Pop Digital Resin Belt Unisex\u00a0Watch (F-91WS-8DF)",
     "slug": "casio-pop-digital-resin-belt-unisex-watch-f-91ws-8df",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/-/f-91ws-8df-13-4-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:36"
+    },
+    {
+      "price": 4590.0,
+      "special_price": 3890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:21"
+    },
+    {
+      "price": 4590.0,
+      "special_price": 3890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:28"
+    },
+    {
+      "price": 4590.0,
+      "special_price": 3890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:41:59"
+    },
+    {
+      "price": 4590.0,
+      "special_price": 3890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:51"
+    },
+    {
+      "price": 4590.0,
+      "special_price": 3890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:04"
     }
   ]
 }

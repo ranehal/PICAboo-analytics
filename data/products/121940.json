@@ -4,8 +4,8 @@
     "sku": "TUFBE3600GLO",
     "name": "ASUS TUF Gaming BE3600 Dual Band WiFi 7 Gaming Router (TUF-BE3600)",
     "slug": "asus-tuf-gaming-be3600-dual-band-wifi-7-gaming-router-tuf-be3600",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/3/r3-6-8-26.jpg",
     "unit": "g",
     "unit_value": 7.0,
@@ -120,6 +120,41 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:03"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 19500.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:32"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 19500.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:41"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 19500.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:13"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 19500.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:08"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 19500.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:56"
     }
   ]
 }

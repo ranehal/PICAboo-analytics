@@ -4,8 +4,8 @@
     "sku": "CF91WC2AEFWEC",
     "name": "CASIO Unisex Digital Blue Resin Strap Watch (F-91WC-2AEF)",
     "slug": "casio-unisex-digital-blue-plastic-strap-watch-f-91wc-2aef",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio_f-91wc-2aef_.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:41"
+    },
+    {
+      "price": 3146.0,
+      "special_price": 2736.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:34"
+    },
+    {
+      "price": 3146.0,
+      "special_price": 2736.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:40"
+    },
+    {
+      "price": 3146.0,
+      "special_price": 2736.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:30"
+    },
+    {
+      "price": 3146.0,
+      "special_price": 2736.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:55"
+    },
+    {
+      "price": 3146.0,
+      "special_price": 2736.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:16"
     }
   ]
 }

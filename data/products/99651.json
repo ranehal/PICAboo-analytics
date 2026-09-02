@@ -4,8 +4,8 @@
     "sku": "BCATKLFHG1ADR",
     "name": "Baseus Cafule Series PD 2.0 60W 2m Type-C to Type-C Flash Charging Data Cable (CATKLF-HG1) - Black",
     "slug": "baseus-cafule-series-pd-2-0-60w-2m-type-c-to-type-c-flash-charging-data-cable-catklf-hg1-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/catklf-hg1-8.2.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:08"
+    },
+    {
+      "price": 700.0,
+      "special_price": 529.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:26"
+    },
+    {
+      "price": 700.0,
+      "special_price": 529.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:44"
+    },
+    {
+      "price": 700.0,
+      "special_price": 529.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:22"
+    },
+    {
+      "price": 700.0,
+      "special_price": 529.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:41:46"
+    },
+    {
+      "price": 700.0,
+      "special_price": 529.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:49"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "CAMQ241BMHS",
     "name": "Casio Analogue Black Dial Resin Strap Unisex Watch (MQ24-1B)",
     "slug": "casio-analogue-black-dial-resin-strap-unisex-watch-mq24-1b",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/q/mq-24-1blf-26-12-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,27 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:54"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2139.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:12"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2139.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:43"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2139.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:20"
     }
   ]
 }

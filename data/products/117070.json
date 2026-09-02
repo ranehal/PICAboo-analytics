@@ -4,8 +4,8 @@
     "sku": "BPSBTCSWGLO",
     "name": "Blisbond Pulse Sports BT Calling Smartwatch",
     "slug": "blisbond-pulse-sports-bt-calling-smartwatch",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "226",
+    "category_name": "Smart Watch",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/l/blisbond-pulse.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:44"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 2166.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:21"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 2166.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:44:32"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 2166.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:07"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 2166.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:02"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 2166.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:52"
     }
   ]
 }

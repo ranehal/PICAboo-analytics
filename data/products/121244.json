@@ -4,8 +4,8 @@
     "sku": "HOHX44ADR",
     "name": "Hoco HX44 Indoor Digital Alarm Clock with Thermometer - White",
     "slug": "hoco-hx44-indoor-digital-alarm-clock-with-thermometer-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-hx44-indoor-digital-alarm-clock-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:51"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:27"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:32"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:19:52"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:31:36"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:10:52"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "SKC3J850WSFO",
     "name": "Saffron Kitchen Chef 850W 3 Jars Mixer Grinder",
     "slug": "saffron-kitchen-chef-3-jars-850w-3-in-1-blender",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/saffron-kitchen-chef-3-jars-850w-3-in-1-blender-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:13"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:28"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:44"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:08"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:17"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:33"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:10:40"
     }
   ]
 }

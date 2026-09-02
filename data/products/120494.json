@@ -4,8 +4,8 @@
     "sku": "KZZSNPROADR",
     "name": "KZ ZSN PRO Hybrid Technology Professional Earphone-Black ",
     "slug": "kz-zsn-pro-hybrid-technology-professional-earphone-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/z/s/zsn-pro-grey-500x500_1_-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:20"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1850.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:09"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1850.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:47:53"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1850.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:30"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1850.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:34"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1850.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:48"
     }
   ]
 }

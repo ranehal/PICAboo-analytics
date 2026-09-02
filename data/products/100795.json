@@ -4,8 +4,8 @@
     "sku": "PXG7HSADR",
     "name": "Plextone G7 Flash Speed RGB Gaming Wireless Headset with ENC Detachable Mic",
     "slug": "plextone-g7-flash-speed-rgb-gaming-wireless-headset-with-enc-detachable-mic",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "324",
+    "category_name": "Headset",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/l/plextone-g7-flash-speed.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:27"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:51"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:37"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:03"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:58"
     }
   ]
 }

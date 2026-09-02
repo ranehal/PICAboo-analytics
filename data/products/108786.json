@@ -4,8 +4,8 @@
     "sku": "ASCT22LANO",
     "name": "Anobik 20W SmartCharge Turbo Fast Charger with Lightning Cable (SC-T22)",
     "slug": "anobik-20w-smartcharge-turbo-fast-charger-with-lightning-cable-sc-t22",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/c/sc-t22-lightning-22-3-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:23"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:04"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:10"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:56"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:46"
     }
   ]
 }

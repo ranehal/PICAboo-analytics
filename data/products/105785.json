@@ -4,8 +4,8 @@
     "sku": "JRD8ADR",
     "name": "Joyroom Bluetooth Neckband Earphone (JR-D8)",
     "slug": "joyroom-bluetooth-neckband-earphone-jr-d8",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/o/joyroom-jr-d8-neckband-wireless-bluetooth-sports-outdoor-earphone-01_1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:20"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:48"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:09:06"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:32"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:49"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:18"
     }
   ]
 }

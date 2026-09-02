@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121475",
+    "sku": "OMW020JNN",
+    "name": "Acer OMW020 Wired Optical Mouse",
+    "slug": "acer-omw020-wired-optical-mouse",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-07-15T155637_320.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 808.0,
+    "special_price": 729.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 808.0,
+      "special_price": 729.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:00"
+    }
+  ]
+}

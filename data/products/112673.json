@@ -4,9 +4,9 @@
     "sku": "FXPROASWSLX",
     "name": "Fastrack Xtreme Pro 1.43\u201d AMOLED Smart Watch",
     "slug": "fastrack-xtreme-pro-1-43-amoled-smart-watch",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/a/fastrack-xtreme-pro.jpg",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/7/x7-11-8-26-4.jpg",
     "unit": null,
     "unit_value": null,
     "price": 8595.0,
@@ -120,6 +120,41 @@
       "discount": 33.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:11"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:15"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:42"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:26"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:12"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:33:39"
     }
   ]
 }

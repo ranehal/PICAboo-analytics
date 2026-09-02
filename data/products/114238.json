@@ -4,8 +4,8 @@
     "sku": "AL4E35ADR",
     "name": "ACEFAST L4 3.5mm In Ear Earphone Clear Sound with Mic",
     "slug": "acefast-l4-3-5mm",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/A/C/ACEFAST-L4ACEFAST-L4-3.5mm-In-Ear-Earphone-Clear-Sound-with-Mic-3-600x600-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:37"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:18"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:26"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:44"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:26"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:08"
     }
   ]
 }

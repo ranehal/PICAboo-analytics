@@ -4,8 +4,8 @@
     "sku": "S1717BSMHS",
     "name": "SKMEI 1717 Retro Silicone Band Watch for Unisex-Silver & Black",
     "slug": "skmei-1717blk-men-s-watch-silver-black",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/7/1717-10-20-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:23"
+    },
+    {
+      "price": 1219.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:59"
+    },
+    {
+      "price": 1219.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:02"
+    },
+    {
+      "price": 1219.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:21"
+    },
+    {
+      "price": 1219.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:03:15"
+    },
+    {
+      "price": 1219.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:05"
     }
   ]
 }

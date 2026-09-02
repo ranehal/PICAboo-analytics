@@ -4,8 +4,8 @@
     "sku": "DDSGO62EUB",
     "name": "Delonghi 54L Buillt in Type Gas Oven (DSGO62)",
     "slug": "delonghi-54l-buillt-in-type-gas-oven-dsgo62",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "68",
+    "category_name": "Oven",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/s/dsgo62-14-7-26-1.jpg",
     "unit": "L",
     "unit_value": 54.0,
@@ -120,6 +120,48 @@
       "discount": 67.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:18"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:53"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:11"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:48"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:00"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:37"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:08:18"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "BCATKLFBG1ADR",
     "name": "Baseus Cafule 3A 1M USB to Type-C Fast Charging Data Cable (CATKLF-BG1)\u2013 Black",
     "slug": "baseus-cafule-3a-1m-usb-type-c-data-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/catklf-bg1-16.8.23..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 26.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:21"
+    },
+    {
+      "price": 400.0,
+      "special_price": 295.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:17"
+    },
+    {
+      "price": 400.0,
+      "special_price": 295.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:16"
+    },
+    {
+      "price": 400.0,
+      "special_price": 295.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:41"
+    },
+    {
+      "price": 400.0,
+      "special_price": 295.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:42:03"
+    },
+    {
+      "price": 400.0,
+      "special_price": 295.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:54"
     }
   ]
 }

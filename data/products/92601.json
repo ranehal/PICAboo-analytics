@@ -4,8 +4,8 @@
     "sku": "BWKJS010401ATL",
     "name": "Baseus 3m High Speed Seven Types of RJ45 10 Gigabit Network Cable (WKJS010401)",
     "slug": "baseus-3m-high-speed-seven-types-of-rj45-10-gigabit-network-cable-wkjs010401",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1731",
+    "category_name": "Converter & Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/k/wkjs010401-3-9-24-1.jpg",
     "unit": "g",
     "unit_value": 10.0,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:28"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:11"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:13"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:35"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:39"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:46"
     }
   ]
 }

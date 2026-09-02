@@ -4,8 +4,8 @@
     "sku": "RMT560GLO",
     "name": "Rapoo Multi-mode Wireless Ergonomic Optical Mouse (MT560)",
     "slug": "rapoo-multi-mode-wireless-ergonomic-optical-mouse-mt560",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mt560--18-11-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:26"
+    },
+    {
+      "price": 4200.0,
+      "special_price": 3585.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:22:49"
+    },
+    {
+      "price": 4200.0,
+      "special_price": 3585.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:20"
+    },
+    {
+      "price": 4200.0,
+      "special_price": 3585.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:46"
+    },
+    {
+      "price": 4200.0,
+      "special_price": 3585.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:25"
+    },
+    {
+      "price": 4200.0,
+      "special_price": 3585.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:47"
     }
   ]
 }

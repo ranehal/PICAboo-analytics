@@ -6,7 +6,7 @@
     "slug": "haier-9kg-top-loading-automatic-washing-machine-hwm90-316s6",
     "category_id": "66",
     "category_name": "Washing Machine",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-9kg-top-load-automatic-washing-machine-_hwm90-316s6_-starry-silver-7-30-26-1.jpg",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/w/hwm90-316s6-1.jpg",
     "unit": "kg",
     "unit_value": 9.0,
     "price": 38400.0,
@@ -127,6 +127,48 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:33:19"
+    },
+    {
+      "price": 38400.0,
+      "special_price": 31690.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:16"
+    },
+    {
+      "price": 38400.0,
+      "special_price": 31990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:33:48"
+    },
+    {
+      "price": 38400.0,
+      "special_price": 31990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:42"
+    },
+    {
+      "price": 38400.0,
+      "special_price": 31990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:22"
+    },
+    {
+      "price": 38400.0,
+      "special_price": 31690.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:53"
+    },
+    {
+      "price": 38400.0,
+      "special_price": 31690.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:08:16"
     }
   ]
 }

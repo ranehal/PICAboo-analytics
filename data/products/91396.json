@@ -4,8 +4,8 @@
     "sku": "LSC865WADRGSB",
     "name": "LDNIO SC1418 65W PD Desktop Power Strip with Power Socket",
     "slug": "ldnio-sc1418-65w-pd-desktop-power-strip-with-power-socket",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "2257",
+    "category_name": "Others",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/c/sc1418--29-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 37.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:39:32"
+    },
+    {
+      "price": 3980.0,
+      "special_price": 2490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:11:26"
+    },
+    {
+      "price": 3980.0,
+      "special_price": 2490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:49"
+    },
+    {
+      "price": 3980.0,
+      "special_price": 2490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:22:33"
+    },
+    {
+      "price": 3980.0,
+      "special_price": 2490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:34:53"
+    },
+    {
+      "price": 3980.0,
+      "special_price": 2490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:16"
     }
   ]
 }

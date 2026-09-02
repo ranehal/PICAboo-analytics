@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "93717",
+    "sku": "LNGKLVP",
+    "name": "Livpure Neo Gravity Kit",
+    "slug": "livpure-neo-gravity-kit",
+    "category_id": "78",
+    "category_name": "Water Purifiers & Filters",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/i/livpure-neo-gravity-kit-18.6.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1600.0,
+    "special_price": 1490.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1600.0,
+      "special_price": 1490.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:10:34"
+    }
+  ]
+}

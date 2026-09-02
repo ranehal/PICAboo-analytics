@@ -4,9 +4,9 @@
     "sku": "BBM95THL",
     "name": "Beurer Bluetooth Blood Pressure Monitor with ECG Function (BM 95)",
     "slug": "beurer-bluetooth-blood-pressure-monitor-with-ecg-function-bm-95",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/m/bm-95-12-april-2026.jpg",
+    "category_id": "3984",
+    "category_name": "Healthcare and Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/4/f42-8-26.jpg",
     "unit": null,
     "unit_value": null,
     "price": 20000.0,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:52"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 16290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:31:33"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 16290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:32"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 16290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:50"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 16290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:49"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 16290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:21"
     }
   ]
 }

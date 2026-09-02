@@ -4,8 +4,8 @@
     "sku": "HOJA4ADR",
     "name": "Hoco JA4 AAA Rechargeable Lithium Battery 2PCS-Black",
     "slug": "hoco-ja4-aaa-rechargeable-lithium-battery-2pcs-black",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/b/fbe64697-c4ce-428f-812d-0805f7ed1116-removebg-preview.png",
     "unit": "pcs",
     "unit_value": 2.0,
@@ -120,6 +120,41 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:59"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:58"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:50"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:51"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:40"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:34"
     }
   ]
 }

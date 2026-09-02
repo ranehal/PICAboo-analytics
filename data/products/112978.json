@@ -4,9 +4,9 @@
     "sku": "OPB7270QMOV",
     "name": "Oraimo PowerNova QF1 22.5W 27000mAh Fast Charging Power Bank (OPB-7270Q)-Black",
     "slug": "oraimo-powernova-qf1-22-5w-27000mah-fast-charging-power-bank-opb-7270q",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/oraimo-powernova-qf1-22.5w-27000mah-fast-charging-power-bank-_opb-7270q_-black-4-15-2-61.jpg",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/opb-7270q-21-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 2860.0,
@@ -120,6 +120,41 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:16"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:17"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:19"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:32:05"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:58"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:10"
     }
   ]
 }

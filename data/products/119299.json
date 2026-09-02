@@ -4,8 +4,8 @@
     "sku": "X34EXOO",
     "name": "XO-X34 Starry Sky Flip TWS Earbuds",
     "slug": "xo-x34-starry-sky-flip-tws-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/3/x34-30-april-2026-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:46"
+    },
+    {
+      "price": 1595.0,
+      "special_price": 1235.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:23"
+    },
+    {
+      "price": 1595.0,
+      "special_price": 1235.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:50:47"
+    },
+    {
+      "price": 1595.0,
+      "special_price": 1235.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:24"
+    },
+    {
+      "price": 1595.0,
+      "special_price": 1235.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:54"
+    },
+    {
+      "price": 1595.0,
+      "special_price": 1235.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:33"
     }
   ]
 }

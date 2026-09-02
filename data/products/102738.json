@@ -4,16 +4,16 @@
     "sku": "PHD746220PNE",
     "name": "Philips 1.2L 1000W Basic Mid Drip Coffee Maker (HD7462/20)-Black & Metal",
     "slug": "philips-1-2l-1000w-basic-mid-drip-coffee-maker-hd7462-20-black-metal",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "71",
+    "category_name": "Coffee Maker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/d/hd7462-20-28.5.24..jpg",
     "unit": "L",
     "unit_value": 1.2,
     "price": 9900.0,
-    "special_price": 6990.0,
-    "discount": 29.0,
+    "special_price": 7600.0,
+    "discount": 23.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,48 @@
       "discount": 29.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:01"
+    },
+    {
+      "price": 9900.0,
+      "special_price": 6990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:06:21"
+    },
+    {
+      "price": 9900.0,
+      "special_price": 6990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:37:15"
+    },
+    {
+      "price": 9900.0,
+      "special_price": 6990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:19:09"
+    },
+    {
+      "price": 9900.0,
+      "special_price": 7600.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:08"
+    },
+    {
+      "price": 9900.0,
+      "special_price": 7600.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:28:11"
+    },
+    {
+      "price": 9900.0,
+      "special_price": 7600.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:49"
     }
   ]
 }

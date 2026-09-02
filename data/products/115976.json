@@ -4,8 +4,8 @@
     "sku": "R12WLEDBLBREE",
     "name": "Ready Super Bright 12V White LED Bulb Lamp Bead",
     "slug": "ready-super-bright-12v-white-led-bulb-lamp-beads",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/e/led-bead-5-feb-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:55"
+    },
+    {
+      "price": 50.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:51"
+    },
+    {
+      "price": 50.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:47"
+    },
+    {
+      "price": 50.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:45"
+    },
+    {
+      "price": 50.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:37"
+    },
+    {
+      "price": 50.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:30"
     }
   ]
 }

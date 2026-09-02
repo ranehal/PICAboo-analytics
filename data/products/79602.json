@@ -4,9 +4,9 @@
     "sku": "MSI18CRNAF9EHT",
     "name": "Midea 1.5 Ton Inverter Air Conditioner (MSI18CRN)",
     "slug": "midea-1-5-ton-inverter-air-conditioner-msi18crnaf5-msi18crnaf9",
-    "category_id": "64",
-    "category_name": "Air Conditioner",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/s/msi18crn-16-6-26-1.jpg",
+    "category_id": "3480",
+    "category_name": "Midea",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/v/vvv222.jpg",
     "unit": null,
     "unit_value": null,
     "price": 73900.0,
@@ -127,6 +127,48 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:30:20"
+    },
+    {
+      "price": 73900.0,
+      "special_price": 51890.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:11"
+    },
+    {
+      "price": 73900.0,
+      "special_price": 50990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:32:23"
+    },
+    {
+      "price": 73900.0,
+      "special_price": 50990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:14:29"
+    },
+    {
+      "price": 73900.0,
+      "special_price": 50990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:25:52"
+    },
+    {
+      "price": 73900.0,
+      "special_price": 51890.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:14"
+    },
+    {
+      "price": 73900.0,
+      "special_price": 51890.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:06:08"
     }
   ]
 }

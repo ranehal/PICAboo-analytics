@@ -4,8 +4,8 @@
     "sku": "UGWS106WAJW",
     "name": "UGREEN WS106 HiTune T3 ANC TWS Earbuds",
     "slug": "ugreen-ws106-hitune-t3-anc-tws-earbuds-90206",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/90206-2.9.24-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:45"
+    },
+    {
+      "price": 4485.0,
+      "special_price": 3999.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:43"
+    },
+    {
+      "price": 4485.0,
+      "special_price": 3999.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:01"
+    },
+    {
+      "price": 4485.0,
+      "special_price": 3999.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:11"
+    },
+    {
+      "price": 4485.0,
+      "special_price": 3999.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:55"
+    },
+    {
+      "price": 4485.0,
+      "special_price": 3999.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:41:27"
     }
   ]
 }

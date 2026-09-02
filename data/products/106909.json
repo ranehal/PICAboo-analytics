@@ -4,9 +4,9 @@
     "sku": "XMDZ38DBXGO",
     "name": "Xiaomi 30W Sound Outdoor Portable Speaker (MDZ-38-DB)",
     "slug": "xiaomi-30w-sound-outdoor-portable-speaker-mdz-38-db",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/d/mdz-38-db-28-july-2026.jpg",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/sound-outdoor-8-3-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 6999.0,
@@ -127,6 +127,41 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:04"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6299.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:05"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6299.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:39"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6299.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:46"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6299.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:07"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6299.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:04"
     }
   ]
 }

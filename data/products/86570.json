@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/h/eh-ka31.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4499.0,
-    "special_price": 4099.0,
-    "discount": 9.0,
+    "price": 4609.0,
+    "special_price": 0.0,
+    "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -106,6 +106,34 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:10:43"
+    },
+    {
+      "price": 4499.0,
+      "special_price": 4099.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:42:01"
+    },
+    {
+      "price": 4499.0,
+      "special_price": 4099.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:54:46"
+    },
+    {
+      "price": 4499.0,
+      "special_price": 4099.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:58:01"
+    },
+    {
+      "price": 4609.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:10:27"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "VGRV185PHBTMBT",
     "name": "VGR V-185 Professional Hair & Beard Trimmer",
     "slug": "vgr-v-185-professional-hair-beard-trimmer",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/g/vgr-v-185--26-126-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:52"
+    },
+    {
+      "price": 1521.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:17"
+    },
+    {
+      "price": 1521.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:50"
+    },
+    {
+      "price": 1521.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:09"
+    },
+    {
+      "price": 1521.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:48"
+    },
+    {
+      "price": 1521.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:21"
     }
   ]
 }

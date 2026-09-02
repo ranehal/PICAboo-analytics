@@ -4,8 +4,8 @@
     "sku": "MC3365DDHGADR",
     "name": "Mcdodo 336 65W 1.2m Type-C to Type-C 90 Degree Data Cable - Black",
     "slug": "mcdodo-336-65w-1-2m-type-c-to-type-c-90-degree-data-cable-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/3/336--14-3-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:00"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:23"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:36"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:11"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:41:39"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:34"
     }
   ]
 }

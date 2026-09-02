@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122564",
+    "sku": "OHCS001MOV",
+    "name": "Oraimo MistGlide Instant Mist 360\u00b0 Spray Mop (OHCS-001)",
+    "slug": "oraimo-mistglide-instant-mist-360-spray-mop-ohcs-001",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/h/ohcs-001-30-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1690.0,
+    "special_price": 1521.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1690.0,
+      "special_price": 1521.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:49"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "116342",
+    "sku": "HOMMJ04ADR",
+    "name": "Hoco MMJ-04 20000mAh 35W PD Fast Charging Power Bank",
+    "slug": "hoco-mmj-04-20000mah-35w-pd-fast-charging-power-bank",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/90f6d6612e0f455c5de9443343662f93_jpg_720x720q80-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2800.0,
+    "special_price": 2399.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2800.0,
+      "special_price": 2399.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:31:48"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2399.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:46:22"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2399.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:25"
+    }
+  ]
+}

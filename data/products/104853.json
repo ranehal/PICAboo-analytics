@@ -4,8 +4,8 @@
     "sku": "XX04VAJW",
     "name": "Xpert X04V 1.5A Micro USB Data Cable",
     "slug": "xpert-x04v-1-5a-micro-usb-data-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/0/x04v-04.09.2024--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 34.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:16"
+    },
+    {
+      "price": 149.0,
+      "special_price": 99.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:21"
+    },
+    {
+      "price": 149.0,
+      "special_price": 99.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:03"
+    },
+    {
+      "price": 149.0,
+      "special_price": 99.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:57"
+    },
+    {
+      "price": 149.0,
+      "special_price": 99.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:40:52"
+    },
+    {
+      "price": 149.0,
+      "special_price": 99.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:00"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "JRL01210000ADR",
     "name": "Joyroom JR-L012 Colorful Series 10000mAh Dual Cable Mini Power Bank - Black",
     "slug": "joyroom-jr-l012-colorful-series-10000mah-dual-cable-mini-power-bank-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/o/joyroom-jr-l012--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -99,6 +99,41 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:59"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2430.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:27"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2430.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:31"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2430.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:33:01"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2430.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:47:59"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2430.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:13"
     }
   ]
 }

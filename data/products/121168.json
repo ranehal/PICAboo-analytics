@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121168",
+    "sku": "FD511GEZ320JNN",
+    "name": "C-Data FD511G-E-Z320 Single Port EPON ONU",
+    "slug": "c-data-fd511g-e-z320-single-port-epon-onu",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/A/U/AULA_F2058_Blue_Sitch_Mechanical_Wired_Gaming_Keyboard_2_.png",
+    "unit": "g",
+    "unit_value": 511.0,
+    "price": 1553.0,
+    "special_price": 1429.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1553.0,
+      "special_price": 1429.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:30"
+    }
+  ]
+}

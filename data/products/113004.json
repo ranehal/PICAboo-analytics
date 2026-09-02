@@ -4,8 +4,8 @@
     "sku": "XM209GDX",
     "name": "Xiaomi Oral Irrigator Portable Water Jet Cleaner (M209)",
     "slug": "xiaomi-oral-irrigator-portable-water-jet-cleaner-m209",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "3984",
+    "category_name": "Healthcare and Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-m209-29-9-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 22.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:01:59"
+    },
+    {
+      "price": 3436.0,
+      "special_price": 2695.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:31:41"
+    },
+    {
+      "price": 3436.0,
+      "special_price": 2695.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:44"
+    },
+    {
+      "price": 3436.0,
+      "special_price": 2695.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:44"
+    },
+    {
+      "price": 3436.0,
+      "special_price": 2695.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:53"
+    },
+    {
+      "price": 3436.0,
+      "special_price": 2695.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:30"
     }
   ]
 }

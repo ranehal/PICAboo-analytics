@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122628",
+    "sku": "HP15FD0180NIABEA",
+    "name": "HP 15.6 Inch Intel Core i3-1315U Intel UHD Graphics FHD Laptop (15-FD0180NIA)",
+    "slug": "hp-15-6-inch-intel-core-i3-1315u-intel-uhd-graphics-fhd-laptop-15-fd0180nia",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/placeholder/default/Pickaboo-plholder-thumb.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 78000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 78000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:59"
+    }
+  ]
+}

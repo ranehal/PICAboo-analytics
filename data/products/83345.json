@@ -4,8 +4,8 @@
     "sku": "US28450942AJW",
     "name": "UGREEN US284 2M Right Angle USB-A to USB-C Cable (50942)",
     "slug": "ugreen-us284-angled-usb-a-to-usb-type-c-2m-angled-cable-50942",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/0/50942-1.9.24-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 34.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:34"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:29"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:25"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:12"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:42:13"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:46"
     }
   ]
 }

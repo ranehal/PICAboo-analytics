@@ -4,8 +4,8 @@
     "sku": "U70197CIL",
     "name": "UGREEN CD127 30W Type-C Fast Charger UK (70197)",
     "slug": "ugreen-cd127-30w-type-c-fast-charger-uk-70197",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/7/0/70197-18-6-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:19"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:59"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:04"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:47"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:31"
     }
   ]
 }

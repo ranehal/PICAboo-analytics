@@ -4,8 +4,8 @@
     "sku": "ACD56ADR",
     "name": "Acefast D56 Magnetic Universal Car Mount Holder ",
     "slug": "acefast-d56-magnetic-car-mount",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acefast-d56-one-key-lock-car-holder-for-air-vent-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:09"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:01"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:57:34"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:49"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:50:12"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:45"
     }
   ]
 }

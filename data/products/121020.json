@@ -6,13 +6,13 @@
     "slug": "redmi-pad-2-4gb-128gb-9-7-inch-display-wi-fi",
     "category_id": "171",
     "category_name": "Smartphones",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-pad-2-4gb-128gb-9.7-_wi-fi_-8-1-2-6-1.jpg",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-pad-2-18-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 21999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
+    "stock_available": 0,
     "is_atl": 1
   },
   "history": [
@@ -127,6 +127,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:31:00"
+    },
+    {
+      "price": 21999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:35"
+    },
+    {
+      "price": 21999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:46"
+    },
+    {
+      "price": 21999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:14:56"
+    },
+    {
+      "price": 21999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:52"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-02 11:14:53"
     }
   ]
 }

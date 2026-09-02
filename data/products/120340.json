@@ -6,7 +6,7 @@
     "slug": "pixel-7-5g-8gb-128gb",
     "category_id": "171",
     "category_name": "Smartphones",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/i/pixel-7-8gb-2-8-26.jpg",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/o/google-pixel-7-19-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
     "price": 49999.0,
@@ -127,6 +127,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:31:11"
+    },
+    {
+      "price": 49999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:59"
+    },
+    {
+      "price": 49999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:41:31"
+    },
+    {
+      "price": 49999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:15:20"
+    },
+    {
+      "price": 49999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:34:55"
+    },
+    {
+      "price": 49999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:11"
     }
   ]
 }

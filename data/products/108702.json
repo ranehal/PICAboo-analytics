@@ -4,8 +4,8 @@
     "sku": "C9091WWHG",
     "name": "Curren 9091 Women\u2019s Watch",
     "slug": "curren-9091-women-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/curren-9091-13-03-25---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:39"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:14"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:18"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:23"
+    },
+    {
+      "price": 1690.0,
+      "special_price": 1490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:29"
     }
   ]
 }

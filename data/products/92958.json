@@ -4,8 +4,8 @@
     "sku": "TQPANCHMND",
     "name": "Tribit QuietPlus ANC Headphone",
     "slug": "tribit-quietplus-anc-headphone",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "324",
+    "category_name": "Headset",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/u/quietplus-anc-headphones-27.3.24..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:30"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 7249.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:57"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 7249.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:45"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 7249.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:15"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 7249.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:04"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 7249.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:17"
     }
   ]
 }

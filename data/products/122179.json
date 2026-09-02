@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122179",
+    "sku": "ACEC08ADR",
+    "name": "ACEFAST C8-03 1.2m USB-C to USB-C Braided Charging Data Cable",
+    "slug": "acefast-c8-03-1-2m-usb-c-to-usb-c-braided-charging-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acefast-c8-03-usbc-to-usbc-charging-data-cable-joints-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 600.0,
+    "special_price": 400.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 600.0,
+      "special_price": 400.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:50"
+    }
+  ]
+}

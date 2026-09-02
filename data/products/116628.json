@@ -4,8 +4,8 @@
     "sku": "DAA18RBREE",
     "name": "Doublepow AA 1800MWh Lithium-ion Rechargeable Battery",
     "slug": "doublepow-aa-1800mwh-lithium-ion-rechargeable-battery",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/o/doublepow-aa-1800-1pcs-28-feb-2026_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:28"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:07:51"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:06"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:23"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:11"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:54"
     }
   ]
 }

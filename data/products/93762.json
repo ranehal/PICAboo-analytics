@@ -4,8 +4,8 @@
     "sku": "SSNZG07J1BNS",
     "name": "Seiko SNZG07J1 5 Sports Desert Military Automatic Men's Watch ",
     "slug": "seiko-snzg07j1-5-sports-desert-military-automatic-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/n/snzg07j1-13-6-23.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:06:20"
+    },
+    {
+      "price": 30499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:36:54"
+    },
+    {
+      "price": 30499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:14:19"
+    },
+    {
+      "price": 30499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:53:44"
+    },
+    {
+      "price": 30499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:09:34"
+    },
+    {
+      "price": 30499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:44:30"
     }
   ]
 }

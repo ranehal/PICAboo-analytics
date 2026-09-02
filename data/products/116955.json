@@ -1,17 +1,17 @@
 {
   "product": {
     "id": "116955",
-    "sku": "MHM5513CXCBD",
+    "sku": "MHM5513CXFFT",
     "name": "Miyako 1200W Hand Mixer-Blender Combo Egg Beater (HM-5513CX)",
     "slug": "miyako-1200w-hand-mixer-blender-combo-egg-beater-hm-5513cx",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "2257",
+    "category_name": "Others",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/m/hm-5513cx-7-mar-2026-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3250.0,
-    "special_price": 2890.0,
-    "discount": 11.0,
+    "price": 3600.0,
+    "special_price": 2790.0,
+    "discount": 23.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -120,6 +120,48 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:01"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 2890.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:44"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 2890.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:52"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 2890.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:05"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2790.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:29"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2790.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:27"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2790.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:06:50"
     }
   ]
 }

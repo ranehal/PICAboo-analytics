@@ -6,12 +6,12 @@
     "slug": "oraimo-1500w-handheld-steam-iron-ohi-201a",
     "category_id": "7",
     "category_name": "Electronics & Appliances",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/oraimo-1500w-handheld-steam-iron-_ohi-201a_-4-15-26-1.jpg",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/h/ohi-201a-27-12-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4000.0,
-    "special_price": 3440.0,
-    "discount": 14.0,
+    "price": 3620.0,
+    "special_price": 3258.0,
+    "discount": 10.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -120,6 +120,48 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:15"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3440.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:02:04"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3440.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:05"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3440.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:15"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3440.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:29"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3440.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:24:57"
+    },
+    {
+      "price": 3620.0,
+      "special_price": 3258.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:02"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "JROE3GSB",
     "name": "Joyroom JR-OE3 Clip On Earbuds",
     "slug": "joyroom-jr-oe3-clip-on-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/r/jr-oe3-18-6-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 34.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:36"
+    },
+    {
+      "price": 5440.0,
+      "special_price": 3580.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:09"
+    },
+    {
+      "price": 5440.0,
+      "special_price": 3580.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:27"
+    },
+    {
+      "price": 5440.0,
+      "special_price": 3580.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:01"
+    },
+    {
+      "price": 5440.0,
+      "special_price": 3580.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:44"
+    },
+    {
+      "price": 5440.0,
+      "special_price": 3580.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:22"
     }
   ]
 }

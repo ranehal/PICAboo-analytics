@@ -4,8 +4,8 @@
     "sku": "ACIS8ICPJ090ACI",
     "name": "ACI Smart 8 Inch Combination Pliers ",
     "slug": "aci-smart-8-inch-combination-pliers",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/0/j090-15-12-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 39.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:08"
+    },
+    {
+      "price": 570.0,
+      "special_price": 350.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:22"
+    },
+    {
+      "price": 570.0,
+      "special_price": 350.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:04"
+    },
+    {
+      "price": 570.0,
+      "special_price": 350.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:12"
+    },
+    {
+      "price": 570.0,
+      "special_price": 350.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:47"
+    },
+    {
+      "price": 570.0,
+      "special_price": 350.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:39"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "65486",
+    "sku": "TMP1381LAMZ",
+    "name": "Casio MTP-1381L-1AVDF Men's Analog Enticer Day Date Black Leather Belt Watch ",
+    "slug": "casio-men-s-analog-watch-mtp-1381l-1av",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-1381l-1avdf-7-1-25.jpg",
+    "unit": "L",
+    "unit_value": 1381.0,
+    "price": 6790.0,
+    "special_price": 5890.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6790.0,
+      "special_price": 5890.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:46:40"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
     "sku": "RAMB70NGLO",
     "name": "Microlab B70BT 2.0 Bluetooth Stereo Speaker",
     "slug": "microlab-speaker-b70bt-2-0",
-    "category_id": "4",
-    "category_name": "Computers",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/7/b70bt----17-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:02:39"
+    },
+    {
+      "price": 6100.0,
+      "special_price": 5511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 17:44:16"
+    },
+    {
+      "price": 6100.0,
+      "special_price": 5511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:57"
+    },
+    {
+      "price": 6100.0,
+      "special_price": 5511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:52:18"
+    },
+    {
+      "price": 6100.0,
+      "special_price": 5511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:35"
     }
   ]
 }

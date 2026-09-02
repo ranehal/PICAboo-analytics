@@ -4,8 +4,8 @@
     "sku": "TUE330CTPO",
     "name": "TP-Link Type-C 3-Port Hub & Gigabit Ethernet Adapter (UE330C)",
     "slug": "tp-link-type-c-3-port-hub-gigabit-ethernet-adapter-ue330c",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "131",
+    "category_name": "USB Ports & Hubs",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/e/ue330c-13-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -71,6 +71,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:03"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2119.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:27"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2119.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:32"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2119.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:53"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2119.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:52:38"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2119.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:36"
     }
   ]
 }

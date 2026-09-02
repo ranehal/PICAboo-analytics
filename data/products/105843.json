@@ -4,8 +4,8 @@
     "sku": "MBT2WADR",
     "name": "Mijia Bluetooth Thermometer 2-White ",
     "slug": "mijia-bluetooth-thermometer-2-white",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "3842",
+    "category_name": "Smart Home",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/m/_mijia-bluetooth-thermometer-2-19-10-24.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:35"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:25"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:15:07"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:37"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:07"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:30"
     }
   ]
 }

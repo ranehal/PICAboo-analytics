@@ -4,8 +4,8 @@
     "sku": "ACIS8ISJ075ACI",
     "name": "ACI Smart 8 Inch Screwdriver - NH-Star",
     "slug": "aci-smart-8-inch-screwdriver-nh-star",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/0/j075-15-12-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:36"
+    },
+    {
+      "price": 210.0,
+      "special_price": 130.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:26"
+    },
+    {
+      "price": 210.0,
+      "special_price": 130.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:08"
+    },
+    {
+      "price": 210.0,
+      "special_price": 130.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:20"
+    },
+    {
+      "price": 210.0,
+      "special_price": 130.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:33:02"
+    },
+    {
+      "price": 210.0,
+      "special_price": 130.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:45"
     }
   ]
 }

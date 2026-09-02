@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121097",
+    "sku": "KL69OEMWBJNN",
+    "name": "Jedel KL69 OEM RGB Mechanical Gaming Keyboard (White Black)",
+    "slug": "jedel-kl69-oem-white-black-rgb-mechanical-gaming-keyboard",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/l/kl69--1-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1491.0,
+    "special_price": 1369.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1491.0,
+      "special_price": 1369.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:37"
+    }
+  ]
+}

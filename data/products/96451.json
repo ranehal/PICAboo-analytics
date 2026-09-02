@@ -4,8 +4,8 @@
     "sku": "ET673TRS",
     "name": "Epson T-673 Six Colors Ink Bottle Set",
     "slug": "epson-t-673-six-colors-ink-bottle-set",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/7/6733023-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:29"
+    },
+    {
+      "price": 6827.0,
+      "special_price": 6349.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:08"
+    },
+    {
+      "price": 6827.0,
+      "special_price": 6349.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:08"
+    },
+    {
+      "price": 6827.0,
+      "special_price": 6349.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:52"
+    },
+    {
+      "price": 6827.0,
+      "special_price": 6349.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:02"
+    },
+    {
+      "price": 6827.0,
+      "special_price": 6349.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:46"
     }
   ]
 }

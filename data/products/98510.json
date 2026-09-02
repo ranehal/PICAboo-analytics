@@ -4,8 +4,8 @@
     "sku": "O33WSGADR",
     "name": "Oppo 33W Supervooc Power Adapter-White",
     "slug": "oppo-33w-supervooc-power-adapter-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/-/i-img900x900-1747897271627py6ux7-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:16"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:58"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:53"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:43"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:07"
     }
   ]
 }

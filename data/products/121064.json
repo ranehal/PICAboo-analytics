@@ -4,16 +4,16 @@
     "sku": "CPG670PNW",
     "name": "Canon Pixma G670 A4 Multi-Function Mega Tank Photo Printer (Ink Code- GI-73)",
     "slug": "canon-pixma-g670-a4-multi-function-mega-tank-photo-printer-ink-code-gi-73",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "56",
+    "category_name": "Printer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/6/g670--7-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 36830.0,
-    "special_price": 31030.0,
-    "discount": 16.0,
+    "price": 38232.0,
+    "special_price": 33245.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -85,6 +85,20 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-14 04:52:27"
+    },
+    {
+      "price": 38232.0,
+      "special_price": 33245.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:10"
+    },
+    {
+      "price": 38232.0,
+      "special_price": 33245.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:37"
     }
   ]
 }

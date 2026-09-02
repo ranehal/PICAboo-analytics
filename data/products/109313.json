@@ -4,8 +4,8 @@
     "sku": "CLBP6030WLPNW",
     "name": "Canon imageCLASS LBP6030W Wi-Fi Monochrome Laser Printer",
     "slug": "canon-imageclass-lbp6030w-wi-fi-monochrome-laser-printer",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "56",
+    "category_name": "Printer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/b/lbp6030w-17-4-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,27 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:47"
+    },
+    {
+      "price": 19000.0,
+      "special_price": 15545.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:06"
+    },
+    {
+      "price": 19000.0,
+      "special_price": 15545.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:42"
+    },
+    {
+      "price": 19000.0,
+      "special_price": 15545.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:37"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "FS6019SETHSP",
     "name": "Fossil Minimalist Brown Leather Watch and Bracelet Box Set For Men (FS6019SET)",
     "slug": "fossil-minimalist-brown-leather-watch-and-bracelet-box-set-for-men-fs6019set",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "3047",
+    "category_name": "Gift Set",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/s/fs6019set-11-5-25-3.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:13"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:13"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:49"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:11"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:45"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:21"
     }
   ]
 }

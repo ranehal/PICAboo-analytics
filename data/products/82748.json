@@ -4,8 +4,8 @@
     "sku": "CWU1400GLO",
     "name": "CUDY WU1400 Dual Band 1300Mbps High Gain Wi-Fi USB 3.0 Adapter",
     "slug": "cudy-wu1400-dual-band-1300mbps-high-gain-wi-fi-usb-3-0-adapter",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/cudy-wu1400-ac1300-high-gain-usb-wi-fi-adapter-base-image.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:04"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1550.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:49"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1550.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:46"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1550.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:40"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1550.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:09"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1550.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:50"
     }
   ]
 }

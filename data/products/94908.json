@@ -4,8 +4,8 @@
     "sku": "BCATLYSA02ADR",
     "name": "Baseus Superior Series PD 20W 1M Type-C to Ip Fast Charging Data Cable (CATLYS-A02)",
     "slug": "baseus-catlys-a02-type-c-ip-data-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/catlys-a02-10.8.23..jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 29.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:21"
+    },
+    {
+      "price": 650.0,
+      "special_price": 459.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:17"
+    },
+    {
+      "price": 650.0,
+      "special_price": 459.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:16"
+    },
+    {
+      "price": 650.0,
+      "special_price": 459.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:41"
+    },
+    {
+      "price": 650.0,
+      "special_price": 459.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:42:03"
+    },
+    {
+      "price": 650.0,
+      "special_price": 459.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:54"
     }
   ]
 }

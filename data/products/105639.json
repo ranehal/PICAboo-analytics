@@ -4,8 +4,8 @@
     "sku": "JMCSTCTCDCBADR",
     "name": "JOYROOM Multi-Color Series 100W Type-C to Type-C 1.2m Data Cable\u2013Black (S-CC100A14)",
     "slug": "joyroom-multi-color-series-100w-type-c-to-type-c-1-2m-data-cable-black-a14-s-cc100a141b",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/r/jr-cable-9-10-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 22.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:16"
+    },
+    {
+      "price": 550.0,
+      "special_price": 429.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:21"
+    },
+    {
+      "price": 550.0,
+      "special_price": 429.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:03"
+    },
+    {
+      "price": 550.0,
+      "special_price": 429.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:57"
+    },
+    {
+      "price": 550.0,
+      "special_price": 429.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:40:52"
+    },
+    {
+      "price": 550.0,
+      "special_price": 429.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:00"
     }
   ]
 }

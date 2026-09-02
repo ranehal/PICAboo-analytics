@@ -4,8 +4,8 @@
     "sku": "FG5065WAMOV",
     "name": "FONENG GaN50-EU 65W 3-Port Fast Charging Adapter with Type-C to Type-C Cable",
     "slug": "foneng-gan50-eu-65w-3-port-fast-charging-adapter-with-type-c-to-type-c-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/gan50-eu-8-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:03"
+    },
+    {
+      "price": 1799.0,
+      "special_price": 1499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:09"
+    },
+    {
+      "price": 1799.0,
+      "special_price": 1499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:06"
+    },
+    {
+      "price": 1799.0,
+      "special_price": 1499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:33:39"
+    },
+    {
+      "price": 1799.0,
+      "special_price": 1499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:52:30"
+    },
+    {
+      "price": 1799.0,
+      "special_price": 1499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:04"
     }
   ]
 }

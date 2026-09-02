@@ -4,8 +4,8 @@
     "sku": "USU97ADR",
     "name": "USAMS SJ784 U97 60W 30cm Type-C to Type-C Fast Charging Data Cable",
     "slug": "usams-sj784-u97-60w-type-c-to-type-c-lanyard-fast-charging-data-cable-30cm-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/E/D/EDA008983301B-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 33.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:44"
+    },
+    {
+      "price": 900.0,
+      "special_price": 599.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:34"
+    },
+    {
+      "price": 900.0,
+      "special_price": 599.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:33"
+    },
+    {
+      "price": 900.0,
+      "special_price": 599.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:01"
+    },
+    {
+      "price": 900.0,
+      "special_price": 599.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:49"
+    },
+    {
+      "price": 900.0,
+      "special_price": 599.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:55"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "BCRMATL",
     "name": "Baseus Comfort Mini Portable Reading Lamp (DGRAD-0G) - Dark Gray",
     "slug": "baseus-comfort-reading-mini-clip-lamp-rechargeable",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "3915",
+    "category_name": "Light",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/g/dgrad-0g-8-2-25-1.jpg",
     "unit": "g",
     "unit_value": 0.0,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:39:12"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 1209.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:10:18"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 1209.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:25"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 1209.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:22:04"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 1209.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:34:48"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 1209.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:29"
     }
   ]
 }

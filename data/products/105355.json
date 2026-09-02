@@ -4,8 +4,8 @@
     "sku": "FS5967SETHSP",
     "name": "Fossil FS5967SET Townsman Chronograph Men\u2019s Watch and Bracelet Set",
     "slug": "fossil-fs5967set-townsman-chronograph-men-s-watch-and-bracelet-set",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/s/fs5967set-25.9.24.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:03:55"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:34:23"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:58"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:51:05"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:06:58"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:41:16"
     }
   ]
 }

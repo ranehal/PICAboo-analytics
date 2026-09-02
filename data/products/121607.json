@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "121607",
+    "sku": "MIJ2QWADR",
+    "name": "Mijia Multi Functional Flashlight (MJSDT002QW)",
+    "slug": "mijia-multi-functional-flashlight-mjsdt002qw",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/j/mjsdt002qw-24-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3200.0,
+    "special_price": 2850.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3200.0,
+      "special_price": 2850.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:48"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2850.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:32"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2850.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:44"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122298",
+    "sku": "BASHD20WADR",
+    "name": "Baseus PD 20W High Density Braided Type-C to Lightning Data Cable",
+    "slug": "baseus-high-density-braided-type-c-to-ip-pd-20w-lightning-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/7/1779088034_6a0abaa24ff80-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 800.0,
+    "special_price": 620.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 800.0,
+      "special_price": 620.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:25"
+    }
+  ]
+}

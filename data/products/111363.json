@@ -4,8 +4,8 @@
     "sku": "T90178QM01WOG",
     "name": "Titan Avant Garde Quartz Multifunction Stainless Steel Strap Watch for Men (90178QM01)",
     "slug": "titan-avant-garde-quartz-multifunction-stainless-steel-strap-watch-for-men-90178qm01",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/90178qm01-17-7-25-1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:24"
+    },
+    {
+      "price": 29000.0,
+      "special_price": 23300.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:31:06"
+    },
+    {
+      "price": 29000.0,
+      "special_price": 23300.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:06:40"
+    },
+    {
+      "price": 29000.0,
+      "special_price": 23300.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:46"
+    },
+    {
+      "price": 29000.0,
+      "special_price": 23300.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:04:03"
+    },
+    {
+      "price": 29000.0,
+      "special_price": 23300.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:14"
     }
   ]
 }

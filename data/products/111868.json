@@ -4,8 +4,8 @@
     "sku": "R100WRC150KHS",
     "name": "Reeoo 100W 4 in 1 Fast Charging Cable (RC150)",
     "slug": "reeoo-100w-4-in-1-fast-charging-cable-rc150",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/c/rc150-28-7-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 44.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:26"
+    },
+    {
+      "price": 377.0,
+      "special_price": 210.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:32"
+    },
+    {
+      "price": 377.0,
+      "special_price": 210.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:21"
+    },
+    {
+      "price": 377.0,
+      "special_price": 210.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:33"
+    },
+    {
+      "price": 377.0,
+      "special_price": 210.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:40:24"
+    },
+    {
+      "price": 377.0,
+      "special_price": 210.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:27"
     }
   ]
 }

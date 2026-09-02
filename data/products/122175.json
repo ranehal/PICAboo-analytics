@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122175",
+    "sku": "ACC1703ADR",
+    "name": "Acefast C17-03 Type-C to Type-C Charging Data Cable 1.2M - Black",
+    "slug": "acefast-c17-03-type-c-to-type-c-charging-data-cable-1-2m-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/M/E/MELLOWC17-03USB-CTOUSB-CCBALE1_COLOR-BLACK-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 500.0,
+    "special_price": 370.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 500.0,
+      "special_price": 370.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:50"
+    }
+  ]
+}

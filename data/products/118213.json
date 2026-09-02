@@ -4,8 +4,8 @@
     "sku": "MTP1BDFAMZ",
     "name": "Casio Standard Belt Men\u2019s Watch (MTP-VT03L-1BDF)",
     "slug": "casio-standard-belt-men-s-watch-mtp-vt03l-1bdf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-vt03l-1bdf-13-4-26.jpg",
     "unit": "L",
     "unit_value": 3.0,
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:05"
+    },
+    {
+      "price": 5490.0,
+      "special_price": 4490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:07"
+    },
+    {
+      "price": 5490.0,
+      "special_price": 4490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:28"
+    },
+    {
+      "price": 5490.0,
+      "special_price": 4490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:43:03"
+    },
+    {
+      "price": 5490.0,
+      "special_price": 4490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:27"
+    },
+    {
+      "price": 5490.0,
+      "special_price": 4490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:04"
     }
   ]
 }

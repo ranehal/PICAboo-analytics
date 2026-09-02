@@ -4,8 +4,8 @@
     "sku": "CHARGC3CCPTC",
     "name": "CHARG 1m Type-C to Type-C Data Cable (C-3CC)",
     "slug": "charg-type-c-to-type-c-1m-data-cable-c-3cc",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/-/c-3cc-19-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:47"
+    },
+    {
+      "price": 190.0,
+      "special_price": 150.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:53"
+    },
+    {
+      "price": 190.0,
+      "special_price": 150.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:31"
+    },
+    {
+      "price": 190.0,
+      "special_price": 150.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:40"
+    },
+    {
+      "price": 190.0,
+      "special_price": 150.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:40:33"
+    },
+    {
+      "price": 190.0,
+      "special_price": 150.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:27"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "LN10AAA1REE",
     "name": "LiitoKala Ni-10/AAA 1000mAh 1.2V Rechargeable Battery - 2Pcs",
     "slug": "liitokala-ni-10-aaa-1000mah-1-2v-rechargeable-battery-2pcs",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/i/ni-10-aaa-18-feb-2026-1.jpg",
     "unit": "pcs",
     "unit_value": 2.0,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:33"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:03"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:16"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:33"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:23"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:15"
     }
   ]
 }

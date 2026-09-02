@@ -4,8 +4,8 @@
     "sku": "H75P7PRHRB",
     "name": "Haier 75 Inch HQLED 4K Google TV (75P7PRO)",
     "slug": "haier-75-hqled-4k-google-tv-75p7pro",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "29",
+    "category_name": "Television",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/7/5/75p7pro-10-aug-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,48 @@
       "discount": 22.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:31:48"
+    },
+    {
+      "price": 164900.0,
+      "special_price": 127990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:01:43"
+    },
+    {
+      "price": 164900.0,
+      "special_price": 127990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:32:58"
+    },
+    {
+      "price": 164900.0,
+      "special_price": 127990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:15:47"
+    },
+    {
+      "price": 164900.0,
+      "special_price": 127990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:26:33"
+    },
+    {
+      "price": 164900.0,
+      "special_price": 127990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:49"
+    },
+    {
+      "price": 164900.0,
+      "special_price": 127990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:06:44"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "CVF105W1ADFAMZ",
     "name": "Casio Vintage Digital Unisex Watch (F-105W-1ADF)",
     "slug": "casio-vintage-digital-unisex-watch-f-105w-1adf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/-/f-105w-1adf-26-12-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:54"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:12"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:43"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:20"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:51"
+    },
+    {
+      "price": 3490.0,
+      "special_price": 2990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:41:08"
     }
   ]
 }

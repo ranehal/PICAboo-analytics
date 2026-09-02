@@ -4,8 +4,8 @@
     "sku": "FPEATANTTZ",
     "name": "SoundPEATS Space Over-Ear ANC Headphone",
     "slug": "soundpeats-space-over-ear-anc-headphone",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/p/space--14-8-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:42"
+    },
+    {
+      "price": 4400.0,
+      "special_price": 4339.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:52"
+    },
+    {
+      "price": 4400.0,
+      "special_price": 4339.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:48"
+    },
+    {
+      "price": 4400.0,
+      "special_price": 4339.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:44"
+    },
+    {
+      "price": 4400.0,
+      "special_price": 4339.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:53"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "HSWF4PSMT",
     "name": "Huawei Smart Watch Fit 4 Pro",
     "slug": "huawei-smart-watch-fit-4-pro",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "226",
+    "category_name": "Smart Watch",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/u/huawei-watch-fit-4-pro-6-10-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:11"
+    },
+    {
+      "price": 25999.0,
+      "special_price": 22999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:15"
+    },
+    {
+      "price": 25999.0,
+      "special_price": 22999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:42"
+    },
+    {
+      "price": 25999.0,
+      "special_price": 22999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:25:26"
+    },
+    {
+      "price": 25999.0,
+      "special_price": 22999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:12"
+    },
+    {
+      "price": 25999.0,
+      "special_price": 22999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:32:58"
     }
   ]
 }

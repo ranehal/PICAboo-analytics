@@ -4,8 +4,8 @@
     "sku": "T3AUALTTN",
     "name": "Teton 3A USB-A to Lightning Fast Charging Cable",
     "slug": "teton-3a-usb-a-to-lightning-fast-charging-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/e/te-3a-atll--31-12-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 41.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:15"
+    },
+    {
+      "price": 389.0,
+      "special_price": 229.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:21"
+    },
+    {
+      "price": 389.0,
+      "special_price": 229.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:27"
+    },
+    {
+      "price": 389.0,
+      "special_price": 229.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:22"
+    },
+    {
+      "price": 389.0,
+      "special_price": 229.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:01"
+    },
+    {
+      "price": 389.0,
+      "special_price": 229.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:23:58"
     }
   ]
 }

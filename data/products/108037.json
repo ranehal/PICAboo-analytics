@@ -4,8 +4,8 @@
     "sku": "A70WKA15TTZ",
     "name": "Awei 70W Outdoor Bluetooth Speaker (KA15)",
     "slug": "awei-70w-outdoor-bluetooth-speaker-ka15",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "211",
+    "category_name": "Speaker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/a/ka15-16-2-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:41"
+    },
+    {
+      "price": 10499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:41"
+    },
+    {
+      "price": 10499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:03"
+    },
+    {
+      "price": 10499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:58"
+    },
+    {
+      "price": 10499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:59"
     }
   ]
 }

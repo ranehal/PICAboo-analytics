@@ -4,8 +4,8 @@
     "sku": "T4GSWSFSCIPK",
     "name": "Tuya 4 Gang Smart WiFi Switch with Fan Speed Control (B-347)( W-348)",
     "slug": "tuya-4-gang-smart-wifi-switch-with-fan-speed-control",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "3842",
+    "category_name": "Smart Home",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/u/tuya-4-gang-smart-31-12-25-2.jpg",
     "unit": "g",
     "unit_value": 4.0,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:38:06"
+    },
+    {
+      "price": 6200.0,
+      "special_price": 5170.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:09:04"
+    },
+    {
+      "price": 6200.0,
+      "special_price": 5170.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:54"
+    },
+    {
+      "price": 6200.0,
+      "special_price": 5170.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:22"
+    },
+    {
+      "price": 6200.0,
+      "special_price": 5170.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:54"
+    },
+    {
+      "price": 6200.0,
+      "special_price": 5170.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:14:07"
     }
   ]
 }

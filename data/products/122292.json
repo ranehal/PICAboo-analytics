@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122292",
+    "sku": "BASC18ADR",
+    "name": "Baseus Encok C18 Type-C In Ear Wired Earphone - White",
+    "slug": "baseus-encok-c18-type-c-in-ear-wired-earphones-white",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/n/encok-c18-30-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 800.0,
+    "special_price": 600.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 800.0,
+      "special_price": 600.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:36"
+    }
+  ]
+}

@@ -4,14 +4,14 @@
     "sku": "OHEM7156TOMO",
     "name": "Omron Bluetooth & App-Enabled Smart Blood Pressure Monitor (HEM-7156T)",
     "slug": "omron-bluetooth-app-enabled-smart-blood-pressure-monitor-hem-7156t",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/e/hem-7156t-2-6-26.jpg",
+    "category_id": "3984",
+    "category_name": "Healthcare and Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/3/f34-8-26.jpg",
     "unit": null,
     "unit_value": null,
     "price": 7388.0,
-    "special_price": 6070.0,
-    "discount": 18.0,
+    "special_price": 5830.0,
+    "discount": 21.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:01:24"
+    },
+    {
+      "price": 7388.0,
+      "special_price": 6070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:31:41"
+    },
+    {
+      "price": 7388.0,
+      "special_price": 6070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:44"
+    },
+    {
+      "price": 7388.0,
+      "special_price": 6070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:11"
+    },
+    {
+      "price": 7388.0,
+      "special_price": 5830.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:53"
+    },
+    {
+      "price": 7388.0,
+      "special_price": 5830.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:30"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122624",
+    "sku": "SWF1000XM6STB",
+    "name": "Sony Wireless Noise Cancelling TWS Earbuds (WF-1000XM6)",
+    "slug": "sony-wireless-noise-cancelling-tws-earbuds-wf-1000xm6",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/f/wf-1000xm6-2-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 59900.0,
+    "special_price": 45663.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59900.0,
+      "special_price": 45663.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:22"
+    }
+  ]
+}

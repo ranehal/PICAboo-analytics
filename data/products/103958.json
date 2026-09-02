@@ -4,8 +4,8 @@
     "sku": "NLCOF7072DSQ",
     "name": "Saachi 1L Automatic Espresso Coffee Maker (NL-COF-7072)",
     "slug": "saachi-1l-automatic-espresso-coffee-maker-nl-cof-7072",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "71",
+    "category_name": "Coffee Maker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/saachi-1l-automatic-espresso-coffee-maker-_nl-cof-7072_-01.jpg",
     "unit": "L",
     "unit_value": 1.0,
@@ -120,6 +120,48 @@
       "discount": 22.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:01"
+    },
+    {
+      "price": 34500.0,
+      "special_price": 26900.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:06:21"
+    },
+    {
+      "price": 34500.0,
+      "special_price": 26900.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:37:15"
+    },
+    {
+      "price": 34500.0,
+      "special_price": 26900.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:19:09"
+    },
+    {
+      "price": 34500.0,
+      "special_price": 26900.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:08"
+    },
+    {
+      "price": 34500.0,
+      "special_price": 26900.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:28:11"
+    },
+    {
+      "price": 34500.0,
+      "special_price": 26900.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:49"
     }
   ]
 }

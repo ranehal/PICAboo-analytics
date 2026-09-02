@@ -4,8 +4,8 @@
     "sku": "JT03SMADR",
     "name": "Joyroom JR-T03S Pro Max TWS Earbuds",
     "slug": "joyroom-jr-t03s-pro-max-anc-true-wireless-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/o/joyroom-jr-t03s-pro-max-wireless-earbuds-new-white-1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:08"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1679.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:48"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1679.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:15"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1679.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:12"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1679.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:09"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1679.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:32:15"
     }
   ]
 }

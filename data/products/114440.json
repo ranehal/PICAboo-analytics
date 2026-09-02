@@ -4,8 +4,8 @@
     "sku": "MULCDSBDO",
     "name": "Motorcycle Universal LCD Digital Speedometer/Odometer/Tachometer for Motorcycle",
     "slug": "motorcycle-universal-lcd-digital-speedometer-odometer-tachometer-for-motorcycle",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "3926",
+    "category_name": "Bike Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/o/motorcycle-universal-speedometer-13-12-25_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:01:20"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4499.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:40"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4499.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:06:57"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4499.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:47:11"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4499.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:01"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4499.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:13"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "PIHDEHNE86SSB",
     "name": "Panasonic 2300W Ionity Hair Dryer (EH-NE86)",
     "slug": "panasonic-2300w-ionity-hair-dryer-eh-ne86",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "391",
+    "category_name": "Hair Dryers",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/h/eh-ne86-10-feb-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:43"
+    },
+    {
+      "price": 11500.0,
+      "special_price": 8332.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:54"
+    },
+    {
+      "price": 11500.0,
+      "special_price": 8332.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:06:09"
+    },
+    {
+      "price": 11500.0,
+      "special_price": 8332.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:26"
+    },
+    {
+      "price": 11500.0,
+      "special_price": 8332.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:53"
+    },
+    {
+      "price": 11500.0,
+      "special_price": 8332.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:05"
     }
   ]
 }

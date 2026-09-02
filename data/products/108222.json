@@ -4,8 +4,8 @@
     "sku": "CEMLTP1302D1A2VTTS",
     "name": "CASIO Enticer Black Dial Watch for Women (LTP-1302D-1A2V)",
     "slug": "casio-enticer-black-dial-watch-for-women-ltp-1302d-1a2v",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1302d-1a2vdf-19-11-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:25:23"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4939.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:04"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4939.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:50:23"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4939.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:06:11"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4939.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:40:30"
     }
   ]
 }

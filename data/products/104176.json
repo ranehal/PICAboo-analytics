@@ -4,8 +4,8 @@
     "sku": "URPB720ATL",
     "name": "UGREEN PB720 20000mAh 100W Portable Power Bank",
     "slug": "ugreen-pb720-20000mah-100w-portable-power-bank",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/g/ugreen-pb720-20000mah--01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:52"
+    },
+    {
+      "price": 6372.0,
+      "special_price": 5745.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:17"
+    },
+    {
+      "price": 6372.0,
+      "special_price": 5745.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:11"
+    },
+    {
+      "price": 6372.0,
+      "special_price": 5745.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:32:48"
+    },
+    {
+      "price": 6372.0,
+      "special_price": 5745.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:47:51"
+    },
+    {
+      "price": 6372.0,
+      "special_price": 5745.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:13"
     }
   ]
 }

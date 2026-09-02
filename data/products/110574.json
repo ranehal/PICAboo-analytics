@@ -4,9 +4,9 @@
     "sku": "T1878KD03WOG",
     "name": "Titan Edge Fusion Quartz Analog Watch for Men (1878KD03)",
     "slug": "titan-edge-fusion-quartz-analog-watch-for-men-1878kd03",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/8/1878kd03-16-7-25-1.jpg",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/8/1878kd03-1-6-25-2.jpg",
     "unit": null,
     "unit_value": null,
     "price": 64000.0,
@@ -120,6 +120,41 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:01:19"
+    },
+    {
+      "price": 64000.0,
+      "special_price": 44800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:32:06"
+    },
+    {
+      "price": 64000.0,
+      "special_price": 44800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:08:15"
+    },
+    {
+      "price": 64000.0,
+      "special_price": 44800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:53"
+    },
+    {
+      "price": 64000.0,
+      "special_price": 44800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:04:45"
+    },
+    {
+      "price": 64000.0,
+      "special_price": 44800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:38"
     }
   ]
 }

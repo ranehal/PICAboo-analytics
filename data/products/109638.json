@@ -4,8 +4,8 @@
     "sku": "TW1810NP01WOG",
     "name": "Titan Edge Mechanical Black Dial Watch for Men (1810NP01)",
     "slug": "titan-edge-mechanical-black-dial-watch-for-men-1810np01",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/3/3333-16-11-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:02:02"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:32:38"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:08:53"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:49:25"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:05:11"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:14"
     }
   ]
 }

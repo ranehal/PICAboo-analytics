@@ -4,8 +4,8 @@
     "sku": "F6180SL02AMZ",
     "name": "Fastrack Denim Collection Analog Watch for Women (6180SL02)",
     "slug": "fastrack-denim-collection-analog-watch-for-women-6180sl02",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/1/6180sl02-30-1-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:47"
+    },
+    {
+      "price": 4390.0,
+      "special_price": 3479.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:30"
+    },
+    {
+      "price": 4390.0,
+      "special_price": 3479.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:34"
+    },
+    {
+      "price": 4390.0,
+      "special_price": 3479.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:06"
+    },
+    {
+      "price": 4390.0,
+      "special_price": 3479.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:36"
     }
   ]
 }

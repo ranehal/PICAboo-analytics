@@ -4,8 +4,8 @@
     "sku": "OLAXMF982GDX",
     "name": "OLAX MF982 4G 300Mbps Pocket Wi-Fi Router",
     "slug": "olax-mf982-4g-300mbps-pocket-wi-fi-router",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/f/mf982-11.5.23.jpg_1.jpg",
     "unit": "g",
     "unit_value": 4.0,
@@ -120,6 +120,41 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:00"
+    },
+    {
+      "price": 3767.0,
+      "special_price": 3192.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:39"
+    },
+    {
+      "price": 3767.0,
+      "special_price": 3192.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:20"
+    },
+    {
+      "price": 3767.0,
+      "special_price": 3192.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:31"
+    },
+    {
+      "price": 3767.0,
+      "special_price": 3192.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:03"
+    },
+    {
+      "price": 3767.0,
+      "special_price": 3192.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:45"
     }
   ]
 }

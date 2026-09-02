@@ -4,9 +4,9 @@
     "sku": "OCWE66SM53MOV",
     "name": "Oraimo Firefly 3 10W EU Charging Adapter with Micro USB Cable (OCW-E66S+M53)",
     "slug": "oraimo-firefly-3-10w-eu-charging-adapter-with-micro-usb-cable-ocw-e66s-m53",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/0/10w-eu-charging-adapter-with-micro-usb-4-3-25-1.jpg",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocw-e66s_m53-17-9-25-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 250.0,
@@ -120,6 +120,41 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:56"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:54"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:58"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:27"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:24"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:25"
     }
   ]
 }

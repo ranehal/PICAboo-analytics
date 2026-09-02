@@ -4,8 +4,8 @@
     "sku": "V500SETCS",
     "name": "Rapoo V500 SE Mixed Light 104 Keys Metal Wired Mechanical Gaming Keyboard",
     "slug": "rapoo-v500-se-mixed-light-104-keys-metal-wired-mechanical-gaming-keyboard",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/a/rapoo-v500se-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:05"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:22"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:58"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:26"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:55"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:05"
     }
   ]
 }

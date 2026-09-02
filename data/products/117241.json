@@ -4,8 +4,8 @@
     "sku": "32476265NM01AMZ",
     "name": "Fastrack Mixmatched Black Dial Stainless Steel Watch For Couple (32476265NM01)",
     "slug": "fastrack-mixmatched-black-dial-stainless-steel-watch-for-couple-32476265nm01",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/_/1_32_14.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:36"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:21"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:28"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:41:59"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:51"
+    },
+    {
+      "price": 8990.0,
+      "special_price": 7690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:11"
     }
   ]
 }

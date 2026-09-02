@@ -4,16 +4,16 @@
     "sku": "HX120ULADR",
     "name": "Hoco X120 2.4A USB to Lightning 1M Data Cable - Black",
     "slug": "hoco-x120-2-4a-usb-to-lightning-data-cable-1m-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/7/8/78239394-db17-4f0b-b6f1-feafea37177f-removebg-preview.png",
     "unit": null,
     "unit_value": null,
-    "price": 180.0,
-    "special_price": 130.0,
-    "discount": 28.0,
+    "price": 300.0,
+    "special_price": 180.0,
+    "discount": 40.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,41 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:48:39"
+    },
+    {
+      "price": 180.0,
+      "special_price": 130.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:17:31"
+    },
+    {
+      "price": 180.0,
+      "special_price": 130.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:51"
+    },
+    {
+      "price": 180.0,
+      "special_price": 130.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:34"
+    },
+    {
+      "price": 180.0,
+      "special_price": 130.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:20"
+    },
+    {
+      "price": 300.0,
+      "special_price": 180.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:18"
     }
   ]
 }

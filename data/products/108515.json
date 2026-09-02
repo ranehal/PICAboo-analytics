@@ -4,8 +4,8 @@
     "sku": "F3309QM02WOG",
     "name": "Fastrack Gambit Micromotor Black Dial Brown Stainless Steel Watch for Men (3309QM02)",
     "slug": "fastrack-gambit-micromotor-black-dial-brown-stainless-steel-watch-for-men-3309qm02",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/3/3309qm02-10-7-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:02:59"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 11200.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:33:24"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 11200.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:09:48"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 11200.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:50:10"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 11200.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:06:02"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 11200.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:40:12"
     }
   ]
 }

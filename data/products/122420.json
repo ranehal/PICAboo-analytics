@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122420",
+    "sku": "BADU1MADR",
+    "name": "Baseus Dura Series Type-C to Type-C 100W Fast Charging Cable 1M- Gold",
+    "slug": "baseus-dura-series-type-c-to-type-c-100w-fast-charging-cable-1m-gold",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/E/D/EDA007021202A-removebg-preview_1.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 800.0,
+    "special_price": 490.0,
+    "discount": 39.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 800.0,
+      "special_price": 490.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:02"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
     "sku": "EG2SW7SMT",
     "name": "Edifier G2 S Wireless 7.1 Gaming Headset",
     "slug": "edifier-g2-s-wireless-7-1-gaming-headset",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "324",
+    "category_name": "Headset",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/2/g2-s-14-6-26.jpg",
     "unit": "g",
     "unit_value": 7.1,
@@ -127,6 +127,41 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:19"
+    },
+    {
+      "price": 6649.0,
+      "special_price": 5999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:34"
+    },
+    {
+      "price": 6649.0,
+      "special_price": 5999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:25"
+    },
+    {
+      "price": 6649.0,
+      "special_price": 5999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:25"
+    },
+    {
+      "price": 6649.0,
+      "special_price": 5999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:11"
+    },
+    {
+      "price": 6649.0,
+      "special_price": 5999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:00"
     }
   ]
 }

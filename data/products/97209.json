@@ -4,8 +4,8 @@
     "sku": "CLTP130TTS",
     "name": "Casio Enticer LTP-1302SG-7AVDF Stainless Steel Women\u2019s Watch",
     "slug": "casio-enticer-ltp-1302sg-7avdf-stainless-steel-women-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/n/entic--26--11--23-----1.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,27 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:31:56"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 6784.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:44:39"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 6784.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:56:11"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 6784.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:01:46"
     }
   ]
 }

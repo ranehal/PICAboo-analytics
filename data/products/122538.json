@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122538",
+    "sku": "DLM55F400NMEXL",
+    "name": "Dahua LM55-F400N 55\u201d 60Hz 4K UHD Monitor",
+    "slug": "dahua-lm55-f400n-55-60hz-4k-uhd-monitor",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/a/dahua-lm55-f400n-29-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 94176.0,
+    "special_price": 78480.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 94176.0,
+      "special_price": 78480.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:19"
+    }
+  ]
+}

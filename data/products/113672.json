@@ -4,8 +4,8 @@
     "sku": "CLTP1308D1A2VTTS",
     "name": "Casio Standard Watch for Women (LTP-1308D-1A2V)",
     "slug": "casio-standard-watch-for-women-ltp-1308d-1a2v",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1308d-1a2v-28-10-25-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:18:48"
+    },
+    {
+      "price": 4705.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:34"
+    },
+    {
+      "price": 4705.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:48"
+    },
+    {
+      "price": 4705.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:18"
+    },
+    {
+      "price": 4705.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:03"
     }
   ]
 }

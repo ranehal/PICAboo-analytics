@@ -4,8 +4,8 @@
     "sku": "539SG1AVWOG",
     "name": "Casio Edifice Standard Chronograph Stainless Steel Watch for Men (EFR-539SG-1AV)",
     "slug": "standard-chronograph-efr-539sg-1av",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/E/F/EFR-539SG-1AV.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:05"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:07"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:28"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:43:03"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:40"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:33"
     }
   ]
 }

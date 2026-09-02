@@ -4,8 +4,8 @@
     "sku": "BWKWG020213ATL",
     "name": "Baseus Metal Gleam Series 12-in-1 Multifunctional Type-C HUB (WKWG020213)",
     "slug": "baseus-metal-gleam-series-12-in-1-multifunctional-type-c-hub-wkwg020213",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "131",
+    "category_name": "USB Ports & Hubs",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/k/wkwg020213---4-9-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:43"
+    },
+    {
+      "price": 14390.0,
+      "special_price": 11999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:55"
+    },
+    {
+      "price": 14390.0,
+      "special_price": 11999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:19"
+    },
+    {
+      "price": 14390.0,
+      "special_price": 11999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:37"
+    },
+    {
+      "price": 14390.0,
+      "special_price": 11999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:26"
+    },
+    {
+      "price": 14390.0,
+      "special_price": 11999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:59"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "BA15WM3ADR",
     "name": "Baseus 15W Simple Mini3 Magnetic Wireless Charger-Purple",
     "slug": "baseus-15w-simple-mini3-magnetic-wireless-charger-purple",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/B/a/Baseus-Simple-Mini3-Magnetic-Wireless-Charger-15W-Dusty-Purple-Baseuscolombo-6-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 36.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:22"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1599.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:16"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1599.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:09"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1599.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:33:44"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1599.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:48"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1599.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:08"
     }
   ]
 }

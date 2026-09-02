@@ -4,8 +4,8 @@
     "sku": "HHSU19T3HRB",
     "name": "Haier 1.6 Ton UltimateCool Air Conditioner [HSU-19UltimateCool(INV)(Pro)(X6)(T3)]",
     "slug": "haier-1-6-ton-ultimatecool-air-conditioner-hsu-19ultimatecool-inv-pro-x6-t3",
-    "category_id": "64",
-    "category_name": "Air Conditioner",
+    "category_id": "3478",
+    "category_name": "Haier",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/s/hsu-19ultimatecool_inv_pro_x6_t3_-21-4-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,48 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:30:16"
+    },
+    {
+      "price": 99990.0,
+      "special_price": 84990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:00:01"
+    },
+    {
+      "price": 99990.0,
+      "special_price": 84990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:32:25"
+    },
+    {
+      "price": 99990.0,
+      "special_price": 84990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:14:27"
+    },
+    {
+      "price": 99990.0,
+      "special_price": 84990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:25:46"
+    },
+    {
+      "price": 99990.0,
+      "special_price": 84990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:23:12"
+    },
+    {
+      "price": 99990.0,
+      "special_price": 84990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:06:06"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "XCJSJSQ02XYGSB",
     "name": "Xiaomi Mijia 4L Fog-Free Humidifier 3 (CJSJSQ02XY)",
     "slug": "xiaomi-mijia-4l-fog-free-humidifier-3-cjsjsq02xy",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "452",
+    "category_name": "Air Purifier",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/j/cjsjsq02xy-29-1-26-2.jpg",
     "unit": "L",
     "unit_value": 4.0,
@@ -120,6 +120,48 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:35:18"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 10270.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:29"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 10270.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:36:51"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 10270.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:18:23"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 10270.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:29:30"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 10270.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:27:19"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 10270.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:03"
     }
   ]
 }

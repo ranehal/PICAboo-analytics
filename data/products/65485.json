@@ -4,9 +4,9 @@
     "sku": "TMP1314DTTS",
     "name": "Casio Enticer Analog Black Dial Men's Watch (MTP-1314D-1AVDF)",
     "slug": "casio-men-s-analog-watch-mtp-1314d-1avdf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-1314d-1avdf-19-2-25--1.jpg",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/6/16-2_3.jpg",
     "unit": null,
     "unit_value": null,
     "price": 5999.0,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:07:51"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:38:30"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:16:38"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:55:21"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:11:31"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:46:40"
     }
   ]
 }

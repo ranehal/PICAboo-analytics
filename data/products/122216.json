@@ -4,8 +4,8 @@
     "sku": "MHH50G1PTPO",
     "name": "Mercusys Halo H50G AC1900 Whole Home Mesh Wi-Fi Router (1-Pack)",
     "slug": "mercusys-halo-h50g-ac1900-whole-home-mesh-wi-fi-router-1-pack",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/halo-h50g-1pcs-15-8-26-1.jpg",
     "unit": "g",
     "unit_value": 50.0,
@@ -57,6 +57,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:56"
+    },
+    {
+      "price": 3420.0,
+      "special_price": 2850.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:32"
+    },
+    {
+      "price": 3420.0,
+      "special_price": 2850.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:32"
+    },
+    {
+      "price": 3420.0,
+      "special_price": 2850.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:37:37"
+    },
+    {
+      "price": 3420.0,
+      "special_price": 2850.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:52:30"
+    },
+    {
+      "price": 3420.0,
+      "special_price": 2850.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:36"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122330",
+    "sku": "HOW116ADR",
+    "name": "Hoco W116 Shadow 4-Mode Gaming Headphone",
+    "slug": "hoco-w116-shadow-4-mode-gaming-headphones-with-powerful-sound-and-ultra-low-2-4ghz-latency",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/a/tai-nghe-choi-game-hoco-w116-shadow-4-che-do-iwhSP3Kshqq7vQrOgB5q-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 3500.0,
+    "special_price": 2800.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3500.0,
+      "special_price": 2800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:00"
+    }
+  ]
+}

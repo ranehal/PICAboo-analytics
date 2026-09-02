@@ -4,8 +4,8 @@
     "sku": "CWR36007RGLO",
     "name": "Cudy WR3600 BE3600 Gigabit Mesh Wi-Fi 7 Router",
     "slug": "cudy-wr3600-be3600-gigabit-mesh-wi-fi-7-router",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/r/wr3600-14-10-25.jpg",
     "unit": "g",
     "unit_value": 3600.0,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:47"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 8000.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:10"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 8000.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:58"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 8000.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:11"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 8000.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:30"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 8000.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:44"
     }
   ]
 }

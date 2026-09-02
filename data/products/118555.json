@@ -4,8 +4,8 @@
     "sku": "UTT39TTZ",
     "name": "Ulanzi TT39 Phone & Camera Tripod",
     "slug": "ulanzi-tt39-phone-camera-tripod",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1767",
+    "category_name": "Selfie Stick",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/t/tt39-21-4-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:38"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2655.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:00"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2655.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:13"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2655.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:31:11"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2655.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:48:51"
     }
   ]
 }

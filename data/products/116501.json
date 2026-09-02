@@ -4,8 +4,8 @@
     "sku": "CLTP1165A7C2WEC",
     "name": "Casio Enticer Silver Dial Watch for Women (LTP-1165A-7C2)",
     "slug": "casio-enticer-silver-dial-watch-for-women-ltp-1165a-7c2",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1165a-7c2-25-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:36"
+    },
+    {
+      "price": 6161.0,
+      "special_price": 5358.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:21"
+    },
+    {
+      "price": 6161.0,
+      "special_price": 5358.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:13"
+    },
+    {
+      "price": 6161.0,
+      "special_price": 5358.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:30"
+    },
+    {
+      "price": 6161.0,
+      "special_price": 5358.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:57:55"
+    },
+    {
+      "price": 6161.0,
+      "special_price": 5358.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:11"
     }
   ]
 }

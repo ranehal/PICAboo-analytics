@@ -4,8 +4,8 @@
     "sku": "BFCCCXFK65CCADR",
     "name": "Baseus Cube Pro 65W Fast Charging Adapter (CCXFK65CC)",
     "slug": "baseus-cube-pro-65w-fast-charging-with-2c-u-adapter-ccxfk65cc",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/c/ccxfk65cc-10-12-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:04"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:32"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:33"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:09"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:01"
     }
   ]
 }

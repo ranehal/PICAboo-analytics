@@ -4,8 +4,8 @@
     "sku": "MUJDHSGDX",
     "name": "Osel Gourmet Chef Portable Single Butane Gas Stove with Case",
     "slug": "osel-gourmet-chef-portable-single-butane-gas-stove-with-case",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "165",
+    "category_name": "Gas Burner",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/o/gourmet_chef_portable_single_butane_gas_stove_in_bdshop.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:14"
+    },
+    {
+      "price": 3106.0,
+      "special_price": 2632.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:06:41"
+    },
+    {
+      "price": 3106.0,
+      "special_price": 2632.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:37:20"
+    },
+    {
+      "price": 3106.0,
+      "special_price": 2632.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:19:11"
+    },
+    {
+      "price": 3106.0,
+      "special_price": 2632.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:42"
+    },
+    {
+      "price": 3106.0,
+      "special_price": 2632.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:28:17"
+    },
+    {
+      "price": 3106.0,
+      "special_price": 2632.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:08"
     }
   ]
 }

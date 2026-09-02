@@ -4,8 +4,8 @@
     "sku": "GM8058RHTSSB",
     "name": "GEEMY GM-8058 Professional Rechargeable Hair Trimmer",
     "slug": "geemy-gm-8058-professional-rechargeable-hair-trimmer",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/m/gm-8058-10-feb-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:33"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1402.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:46"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1402.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:44"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1402.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:45:26"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1402.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:39"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1402.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:36:18"
     }
   ]
 }

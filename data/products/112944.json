@@ -4,8 +4,8 @@
     "sku": "CNNCTWSEPTC",
     "name": "CHARG Nextbuds ANC TWS Earbuds-Black",
     "slug": "charg-nextbuds-anc-tws-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/h/charg-nextbuds-23-9-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:26"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 1450.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:41"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 1450.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:44:38"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 1450.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:49"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 1450.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:22"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 1450.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:18:34"
     }
   ]
 }

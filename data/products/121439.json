@@ -4,8 +4,8 @@
     "sku": "POLCX60ADR",
     "name": "PLOKAMA CX-60 Neck Bracket for Sports Camera and Smartphone",
     "slug": "plokama-cx-60-neck-bracket-for-sports-camera-and-smartphone",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "202",
+    "category_name": "Others ",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/P/L/PLOKAMA-CX-60-Neck-Bracket-for-Sports-Camera-and-Smartphone-1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:46"
+    },
+    {
+      "price": 1700.0,
+      "special_price": 1420.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:28"
+    },
+    {
+      "price": 1700.0,
+      "special_price": 1420.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:38"
+    },
+    {
+      "price": 1700.0,
+      "special_price": 1420.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:20"
+    },
+    {
+      "price": 1700.0,
+      "special_price": 1420.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:08"
+    },
+    {
+      "price": 1700.0,
+      "special_price": 1420.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:55"
     }
   ]
 }

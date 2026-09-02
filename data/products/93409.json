@@ -4,8 +4,8 @@
     "sku": "U12WUSCC173ADR",
     "name": "USAMS T55 12W Dual USB Universal Travel Adapter (US-CC173)",
     "slug": "usams-t55-12w-dual-usb-universal-travel-adapter-us-cc173",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/5/t55.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:28"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:04"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:03"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:47"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:31"
     }
   ]
 }

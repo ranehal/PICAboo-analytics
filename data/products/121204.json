@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121204",
+    "sku": "V2801SGJNN",
+    "name": "V-Sol V2801SG 1GE Secure XPON ONU",
+    "slug": "vsol-v2801sg-1ge-secure-xpon-onu",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_92_.png",
+    "unit": "g",
+    "unit_value": 1.0,
+    "price": 1615.0,
+    "special_price": 1489.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1615.0,
+      "special_price": 1489.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:30"
+    }
+  ]
+}

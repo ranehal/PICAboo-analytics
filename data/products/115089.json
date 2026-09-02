@@ -4,8 +4,8 @@
     "sku": "QCYHV200HOHTTZ",
     "name": "QCY Heroad V200 H4GM Overhead Wireless Gaming Headphone",
     "slug": "qcy-heroad-v200-h4gm-overhead-wireless-gaming-headphone",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/2/v200-h4gm-wireless-5-1-26-1.jpg",
     "unit": "g",
     "unit_value": 4.0,
@@ -120,6 +120,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:23"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:56"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:47:17"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:57"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:09"
     }
   ]
 }

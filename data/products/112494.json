@@ -4,14 +4,14 @@
     "sku": "PBHD34010MBT",
     "name": "Philips EssentialCare 3000 Series Hair Dryer (BHD340/10)",
     "slug": "philips-essentialcare-3000-series-hair-dryer-bhd340-10",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "391",
+    "category_name": "Hair Dryers",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/phlips-16-7-25-1.png",
     "unit": null,
     "unit_value": null,
     "price": 4599.0,
-    "special_price": 4095.0,
-    "discount": 11.0,
+    "special_price": 3929.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:54"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:54"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:06:09"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:10"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3929.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:53"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3929.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:05"
     }
   ]
 }

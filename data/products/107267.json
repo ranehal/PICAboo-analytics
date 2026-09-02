@@ -4,8 +4,8 @@
     "sku": "TOPA2BSTI",
     "name": "TOZO PA2 Bluetooth Speaker",
     "slug": "tozo-pa2-bluetooth-speaker",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "211",
+    "category_name": "Speaker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/o/tozo-pa2-bluetooth-speaker-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:56"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6649.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:49"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6649.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:10"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6649.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:30:01"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6649.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:45:24"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6649.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:28"
     }
   ]
 }

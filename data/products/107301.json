@@ -4,8 +4,8 @@
     "sku": "TW001880HSP",
     "name": "Tommy Hilfiger Green Dial Crystals Watch for Women (TW001880/1782759)",
     "slug": "tommy-hilfiger-green-dial-crystals-watch-for-women-tw001880",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/w/tw001880-19-1-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 26.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:50"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 20650.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:36"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 20650.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:38"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 20650.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:11"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 20650.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:47"
     }
   ]
 }

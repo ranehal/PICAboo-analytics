@@ -4,8 +4,8 @@
     "sku": "CDW5600BBWOG",
     "name": "Casio G-Shock DW-5600BB-1 Digital Men\u2019s Watch",
     "slug": "casio-g-shock-dw-5600bb-1-digital-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/w/dw-5600bb-1-20-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:05:43"
+    },
+    {
+      "price": 16000.0,
+      "special_price": 12800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:36:15"
+    },
+    {
+      "price": 16000.0,
+      "special_price": 12800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:13:16"
+    },
+    {
+      "price": 16000.0,
+      "special_price": 12800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:52:49"
+    },
+    {
+      "price": 16000.0,
+      "special_price": 12800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:08:48"
+    },
+    {
+      "price": 16000.0,
+      "special_price": 12800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:43:28"
     }
   ]
 }

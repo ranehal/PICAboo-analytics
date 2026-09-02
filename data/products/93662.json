@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "93662",
+    "sku": "LZCHWPLVP",
+    "name": "Livpure Zinger Copper Hot Water Purifier",
+    "slug": "livpure-zinger-copper-hot-water-purifier",
+    "category_id": "78",
+    "category_name": "Water Purifiers & Filters",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/z/i/zinger-copper-28-5-25-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 42500.0,
+    "special_price": 39690.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 42500.0,
+      "special_price": 39690.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:11:05"
+    }
+  ]
+}

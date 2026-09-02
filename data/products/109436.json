@@ -4,8 +4,8 @@
     "sku": "CUH407GLO",
     "name": "Cudy UH407 7-In-1 HDMI SD/TF 4K USB-C Hub",
     "slug": "cudy-uh407-7-in-1-hdmi-sd-tf-4k-usb-c-hub",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/_/2_40_3.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 8.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:24"
+    },
+    {
+      "price": 3700.0,
+      "special_price": 3400.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:06"
+    },
+    {
+      "price": 3700.0,
+      "special_price": 3400.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:54"
+    },
+    {
+      "price": 3700.0,
+      "special_price": 3400.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:59"
+    },
+    {
+      "price": 3700.0,
+      "special_price": 3400.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:55"
+    },
+    {
+      "price": 3700.0,
+      "special_price": 3400.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:44"
     }
   ]
 }

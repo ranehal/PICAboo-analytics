@@ -4,8 +4,8 @@
     "sku": "AA2579IOT",
     "name": "Apple 35W Dual USB-C Port Compact Power Adapter (A2579)",
     "slug": "apple-35w-dual-usb-c-port-compact-power-adapter-a2579",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/2/a2579-13-11-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:53"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4490.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:31"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4490.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:21"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4490.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:23"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4490.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:20"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4490.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:21"
     }
   ]
 }

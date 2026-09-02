@@ -4,8 +4,8 @@
     "sku": "CLTPV004D2BTTS",
     "name": "Casio Standard blue Dial Watch for Women (LTP-V004D-2B)",
     "slug": "casio-standard-blue-dial-watch-for-women-ltp-v004d-2b",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v004d-2b-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:19:08"
+    },
+    {
+      "price": 3529.0,
+      "special_price": 3450.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:04:01"
+    },
+    {
+      "price": 3529.0,
+      "special_price": 3450.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:59"
+    },
+    {
+      "price": 3529.0,
+      "special_price": 3450.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:33"
+    },
+    {
+      "price": 3529.0,
+      "special_price": 3450.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:11"
     }
   ]
 }

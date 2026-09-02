@@ -4,8 +4,8 @@
     "sku": "CIG1004GLO",
     "name": "Cudy 4-Port Gigabit Industrial PoE+ Switch with 2 SFP Slots",
     "slug": "cudy-4-port-gigabit-industrial-poe-switch-with-2-sfp-slots",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/g/ig1004s2p-3-aug-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:09"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2900.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:38"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2900.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:49"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2900.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:13"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2900.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:16"
+    },
+    {
+      "price": 3200.0,
+      "special_price": 2900.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:56"
     }
   ]
 }

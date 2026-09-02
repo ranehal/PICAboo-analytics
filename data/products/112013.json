@@ -4,8 +4,8 @@
     "sku": "X67CSMDY15EQIOT",
     "name": "Xiaomi 67W Fast Charging Adapter with Type-A to Type-C Cable (MDY-15-EQ)",
     "slug": "xiaomi-67w-eu-usb-a-to-type-c-fast-charging-adapter-with-cable-mdy-15-eq",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-67w-3-8-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:56"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2519.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:54"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2519.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:58"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2519.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:47"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 2519.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:31"
     }
   ]
 }

@@ -4,14 +4,14 @@
     "sku": "QN20TTZ",
     "name": "QCY MeloBuds ANC TWS Earbuds (N20)",
     "slug": "qcy-melobuds-anc-tws-earbuds-n20",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/2/n20-9-3-26-1.jpg",
     "unit": null,
     "unit_value": null,
     "price": 2750.0,
-    "special_price": 2199.0,
-    "discount": 20.0,
+    "special_price": 2329.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:10"
+    },
+    {
+      "price": 2750.0,
+      "special_price": 2199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:35"
+    },
+    {
+      "price": 2750.0,
+      "special_price": 2199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:44:02"
+    },
+    {
+      "price": 2750.0,
+      "special_price": 2199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:07"
+    },
+    {
+      "price": 2750.0,
+      "special_price": 2329.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:06"
+    },
+    {
+      "price": 2750.0,
+      "special_price": 2329.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:18:10"
     }
   ]
 }

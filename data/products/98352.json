@@ -4,8 +4,8 @@
     "sku": "CYW96H1AVDFTTS",
     "name": "Casio Youth W-96H-1AVDF Dual Time Digital Men\u2019s Watch",
     "slug": "casio-youth-w-96h-1avdf-dual-time-digital-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/-/w-96h-1avdf-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:27:53"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3509.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:12:53"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3509.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:52:37"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3509.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:08:27"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3509.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:43:07"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "HEW90ADR",
     "name": "Hoco EW90 ANC True Wireless Earbuds",
     "slug": "hoco-ew90-anc-true-wireless-earbuds-white",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/H/o/Hoco-EW90-TWS-ANC-Earbuds-3_1_-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:36"
+    },
+    {
+      "price": 1700.0,
+      "special_price": 1299.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:09"
+    },
+    {
+      "price": 1700.0,
+      "special_price": 1299.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:07"
+    },
+    {
+      "price": 1700.0,
+      "special_price": 1299.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:58"
+    },
+    {
+      "price": 1700.0,
+      "special_price": 1299.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:36"
+    },
+    {
+      "price": 1700.0,
+      "special_price": 1299.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:22"
     }
   ]
 }

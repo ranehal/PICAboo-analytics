@@ -4,9 +4,9 @@
     "sku": "OSW30MOV",
     "name": "Oraimo Watch 2R 1.39\" TFT Display Smart Watch (OSW-30)",
     "slug": "oraimo-watch-2r-1-39-tft-display-smart-watch-osw-30",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/oraimo-watch-pro-nt-bt-calling-smart-watch-_osw-850h_-4-15-216-1_1.jpg",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/s/osw-30-27.8.24..jpg",
     "unit": null,
     "unit_value": null,
     "price": 2595.0,
@@ -120,6 +120,34 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:21"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:14:16"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:46:58"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:32"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:40:34"
     }
   ]
 }

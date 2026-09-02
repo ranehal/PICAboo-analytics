@@ -4,8 +4,8 @@
     "sku": "W800H2AVDFAMZ",
     "name": "Casio Youth Dual Time Digital Resin Belt Men\u2019s Watch (W-800H-2AVDF)",
     "slug": "casio-youth-dual-time-digital-resin-belt-watch-w-800h-2avdf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/_/1_32_16.jpg",
     "unit": null,
     "unit_value": null,
@@ -127,6 +127,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:31"
+    },
+    {
+      "price": 4590.0,
+      "special_price": 3690.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:26:31"
+    },
+    {
+      "price": 4590.0,
+      "special_price": 3690.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:01"
+    },
+    {
+      "price": 4590.0,
+      "special_price": 3690.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:41:56"
+    },
+    {
+      "price": 4590.0,
+      "special_price": 3690.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:00"
+    },
+    {
+      "price": 4590.0,
+      "special_price": 3690.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:33:13"
     }
   ]
 }

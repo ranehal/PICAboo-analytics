@@ -4,8 +4,8 @@
     "sku": "GFDEA000ADWOG",
     "name": "Casio G-Shock Gravitymaster Analog-Digital Men's Watch (GA-1000-4ADR)",
     "slug": "casio-g-shock-gravitymaster-analog-digital-men-s-watch-ga-1000-4adr",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/ga-1000-4a-8-7-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:04:02"
+    },
+    {
+      "price": 40000.0,
+      "special_price": 28800.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:34:30"
+    },
+    {
+      "price": 40000.0,
+      "special_price": 28800.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:11:06"
+    },
+    {
+      "price": 40000.0,
+      "special_price": 28800.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:51:11"
+    },
+    {
+      "price": 40000.0,
+      "special_price": 28800.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:07:02"
+    },
+    {
+      "price": 40000.0,
+      "special_price": 28800.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:41:23"
     }
   ]
 }

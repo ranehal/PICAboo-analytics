@@ -4,8 +4,8 @@
     "sku": "L6USGDLCIPK",
     "name": "L6 U Smart Go Prime Door Lock with Camera   (IP-100)",
     "slug": "l6-u-smart-go-prime-door-lock-with-camera",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "3842",
+    "category_name": "Smart Home",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/6/l6-u-smart-5-4-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:37:56"
+    },
+    {
+      "price": 29500.0,
+      "special_price": 19250.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:08:46"
+    },
+    {
+      "price": 29500.0,
+      "special_price": 19250.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:39:08"
+    },
+    {
+      "price": 29500.0,
+      "special_price": 19250.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:05"
+    },
+    {
+      "price": 29500.0,
+      "special_price": 19250.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:32:42"
+    },
+    {
+      "price": 29500.0,
+      "special_price": 19250.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:49"
     }
   ]
 }

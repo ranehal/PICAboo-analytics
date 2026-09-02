@@ -4,8 +4,8 @@
     "sku": "LP2LWGMTKE",
     "name": "Logitech Pro 2 Light-speed Wireless Gaming Mouse",
     "slug": "logitech-pro-2-light-speed-wireless-gaming-mouse",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "6",
+    "category_name": "Gaming Gears",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/r/pro-2-lightspeed-12-2-25---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:09"
+    },
+    {
+      "price": 15499.0,
+      "special_price": 13999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:41"
+    },
+    {
+      "price": 15499.0,
+      "special_price": 13999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:02"
+    },
+    {
+      "price": 15499.0,
+      "special_price": 13999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:38"
+    },
+    {
+      "price": 15499.0,
+      "special_price": 13999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:29"
+    },
+    {
+      "price": 15499.0,
+      "special_price": 13999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:35"
     }
   ]
 }

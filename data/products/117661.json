@@ -4,8 +4,8 @@
     "sku": "EDPU7200WEFO",
     "name": "Ecoflow Delta Pro Ultra - 7200W Portable Smart IPS With Mobile Apps Connectivity",
     "slug": "ecoflow-delta-pro-ultra-7200w-portable-smart-ips-with-mobile-apps-connectivity",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "474",
+    "category_name": "IPS",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/e/delta-pro-ultra-1000-30-3-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 5.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:37"
+    },
+    {
+      "price": 690000.0,
+      "special_price": 655500.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:07:59"
+    },
+    {
+      "price": 690000.0,
+      "special_price": 655500.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:20"
+    },
+    {
+      "price": 690000.0,
+      "special_price": 655500.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:24"
+    },
+    {
+      "price": 690000.0,
+      "special_price": 655500.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:31:41"
+    },
+    {
+      "price": 690000.0,
+      "special_price": 655500.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:13:09"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "UA200TTZ",
     "name": "Ulanzi A200 Wireless Lavalier Mini Microphone (2 Transmitters + 1 Receiver)",
     "slug": "ulanzi-a200-wireless-lavalier-mini-microphone-2-transmitters-1-receiver",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "148",
+    "category_name": "Camera Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/l/ulanzi-a200-20-4-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:26"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4819.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:16"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4819.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:35"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4819.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:29:14"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4819.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:39"
     }
   ]
 }

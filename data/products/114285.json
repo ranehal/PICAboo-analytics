@@ -4,8 +4,8 @@
     "sku": "SS80WTLSSG",
     "name": "Super Star LED Bracket 80W DL 4ft Tube Light",
     "slug": "super-star-led-bracket-80w-dl-4ft-tube-light",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "3915",
+    "category_name": "Light",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/u/super-star-led-bracket-40w-dl-4ft-tube-light-11-29-25-1_1_1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:39:05"
+    },
+    {
+      "price": 1535.0,
+      "special_price": 1290.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:10:05"
+    },
+    {
+      "price": 1535.0,
+      "special_price": 1290.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:40:17"
+    },
+    {
+      "price": 1535.0,
+      "special_price": 1290.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:21:56"
+    },
+    {
+      "price": 1535.0,
+      "special_price": 1290.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:34:23"
+    },
+    {
+      "price": 1535.0,
+      "special_price": 1290.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:15:21"
     }
   ]
 }

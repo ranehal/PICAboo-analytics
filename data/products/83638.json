@@ -4,8 +4,8 @@
     "sku": "AT28PTSRAAMG",
     "name": "Awei T28 Pro RGB Gaming TWS Earbuds",
     "slug": "awei-t28-pro-tws-bluetooth-5-1-rgb-colorful-music-gaming-earbuds",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/2/t28problue-14-7-24---2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:45:46"
+    },
+    {
+      "price": 1118.0,
+      "special_price": 949.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:31"
+    },
+    {
+      "price": 1118.0,
+      "special_price": 949.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:18:02"
+    },
+    {
+      "price": 1118.0,
+      "special_price": 949.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:32"
+    },
+    {
+      "price": 1118.0,
+      "special_price": 949.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:48:30"
     }
   ]
 }

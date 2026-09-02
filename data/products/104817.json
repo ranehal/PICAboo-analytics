@@ -4,8 +4,8 @@
     "sku": "B0GHFRDT0ATL",
     "name": "Baseus UltraJoy Series 4-Port Hub Adapter (B0005280A813-01)",
     "slug": "baseus-ultrajoy-series-4-port-hub-adapter-b0005280a813-01",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "131",
+    "category_name": "USB Ports & Hubs",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/p/4p--3-9-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 27.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:34"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:52"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:12"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:34"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:19"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:59"
     }
   ]
 }

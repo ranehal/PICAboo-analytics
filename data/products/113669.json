@@ -4,8 +4,8 @@
     "sku": "CTP1303D4AVDFTTS",
     "name": "Casio Analog Watch for Women (LTP-1303D-4AVDF)",
     "slug": "casio-analog-watch-for-women-ltp-1303d-4avdf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1303d-4avdf-28-10-25-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -92,6 +92,34 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-16 04:18:48"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:03:34"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:42:48"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:18"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:35:03"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "T217LTM217GDPGTSN",
     "name": "Toshin 217L Bottom Mount Refrigerator (TM217GDPG)-Purple Gardenia",
     "slug": "toshin-217l-bottom-mount-refrigerator-tm217gdpg",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/m/tm197gdpg_1.jpg",
     "unit": "L",
     "unit_value": 217.0,
@@ -120,6 +120,48 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:43"
+    },
+    {
+      "price": 38190.0,
+      "special_price": 32690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:01"
+    },
+    {
+      "price": 38190.0,
+      "special_price": 32690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:19"
+    },
+    {
+      "price": 38190.0,
+      "special_price": 32690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:16:46"
+    },
+    {
+      "price": 38190.0,
+      "special_price": 32690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:43"
+    },
+    {
+      "price": 38190.0,
+      "special_price": 32690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:28"
+    },
+    {
+      "price": 38190.0,
+      "special_price": 32690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:07:55"
     }
   ]
 }

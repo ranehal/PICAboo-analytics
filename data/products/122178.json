@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122178",
+    "sku": "ACEC804ADR",
+    "name": "Acefast C8-04 USB To Type-C High-Speed Charging Cable 1.2M- Black",
+    "slug": "acefast-c8-04-usb-to-type-c-high-speed-charging-cable-1-2m-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acefast-c8-04-usba-to-usbc-charging-data-cable-joints-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 500.0,
+    "special_price": 340.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 500.0,
+      "special_price": 340.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:50"
+    }
+  ]
+}

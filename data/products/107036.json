@@ -4,8 +4,8 @@
     "sku": "CWW9065MHS",
     "name": "Curren Small Dial Pattern Women\u2019s Watch (9065)-Silver",
     "slug": "curren-small-dial-pattern-women-s-watch-9065",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "568",
+    "category_name": "Women's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/9065-silver-8-1-25--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,34 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:58:54"
+    },
+    {
+      "price": 1849.0,
+      "special_price": 1380.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:12"
+    },
+    {
+      "price": 1849.0,
+      "special_price": 1380.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 21:43:44"
+    },
+    {
+      "price": 1849.0,
+      "special_price": 1380.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:20"
+    },
+    {
+      "price": 1849.0,
+      "special_price": 1380.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:51"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "RXD71GLO",
     "name": "Rapoo XD71 USB-C Multi-function Docking Station",
     "slug": "rapoo-xd71-usb-c-multi-function-docking-station",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "131",
+    "category_name": "USB Ports & Hubs",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/d/xd71-22-jun-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:56:13"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2408.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:27"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2408.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:09"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2408.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:34"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2408.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:19"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2408.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:34"
     }
   ]
 }

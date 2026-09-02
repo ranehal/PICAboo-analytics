@@ -4,8 +4,8 @@
     "sku": "RM20000XGO",
     "name": "20000mAh Redmi 18W Fast Charge Power Bank with\u00a0Dual Input & Output",
     "slug": "redmi-20000mah-dual-input-output-fast-charge-power-bank",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "203",
+    "category_name": "Power Bank",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/o/powerbank-warranty-new.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:43:19"
+    },
+    {
+      "price": 2199.0,
+      "special_price": 1825.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:38"
+    },
+    {
+      "price": 2199.0,
+      "special_price": 1825.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:46:29"
+    },
+    {
+      "price": 2199.0,
+      "special_price": 1825.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:26:54"
+    },
+    {
+      "price": 2199.0,
+      "special_price": 1825.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:15"
+    },
+    {
+      "price": 2199.0,
+      "special_price": 1825.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:42"
     }
   ]
 }

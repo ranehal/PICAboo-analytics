@@ -4,8 +4,8 @@
     "sku": "PXX975DC1EBSH",
     "name": "BOSCH PXX975DC1E Series 8 Induction Hob",
     "slug": "bosch-pxx975dc1e-series-8-induction-hob",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "74",
+    "category_name": "Induction Cooker",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/x/pxx975dc1e-24-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,48 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:09"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:05:35"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:40"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:36"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:53"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:47"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:50"
     }
   ]
 }

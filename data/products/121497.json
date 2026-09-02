@@ -4,8 +4,8 @@
     "sku": "COT86018ADR",
     "name": "Coteci TSA Customs Code Lock (86018) - Black",
     "slug": "coteci-tsa-customs-code-lock-86018-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/coteci-tsa-customs-code-3-digit-combination-lock-5-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:47:15"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:16:44"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:30"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:12"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:42:59"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:55"
     }
   ]
 }

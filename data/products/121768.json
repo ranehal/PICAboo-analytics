@@ -2,10 +2,10 @@
   "product": {
     "id": "121768",
     "sku": "AT101P5IN1UCHTDR",
-    "name": "Ajazz 5-in-1 USB-C Hub Adapter (AT101P)",
+    "name": "Ajazz 5-in-1 USB-C Hub (AT101P)",
     "slug": "ajazz-at101p-5-in-1-usb-c-hub-adapter",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "131",
+    "category_name": "USB Ports & Hubs",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/j/ajazz-at101p-9-8-26.jpg",
     "unit": null,
     "unit_value": null,
@@ -99,6 +99,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:09"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:27"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:58:49"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:13"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:07"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:28:00"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "PNNST34NBDSQ",
     "name": "Panasonic NN-ST34NB 25L Solo Microwave Oven",
     "slug": "panasonic-nn-st34nb-25l-solo-microwave-oven",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "68",
+    "category_name": "Oven",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/n/nn-st34nb-21.11.23..jpg",
     "unit": "L",
     "unit_value": 25.0,
@@ -120,6 +120,48 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:32:49"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:53"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:00"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:08"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:31"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:19"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:12"
     }
   ]
 }

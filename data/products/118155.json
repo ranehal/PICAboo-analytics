@@ -4,8 +4,8 @@
     "sku": "L27US500WGLO",
     "name": "LG UltraFine 27\" 4K UHD HDR10 Monitor (27US500-W)",
     "slug": "lg-ultrafine-27-4k-uhd-hdr10-monitor-27us500-w",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "47",
+    "category_name": "Monitor",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/7/27us500-w-11-4-26-2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:12"
+    },
+    {
+      "price": 41000.0,
+      "special_price": 39990.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:30"
+    },
+    {
+      "price": 41000.0,
+      "special_price": 39990.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:13"
+    },
+    {
+      "price": 41000.0,
+      "special_price": 39990.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:42"
+    },
+    {
+      "price": 41000.0,
+      "special_price": 39990.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:53"
+    },
+    {
+      "price": 41000.0,
+      "special_price": 39990.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:29:55"
     }
   ]
 }

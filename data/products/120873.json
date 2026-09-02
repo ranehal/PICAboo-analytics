@@ -4,8 +4,8 @@
     "sku": "ACEE42ADR",
     "name": "ACEFAST E42 Selfie Stick with Tripod",
     "slug": "acefast-e42-selfie-stick-with-tripod",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1767",
+    "category_name": "Selfie Stick",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acefast-e42-selfie-stand-automatic-opening-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:38"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:00"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:49:27"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:56"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:44:42"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:22:46"
     }
   ]
 }

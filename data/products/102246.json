@@ -4,8 +4,8 @@
     "sku": "CPE2FDREGDGLO",
     "name": "Cudy PE25 2.5 Gbps PCI Express Network Adapter",
     "slug": "cudy-pe25-2-5-gbps-pci-express-network-adapter",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/r/er--14-5-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:52"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1700.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:21"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1700.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:01:04"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1700.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:15"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1700.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:50"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1700.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:32:40"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "GST110DWOG",
     "name": "Casio G-Shock Analog-Digital Men\u2019s Watch (GST-S110D-1A)",
     "slug": "casio-g-shock-gst-s110d-1adr-analog-digital-men-s-watch",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/s/gst-s110d-1a-20-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 28.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:05:37"
+    },
+    {
+      "price": 40000.0,
+      "special_price": 29000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:36:08"
+    },
+    {
+      "price": 40000.0,
+      "special_price": 29000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:13:09"
+    },
+    {
+      "price": 40000.0,
+      "special_price": 29000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:52:49"
+    },
+    {
+      "price": 40000.0,
+      "special_price": 29000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:08:40"
+    },
+    {
+      "price": 40000.0,
+      "special_price": 29000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:43:21"
     }
   ]
 }

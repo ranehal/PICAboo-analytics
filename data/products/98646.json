@@ -4,8 +4,8 @@
     "sku": "O9931CBWHG",
     "name": "Olevs 9931 Trendy Korean Style Luminous Calendar Couple Watch - Black",
     "slug": "olevs-9931-trendy-korean-style-luminous-calendar-couple-watch-black",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "3047",
+    "category_name": "Gift Set",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/9/9931-couple-black.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:03"
+    },
+    {
+      "price": 4700.0,
+      "special_price": 3799.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:30:13"
+    },
+    {
+      "price": 4700.0,
+      "special_price": 3799.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:49"
+    },
+    {
+      "price": 4700.0,
+      "special_price": 3799.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:11"
+    },
+    {
+      "price": 4700.0,
+      "special_price": 3799.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:45"
+    },
+    {
+      "price": 4700.0,
+      "special_price": 3799.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:21"
     }
   ]
 }

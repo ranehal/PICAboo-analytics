@@ -4,8 +4,8 @@
     "sku": "GDSKJZTC",
     "name": "Fitbit Charge 5/Fitbit Luxe Special Edition Magnetic USB Charging Cable",
     "slug": "fitbit-charge-5-fitbit-luxe-special-edition-magnetic-usb-charging-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "1765",
+    "category_name": "Smart Watch Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/i/fitbit-03-12-23----1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:14"
+    },
+    {
+      "price": 550.0,
+      "special_price": 489.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:13:01"
+    },
+    {
+      "price": 550.0,
+      "special_price": 489.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:45:21"
+    },
+    {
+      "price": 550.0,
+      "special_price": 489.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:43"
+    },
+    {
+      "price": 550.0,
+      "special_price": 489.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:02"
+    },
+    {
+      "price": 550.0,
+      "special_price": 489.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:38"
     }
   ]
 }

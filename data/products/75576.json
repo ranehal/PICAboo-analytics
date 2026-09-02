@@ -4,8 +4,8 @@
     "sku": "A4PK940HAGLO",
     "name": "A4Tech PK-940HA Auto Focus Full HD 1080P Webcam",
     "slug": "a4tech-pk-940ha-full-hd-webcam-1080p-auto-focus-with-free-tripod",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "57",
+    "category_name": "Webcam",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/4/a4tech-pk-940ha5.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:35"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5000.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:44"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5000.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:35"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5000.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:57"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5000.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:22"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5000.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:45"
     }
   ]
 }

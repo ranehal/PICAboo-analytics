@@ -4,8 +4,8 @@
     "sku": "GFTRTWSATL",
     "name": "Yison W8 Power Display TWS Earbuds - Black",
     "slug": "yison-w8-power-display-tws-earbuds-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/8/w8--26-8-24---1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 26.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:44:45"
+    },
+    {
+      "price": 3290.0,
+      "special_price": 2449.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:43"
+    },
+    {
+      "price": 3290.0,
+      "special_price": 2449.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:10:40"
+    },
+    {
+      "price": 3290.0,
+      "special_price": 2449.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:27:11"
+    },
+    {
+      "price": 3290.0,
+      "special_price": 2449.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:41:55"
+    },
+    {
+      "price": 3290.0,
+      "special_price": 2449.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:41:57"
     }
   ]
 }

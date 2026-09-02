@@ -4,8 +4,8 @@
     "sku": "BPO60THL",
     "name": "Beurer Bluetooth Pulse Oximeter (PO60)",
     "slug": "beurer-bluetooth-pulse-oximeter-po60",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "3984",
+    "category_name": "Healthcare and Accessories",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/o/po60-12-april-2026.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 20:00:52"
+    },
+    {
+      "price": 10715.0,
+      "special_price": 8790.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:31:33"
+    },
+    {
+      "price": 10715.0,
+      "special_price": 8790.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:07:32"
+    },
+    {
+      "price": 10715.0,
+      "special_price": 8790.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:46:50"
+    },
+    {
+      "price": 10715.0,
+      "special_price": 8790.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:49"
+    },
+    {
+      "price": 10715.0,
+      "special_price": 8790.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:39:21"
     }
   ]
 }

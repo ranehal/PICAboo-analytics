@@ -4,8 +4,8 @@
     "sku": "PER2405KSSB",
     "name": "Panasonic ER2405K Body Hair & Beard Trimmer",
     "slug": "panasonic-er2405k-body-hair-amp-beard-trimmer",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/r/er2405k-4.10.23.jpg-base-image.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:11"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6899.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:28:39"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6899.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:05:05"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6899.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:03"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6899.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:08"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 6899.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:37:35"
     }
   ]
 }

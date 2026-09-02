@@ -4,16 +4,16 @@
     "sku": "OHP917GMOV",
     "name": "Oraimo Boom Pop Pro Bluetooth Over-Ear Headphone (OHP-917)",
     "slug": "oraimo-boom-pop-pro-bluetooth-over-ear-headphone-ohp-917",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
-    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/oraimo-boom-pop-pro-bluetooth-over-ear-headphone-_ohp-917_-4-15-26-1.jpg",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/h/ohp-917-21-1-26-2.jpg",
     "unit": null,
     "unit_value": null,
     "price": 6500.0,
-    "special_price": 5680.0,
-    "discount": 13.0,
+    "special_price": 5850.0,
+    "discount": 10.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:41:30"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5680.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:57"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5680.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:44:38"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5680.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:53"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5680.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:38:22"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:18:43"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122488",
+    "sku": "LL27Q4AMEXL",
+    "name": "Lenovo L27q-4A 27\" 100Hz 2K QHD IPS Monitor",
+    "slug": "lenovo-l27q-4a-27-100hz-2k-qhd-ips-monitor",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/e/lenovo-l27q-25-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 33354.0,
+    "special_price": 27795.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 33354.0,
+      "special_price": 27795.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:52:30"
+    },
+    {
+      "price": 33354.0,
+      "special_price": 27795.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:29"
+    }
+  ]
+}

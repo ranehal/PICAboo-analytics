@@ -4,8 +4,8 @@
     "sku": "PBHD510SSB",
     "name": "Philips Essential 5000 Series Dry Care Hair Dryer for Women (BHD510)",
     "slug": "philips-essential-5000-series-dry-care-hair-dryer-for-women-bhd510",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "391",
+    "category_name": "Hair Dryers",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/h/bhd510-26-1-25-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:59"
+    },
+    {
+      "price": 7739.0,
+      "special_price": 7239.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:59"
+    },
+    {
+      "price": 7739.0,
+      "special_price": 7239.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:06:30"
+    },
+    {
+      "price": 7739.0,
+      "special_price": 7239.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:16"
+    },
+    {
+      "price": 7739.0,
+      "special_price": 7239.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:59:15"
+    },
+    {
+      "price": 7739.0,
+      "special_price": 7239.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:20"
     }
   ]
 }

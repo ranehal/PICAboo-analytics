@@ -4,8 +4,8 @@
     "sku": "UG60408AJW",
     "name": "UGREEN US288 3M USB to Type-C Aluminum Braid Data Cable (60408)",
     "slug": "ugreen-us288-3m-usb-to-type-c-aluminum-braid-data-cable-60408",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/0/60408-1.9.24-01.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 27.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:41"
+    },
+    {
+      "price": 615.0,
+      "special_price": 450.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:29"
+    },
+    {
+      "price": 615.0,
+      "special_price": 450.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:55:10"
+    },
+    {
+      "price": 615.0,
+      "special_price": 450.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:00"
+    },
+    {
+      "price": 615.0,
+      "special_price": 450.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:41:04"
+    },
+    {
+      "price": 615.0,
+      "special_price": 450.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:10"
     }
   ]
 }

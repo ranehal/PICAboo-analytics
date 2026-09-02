@@ -4,8 +4,8 @@
     "sku": "JSA466WADR",
     "name": "JOYROOM S-AC066A4 66W USB to Type-C 1.2m Digital Display Fast Charging Data Cable ",
     "slug": "joyroom-s-ac066a4-66w-usb-to-type-c-digital-display-fast-charging-data-cable-1-2m",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/S/A/SAS8130-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:22"
+    },
+    {
+      "price": 900.0,
+      "special_price": 619.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:25"
+    },
+    {
+      "price": 900.0,
+      "special_price": 619.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:58"
+    },
+    {
+      "price": 900.0,
+      "special_price": 619.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:25"
+    },
+    {
+      "price": 900.0,
+      "special_price": 619.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:55:31"
+    },
+    {
+      "price": 900.0,
+      "special_price": 619.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:10"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "P27M2N8500GLO",
     "name": "Philips Evnia 27M2N8500 27-Inch 360Hz QD OLED QHD Ambiglow G-SYNC Gaming Monitor",
     "slug": "philips-evnia-27m2n8500-27-inch-360hz-qd-oled-qhd-ambiglow-g-sync-gaming-monitor",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "47",
+    "category_name": "Monitor",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/7/27m2n8500-22-jun-2026-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:12"
+    },
+    {
+      "price": 130000.0,
+      "special_price": 129000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:30"
+    },
+    {
+      "price": 130000.0,
+      "special_price": 129000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:13"
+    },
+    {
+      "price": 130000.0,
+      "special_price": 129000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:38:42"
+    },
+    {
+      "price": 130000.0,
+      "special_price": 129000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:56"
+    },
+    {
+      "price": 130000.0,
+      "special_price": 129000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:01"
     }
   ]
 }

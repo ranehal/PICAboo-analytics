@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122300",
+    "sku": "BAS3IN1ADR",
+    "name": "Baseus Three Primary Colors 3-in-1 Short Power Bank Cable - 30CM",
+    "slug": "baseus-three-primary-colors-3-in-1-short-power-bank-cable-30cm",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/O/h/OhR5ku4fDvf4Ry0Q1fnyRQGrk3o5s76NhMLPJ8xd-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 600.0,
+    "special_price": 500.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 600.0,
+      "special_price": 500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:20:25"
+    }
+  ]
+}

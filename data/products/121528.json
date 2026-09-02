@@ -4,8 +4,8 @@
     "sku": "HOEQ34PLADR",
     "name": "Hoco EQ34 Plus TWS Earbuds- Black",
     "slug": "hoco-eq34-plus-true-wireless-earbuds-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/q/eq34-plus-02-500x500-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 21.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:42:23"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:12:55"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:48:17"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:24:58"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:39:36"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:19:22"
     }
   ]
 }

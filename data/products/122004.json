@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122004",
+    "sku": "ACEJ1ADR",
+    "name": "ACEFAST USB-A to USB-C Adapter (J1)",
+    "slug": "acefast-usb-a-to-usb-c-adapter-j1",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/A/C/ACEFAST-J1-USB-A-to-USB-C-Adapter-5-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 350.0,
+    "special_price": 250.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 350.0,
+      "special_price": 250.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:27:56"
+    }
+  ]
+}

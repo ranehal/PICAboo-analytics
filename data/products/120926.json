@@ -4,8 +4,8 @@
     "sku": "PHR183200SHL",
     "name": "Philips 500W Viva Collection Juicer 1.5 Litre - HR1832/00",
     "slug": "philips-500w-viva-collection-juicer-1-5-litre-hr1832-00",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-500w-viva-collection-juicer-1.5-litre-6-21-2_6-1.jpg",
     "unit": "L",
     "unit_value": 1.5,
@@ -120,6 +120,48 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:34:11"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 13290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:03:42"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 13290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:34:42"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 13290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:16"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 13290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:27:55"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 13290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:25:17"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 13290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:06"
     }
   ]
 }

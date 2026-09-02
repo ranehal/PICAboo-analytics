@@ -4,8 +4,8 @@
     "sku": "BTG20WPDADR",
     "name": "Baseus Tungsten Gold 20W PD Type-C to Lightning Fast Charging Data Cable - Black",
     "slug": "baseus-tungsten-gold-20w-pd-type-c-to-lightning-fast-charging-data-cable-black",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/u/tungsten-gold-20w.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:51:21"
+    },
+    {
+      "price": 799.0,
+      "special_price": 519.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:21:17"
+    },
+    {
+      "price": 799.0,
+      "special_price": 519.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:56:16"
+    },
+    {
+      "price": 799.0,
+      "special_price": 519.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:36:41"
+    },
+    {
+      "price": 799.0,
+      "special_price": 519.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:42:03"
+    },
+    {
+      "price": 799.0,
+      "special_price": 519.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:26:54"
     }
   ]
 }

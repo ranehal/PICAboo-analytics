@@ -4,8 +4,8 @@
     "sku": "P27E1N2100AWGLO",
     "name": "Philips 27E1N2100AW 27-Inch 120Hz IPS Full HD LED Monitor \u2013 White",
     "slug": "philips-27e1n2100aw-27-inch-120hz-ips-full-hd-led-monitor-white",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "47",
+    "category_name": "Monitor",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-27e1n2100aw.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:53:31"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 22300.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:23:51"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 22300.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:59:25"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 22300.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:08"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 22300.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:53:56"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 22300.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:01"
     }
   ]
 }

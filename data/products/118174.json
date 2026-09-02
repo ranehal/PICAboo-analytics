@@ -4,8 +4,8 @@
     "sku": "AMW870DAFAMZ",
     "name": "Casio Standard Dual Time Analog Men\u2019s Watch (AMW-870DA-2A1VDF)",
     "slug": "casio-standard-dual-time-analog-men-s-watch-amw-870da-2a1vdf",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "566",
+    "category_name": "Men's Watches",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/m/amw-870da-2a1vdf-13-4-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:57:05"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:27:07"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:02:28"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:43:03"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 09:00:40"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:34:33"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "HOCW65ADR",
     "name": "Hoco CW65 15W 3 in 1 Ultra Thin North Tabletop Wireless Fast Charger",
     "slug": "hoco-cw65-15w-3-in-1-ultra-thin-north-tabletop-wireless-fast-charger",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-cw65-north-3in1-desktop-wireless-charger-phone-removebg-preview.png",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 26.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:50:22"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:19:16"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:53:09"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:04"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:38"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:17"
     }
   ]
 }

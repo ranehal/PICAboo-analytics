@@ -4,8 +4,8 @@
     "sku": "GGAAF11GZO",
     "name": "Gazi GA-AF-11 Smiss 8L 1400W Air Fryer",
     "slug": "gazi-ga-af-11-smiss-8l-1400w-air-fryer",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "2936",
+    "category_name": "Air Fryer",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/gazi8l-5-7-26.jpg",
     "unit": "L",
     "unit_value": 8.0,
@@ -120,6 +120,48 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:33:55"
+    },
+    {
+      "price": 9360.0,
+      "special_price": 7790.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:04:07"
+    },
+    {
+      "price": 9360.0,
+      "special_price": 7790.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:35:46"
+    },
+    {
+      "price": 9360.0,
+      "special_price": 7790.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:17:26"
+    },
+    {
+      "price": 9360.0,
+      "special_price": 7790.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:28:45"
+    },
+    {
+      "price": 9360.0,
+      "special_price": 7790.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-29 10:26:05"
+    },
+    {
+      "price": 9360.0,
+      "special_price": 7790.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:09:25"
     }
   ]
 }

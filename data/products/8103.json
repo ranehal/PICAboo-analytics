@@ -4,8 +4,8 @@
     "sku": "FNDFFS140JNN",
     "name": "F&D A140X 2.1 Channel Multimedia Bluetooth Speakers",
     "slug": "f-d-a140x-2-1-channel-multimedia-bluetooth-speakers",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "2022",
+    "category_name": "Sound System",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/_/f_d_a140x_2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 9.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:33"
+    },
+    {
+      "price": 8250.0,
+      "special_price": 7500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:46"
+    },
+    {
+      "price": 8250.0,
+      "special_price": 7500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:10"
+    },
+    {
+      "price": 8250.0,
+      "special_price": 7500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:40"
+    },
+    {
+      "price": 8250.0,
+      "special_price": 7500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:53"
+    },
+    {
+      "price": 8250.0,
+      "special_price": 7500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:41"
     }
   ]
 }

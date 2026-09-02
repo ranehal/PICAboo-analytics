@@ -4,8 +4,8 @@
     "sku": "BCADKLFG01ATL",
     "name": "Baseus Cafule 4K HDMI Male To 4K HDMI 3M Male Adapter Cable (CADKLF-G01)",
     "slug": "baseus-cafule-4khdmi-male-to-4khdmi-male-adapter-cable-3m-cadklf-g01",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "1731",
+    "category_name": "Converter & Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/c/_cadklf-e01__2.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:54:28"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:24:11"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:13"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:39:35"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:54:39"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:30:46"
     }
   ]
 }

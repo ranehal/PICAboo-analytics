@@ -4,8 +4,8 @@
     "sku": "CWR1300EGLO",
     "name": "Cudy WR1300E AC1200 Gigabit Dual Band Wi-Fi Router",
     "slug": "cudy-wr1300e-ac1200-gigabit-dual-band-wi-fi-router",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/r/wr1300e-23-4-25-1_1.jpg",
     "unit": "g",
     "unit_value": 1200.0,
@@ -120,6 +120,41 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:47"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2900.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:10"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2900.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:58"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2900.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:11"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2900.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:30"
+    },
+    {
+      "price": 3300.0,
+      "special_price": 2900.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:31:44"
     }
   ]
 }

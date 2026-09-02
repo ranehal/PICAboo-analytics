@@ -4,8 +4,8 @@
     "sku": "FONENGEU46MOV",
     "name": "FONENG 18W QC3 Fast Charging Charger (EU46)",
     "slug": "foneng-18w-qc3-fast-charging-adapter-eu46",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/u/eu46-7-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
@@ -113,6 +113,34 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:52:04"
+    },
+    {
+      "price": 499.0,
+      "special_price": 399.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:20:32"
+    },
+    {
+      "price": 499.0,
+      "special_price": 399.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:33"
+    },
+    {
+      "price": 499.0,
+      "special_price": 399.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:35:09"
+    },
+    {
+      "price": 499.0,
+      "special_price": 399.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:25:01"
     }
   ]
 }

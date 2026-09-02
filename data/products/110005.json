@@ -4,8 +4,8 @@
     "sku": "FD103L65WFTB",
     "name": "Foomee FD103L 65W Fast Charging Type-C to Lightning Data Cable",
     "slug": "foomee-fd103l-65w-fast-charging-type-c-to-lightning-data-cable",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "205",
+    "category_name": "Data Cable",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/d/fd103l-14-5-25-1.jpg",
     "unit": "L",
     "unit_value": 103.0,
@@ -120,6 +120,41 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:49:47"
+    },
+    {
+      "price": 310.0,
+      "special_price": 299.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:18:53"
+    },
+    {
+      "price": 310.0,
+      "special_price": 299.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:54:31"
+    },
+    {
+      "price": 310.0,
+      "special_price": 299.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:34:40"
+    },
+    {
+      "price": 310.0,
+      "special_price": 299.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 10:40:33"
+    },
+    {
+      "price": 310.0,
+      "special_price": 299.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:24:27"
     }
   ]
 }

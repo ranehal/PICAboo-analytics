@@ -4,8 +4,8 @@
     "sku": "TPDS7ACDBWMRTPO",
     "name": "TP-Link Deco S7 AC1900 Dual Band Wi-Fi Mesh Router (1-Pack)",
     "slug": "tp-link-deco-s7-ac1900-dual-band-wi-fi-mesh-router-1-pack",
-    "category_id": "20",
-    "category_name": "Computer Accessories",
+    "category_id": "325",
+    "category_name": "Router & Networking",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/a/pack-1-14-11-24--1.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:55:47"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:25:10"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:00:58"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:40:11"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:56:30"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:32:19"
     }
   ]
 }

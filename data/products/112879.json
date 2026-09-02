@@ -4,8 +4,8 @@
     "sku": "KYKM6833MBT",
     "name": "Kemey 1600W Hair Dryer (KM-6833)",
     "slug": "kemey-1600w-hair-dryer-km-6833",
-    "category_id": "1837",
-    "category_name": "Lifestyle",
+    "category_id": "391",
+    "category_name": "Hair Dryers",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/e/kemey-km-6833-21-9-25.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 50.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:59:54"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 995.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:29:54"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 995.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:06:09"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 995.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:48:10"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 995.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:58:53"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 995.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:38:05"
     }
   ]
 }

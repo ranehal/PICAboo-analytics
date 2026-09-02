@@ -4,8 +4,8 @@
     "sku": "MG001WGMGS",
     "name": "Megastar G001 Wireless Gaming Neckband",
     "slug": "megastar-g-001-wireless-gaming-neckband",
-    "category_id": "197",
-    "category_name": "Mobile Accessories",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mgs--19-5-24.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 41.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:46:59"
+    },
+    {
+      "price": 1950.0,
+      "special_price": 1149.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:15:15"
+    },
+    {
+      "price": 1950.0,
+      "special_price": 1149.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 13:17:41"
+    },
+    {
+      "price": 1950.0,
+      "special_price": 1149.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:28:30"
+    },
+    {
+      "price": 1950.0,
+      "special_price": 1149.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:43:24"
+    },
+    {
+      "price": 1950.0,
+      "special_price": 1149.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:21:45"
     }
   ]
 }

@@ -4,8 +4,8 @@
     "sku": "DWB64BC51BBSH",
     "name": "BOSCH DWB64BC51B Serie 2 Wall-Mounted Cooker Hood 60cm Stainless Steel",
     "slug": "bosch-dwb64bc51b-serie-2-wall-mounted-cooker-hood-60cm-stainless-steel",
-    "category_id": "7",
-    "category_name": "Electronics & Appliances",
+    "category_id": "156",
+    "category_name": "Kitchen Hood",
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/w/dwb64bc51b.jpg",
     "unit": null,
     "unit_value": null,
@@ -120,6 +120,41 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-20 19:36:48"
+    },
+    {
+      "price": 83900.0,
+      "special_price": 82222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-22 14:06:55"
+    },
+    {
+      "price": 83900.0,
+      "special_price": 82222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-23 12:38:01"
+    },
+    {
+      "price": 83900.0,
+      "special_price": 82222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-24 21:20:19"
+    },
+    {
+      "price": 83900.0,
+      "special_price": 82222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-25 08:30:55"
+    },
+    {
+      "price": 83900.0,
+      "special_price": 82222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 11:12:16"
     }
   ]
 }
