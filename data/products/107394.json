@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "107394",
+    "sku": "F6152WM01AMZ",
+    "name": "Fastrack Style Up Golden Dial Watch for Women (6152WM01)",
+    "slug": "fastrack-style-up-golden-dial-watch-for-women-6152wm01",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/1/6152wm01-22-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5690.0,
+    "special_price": 4690.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 23:45:23"
+    }
+  ]
+}

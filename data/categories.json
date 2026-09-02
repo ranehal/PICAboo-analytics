@@ -18,7 +18,7 @@
     "name": "Air Conditioner",
     "slug": "air-conditioner",
     "parent_id": "7",
-    "prod_count": 29
+    "prod_count": 30
   },
   {
     "id": "2936",
@@ -102,7 +102,7 @@
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 125
+    "prod_count": 126
   },
   {
     "id": "1731",
@@ -991,7 +991,7 @@
     "name": "Women's Watches",
     "slug": "womens-watch",
     "parent_id": "1837",
-    "prod_count": 393
+    "prod_count": 396
   },
   {
     "id": "239",

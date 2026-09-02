@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121759",
+    "sku": "15FD0807TUJNN",
+    "name": "HP 15-fd0807TU 15.6 Inch Intel 13th Gen Core i3 8GB RAM 512GB SSD Full HD Laptop (C78J9PA)",
+    "slug": "hp-15-fd0807tu-c78j9pa-intel-13th-gen-core-i3-1315u-1-2-to-4-5ghz-8gb-ddr4-512gb-ssd-win-11-15-6-inch-full-hd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-07-29T113900_611.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 90710.0,
+    "special_price": 79570.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 90710.0,
+      "special_price": 79570.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 23:32:56"
+    }
+  ]
+}

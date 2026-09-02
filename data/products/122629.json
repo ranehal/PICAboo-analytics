@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122629",
+    "sku": "MMSI18CRDN8EHT",
+    "name": "Midea 1.5 Ton Inverter Air Conditioner (MSI18CRDN8)",
+    "slug": "midea-1-5-ton-inverter-air-conditioner-msi18crdn8",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/g/ag16-2-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 73900.0,
+    "special_price": 52390.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 73900.0,
+      "special_price": 52390.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-02 23:11:44"
+    }
+  ]
+}
