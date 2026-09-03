@@ -1,5 +1,37 @@
 [
   {
+    "id": "122646",
+    "sku": "SGA276GB128GB",
+    "name": "Samsung Galaxy A27 5G 6GB/128GB",
+    "slug": "samsung-galaxy-a27-5g-6gb-128gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-galaxy-a27-5g-6gb-1128gb-9-3-26-1.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 48099.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "122647",
+    "sku": "SGA278GB128GB",
+    "name": "Samsung Galaxy A27 5G 8GB/128GB",
+    "slug": "samsung-galaxy-a27-5g-8gb-128gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-galaxy-a27-5g-8gb-128gb-9-3-26-1.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 52299.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
     "id": "114808",
     "sku": "CEFRS108DE3AVWOG",
     "name": "Casio Edifice 3-Hand Analog Watch for Men (EFR-S108DE-3AV)",
