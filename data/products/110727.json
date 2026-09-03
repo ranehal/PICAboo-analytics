@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/c/ecb-950mp-1a-20-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 34000.0,
-    "special_price": 25840.0,
-    "discount": 24.0,
+    "price": 35000.0,
+    "special_price": 26250.0,
+    "discount": 25.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -155,6 +155,13 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-09-02 11:38:38"
+    },
+    {
+      "price": 35000.0,
+      "special_price": 26250.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-03 11:56:40"
     }
   ]
 }

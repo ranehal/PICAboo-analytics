@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/w/gwg-2000-1a1-21-6.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 118000.0,
-    "special_price": 94400.0,
-    "discount": 20.0,
+    "price": 115000.0,
+    "special_price": 86250.0,
+    "discount": 25.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -162,6 +162,13 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-09-02 11:33:13"
+    },
+    {
+      "price": 115000.0,
+      "special_price": 86250.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-03 11:47:10"
     }
   ]
 }

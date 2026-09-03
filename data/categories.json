@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 886
+    "prod_count": 888
   },
   {
     "id": "4312",
@@ -410,7 +410,7 @@
     "name": "IPS",
     "slug": "ips",
     "parent_id": "7",
-    "prod_count": 85
+    "prod_count": 88
   },
   {
     "id": "74",
@@ -494,7 +494,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 1959
+    "prod_count": 1962
   },
   {
     "id": "3480",
@@ -529,7 +529,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 109
+    "prod_count": 110
   },
   {
     "id": "47",
@@ -949,7 +949,7 @@
     "name": "Walton",
     "slug": "walton-ac",
     "parent_id": "64",
-    "prod_count": 22
+    "prod_count": 24
   },
   {
     "id": "66",

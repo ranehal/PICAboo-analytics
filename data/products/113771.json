@@ -9,7 +9,7 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-1303d-7avdf-29-10-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4490.0,
+    "price": 4634.0,
     "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
@@ -120,6 +120,13 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-09-02 11:35:27"
+    },
+    {
+      "price": 4634.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-03 11:49:39"
     }
   ]
 }

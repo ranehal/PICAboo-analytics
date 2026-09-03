@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/f/efr-575cl-5a-21-6-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 24000.0,
-    "special_price": 16800.0,
-    "discount": 30.0,
+    "price": 20000.0,
+    "special_price": 15000.0,
+    "discount": 25.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -162,6 +162,13 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-09-02 11:33:13"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 15000.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-03 11:47:10"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122636",
+    "sku": "WSNDIAMOND18MWLT",
+    "name": "Walton 1.5 Ton Non Inverter Air Conditioner [WSN-DIAMOND-18M]",
+    "slug": "walton-1-5-ton-non-inverter-air-conditioner-wsn-diamond-18m",
+    "category_id": "3481",
+    "category_name": "Walton",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-1-5-ton-non-inverter-air-conditioner-_wsn-diamond-18m_-9-3-26-5.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 64000.0,
+    "special_price": 41990.0,
+    "discount": 34.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 64000.0,
+      "special_price": 41990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-03 11:15:10"
+    }
+  ]
+}
