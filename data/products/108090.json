@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/y/my-1g5g-elegant-magnolia-black-17-2-25.jpg",
     "unit": "L",
     "unit_value": 175.0,
-    "price": 38490.0,
-    "special_price": 22690.0,
-    "discount": 41.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   "history": [
     {
@@ -169,6 +169,13 @@
       "discount": 41.0,
       "stock_available": 1,
       "scraped_at": "2026-09-03 11:18:45"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-04 06:50:19"
     }
   ]
 }

@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/i/hitachi-403-liters-stylish-12-12-23.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 131900.0,
-    "special_price": 118990.0,
-    "discount": 10.0,
+    "price": 132000.0,
+    "special_price": 114990.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -169,6 +169,13 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-09-03 11:19:07"
+    },
+    {
+      "price": 132000.0,
+      "special_price": 114990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-04 06:50:22"
     }
   ]
 }

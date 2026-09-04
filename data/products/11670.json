@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/-/r-vg460p8pb-gbk-10-11-24_1_1.jpg",
     "unit": "L",
     "unit_value": 403.0,
-    "price": 131900.0,
-    "special_price": 118790.0,
-    "discount": 10.0,
+    "price": 132000.0,
+    "special_price": 114990.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   "history": [
     {
@@ -169,6 +169,13 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-09-03 11:19:21"
+    },
+    {
+      "price": 132000.0,
+      "special_price": 114990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-04 06:50:26"
     }
   ]
 }
