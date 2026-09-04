@@ -25274,10 +25274,10 @@
     "unit": null,
     "unit_value": null,
     "price": 7500.0,
-    "special_price": 6999.0,
-    "discount": 7.0,
+    "special_price": 7049.0,
+    "discount": 6.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "103054",
@@ -30297,11 +30297,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/90127km02-28-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 19000.0,
-    "special_price": 16500.0,
-    "discount": 13.0,
+    "price": 16500.0,
+    "special_price": 13782.0,
+    "discount": 16.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "108861",
@@ -31914,10 +31914,10 @@
     "unit": null,
     "unit_value": null,
     "price": 5000.0,
-    "special_price": 4250.0,
-    "discount": 15.0,
+    "special_price": 4328.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "109679",
@@ -33898,8 +33898,8 @@
     "unit": null,
     "unit_value": null,
     "price": 8890.0,
-    "special_price": 7990.0,
-    "discount": 10.0,
+    "special_price": 7776.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -35866,10 +35866,10 @@
     "unit": null,
     "unit_value": null,
     "price": 9000.0,
-    "special_price": 7900.0,
+    "special_price": 7941.0,
     "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "111253",

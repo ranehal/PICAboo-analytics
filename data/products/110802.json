@@ -10,8 +10,8 @@
     "unit": null,
     "unit_value": null,
     "price": 8890.0,
-    "special_price": 7990.0,
-    "discount": 10.0,
+    "special_price": 7776.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -162,6 +162,13 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-09-03 11:56:27"
+    },
+    {
+      "price": 8890.0,
+      "special_price": 7776.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-04 20:03:43"
     }
   ]
 }
