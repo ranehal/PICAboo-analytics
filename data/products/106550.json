@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106550",
+    "sku": "BP10111609113IOT",
+    "name": "Baseus Palm Series 20W Dual Output Fast Charging Adapter (P10111609113-00)",
+    "slug": "baseus-charger-palm-series-20w-dual-output-pd-fast-charger-1x-usb-a-1x-type-c-p10111609113-00",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/g/t/gtz-2-12-24--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1490.0,
+    "special_price": 1150.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1490.0,
+      "special_price": 1150.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 10:13:38"
+    }
+  ]
+}

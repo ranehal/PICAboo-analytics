@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122668",
+    "sku": "SHTAX7STB",
+    "name": "Sony Wireless Theatre System (HT-AX7)",
+    "slug": "sony-wireless-theatre-system-ht-ax7",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/h/t/ht-ax7-6-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 105900.0,
+    "special_price": 77190.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 105900.0,
+      "special_price": 77190.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 09:55:49"
+    }
+  ]
+}

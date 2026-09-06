@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 458
+    "prod_count": 459
   },
   {
     "id": "3565",
@@ -102,7 +102,7 @@
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 129
+    "prod_count": 131
   },
   {
     "id": "1731",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 888
+    "prod_count": 889
   },
   {
     "id": "4312",
@@ -557,7 +557,7 @@
     "name": "Mouse & Keyboard",
     "slug": "mouse",
     "parent_id": "20",
-    "prod_count": 193
+    "prod_count": 194
   },
   {
     "id": "4036",
@@ -823,7 +823,7 @@
     "name": "Smartphones",
     "slug": "smartphone",
     "parent_id": "",
-    "prod_count": 87
+    "prod_count": 89
   },
   {
     "id": "3475",

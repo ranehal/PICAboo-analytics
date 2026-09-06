@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122394",
+    "sku": "VGO15E1504TAJNN",
+    "name": "Asus Vivobook Go 15 E1504TA Intel Core N150 8GB RAM 512GB SSD 15.6 inch FHD Laptop (BQ199W)",
+    "slug": "asus-vivobook-go-15-e1504ta-bq199w-intel-core-n150-3-60ghz-8gb-ram-512gb-ssd-win-11-mixed-black-15-6-inch-fhd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-08-18T104736_558.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 78284.0,
+    "special_price": 68670.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 78284.0,
+      "special_price": 68670.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 10:13:04"
+    }
+  ]
+}

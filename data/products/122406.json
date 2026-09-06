@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122406",
+    "sku": "VBG111250WJNN",
+    "name": "Asus VivoBook Go 15 OLED E1504FA Ryzen 3-7320U 2.4 to 4.1 GHz 8GB RAM 512 SSD 15.6 Inch Laptop\u00a0(L11250W)",
+    "slug": "asus-vivobook-go-15-oled-e1504fa-l11250w-ryzen-3-7320u-2-4-to-4-1-ghz-8gb-512-ssd-win-11-15-6-inch-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-08-18T130723_211.png",
+    "unit": "g",
+    "unit_value": 4.1,
+    "price": 88846.0,
+    "special_price": 77939.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 88846.0,
+      "special_price": 77939.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 10:12:57"
+    }
+  ]
+}

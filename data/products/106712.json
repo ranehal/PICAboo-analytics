@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106712",
+    "sku": "BWMF02IOT",
+    "name": "Baseus Ergonomic Dual-Mode Wireless Mouse (F02)",
+    "slug": "baseus-ergonomic-dual-mode-wireless-mouse-f02",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/f/-/f-02-11-12-24--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2490.0,
+    "special_price": 1819.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2490.0,
+      "special_price": 1819.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 10:16:44"
+    }
+  ]
+}
