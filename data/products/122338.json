@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122338",
+    "sku": "EZVIZCSCP1LJNN",
+    "name": "EZVIZ CS-CP1 Lite 2MP WiFi Smart Dome IP Camera",
+    "slug": "ezviz-cp1-lite-2-0mp-wi-fi-pt-smart-dome-ip-camera",
+    "category_id": "216",
+    "category_name": "IP Cameras",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/o/download_5_22.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2423.0,
+    "special_price": 2129.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2423.0,
+      "special_price": 2129.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 07:18:06"
+    }
+  ]
+}

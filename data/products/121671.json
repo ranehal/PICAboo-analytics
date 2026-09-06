@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-22-5w-picogo-20000mah-power-bank-1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
-    "price": 2200.0,
-    "special_price": 1899.0,
-    "discount": 14.0,
+    "price": 2490.0,
+    "special_price": 1800.0,
+    "discount": 28.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -92,6 +92,13 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-09-05 07:34:22"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 1800.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 07:09:58"
     }
   ]
 }

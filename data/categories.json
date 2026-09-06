@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 303
+    "prod_count": 304
   },
   {
     "id": "167",
@@ -102,7 +102,7 @@
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 126
+    "prod_count": 129
   },
   {
     "id": "1731",
@@ -375,7 +375,7 @@
     "name": "Home Theater & Sound System",
     "slug": "home-theater-sound-system",
     "parent_id": "7",
-    "prod_count": 56
+    "prod_count": 57
   },
   {
     "id": "1227",
@@ -403,7 +403,7 @@
     "name": "IP Cameras",
     "slug": "ip-camera",
     "parent_id": "20",
-    "prod_count": 37
+    "prod_count": 38
   },
   {
     "id": "474",

@@ -9,10 +9,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/l/xl19-2_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1399.0,
-    "special_price": 1179.0,
-    "discount": 16.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   "history": [
@@ -176,6 +176,13 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-09-05 07:34:54"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-06 07:09:16"
     }
   ]
 }

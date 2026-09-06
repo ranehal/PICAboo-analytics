@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122655",
+    "sku": "SHTAN7STB",
+    "name": "Sony Bravia Theatre U Wireless Neckband Speaker (HT-AN7)",
+    "slug": "sony-bravia-theatre-u-wireless-neckband-speaker-ht-an7",
+    "category_id": "30",
+    "category_name": "Home Theater & Sound System",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/t/ht-an7-6-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 69900.0,
+    "special_price": 50748.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 69900.0,
+      "special_price": 50748.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 07:04:04"
+    }
+  ]
+}

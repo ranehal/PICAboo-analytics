@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122374",
+    "sku": "V15X1504VAJNN",
+    "name": "Asus Vivobook 15 X1504VA Intel Core 5-120U 8GB RAM 512GB SSD 15.6\"Inch FHD Display Laptop (BQ631W) ",
+    "slug": "asus-vivobook-15-x1504va-bq631w-intel-core-5-120u-1-40ghz-to-5-00ghz-8gb-ram-512gb-ssd-win-11-15-6-inch-fhd-display-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/U/n/Untitled_design_-_2026-08-19T120244_206.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 101272.0,
+    "special_price": 88839.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 101272.0,
+      "special_price": 88839.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 07:14:47"
+    }
+  ]
+}

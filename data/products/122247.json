@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122247",
+    "sku": "AL1541JNN",
+    "name": "Acer Aspire Lite AL15-41 15.6 inch FHD Ryzen 3-5300U Up to 4.1GHz 16GB RAM 512GB SSD Laptop (UN.31ZSI.01F)",
+    "slug": "acer-aspire-lite-al15-41-un-31zsi-01f-ryzen-3-5300u-up-to-4-1ghz-16gb-512gb-ssd-15-6-inch-fhd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-08-15T150800_850.png",
+    "unit": "g",
+    "unit_value": 4.1,
+    "price": 74556.0,
+    "special_price": 65400.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 74556.0,
+      "special_price": 65400.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 07:14:50"
+    }
+  ]
+}

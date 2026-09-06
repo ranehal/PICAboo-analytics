@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122352",
+    "sku": "V16XK3605ZFJNN",
+    "name": "Asus VivoBook 16X K3605ZF 12th Gen Intel Core i5-12500H 2.5 to 4.50 GHz 8GB RAM 512GB SSD 16 Inch WUXGA Laptop (RP785)",
+    "slug": "asus-vivobook-16x-k3605zf-rp785-12th-gen-intel-core-i5-12500h-2-5-to-4-50-ghz-8gb-512gb-ssd-rtx-2050-4gb-16-inch-wuxga-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/U/n/Untitled_design_-_2026-08-17T105335_949.png",
+    "unit": "g",
+    "unit_value": 4.5,
+    "price": 128079.0,
+    "special_price": 112350.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 128079.0,
+      "special_price": 112350.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 07:14:50"
+    }
+  ]
+}

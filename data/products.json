@@ -1,5 +1,101 @@
 [
   {
+    "id": "122338",
+    "sku": "EZVIZCSCP1LJNN",
+    "name": "EZVIZ CS-CP1 Lite 2MP WiFi Smart Dome IP Camera",
+    "slug": "ezviz-cp1-lite-2-0mp-wi-fi-pt-smart-dome-ip-camera",
+    "category_id": "216",
+    "category_name": "IP Cameras",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/o/download_5_22.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2423.0,
+    "special_price": 2129.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "122654",
+    "sku": "SUOULTMIC1STB",
+    "name": "Sony ULT Power Sound Series Wireless Microphone (UO-ULTMIC1)",
+    "slug": "sony-ult-power-sound-series-wireless-microphone-uo-ultmic1",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/u/o/uo-ultmic1-6-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24900.0,
+    "special_price": 18204.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "122247",
+    "sku": "AL1541JNN",
+    "name": "Acer Aspire Lite AL15-41 15.6 inch FHD Ryzen 3-5300U Up to 4.1GHz 16GB RAM 512GB SSD Laptop (UN.31ZSI.01F)",
+    "slug": "acer-aspire-lite-al15-41-un-31zsi-01f-ryzen-3-5300u-up-to-4-1ghz-16gb-512gb-ssd-15-6-inch-fhd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-08-15T150800_850.png",
+    "unit": "g",
+    "unit_value": 4.1,
+    "price": 74556.0,
+    "special_price": 65400.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "122352",
+    "sku": "V16XK3605ZFJNN",
+    "name": "Asus VivoBook 16X K3605ZF 12th Gen Intel Core i5-12500H 2.5 to 4.50 GHz 8GB RAM 512GB SSD 16 Inch WUXGA Laptop (RP785)",
+    "slug": "asus-vivobook-16x-k3605zf-rp785-12th-gen-intel-core-i5-12500h-2-5-to-4-50-ghz-8gb-512gb-ssd-rtx-2050-4gb-16-inch-wuxga-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/U/n/Untitled_design_-_2026-08-17T105335_949.png",
+    "unit": "g",
+    "unit_value": 4.5,
+    "price": 128079.0,
+    "special_price": 112350.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "122374",
+    "sku": "V15X1504VAJNN",
+    "name": "Asus Vivobook 15 X1504VA Intel Core 5-120U 8GB RAM 512GB SSD 15.6\"Inch FHD Display Laptop (BQ631W) ",
+    "slug": "asus-vivobook-15-x1504va-bq631w-intel-core-5-120u-1-40ghz-to-5-00ghz-8gb-ram-512gb-ssd-win-11-15-6-inch-fhd-display-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/U/n/Untitled_design_-_2026-08-19T120244_206.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 101272.0,
+    "special_price": 88839.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "122655",
+    "sku": "SHTAN7STB",
+    "name": "Sony Bravia Theatre U Wireless Neckband Speaker (HT-AN7)",
+    "slug": "sony-bravia-theatre-u-wireless-neckband-speaker-ht-an7",
+    "category_id": "30",
+    "category_name": "Home Theater & Sound System",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/t/ht-an7-6-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 69900.0,
+    "special_price": 50748.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
     "id": "122646",
     "sku": "SGA276GB128GB",
     "name": "Samsung Galaxy A27 5G 6GB/128GB",
@@ -49642,8 +49738,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2990.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "special_price": 1600.0,
+    "discount": 46.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -49658,10 +49754,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2990.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "special_price": 1700.0,
+    "discount": 43.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "115695",
@@ -49674,10 +49770,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2990.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "special_price": 1500.0,
+    "discount": 50.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "116105",
@@ -50377,11 +50473,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/w/dw-5600rl-1dr-13-4-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 16000.0,
+    "price": 12000.0,
     "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "118240",
@@ -50602,8 +50698,8 @@
     "unit": null,
     "unit_value": null,
     "price": 38000.0,
-    "special_price": 24700.0,
-    "discount": 35.0,
+    "special_price": 19000.0,
+    "discount": 50.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -51114,8 +51210,8 @@
     "unit": null,
     "unit_value": null,
     "price": 100000.0,
-    "special_price": 75000.0,
-    "discount": 25.0,
+    "special_price": 60000.0,
+    "discount": 40.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -51594,8 +51690,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2800.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "special_price": 1990.0,
+    "discount": 29.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -53498,8 +53594,8 @@
     "unit": null,
     "unit_value": null,
     "price": 62000.0,
-    "special_price": 46500.0,
-    "discount": 25.0,
+    "special_price": 38400.0,
+    "discount": 38.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -53546,8 +53642,8 @@
     "unit": "g",
     "unit_value": 5640.0,
     "price": 56000.0,
-    "special_price": 39200.0,
-    "discount": 30.0,
+    "special_price": 33600.0,
+    "discount": 40.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -53562,8 +53658,8 @@
     "unit": null,
     "unit_value": null,
     "price": 80000.0,
-    "special_price": 60000.0,
-    "discount": 25.0,
+    "special_price": 56000.0,
+    "discount": 30.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -53658,8 +53754,8 @@
     "unit": null,
     "unit_value": null,
     "price": 40000.0,
-    "special_price": 28000.0,
-    "discount": 30.0,
+    "special_price": 26000.0,
+    "discount": 35.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -54362,8 +54458,8 @@
     "unit": "g",
     "unit_value": 1.0,
     "price": 180000.0,
-    "special_price": 135000.0,
-    "discount": 25.0,
+    "special_price": 126000.0,
+    "discount": 30.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -54442,8 +54538,8 @@
     "unit": null,
     "unit_value": null,
     "price": 26000.0,
-    "special_price": 20800.0,
-    "discount": 20.0,
+    "special_price": 18200.0,
+    "discount": 30.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -95049,11 +95145,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/E/D/EDA007031301A_1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
-    "price": 450.0,
-    "special_price": 319.0,
-    "discount": 29.0,
+    "price": 890.0,
+    "special_price": 450.0,
+    "discount": 49.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "113587",
@@ -102697,11 +102793,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/n/enerfill-fc11--23-5-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3990.0,
-    "special_price": 3190.0,
-    "discount": 20.0,
+    "price": 4990.0,
+    "special_price": 4099.0,
+    "discount": 18.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "120429",
@@ -104393,9 +104489,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-22-5w-picogo-20000mah-power-bank-1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
-    "price": 2200.0,
-    "special_price": 1899.0,
-    "discount": 14.0,
+    "price": 2490.0,
+    "special_price": 1800.0,
+    "discount": 28.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -115945,11 +116041,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/b/jbl-tune-510bt-black.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 5670.0,
-    "special_price": 3910.0,
-    "discount": 31.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "87024",
@@ -117737,10 +117833,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/l/xl19-2_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1399.0,
-    "special_price": 1179.0,
-    "discount": 16.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -125833,10 +125929,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/t/otw-324-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1430.0,
-    "special_price": 1287.0,
-    "discount": 10.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -132873,11 +132969,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/m/cmf-neckband-17-11-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 3999.0,
+    "special_price": 3200.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "107768",
@@ -132970,10 +133066,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3199.0,
-    "special_price": 2190.0,
-    "discount": 32.0,
+    "special_price": 1750.0,
+    "discount": 45.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "112009",
@@ -134521,10 +134617,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/4/h46--19-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3692.0,
-    "special_price": 3110.0,
-    "discount": 16.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -137401,11 +137497,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/n/e/neo2-8-7-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 4499.0,
+    "special_price": 3799.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "121241",
@@ -166889,11 +166985,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/r/sr-w22gs-21.8.23..jpg",
     "unit": "g",
     "unit_value": 22.0,
-    "price": 7850.0,
-    "special_price": 5690.0,
-    "discount": 28.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "16147",
@@ -183626,10 +183722,10 @@
     "unit": "L",
     "unit_value": 20.0,
     "price": 13690.0,
-    "special_price": 9990.0,
-    "discount": 27.0,
+    "special_price": 10690.0,
+    "discount": 22.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "94584",
@@ -188394,8 +188490,8 @@
     "unit": null,
     "unit_value": null,
     "price": 76900.0,
-    "special_price": 62690.0,
-    "discount": 18.0,
+    "special_price": 63990.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -189833,11 +189929,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/o/nokia-108-black-30-11-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
+    "price": 2450.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "115167",
@@ -190521,11 +190617,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-galaxy-a07-4gb-19-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 17199.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "113107",
@@ -190553,7 +190649,7 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-galaxy-tab-a11-4gb-19-8-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 19499.0,
+    "price": 21599.0,
     "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
