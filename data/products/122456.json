@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122456",
+    "sku": "L82H803UCIJNN",
+    "name": "Lenovo IdeaPad Slim 3i Intel 11th Gen i7-1165G7 8GB RAM 512GB SSD 15.6 Inch FHD Laptop (82H803UCIN)",
+    "slug": "lenovo-ideapad-slim-3i-82h803ucin-intel-11th-gen-i7-1165g7-2-8-to-4-7ghz-8gb-512gb-ssd-15-6-inch-fhd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-08-22T122530_768.png",
+    "unit": "g",
+    "unit_value": 1165.0,
+    "price": 104130.0,
+    "special_price": 91349.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 104130.0,
+      "special_price": 91349.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 20:36:23"
+    }
+  ]
+}

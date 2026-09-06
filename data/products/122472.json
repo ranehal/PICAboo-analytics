@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122472",
+    "sku": "MA15AIF2HMGJNN",
+    "name": "MSI Modern A15 AI F2HMG AMD Ryzen 5 16GB RAM 512GB SSD 15.6 Inch FHD Laptop (9S7-15SK21-021)",
+    "slug": "msi-modern-a15-ai-f2hmg-9s7-15sk21-021-amd-ryzen-5-220-3-20-to-4-90ghz-16gb-ram-512gb-ssd-15-6-inch-fhd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-08-23T144059_156.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 106864.0,
+    "special_price": 93740.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 106864.0,
+      "special_price": 93740.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 20:36:18"
+    }
+  ]
+}

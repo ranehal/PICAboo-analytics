@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111730",
+    "sku": "HPX9A6GB128GBWF",
+    "name": "HONOR Pad X9a 6GB/128GB (Wi-Fi)",
+    "slug": "honor-pad-x9a-6gb-128gb-wi-fi",
+    "category_id": "1227",
+    "category_name": "Honor",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/a/pad-x9a-6gb-6-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 29999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 29999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 20:15:25"
+    }
+  ]
+}

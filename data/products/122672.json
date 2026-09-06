@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122672",
+    "sku": "BP10377800UIOT",
+    "name": "Baseus Dura 100W Type-C to Type-C 1M Charging Cable (P10377800U01-00)-Red & Black",
+    "slug": "baseus-dura-100w-type-c-to-type-c-1m-charging-cable-p10377800u01-00-red-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/b/cb000121-red-black-6-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 890.0,
+    "special_price": 450.0,
+    "discount": 49.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 890.0,
+      "special_price": 450.0,
+      "discount": 49.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 20:27:31"
+    }
+  ]
+}

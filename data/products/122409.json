@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122409",
+    "sku": "VBGL1504FAJNN",
+    "name": "Asus VivoBook Go 15 L1504FA Ryzen 5-7520U 8GB RAM 512GB SSD 15.6 Inch FHD Laptop (NJ1509)",
+    "slug": "asus-vivobook-go-15-l1504fa-nj1509-ryzen-5-7520u-2-80-to-4-30-ghz-8gb-512gb-ssd-15-6-inch-fhd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-08-18T144722_645.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 90089.0,
+    "special_price": 79029.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 90089.0,
+      "special_price": 79029.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 20:36:23"
+    }
+  ]
+}

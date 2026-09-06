@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 304
+    "prod_count": 305
   },
   {
     "id": "167",
@@ -102,7 +102,7 @@
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 131
+    "prod_count": 138
   },
   {
     "id": "1731",
@@ -382,7 +382,7 @@
     "name": "Honor",
     "slug": "honor",
     "parent_id": "171",
-    "prod_count": 15
+    "prod_count": 16
   },
   {
     "id": "190",
@@ -529,7 +529,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 110
+    "prod_count": 112
   },
   {
     "id": "47",

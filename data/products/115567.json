@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115567",
+    "sku": "L83EQ004HLKJNN",
+    "name": "Lenovo IdeaPad Slim 3i 12th Gen Core-i5 Laptop (83EQ004HLK)",
+    "slug": "lenovo-ideapad-slim-3i-12th-gen-core-i5-laptop-83eq004hlk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/8/3/83eq004hlk-20-10-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 88225.0,
+    "special_price": 77390.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 88225.0,
+      "special_price": 77390.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 20:37:44"
+    }
+  ]
+}

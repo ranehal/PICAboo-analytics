@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122458",
+    "sku": "IPS315IRU8JNN",
+    "name": "Lenovo IdeaPad Slim 3i-15IRU8 Intel Core i3-1305U 8GB RAM 512GB SSD 15.6 FHD Laptop (82X7008ALK)",
+    "slug": "lenovo-ideapad-slim-3i-15iru8-82x7008alk-intel-core-i3-1305u-3-3ghz-to-4-5ghz-8gb-512gb-ssd-win11h-15-6-fhd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-08-22T154141_815.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 80769.0,
+    "special_price": 70850.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 80769.0,
+      "special_price": 70850.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-06 20:36:23"
+    }
+  ]
+}
