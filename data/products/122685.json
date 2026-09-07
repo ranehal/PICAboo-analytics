@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122685",
+    "sku": "BNS30PBIOT",
+    "name": "Baseus NOMOS 30W 20000mAh Power Bank with Built-in Retractable Cable-Black",
+    "slug": "baseus-nomos-30w-20000mah-power-bank-with-built-in-retractable-cable-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/o/nomos-7-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3490.0,
+    "special_price": 2749.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3490.0,
+      "special_price": 2749.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-07 10:38:28"
+    }
+  ]
+}

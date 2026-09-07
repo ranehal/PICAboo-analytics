@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122486",
+    "sku": "TP6JNN",
+    "name": "Solar Night Vision 3MP Color PTZ 4G Camera (TP6)",
+    "slug": "tp6-3mp-solar-night-vision-color-ptz-4g-camera",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_-_2026-08-25T123110_450.png",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 6462.0,
+    "special_price": 5669.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6462.0,
+      "special_price": 5669.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-07 10:28:37"
+    }
+  ]
+}

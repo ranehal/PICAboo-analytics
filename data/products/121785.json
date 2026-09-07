@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121785",
+    "sku": "MXAE475ZBE-Red",
+    "name": "Panasonic 2000W 4-Jar Super Mixer Grinder (MX-AE475)-Red",
+    "slug": "panasonic-2000w-4-jar-super-mixer-grinder-mx-ae475-red",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/x/mx-ae475-red-30-july-2026-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18480.0,
+    "special_price": 13420.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18480.0,
+      "special_price": 13420.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-07 10:28:08"
+    }
+  ]
+}

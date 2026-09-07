@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 305
+    "prod_count": 306
   },
   {
     "id": "167",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 889
+    "prod_count": 891
   },
   {
     "id": "4312",
@@ -298,7 +298,7 @@
     "name": "Grinder & Blender",
     "slug": "blender",
     "parent_id": "7",
-    "prod_count": 202
+    "prod_count": 204
   },
   {
     "id": "59",
@@ -529,7 +529,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 112
+    "prod_count": 119
   },
   {
     "id": "47",
@@ -998,7 +998,7 @@
     "name": "Xiaomi",
     "slug": "xiaomi",
     "parent_id": "171",
-    "prod_count": 12
+    "prod_count": 15
   },
   {
     "id": "3474",

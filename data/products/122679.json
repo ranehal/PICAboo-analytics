@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122679",
+    "sku": "BD240CIOT",
+    "name": "Baseus Dura 240W Type-C to Type-C 1M Charging Cable-Red & Black",
+    "slug": "baseus-dura-240w-type-c-to-type-c-1m-charging-cable-red-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/u/dura-240w-7-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1490.0,
+    "special_price": 670.0,
+    "discount": 55.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1490.0,
+      "special_price": 670.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-07 10:38:28"
+    }
+  ]
+}

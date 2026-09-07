@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122698",
+    "sku": "SRSULT70STB",
+    "name": "Sony ULT Power Sound Series Portable Wireless Speaker (SRS-ULT70)",
+    "slug": "sony-ult-power-sound-series-portable-wireless-speaker-srs-ult70",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/r/srs-ult70-7-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 92900.0,
+    "special_price": 67020.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 92900.0,
+      "special_price": 67020.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-07 10:38:28"
+    }
+  ]
+}

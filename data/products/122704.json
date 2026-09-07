@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122704",
+    "sku": "SRSULT900STB",
+    "name": "Sony ULT Power Sound Series Wireless Party Speaker (SRS-ULT900)",
+    "slug": "sony-ult-power-sound-series-wireless-party-speaker-srs-ult900",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/s/r/srs-ult900-7-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 190900.0,
+    "special_price": 140244.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 190900.0,
+      "special_price": 140244.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-07 10:51:32"
+    }
+  ]
+}
