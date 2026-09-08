@@ -529,7 +529,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 119
+    "prod_count": 123
   },
   {
     "id": "47",
@@ -774,6 +774,13 @@
     "name": "Singer",
     "slug": "singer-television",
     "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "4546",
+    "name": "Skyworth",
+    "slug": "skyworth",
+    "parent_id": "64",
     "prod_count": 0
   },
   {

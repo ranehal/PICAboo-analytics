@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122705",
+    "sku": "B20B2PBIOT",
+    "name": "Baseus 20W 20000mAh Bipow 2 Power Bank with Type-C Cable - Black",
+    "slug": "baseus-20w-20000mah-bipow-2-power-bank-with-type-c-cable-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/i/bipow-2-7-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3290.0,
+    "special_price": 2500.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3290.0,
+      "special_price": 2500.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-08 00:52:06"
+    }
+  ]
+}

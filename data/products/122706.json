@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122706",
+    "sku": "BEFC41PBIOT",
+    "name": "Baseus EnerFill FC41 100W 20000mAh Power Bank with Built-in Cables",
+    "slug": "baseus-enerfill-fc41-100w-20000mah-power-bank-with-built-in-cables",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/c/fc41-7-sep-2026-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6990.0,
+    "special_price": 5809.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6990.0,
+      "special_price": 5809.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-08 00:52:06"
+    }
+  ]
+}

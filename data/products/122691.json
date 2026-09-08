@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122691",
+    "sku": "BPPXD220IOT",
+    "name": "Baseus\u00a020000mAh 22.5W Power Bank with Type-C & Lightning Cable (PPXD2-20) - Black",
+    "slug": "baseus-20000mah-22-5w-power-bank-with-type-c-lightning-cable-ppxd2-20-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/p/ppxd2-20-7-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3290.0,
+    "special_price": 2500.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3290.0,
+      "special_price": 2500.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-08 00:52:06"
+    }
+  ]
+}
