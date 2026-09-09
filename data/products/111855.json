@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111855",
+    "sku": "RRXBNTKHS",
+    "name": "Reeoo ENC Wireless Neckband (RX-BN Taitanic) with Free T-Shirt",
+    "slug": "reeoo-voice-change-enc-wireless-neckband-rx-bn-taitanic",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/T/a/Taitanic_Reeoo.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 699.0,
+    "discount": 53.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 699.0,
+      "discount": 53.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-09 10:11:14"
+    }
+  ]
+}

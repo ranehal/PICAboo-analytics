@@ -18,7 +18,7 @@
     "name": "Air Conditioner",
     "slug": "air-conditioner",
     "parent_id": "7",
-    "prod_count": 30
+    "prod_count": 35
   },
   {
     "id": "2936",
@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 306
+    "prod_count": 308
   },
   {
     "id": "167",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 891
+    "prod_count": 892
   },
   {
     "id": "4312",
@@ -466,7 +466,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 424
+    "prod_count": 431
   },
   {
     "id": "3915",
@@ -529,7 +529,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 123
+    "prod_count": 124
   },
   {
     "id": "47",
@@ -655,7 +655,7 @@
     "name": "Power Bank",
     "slug": "power-bank",
     "parent_id": "197",
-    "prod_count": 331
+    "prod_count": 332
   },
   {
     "id": "3135",
@@ -1005,7 +1005,7 @@
     "name": "Xiaomi",
     "slug": "xiaomi",
     "parent_id": "171",
-    "prod_count": 15
+    "prod_count": 17
   },
   {
     "id": "3474",

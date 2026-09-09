@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103541",
+    "sku": "FRGG000ADWOG",
+    "name": "Casio G-Shock Mudmaster Analog-Digital Men's Watch (GG-1000-1ADR)",
+    "slug": "casio-g-shock-mudmaster-analog-digital-men-s-watch-gg-1000-1adr",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/g/gg-1000-1a-9-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 42000.0,
+    "special_price": 27300.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 42000.0,
+      "special_price": 27300.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-09 10:23:49"
+    }
+  ]
+}

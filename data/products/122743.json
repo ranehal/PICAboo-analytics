@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122743",
+    "sku": "CGM110GC1AWOG",
+    "name": "Casio G-Shock 110 Series Analog-Digital Watch for Men (GM-110GC-1A)",
+    "slug": "casio-g-shock-110-series-analog-digital-watch-for-men-gm-110gc-1a",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio-g-shock-9-9-26-1.jpg",
+    "unit": "g",
+    "unit_value": 110.0,
+    "price": 39000.0,
+    "special_price": 23400.0,
+    "discount": 40.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 39000.0,
+      "special_price": 23400.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-09 10:10:00"
+    }
+  ]
+}

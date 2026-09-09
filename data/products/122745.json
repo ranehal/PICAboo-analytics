@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122745",
+    "sku": "CGM5600YMG9WOG",
+    "name": "Casio G-Shock G-Steel 5600 SERIES Watch for Men (GM-5600YMG-9)",
+    "slug": "casio-g-shock-g-steel-5600-series-watch-for-men-gm-5600ymg-9",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/g/m/gm-5600ymg-9-9-9-261.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 46000.0,
+    "special_price": 27600.0,
+    "discount": 40.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 46000.0,
+      "special_price": 27600.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-09 10:10:00"
+    }
+  ]
+}

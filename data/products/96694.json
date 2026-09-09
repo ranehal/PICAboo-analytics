@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "96694",
+    "sku": "BPPQ001AIOT",
+    "name": "Baseus Qpow Pro 20W 20000mAh Lightning Edition Power Bank with Lightning Cable (PPQD040001)",
+    "slug": "baseus-qpow-pro-20w-20000mah-lightning-edition-power-bank-with-lightning-cable-ppqd040001",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/placeholder/default/Pickaboo-plholder-thumb.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 3490.0,
+    "special_price": 2959.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3490.0,
+      "special_price": 2959.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-09 10:02:48"
+    }
+  ]
+}

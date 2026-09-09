@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122738",
+    "sku": "SMVC24A4A2A1NAMST",
+    "name": "Skyworth 2\u00a0Ton Inverter Air Conditioner (INV-SMVC24A-4A2A1NA)",
+    "slug": "skyworth-2-ton-inverter-air-conditioner-inv-smvc24a-4a2a1na",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/k/skyworth-1-ton--7-9-26_2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 95699.0,
+    "special_price": 66390.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 95699.0,
+      "special_price": 66390.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-09 09:45:19"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122643",
+    "sku": "NK104TDBLTDR",
+    "name": "AJAZZ NK104 Wired Mechanical Keyboard Blue Switch",
+    "slug": "ajazz-nk104-wired-mechanical-keyboard-blue",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/j/ajazz-nk104-8-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2600.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2600.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-09 10:05:35"
+    }
+  ]
+}

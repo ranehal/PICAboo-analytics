@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/realme-buds-t200-lite-tws-earbuds-8-10-26-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2190.0,
+    "price": 2199.0,
     "special_price": 2099.0,
-    "discount": 4.0,
+    "discount": 5.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -169,6 +169,13 @@
       "discount": 4.0,
       "stock_available": 1,
       "scraped_at": "2026-09-08 00:49:18"
+    },
+    {
+      "price": 2199.0,
+      "special_price": 2099.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-09 09:55:02"
     }
   ]
 }

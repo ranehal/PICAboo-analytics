@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122728",
+    "sku": "RN17PM5G8GB256GB",
+    "name": "Redmi Note 17 Pro Max 5G 8GB/256GB with 2,000 Tk Bata Gift Voucher + Headphone Neo+ Bag Bundle (Travel Bag & Thermal Flask)",
+    "slug": "redmi-note-17-pro-max-5g-8gb-256gb",
+    "category_id": "239",
+    "category_name": "Xiaomi",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-note-17-pro-max-5g-8gb-256gb-with-2_000-tk-bata-gift-voucher-_-headphone-neo_-bag-bundle-_travel-bag-_-thermal-flask_-9-9-26-2.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 64999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 64999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-09 09:45:42"
+    }
+  ]
+}
