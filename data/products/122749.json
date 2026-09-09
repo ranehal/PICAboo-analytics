@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122749",
+    "sku": "NN5GT5GSE12GB256GB",
+    "name": "Nubia Neo 5 GT 5G Special Edition 12GB/256GB (Pre-Book) with Free Water Bottle+ T-Shirts+ Umbralla",
+    "slug": "nubia-neo-5-gt-5g-special-edition-12gb-256gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/u/nubia-neo-5-gt-5g-special-edition-12gb-256gb-9-9-26-2_2.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 59999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-09 21:31:01"
+    }
+  ]
+}
