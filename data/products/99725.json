@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "99725",
+    "sku": "BOYALTYINGLO",
+    "name": "BOYA BOYALINK All-in-one Design Wireless Microphone System",
+    "slug": "boya-boyalink-all-in-one-design-wireless-microphone-system",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/boyalink-25-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10200.0,
+    "special_price": 9999.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10200.0,
+      "special_price": 9999.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-10 23:21:24"
+    }
+  ]
+}

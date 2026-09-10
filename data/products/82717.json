@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "82717",
+    "sku": "BBYWM8PROK3GLO",
+    "name": "BOYA BY-WM8 PRO-K3 UHF Wireless Handheld Mic 1 Plus 1",
+    "slug": "boya-by-wm8-pro-k3-uhf-wireless-handheld-mic-1-plus-1",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/boya-by-wm8-pro-k3-uhf-wireless-handheld-mic-1-plus-11.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 20999.0,
+    "special_price": 20650.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 20999.0,
+      "special_price": 20650.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-10 23:21:29"
+    }
+  ]
+}

@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 308
+    "prod_count": 309
   },
   {
     "id": "167",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 892
+    "prod_count": 895
   },
   {
     "id": "4312",
@@ -557,7 +557,7 @@
     "name": "Mouse & Keyboard",
     "slug": "mouse",
     "parent_id": "20",
-    "prod_count": 194
+    "prod_count": 195
   },
   {
     "id": "4036",
@@ -627,7 +627,7 @@
     "name": "Others Accessories",
     "slug": "others-accessories",
     "parent_id": "20",
-    "prod_count": 56
+    "prod_count": 60
   },
   {
     "id": "68",
@@ -641,7 +641,7 @@
     "name": "Pen Drive",
     "slug": "pendrive",
     "parent_id": "20",
-    "prod_count": 15
+    "prod_count": 16
   },
   {
     "id": "4057",
@@ -928,7 +928,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 453
+    "prod_count": 454
   },
   {
     "id": "460",
@@ -963,7 +963,7 @@
     "name": "Washing Machine",
     "slug": "washing-machine",
     "parent_id": "",
-    "prod_count": 95
+    "prod_count": 96
   },
   {
     "id": "4148",

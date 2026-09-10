@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "69360",
+    "sku": "A4KRS85GLO",
+    "name": "A4Tech KRS85 USB FN Multimedia Keyboard With Bangla Layout",
+    "slug": "a4tech-krs-85-usb-fn-multimedia-keyboard-with-bangla-layout",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/r/krs85.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 849.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 999.0,
+      "special_price": 849.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-10 23:20:20"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109517",
+    "sku": "HWM80316S6HRB",
+    "name": "Haier 8Kg Top Loading Automatic Washing Machine (HWM80-316S6)-Starry Silver",
+    "slug": "haier-8kg-top-loading-automatic-washing-machine-hwm80-316s6",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/w/hwm80-316s6-28-4-25.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 32900.0,
+    "special_price": 23990.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 32900.0,
+      "special_price": 23990.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-10 22:59:10"
+    }
+  ]
+}

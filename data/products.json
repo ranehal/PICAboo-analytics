@@ -1,5 +1,197 @@
 [
   {
+    "id": "82717",
+    "sku": "BBYWM8PROK3GLO",
+    "name": "BOYA BY-WM8 PRO-K3 UHF Wireless Handheld Mic 1 Plus 1",
+    "slug": "boya-by-wm8-pro-k3-uhf-wireless-handheld-mic-1-plus-1",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/boya-by-wm8-pro-k3-uhf-wireless-handheld-mic-1-plus-11.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 20999.0,
+    "special_price": 20650.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "87720",
+    "sku": "BBYWM8PK4GLO",
+    "name": "BOYA BY-WM8 Pro-K4 UHF Dual-Channel Wireless Microphone System",
+    "slug": "boya-by-wm8-pro-k4-uhf-dual-channel-wireless-microphone-system",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/boya-by-wm8-pro-k4-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 27999.0,
+    "special_price": 26000.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "99710",
+    "sku": "BOBXMKGLO",
+    "name": "BOYA BY-XM6-K1 2.4GHz Ultra-compact Wireless Microphone System Kit",
+    "slug": "boya-by-xm6-k1-2-4ghz-ultra-compact-wireless-microphone-system-kit",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/y/by-xm6-k1--11-2-24---1.jpg",
+    "unit": "g",
+    "unit_value": 2.4,
+    "price": 14999.0,
+    "special_price": 14750.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "99725",
+    "sku": "BOYALTYINGLO",
+    "name": "BOYA BOYALINK All-in-one Design Wireless Microphone System",
+    "slug": "boya-boyalink-all-in-one-design-wireless-microphone-system",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/boyalink-25-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10200.0,
+    "special_price": 9999.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "69360",
+    "sku": "A4KRS85GLO",
+    "name": "A4Tech KRS85 USB FN Multimedia Keyboard With Bangla Layout",
+    "slug": "a4tech-krs-85-usb-fn-multimedia-keyboard-with-bangla-layout",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/r/krs85.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 849.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "122609",
+    "sku": "GP100NSCTDR",
+    "name": "AJAZZ GP100 NS Tri-Mode Wireless Gaming Controller with Charging Dock",
+    "slug": "ajazz-aj039-v2-wireless-gaming-mouse",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/j/ajazz-gp100-10-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4800.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "122760",
+    "sku": "HSUSBE301EXL",
+    "name": "Hiksemi Blade HS-USB-E301 64GB USB 3.2 Pen Drive",
+    "slug": "hiksemi-blade-hs-usb-e301-64gb-usb-3-2-pen-drive",
+    "category_id": "52",
+    "category_name": "Pen Drive",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/i/hiksemi-blade-hs-usb-e301-64gb-usb-3.2-pen-drive-9-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1450.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "104285",
+    "sku": "HWFB6ISMT",
+    "name": "Huawei FreeBuds 6i TWS Earbuds",
+    "slug": "huawei-freebuds-6i-tws-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/r/freebuds-6i-19-8-24--01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9999.0,
+    "special_price": 9150.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "122758",
+    "sku": "MMP6P600WEXL",
+    "name": "Marsriva MP6 Plus 600W Portable Power Station",
+    "slug": "marsriva-mp6-plus-600w-portable-power-station",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/p/mp6-plus-600w-10-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 40000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "122762",
+    "sku": "EFD3M2400WEFO",
+    "name": "EcoFlow Delta 3 Max - 2400W Portable Smart IPS With Mobile Apps Connectivity",
+    "slug": "ecoflow-delta-3-max-2400w-portable-smart-ips-with-mobile-apps-connectivity",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/e/delta-3-max-10-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 125900.0,
+    "special_price": 119605.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "109517",
+    "sku": "HWM80316S6HRB",
+    "name": "Haier 8Kg Top Loading Automatic Washing Machine (HWM80-316S6)-Starry Silver",
+    "slug": "haier-8kg-top-loading-automatic-washing-machine-hwm80-316s6",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/w/hwm80-316s6-28-4-25.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 32900.0,
+    "special_price": 23990.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "122763",
+    "sku": "OOHI202AMOV",
+    "name": "Oraimo Foldable Handheld EasySteam2 Iron (OHI-202A)",
+    "slug": "oraimo-foldable-handheld-easysteam2-iron-ohi-202a",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/h/ohi-202a-10-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4700.0,
+    "special_price": 3590.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
     "id": "122746",
     "sku": "CDWH5600MB8A9WOG",
     "name": "Casio G-Shock G-Squad 5600 Series Watch for Men (DW-H5600MB-8A9)",
@@ -2905,11 +3097,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/7/1779088034_6a0abaa24ff80-removebg-preview.png",
     "unit": null,
     "unit_value": null,
-    "price": 800.0,
-    "special_price": 620.0,
-    "discount": 23.0,
+    "price": 1490.0,
+    "special_price": 670.0,
+    "discount": 55.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "122299",
@@ -30905,9 +31097,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/w/gwg-b1000-3a-20-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 110000.0,
+    "price": 115000.0,
     "special_price": 79350.0,
-    "discount": 28.0,
+    "discount": 31.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -44009,9 +44201,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-hair-straightening-brush-_bhh880-10_--5-16-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 10299.0,
-    "special_price": 6490.0,
-    "discount": 37.0,
+    "price": 8999.0,
+    "special_price": 5100.0,
+    "discount": 43.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -45610,8 +45802,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2999.0,
-    "special_price": 1931.0,
-    "discount": 36.0,
+    "special_price": 1599.0,
+    "discount": 47.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -55881,9 +56073,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/1/f11-16-8-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2450.0,
-    "special_price": 1590.0,
-    "discount": 35.0,
+    "price": 2999.0,
+    "special_price": 1350.0,
+    "discount": 55.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -55977,9 +56169,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/p/hp8108-26-1-25--1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2850.0,
-    "special_price": 1832.0,
-    "discount": 36.0,
+    "price": 2999.0,
+    "special_price": 1450.0,
+    "discount": 52.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -56025,11 +56217,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-bt1230-cordless-trimmer_1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2349.0,
-    "special_price": 1554.0,
-    "discount": 34.0,
+    "price": 2999.0,
+    "special_price": 1250.0,
+    "discount": 58.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "80840",
@@ -57097,11 +57289,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/9/s98---18-5-24---1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 8500.0,
+    "special_price": 7225.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "107553",
@@ -93113,11 +93305,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocw-t01-21-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1200.0,
-    "special_price": 1080.0,
-    "discount": 10.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "115788",
@@ -95081,10 +95273,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/1/l147-type-c-21-april-2026-01.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 875.0,
-    "special_price": 675.0,
-    "discount": 23.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -99082,10 +99274,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2070.0,
-    "special_price": 1360.0,
-    "discount": 34.0,
+    "special_price": 1399.0,
+    "discount": 32.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "120872",
@@ -108313,11 +108505,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/u/huawei-band-11-pro-11-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 8999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "120339",
@@ -109993,11 +110185,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/2/b22_7.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 5000.0,
+    "special_price": 4494.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "116803",
@@ -110569,11 +110761,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/e/oep-320-27.8.24..jpg",
     "unit": null,
     "unit_value": null,
-    "price": 225.0,
-    "special_price": 203.0,
-    "discount": 10.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "8150",
@@ -119849,11 +120041,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/u/dual-driver-black.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1090.0,
-    "special_price": 799.0,
-    "discount": 27.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "93195",
@@ -127129,10 +127321,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/u/buds-4-black-21-10-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1799.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -127145,10 +127337,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/u/buds-4-air-21-10-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1499.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -127177,10 +127369,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/r/true-1-air-4-11-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 5995.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -127193,10 +127385,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/e/tecno-sonic-2-black.1-4-11-25-jpg.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4795.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -129769,11 +129961,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/i/air-7-pro-8-4-26-5.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 8990.0,
-    "special_price": 6655.0,
-    "discount": 26.0,
+    "price": 7990.0,
+    "special_price": 7150.0,
+    "discount": 11.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "110444",
@@ -132409,11 +132601,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/r/freebuds-se-4-anc-21-july-2026.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "120386",
@@ -133993,11 +134185,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/i/wireless-5-anc-15-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2999.0,
-    "special_price": 2349.0,
-    "discount": 22.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "108399",
@@ -138841,10 +139033,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mibro-t1-base-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2250.0,
-    "special_price": 2079.0,
-    "discount": 8.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -141129,10 +141321,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/viomi-flask-28-8-25-1.jpg",
     "unit": "L",
     "unit_value": 1.5,
-    "price": 2511.0,
-    "special_price": 2190.0,
-    "discount": 13.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -147513,10 +147705,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/a/fa53-pro1s--28-1-26-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 6100.0,
-    "special_price": 4520.0,
-    "discount": 26.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -167642,8 +167834,8 @@
     "unit": null,
     "unit_value": null,
     "price": 6999.0,
-    "special_price": 6990.0,
-    "discount": 0.0,
+    "special_price": 6790.0,
+    "discount": 3.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -175530,10 +175722,10 @@
     "unit": "L",
     "unit_value": 30.0,
     "price": 29490.0,
-    "special_price": 24190.0,
-    "discount": 18.0,
+    "special_price": 24490.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "94758",
@@ -178138,8 +178330,8 @@
     "unit": null,
     "unit_value": null,
     "price": 143450.0,
-    "special_price": 122990.0,
-    "discount": 14.0,
+    "special_price": 121990.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -183546,10 +183738,10 @@
     "unit": null,
     "unit_value": null,
     "price": 95900.0,
-    "special_price": 69990.0,
-    "discount": 27.0,
+    "special_price": 71990.0,
+    "discount": 25.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "112022",
@@ -184617,11 +184809,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/conion-signature-4-18-2024.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 5800.0,
+    "special_price": 4890.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "92726",
@@ -185402,10 +185594,10 @@
     "unit": null,
     "unit_value": null,
     "price": 4250.0,
-    "special_price": 3950.0,
-    "discount": 7.0,
+    "special_price": 4150.0,
+    "discount": 2.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "109407",
@@ -186730,7 +186922,7 @@
     "unit": "kg",
     "unit_value": 10.5,
     "price": 106900.0,
-    "special_price": 86400.0,
+    "special_price": 86990.0,
     "discount": 19.0,
     "stock_available": 1,
     "is_atl": 0
@@ -187002,10 +187194,10 @@
     "unit": "L",
     "unit_value": 6.5,
     "price": 8000.0,
-    "special_price": 6250.0,
-    "discount": 22.0,
+    "special_price": 6450.0,
+    "discount": 19.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "113597",
@@ -187050,8 +187242,8 @@
     "unit": null,
     "unit_value": null,
     "price": 7000.0,
-    "special_price": 5290.0,
-    "discount": 24.0,
+    "special_price": 4990.0,
+    "discount": 29.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -187081,11 +187273,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/b/wbl-6tcg30-10-11-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3100.0,
-    "special_price": 1750.0,
-    "discount": 44.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "113941",
@@ -189049,8 +189241,8 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/2/h2-30-7-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 73900.0,
-    "special_price": 55990.0,
+    "price": 76900.0,
+    "special_price": 58690.0,
     "discount": 24.0,
     "stock_available": 1,
     "is_atl": 0
@@ -189065,11 +189257,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/3/43p7pro-10-aug-2026-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 57900.0,
-    "special_price": 44500.0,
+    "price": 58900.0,
+    "special_price": 45490.0,
     "discount": 23.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "115279",
@@ -189498,8 +189690,8 @@
     "unit": null,
     "unit_value": null,
     "price": 76900.0,
-    "special_price": 63990.0,
-    "discount": 17.0,
+    "special_price": 64990.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -189626,10 +189818,10 @@
     "unit": null,
     "unit_value": null,
     "price": 9000.0,
-    "special_price": 7190.0,
-    "discount": 20.0,
+    "special_price": 7390.0,
+    "discount": 18.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "117905",
@@ -189770,10 +189962,10 @@
     "unit": null,
     "unit_value": null,
     "price": 4990.0,
-    "special_price": 4590.0,
-    "discount": 8.0,
+    "special_price": 4850.0,
+    "discount": 3.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "119249",
@@ -191225,11 +191417,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/oppo-reno-15f-19-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 59999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "116640",
@@ -191577,11 +191769,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/o/nokia-110-power-6-11-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2899.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "120851",
@@ -191865,11 +192057,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/m/hmd101-7-13-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
+    "price": 2000.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "121656",
@@ -192010,10 +192202,10 @@
     "unit": null,
     "unit_value": null,
     "price": 11499.0,
-    "special_price": 9699.0,
-    "discount": 16.0,
+    "special_price": 0.0,
+    "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "112024",
@@ -192057,11 +192249,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/3/a36-black-20-8-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
+    "price": 14499.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "113537",
@@ -192122,10 +192314,10 @@
     "unit": "g",
     "unit_value": 5.0,
     "price": 46999.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "special_price": 44999.0,
+    "discount": 4.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "115950",
@@ -192170,10 +192362,10 @@
     "unit": null,
     "unit_value": null,
     "price": 37999.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "special_price": 35999.0,
+    "discount": 5.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "119086",
@@ -192857,11 +193049,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/realme-c100i-18-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 17999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "113824",
@@ -192889,10 +193081,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-pad-2-6gb-18-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 24999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -193273,11 +193465,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/realme-15-5g-18-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 44999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "113359",
@@ -193369,10 +193561,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/oppo-a6-8gb-19-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 36999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -193465,11 +193657,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/honor-pad-x7-19-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
+    "price": 16999.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "120626",
@@ -194826,8 +195018,8 @@
     "unit": null,
     "unit_value": null,
     "price": 91990.0,
-    "special_price": 69990.0,
-    "discount": 24.0,
+    "special_price": 68490.0,
+    "discount": 26.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -194954,8 +195146,8 @@
     "unit": null,
     "unit_value": null,
     "price": 75990.0,
-    "special_price": 56990.0,
-    "discount": 25.0,
+    "special_price": 55990.0,
+    "discount": 26.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -195385,11 +195577,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-aroma-1.5-ton-inverter-air-conditioner-7-5-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 89990.0,
+    "special_price": 66990.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "120165",
@@ -195401,11 +195593,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-aroma-1.5-ton-inverter-air-conditioner-7-5-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 72990.0,
+    "special_price": 53690.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "99441",
@@ -196122,8 +196314,8 @@
     "unit": null,
     "unit_value": null,
     "price": 61290.0,
-    "special_price": 51490.0,
-    "discount": 16.0,
+    "special_price": 50990.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },

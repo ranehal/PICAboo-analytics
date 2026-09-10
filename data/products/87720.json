@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "87720",
+    "sku": "BBYWM8PK4GLO",
+    "name": "BOYA BY-WM8 Pro-K4 UHF Dual-Channel Wireless Microphone System",
+    "slug": "boya-by-wm8-pro-k4-uhf-dual-channel-wireless-microphone-system",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/boya-by-wm8-pro-k4-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 27999.0,
+    "special_price": 26000.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 27999.0,
+      "special_price": 26000.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-10 23:21:29"
+    }
+  ]
+}

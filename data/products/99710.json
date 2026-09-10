@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "99710",
+    "sku": "BOBXMKGLO",
+    "name": "BOYA BY-XM6-K1 2.4GHz Ultra-compact Wireless Microphone System Kit",
+    "slug": "boya-by-xm6-k1-2-4ghz-ultra-compact-wireless-microphone-system-kit",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/y/by-xm6-k1--11-2-24---1.jpg",
+    "unit": "g",
+    "unit_value": 2.4,
+    "price": 14999.0,
+    "special_price": 14750.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14999.0,
+      "special_price": 14750.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-10 23:21:24"
+    }
+  ]
+}
