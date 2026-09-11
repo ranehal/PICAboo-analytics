@@ -9,10 +9,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/u/huawei-watch-fit-4-pro-6-10-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 25999.0,
-    "special_price": 22999.0,
-    "discount": 12.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   "history": [
@@ -211,6 +211,13 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-09-10 23:09:29"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-11 19:45:51"
     }
   ]
 }

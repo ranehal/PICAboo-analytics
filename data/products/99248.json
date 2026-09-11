@@ -9,10 +9,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/b/jbl-tune-500-18-8-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3290.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
+    "stock_available": 0,
     "is_atl": 1
   },
   "history": [
@@ -211,6 +211,13 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-09-10 23:19:49"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-11 20:01:39"
     }
   ]
 }
