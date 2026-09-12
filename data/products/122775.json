@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122775",
+    "sku": "GA2100CM5AWOG",
+    "name": "Casio G-Shock Analog-Digital 2100 Series Camouflage Men's Watch (GA-2100CM-5A)",
+    "slug": "casio-g-shock-analog-digital-2100-series-camouflage-men-s-watch-ga-2100cm-5a",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/ga-2100cm-5a-12-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:32:08"
+    }
+  ]
+}

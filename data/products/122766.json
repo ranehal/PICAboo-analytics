@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122766",
+    "sku": "EFRS567D1AVWOG",
+    "name": "Casio Edifice Chronograph Black Dial Men's Watch (EFR-S567D-1AV)",
+    "slug": "casio-edifice-chronograph-black-dial-men-s-watch-efr-s567d-1av",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/f/efr-s567d-1av--12-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 28000.0,
+    "special_price": 18200.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 28000.0,
+      "special_price": 18200.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:32:29"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "93366",
+    "sku": "SRT29HAR9DBSD3SBN",
+    "name": "Samsung 275 Liter Mono Cooling with Digital Inverter Technology Non Frost Refrigerator (RT29HAR9DBS/D3)",
+    "slug": "samsung-275-liter-mono-cooling-with-digital-inverter-technology-non-frost-refrigerator-black",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-275-liter-mono-cooling-with-digital-inverter-technology-non-frost-refrigerator-_rt29har9dbs-9-12-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 70500.0,
+    "special_price": 59990.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 70500.0,
+      "special_price": 59990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:09:30"
+    }
+  ]
+}

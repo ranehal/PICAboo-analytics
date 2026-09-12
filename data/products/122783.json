@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122783",
+    "sku": "STIMC10CBD",
+    "name": "Hofmans 6L Inverter Electric Multi Cooker with 4 Pot & 4 Glass Lid (STI-MC-10)",
+    "slug": "hofmans-6l-inverter-electric-multi-cooker-with-4-pot-4-glass-lid-sti-mc-10",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/t/sti-mc-10-12-sep-2026-1.jpg",
+    "unit": "L",
+    "unit_value": 6.0,
+    "price": 7500.0,
+    "special_price": 6890.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7500.0,
+      "special_price": 6890.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:08:24"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122771",
+    "sku": "GM7001AWOG",
+    "name": "Casio G-Shock G-Steel 700 Series\u00a0Quartz Men's Watch (GM-700-1A)",
+    "slug": "casio-g-shock-g-steel-700-series-quartz-men-s-watch-gm-700-1a",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/m/gm-700-1a-12-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 32000.0,
+    "special_price": 22400.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 32000.0,
+      "special_price": 22400.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:32:29"
+    }
+  ]
+}

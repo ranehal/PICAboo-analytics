@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "100194",
+    "sku": "RGTR100GLO",
+    "name": "Rapoo XR100 3R Red Laser Wireless Presenter \u2013 Black",
+    "slug": "rapoo-xr100-3r-red-laser-wireless-presenter-black",
+    "category_id": "3135",
+    "category_name": "Presenter",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/r/xr100---27-2-24----1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1800.0,
+    "special_price": 1550.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1800.0,
+      "special_price": 1550.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:31:57"
+    }
+  ]
+}

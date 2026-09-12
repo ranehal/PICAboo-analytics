@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122770",
+    "sku": "AG823ATYCBD",
+    "name": "Miyako 23L Microwave Oven (AG823 ATY)",
+    "slug": "miyako-23l-microwave-oven-ag823-aty",
+    "category_id": "68",
+    "category_name": "Oven",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/g/ag823-aty-12-sep-2026-1.jpg",
+    "unit": "L",
+    "unit_value": 23.0,
+    "price": 17800.0,
+    "special_price": 14290.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 17800.0,
+      "special_price": 14290.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:07:55"
+    }
+  ]
+}

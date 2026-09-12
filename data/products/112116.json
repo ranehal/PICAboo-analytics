@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112116",
+    "sku": "RX1500CGLO",
+    "name": "Rapoo X1500 Wireless Optical Keyboard Mouse Combo",
+    "slug": "rapoo-x1500-wireless-optical-keyboard-mouse-combo",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/1/x1500-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2050.0,
+    "special_price": 1700.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2050.0,
+      "special_price": 1700.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:29:12"
+    }
+  ]
+}

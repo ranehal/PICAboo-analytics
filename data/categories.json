@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 309
+    "prod_count": 314
   },
   {
     "id": "167",
@@ -102,7 +102,7 @@
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 138
+    "prod_count": 139
   },
   {
     "id": "1731",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 895
+    "prod_count": 899
   },
   {
     "id": "4312",
@@ -466,7 +466,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 431
+    "prod_count": 437
   },
   {
     "id": "3915",
@@ -557,7 +557,7 @@
     "name": "Mouse & Keyboard",
     "slug": "mouse",
     "parent_id": "20",
-    "prod_count": 195
+    "prod_count": 199
   },
   {
     "id": "4036",
@@ -634,7 +634,7 @@
     "name": "Oven",
     "slug": "microwave-oven",
     "parent_id": "7",
-    "prod_count": 111
+    "prod_count": 113
   },
   {
     "id": "52",
@@ -662,7 +662,7 @@
     "name": "Presenter",
     "slug": "presenter",
     "parent_id": "20",
-    "prod_count": 7
+    "prod_count": 8
   },
   {
     "id": "56",
@@ -690,7 +690,7 @@
     "name": "Refrigerator & Freezer",
     "slug": "refrigerator",
     "parent_id": "7",
-    "prod_count": 233
+    "prod_count": 237
   },
   {
     "id": "77",

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122768",
+    "sku": "EFR526SG7A9VWOG",
+    "name": "Casio Edifice Standard Chronograph Quartz Men's Watch (EFR-526SG-7A9V)",
+    "slug": "casio-edifice-standard-chronograph-quartz-men-s-watch-efr-526sg-7a9v",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/f/efr-526sg-7a9v-12-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 28000.0,
+    "special_price": 18200.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 28000.0,
+      "special_price": 18200.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:32:29"
+    }
+  ]
+}

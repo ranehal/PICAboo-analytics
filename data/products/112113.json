@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112113",
+    "sku": "R9560MGLO",
+    "name": "Rapoo Multi-mode Wireless Ultra-slim Keyboard & Mouse Combo (9560M)",
+    "slug": "rapoo-multi-mode-wireless-ultra-slim-keyboard-mouse-combo-9560m",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/5/9560m---18-11-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6700.0,
+    "special_price": 6600.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6700.0,
+      "special_price": 6600.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:29:12"
+    }
+  ]
+}

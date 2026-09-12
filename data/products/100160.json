@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "100160",
+    "sku": "R9500MGLO",
+    "name": "Rapoo 9500M Multi-mode Wireless Ultra-Slim Keyboard & Mouse Combo - Black",
+    "slug": "rapoo-9500m-multi-mode-wireless-ultra-slim-keyboard-mouse-combo-black",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/5/9500m-2-2-25--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6000.0,
+    "special_price": 5500.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6000.0,
+      "special_price": 5500.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:29:17"
+    }
+  ]
+}

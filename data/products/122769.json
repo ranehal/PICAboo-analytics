@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122769",
+    "sku": "CEFK200DG5AWOG",
+    "name": "Casio Edifice Stainless Steel Automatic Men's Watch (EFK-200DG-5A)",
+    "slug": "casio-edifice-stainless-steel-automatic-men-s-watch-efk-200dg-5a",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/f/efk-200dg-5a-12-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 50000.0,
+    "special_price": 42500.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 50000.0,
+      "special_price": 42500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-12 19:32:29"
+    }
+  ]
+}
