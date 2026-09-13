@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 314
+    "prod_count": 316
   },
   {
     "id": "167",
@@ -249,7 +249,7 @@
     "name": "Gas Burner",
     "slug": "gas-stove",
     "parent_id": "7",
-    "prod_count": 80
+    "prod_count": 82
   },
   {
     "id": "3482",
@@ -816,7 +816,7 @@
     "name": "Smart Watch",
     "slug": "smart-watches",
     "parent_id": "197",
-    "prod_count": 431
+    "prod_count": 432
   },
   {
     "id": "1765",
@@ -865,7 +865,7 @@
     "name": "Switches & Sockets",
     "slug": "switches-sockets",
     "parent_id": "7",
-    "prod_count": 1
+    "prod_count": 2
   },
   {
     "id": "174",
@@ -928,7 +928,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 454
+    "prod_count": 455
   },
   {
     "id": "460",

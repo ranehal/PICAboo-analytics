@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116366",
+    "sku": "SMS3P15ASSG",
+    "name": "Super Star Mirror 15A 3 Pin Round Socket With Switch",
+    "slug": "super-star-mirror-15a-3-pin-round-socket-with-switch",
+    "category_id": "4046",
+    "category_name": "Switches & Sockets",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mirror-series-3pin-15a--19-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 565.0,
+    "special_price": 470.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 565.0,
+      "special_price": 470.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-13 19:24:30"
+    }
+  ]
+}

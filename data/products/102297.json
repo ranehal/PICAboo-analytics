@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/gazi-smiss-infrared-cooker-a-35g-marble-1.jpg",
     "unit": "g",
     "unit_value": 35.0,
-    "price": 5160.0,
-    "special_price": 4290.0,
-    "discount": 17.0,
+    "price": 4800.0,
+    "special_price": 3950.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -232,6 +232,13 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-09-12 19:09:23"
+    },
+    {
+      "price": 4800.0,
+      "special_price": 3950.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-13 19:20:24"
     }
   ]
 }

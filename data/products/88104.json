@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "88104",
+    "sku": "R8210MBLKTGLO",
+    "name": "Rapoo 8210M Multi-mode Keyboard & Mouse Combo",
+    "slug": "rapoo-8210m-multi-mode-keyboard-mouse-combo",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/8/2/8210m-2-2-25---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3350.0,
+    "special_price": 3100.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3350.0,
+      "special_price": 3100.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-13 19:46:27"
+    }
+  ]
+}
