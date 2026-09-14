@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122872",
+    "sku": "GS24XCOA3VGRO",
+    "name": "Gree Cosmo 2 Ton Inverter Split Type Air Conditioner (GS-24XCOA3V)",
+    "slug": "gree-cosmo-2-ton-inverter-split-type-air-conditioner-gs-24xcoa3v-wifi",
+    "category_id": "3477",
+    "category_name": "Gree",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/s/gs-24xcoa3v-14-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 97380.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 97380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-14 20:12:42"
+    }
+  ]
+}

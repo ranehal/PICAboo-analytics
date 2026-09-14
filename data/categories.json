@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 899
+    "prod_count": 903
   },
   {
     "id": "4312",
@@ -291,7 +291,7 @@
     "name": "Gree",
     "slug": "gree-ac",
     "parent_id": "64",
-    "prod_count": 31
+    "prod_count": 32
   },
   {
     "id": "69",
@@ -466,7 +466,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 437
+    "prod_count": 439
   },
   {
     "id": "3915",
@@ -494,7 +494,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 1968
+    "prod_count": 1977
   },
   {
     "id": "3480",
@@ -641,7 +641,7 @@
     "name": "Pen Drive",
     "slug": "pendrive",
     "parent_id": "20",
-    "prod_count": 16
+    "prod_count": 17
   },
   {
     "id": "4057",
@@ -690,7 +690,7 @@
     "name": "Refrigerator & Freezer",
     "slug": "refrigerator",
     "parent_id": "7",
-    "prod_count": 237
+    "prod_count": 239
   },
   {
     "id": "77",
@@ -928,7 +928,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 455
+    "prod_count": 456
   },
   {
     "id": "460",

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "93370",
+    "sku": "SRT37K5532BSD3SBN",
+    "name": "Samsung 345 Liter Twin Cooling Non-Frost Refrigerator(RT37K5532BS/D3)",
+    "slug": "samsung-345-liter-twin-cooling-non-frost-refrigerator-rt37-black",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-345-liter-twin-cooling-non-frost-refrigerator-_rt37k5532ut-9-14-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 90500.0,
+    "special_price": 78990.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 90500.0,
+      "special_price": 78990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-14 20:15:16"
+    }
+  ]
+}

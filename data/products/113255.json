@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113255",
+    "sku": "RMBPPAEKHS",
+    "name": "Reeoo Monstar Bass Pro Plus ANC TWS Earbuds",
+    "slug": "reeoo-monstar-bass-pro-plus-anc-tws-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/reeoo-monstar-12-10-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1300.0,
+    "special_price": 1240.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1300.0,
+      "special_price": 1240.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-14 20:25:58"
+    }
+  ]
+}

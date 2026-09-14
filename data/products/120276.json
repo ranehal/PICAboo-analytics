@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120276",
+    "sku": "TCIND67CBD",
+    "name": "Miyako 2200W Inverter Induction Cooker (TC-IND 67)",
+    "slug": "miyako-2200w-inverter-induction-cooker-tc-ind-67",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/c/tc--ind-67-19-5-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6000.0,
+    "special_price": 4990.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-14 20:13:25"
+    }
+  ]
+}

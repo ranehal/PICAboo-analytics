@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "72894",
+    "sku": "AUV12864GBGLO",
+    "name": "Adata UV128 64GB USB 3.2 Pen Drive",
+    "slug": "adata-uv128-usb-3-2-64gb-pen-drive-black-blue",
+    "category_id": "52",
+    "category_name": "Pen Drive",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/d/adata-64gb-uv128-usb-3.2-pen-drive---black-_-blue2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 700.0,
+    "special_price": 630.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 700.0,
+      "special_price": 630.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-14 20:36:50"
+    }
+  ]
+}
