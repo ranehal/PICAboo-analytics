@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "8493",
+    "sku": "REM64MCTOMIOT",
+    "name": "Remax 64gb Micro SDHC Class-10 UHS-1 Memory Card",
+    "slug": "remax-64gb-micro-sdhc-class-10-uhs-1-memory-card",
+    "category_id": "212",
+    "category_name": "Memory Card",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/remax_64gb_micro_sdhc_class-10_uhs-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2868.0,
+    "special_price": 2370.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2868.0,
+      "special_price": 2370.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-15 19:45:31"
+    }
+  ]
+}

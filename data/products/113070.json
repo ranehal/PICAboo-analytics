@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113070",
+    "sku": "ATC22S2ZBE",
+    "name": "Miyako 2200W Multi Pan Infrared Cooker (ATC-22S2)",
+    "slug": "miyako-2200w-multi-pan-infrared-cooker-atc-22s2",
+    "category_id": "74",
+    "category_name": "Induction Cooker",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/t/atc-22s2-10-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9040.0,
+    "special_price": 6220.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9040.0,
+      "special_price": 6220.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-15 19:28:55"
+    }
+  ]
+}

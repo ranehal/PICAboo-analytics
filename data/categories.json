@@ -417,7 +417,7 @@
     "name": "Induction Cooker",
     "slug": "induction-cooker",
     "parent_id": "7",
-    "prod_count": 62
+    "prod_count": 63
   },
   {
     "id": "441",
@@ -487,7 +487,7 @@
     "name": "Memory Card",
     "slug": "memory-card",
     "parent_id": "197",
-    "prod_count": 6
+    "prod_count": 7
   },
   {
     "id": "566",
@@ -830,7 +830,7 @@
     "name": "Smartphones",
     "slug": "smartphone",
     "parent_id": "",
-    "prod_count": 90
+    "prod_count": 93
   },
   {
     "id": "3475",

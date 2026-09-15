@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/6/6650-cx-9_1_.png",
     "unit": null,
     "unit_value": null,
-    "price": 3000.0,
-    "special_price": 2145.0,
-    "discount": 29.0,
+    "price": 2560.0,
+    "special_price": 1760.0,
+    "discount": 31.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -239,6 +239,13 @@
       "discount": 29.0,
       "stock_available": 1,
       "scraped_at": "2026-09-14 20:21:21"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1760.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-15 19:34:42"
     }
   ]
 }

@@ -9,10 +9,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/j/ajazz-af82-16-4-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2500.0,
-    "special_price": 2415.0,
-    "discount": 3.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   "history": [
@@ -225,6 +225,13 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-09-14 20:35:57"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-15 19:48:48"
     }
   ]
 }
