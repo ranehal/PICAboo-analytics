@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122905",
+    "sku": "TNU90146SL01WOG",
+    "name": "Titan Quartz Chronograph Silver Dial Leather Strap Men\u2019s Watch (NU90146SL01)",
+    "slug": "titan-quartz-chronograph-silver-dial-leather-strap-men-s-watch-nu90146sl01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/90146sl01-16-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 22000.0,
+    "special_price": 17600.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22000.0,
+      "special_price": 17600.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-16 19:11:10"
+    }
+  ]
+}

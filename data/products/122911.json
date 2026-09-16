@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122911",
+    "sku": "M3469SPLZBE",
+    "name": "Miyako Digital Weight Scale (MEB3469SPL)",
+    "slug": "miyako-digital-weight-scale-meb3469spl",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/e/meb3469spl-16-sep-2026-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1920.0,
+    "special_price": 1320.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1920.0,
+      "special_price": 1320.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-16 18:48:20"
+    }
+  ]
+}

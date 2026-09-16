@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122906",
+    "sku": "AFX608JPRRV055WNGLO",
+    "name": "ASUS TUF Gaming F16 FX608JPR-RV055WN Core-i7 14650HX 32GB RAM 1TB SSD RTX 5070 16\" FHD+ Gaming Laptop",
+    "slug": "asus-tuf-gaming-f16-fx608jpr-rv055wn-core-i7-14650hx-32gb-ram-1tb-ssd-rtx-5070-16-fhd-gaming-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/x/fx608jpr-9-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 350000.0,
+    "special_price": 330000.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 350000.0,
+      "special_price": 330000.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-16 19:05:31"
+    }
+  ]
+}

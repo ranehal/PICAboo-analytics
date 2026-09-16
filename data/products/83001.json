@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "83001",
+    "sku": "BCCFSX01AIM",
+    "name": "Baseus 18W Speed Mini PD Type-C Quick Charge Adapter EU Plug (CCFS-X01)",
+    "slug": "baseus-18w-speed-mini-pd-type-c-quick-charge-adapter-eu-plug-ccfs-x01",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-ccfs-x01-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1190.0,
+    "special_price": 849.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1190.0,
+      "special_price": 849.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-16 19:26:01"
+    }
+  ]
+}

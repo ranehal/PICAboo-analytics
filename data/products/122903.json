@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122903",
+    "sku": "TNU1805SL11WOG",
+    "name": "Titan Wrist Wit Quartz Leather Strap Men\u2019s Watch (NU1805SL11)",
+    "slug": "titan-wrist-wit-quartz-leather-strap-men-s-watch-nu1805sl11",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/u/nu1805sl11-16-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 13000.0,
+    "special_price": 9750.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13000.0,
+      "special_price": 9750.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-16 19:11:10"
+    }
+  ]
+}

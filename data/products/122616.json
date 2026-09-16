@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122616",
+    "sku": "HOGA6ADR",
+    "name": "Hoco GA6 Glacier AI Semiconductor Mobile Cooler",
+    "slug": "hoco-ga6-glacier-ai-semiconductor-mobile-cooler",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-ga6-glacier-ai-mobile-cooler-01_1_-removebg-preview.png",
+    "unit": "g",
+    "unit_value": 6.0,
+    "price": 1500.0,
+    "special_price": 1230.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 1230.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-16 18:58:47"
+    }
+  ]
+}
