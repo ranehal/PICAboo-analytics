@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122969",
+    "sku": "R6KW1508DCRAF",
+    "name": "Rahimafrooz RZ Solar IPS SL 6KW/48V 150Ah x 8 [Deep Cycle Battery Version]",
+    "slug": "rahimafrooz-rz-solar-ips-sl-6kw-48v-150ah-x-8-deep-cycle-battery-version",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/e/deep-6k-17-9-26-2_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 303500.0,
+    "special_price": 283770.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 303500.0,
+      "special_price": 283770.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 20:54:26"
+    }
+  ]
+}

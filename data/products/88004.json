@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio-mtp-v005l--12.11.23--1.jpg",
     "unit": "L",
     "unit_value": 5.0,
-    "price": 3590.0,
-    "special_price": 2729.0,
-    "discount": 24.0,
+    "price": 3382.0,
+    "special_price": 2779.0,
+    "discount": 18.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -204,6 +204,13 @@
       "discount": 24.0,
       "stock_available": 1,
       "scraped_at": "2026-09-15 20:05:43"
+    },
+    {
+      "price": 3382.0,
+      "special_price": 2779.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:31:56"
     }
   ]
 }

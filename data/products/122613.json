@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122613",
+    "sku": "MMJ28ADR",
+    "name": "Hoco MMJ28 22.5W 20000mAh Power Bank with Built-in Cables",
+    "slug": "hoco-mmj28-22-5w-20000mah-power-bank-with-built-in-cables",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/m/images_-_2026-09-01T204256_452-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2300.0,
+    "special_price": 1900.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2300.0,
+      "special_price": 1900.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:05:56"
+    }
+  ]
+}

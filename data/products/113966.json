@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v005gl-9a-13-11-25.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 3500.0,
-    "special_price": 2859.0,
+    "price": 3543.0,
+    "special_price": 2909.0,
     "discount": 18.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -211,6 +211,13 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-09-15 19:57:09"
+    },
+    {
+      "price": 3543.0,
+      "special_price": 2909.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:23:18"
     }
   ]
 }

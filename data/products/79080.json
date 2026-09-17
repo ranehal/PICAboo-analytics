@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/4/a4tech-bloody-w70-max-rgb-10000-cpi-usb-gaming-mouse5.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3134.0,
-    "special_price": 2725.0,
-    "discount": 13.0,
+    "price": 3400.0,
+    "special_price": 2800.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -253,6 +253,13 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-09-16 19:11:24"
+    },
+    {
+      "price": 3400.0,
+      "special_price": 2800.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:19:24"
     }
   ]
 }

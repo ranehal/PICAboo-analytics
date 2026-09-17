@@ -9,8 +9,8 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-m300l-7avdf-10-26-1.jpg",
     "unit": "L",
     "unit_value": 300.0,
-    "price": 11990.0,
-    "special_price": 9619.0,
+    "price": 11916.0,
+    "special_price": 9489.0,
     "discount": 20.0,
     "stock_available": 1,
     "is_atl": 1
@@ -204,6 +204,13 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-09-15 20:05:07"
+    },
+    {
+      "price": 11916.0,
+      "special_price": 9489.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:31:12"
     }
   ]
 }

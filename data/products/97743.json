@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-1384d-7avd-18-6-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 10319.0,
-    "special_price": 8599.0,
-    "discount": 17.0,
+    "price": 10628.0,
+    "special_price": 8479.0,
+    "discount": 20.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -239,6 +239,13 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-09-15 20:04:37"
+    },
+    {
+      "price": 10628.0,
+      "special_price": 8479.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:30:28"
     }
   ]
 }

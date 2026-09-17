@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/-/w-96h-1avdf-01.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3990.0,
-    "special_price": 3509.0,
-    "discount": 12.0,
+    "price": 4348.0,
+    "special_price": 3539.0,
+    "discount": 19.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -204,6 +204,13 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-09-15 20:04:30"
+    },
+    {
+      "price": 4348.0,
+      "special_price": 3539.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:30:21"
     }
   ]
 }

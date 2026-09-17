@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122607",
+    "sku": "HOEQ26ADR",
+    "name": "Hoco EQ26 ANC+ENC Wireless Earbuds",
+    "slug": "hoco-eq26-anc-enc-wireless-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/q/eq26-black-01-500x500-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1600.0,
+    "special_price": 1240.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1600.0,
+      "special_price": 1240.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:05:37"
+    }
+  ]
+}

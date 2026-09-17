@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "93375",
+    "sku": "SRT47K6231BSD3SBN",
+    "name": "Samsung 465 Liter Twin Cooling Non Frost Refrigerator (RT47K6231BS/D3)",
+    "slug": "samsung-465-liter-twin-cooling-non-frost-refrigerator-rt47-black",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-465-liter-twin-cooling-non-frost-refrigerator-_rt47k6231ut-d3_-9-17-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 113500.0,
+    "special_price": 97990.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 113500.0,
+      "special_price": 97990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 20:54:06"
+    }
+  ]
+}

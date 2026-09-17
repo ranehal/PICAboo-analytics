@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122964",
+    "sku": "JOTG2MIOT",
+    "name": "JBL PartyBox On-the-Go 2 Portable Bluetooth Speaker with Mic",
+    "slug": "jbl-partybox-on-the-go-2-portable-bluetooth-speaker-with-mic",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/n/on-the-go-2-17-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 54999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 54999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:18:08"
+    }
+  ]
+}

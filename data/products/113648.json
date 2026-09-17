@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1234ll-7a-27-10-25-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 5199.0,
-    "special_price": 5025.0,
-    "discount": 3.0,
+    "price": 6441.0,
+    "special_price": 5189.0,
+    "discount": 19.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -246,6 +246,13 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-09-15 19:57:50"
+    },
+    {
+      "price": 6441.0,
+      "special_price": 5189.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:23:18"
     }
   ]
 }

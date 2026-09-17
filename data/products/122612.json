@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122612",
+    "sku": "HOEQ33ADR",
+    "name": "Hoco EQ33 Gem Wireless Earbuds with App Control",
+    "slug": "hoco-eq33-gem-wireless-earbuds-with-app-control",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-eq33-gem-17-9-26.jpg",
+    "unit": "g",
+    "unit_value": 33.0,
+    "price": 1100.0,
+    "special_price": 880.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1100.0,
+      "special_price": 880.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:05:37"
+    }
+  ]
+}

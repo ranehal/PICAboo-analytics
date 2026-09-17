@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122968",
+    "sku": "HWB650FIOT",
+    "name": "Samsung 3.1ch Soundbar with Dolby Audio (HW-B650F)",
+    "slug": "samsung-3-1ch-soundbar-with-dolby-audio-hw-b650f",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/6/b650f-17-9-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 39990.0,
+    "special_price": 31999.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 39990.0,
+      "special_price": 31999.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 20:54:37"
+    }
+  ]
+}

@@ -9,8 +9,8 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/q/iq-05-7df-29-10-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2519.0,
-    "special_price": 2099.0,
+    "price": 2576.0,
+    "special_price": 2149.0,
     "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
@@ -246,6 +246,13 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-09-15 19:51:22"
+    },
+    {
+      "price": 2576.0,
+      "special_price": 2149.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:10:53"
     }
   ]
 }

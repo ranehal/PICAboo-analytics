@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122614",
+    "sku": "BAS10QIADR",
+    "name": "Baseus Qi2 10000mAh 22.5W Magsafe Power Bank",
+    "slug": "baseus-qi2-10000mah-22-5w-magsafe-power-bank",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/m/images_-_2026-09-01T205815_766-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2600.0,
+    "special_price": 2300.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2600.0,
+      "special_price": 2300.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:05:56"
+    }
+  ]
+}

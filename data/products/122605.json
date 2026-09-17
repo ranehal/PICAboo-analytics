@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122605",
+    "sku": "BASAE11ADR",
+    "name": "Baseus\u00a0AE11\u00a0PicoGO Series\u00a067W PD US Plug Charger - Black",
+    "slug": "baseus-67w-pd-charger-ae11-picogo-series-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/W/a/WaTuw0rA-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2600.0,
+    "special_price": 2300.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2600.0,
+      "special_price": 2300.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:05:56"
+    }
+  ]
+}

@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-7-2.jpg",
     "unit": "L",
     "unit_value": 7.1,
-    "price": 15699.0,
-    "special_price": 15490.0,
-    "discount": 1.0,
+    "price": 19699.0,
+    "special_price": 16790.0,
+    "discount": 15.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -260,6 +260,13 @@
       "discount": 1.0,
       "stock_available": 1,
       "scraped_at": "2026-09-16 18:48:48"
+    },
+    {
+      "price": 19699.0,
+      "special_price": 16790.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 20:54:32"
     }
   ]
 }

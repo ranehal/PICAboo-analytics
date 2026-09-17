@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/b/jbl-120-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 67180.0,
-    "special_price": 46330.0,
-    "discount": 31.0,
+    "price": 59990.0,
+    "special_price": 44499.0,
+    "discount": 26.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -253,6 +253,13 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-09-16 18:51:21"
+    },
+    {
+      "price": 59990.0,
+      "special_price": 44499.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 20:58:37"
     }
   ]
 }

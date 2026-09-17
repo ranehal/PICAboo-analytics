@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122940",
+    "sku": "RSL16KW1150FTRAF",
+    "name": "Rahimafrooz RZ Solar IPS SL 1.6KW/12V 150Ah x 2 [FT Battery Version]",
+    "slug": "rahimafrooz-rz-solar-ips-sl-1-6kw-12v-150ah-x-2-ft-battery-version",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/l/sl-116-9-26-7_4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 107500.0,
+    "special_price": 100510.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 107500.0,
+      "special_price": 100510.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 20:54:37"
+    }
+  ]
+}

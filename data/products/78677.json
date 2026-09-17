@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/4/a4tech-bloody-g200s_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2197.0,
-    "special_price": 1910.0,
-    "discount": 13.0,
+    "price": 2300.0,
+    "special_price": 1950.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -253,6 +253,13 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-09-16 19:10:16"
+    },
+    {
+      "price": 2300.0,
+      "special_price": 1950.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-17 21:19:22"
     }
   ]
 }
