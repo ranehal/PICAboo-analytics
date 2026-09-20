@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 459
+    "prod_count": 460
   },
   {
     "id": "3565",
@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 320
+    "prod_count": 325
   },
   {
     "id": "167",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 939
+    "prod_count": 942
   },
   {
     "id": "4312",
@@ -494,7 +494,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 1978
+    "prod_count": 1981
   },
   {
     "id": "3480",
@@ -557,7 +557,7 @@
     "name": "Mouse & Keyboard",
     "slug": "mouse",
     "parent_id": "20",
-    "prod_count": 199
+    "prod_count": 200
   },
   {
     "id": "4036",
@@ -816,14 +816,14 @@
     "name": "Smart Watch",
     "slug": "smart-watches",
     "parent_id": "197",
-    "prod_count": 434
+    "prod_count": 435
   },
   {
     "id": "1765",
     "name": "Smart Watch Accessories",
     "slug": "smart-watches-accessories",
     "parent_id": "197",
-    "prod_count": 355
+    "prod_count": 356
   },
   {
     "id": "171",

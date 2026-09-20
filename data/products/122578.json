@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122578",
+    "sku": "REMAAA814ADR",
+    "name": "Remax AAA02 814mWh USB Type-C Rechargeable Lithium Battery",
+    "slug": "remax-aaa02-814mwh-usb-type-c-rechargeable-lithium-battery",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/d/fdabc4e48d2ced29350c32d4807e52a0_jpg_720x720q80-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1000.0,
+    "special_price": 700.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1000.0,
+      "special_price": 700.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-20 14:14:58"
+    }
+  ]
+}

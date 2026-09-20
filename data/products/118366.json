@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118366",
+    "sku": "MV9PTHTDR",
+    "name": "Mchose V9 Pro Tri-Mode Wireless Gaming Headset",
+    "slug": "mchose-v9-pro-tri-mode-wireless-gaming-headset",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/c/mchose-v9-pro-19-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-20 14:42:19"
+    }
+  ]
+}

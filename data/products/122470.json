@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122470",
+    "sku": "HOGM702ADR",
+    "name": "Hoco GM702 Vistoso Wired Gaming Keyboard",
+    "slug": "hoco-gm702-vistoso-wired-gaming-keyboard-black",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-gm702-vistoso-wired-gaming-keyboard-full-size-104-key-1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2200.0,
+    "special_price": 1800.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2200.0,
+      "special_price": 1800.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-20 14:39:54"
+    }
+  ]
+}

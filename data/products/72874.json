@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/4/a4tech-full-hd-1080p-webcam-with-built-in-microphone-_pk-910h_5.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3012.0,
-    "special_price": 2619.0,
-    "discount": 13.0,
+    "price": 3000.0,
+    "special_price": 2550.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -260,6 +260,13 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-09-17 21:19:25"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2550.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-20 14:43:18"
     }
   ]
 }

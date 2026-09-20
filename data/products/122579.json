@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122579",
+    "sku": "BESAAARADR",
+    "name": "Beston AAA Lithium Rechargeable Battery Type-C Charging Port (4Pcs Pack)",
+    "slug": "beston-aaa-lithium-rechargeable-battery-type-c-charging-port-4pcs-pack",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/S/a/Sa26662e6a9ac4eba82738e825db545c1a_jpg_960x960q80_jpg_-removebg-preview.png",
+    "unit": "pcs",
+    "unit_value": 4.0,
+    "price": 1600.0,
+    "special_price": 1300.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1600.0,
+      "special_price": 1300.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-20 14:14:58"
+    }
+  ]
+}

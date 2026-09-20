@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122468",
+    "sku": "WIWM108ADR",
+    "name": "WiWU Dual Mode Wireless Mouse (WM108) - White",
+    "slug": "wiwu-wm108-wireless-dual-mode-white-mouse-white",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/i/wiwu-wm108-wireless-dual-mode-white-11705571331-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1300.0,
+    "special_price": 1130.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1300.0,
+      "special_price": 1130.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-20 14:39:52"
+    }
+  ]
+}
