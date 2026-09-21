@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123005",
+    "sku": "BGK30GLO",
+    "name": "A4Tech Bloody GK30 Full HD Webcam",
+    "slug": "a4tech-bloody-gk30-full-hd-webcam",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/k/gk30-21-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6000.0,
+    "special_price": 5000.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6000.0,
+      "special_price": 5000.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-21 21:05:45"
+    }
+  ]
+}

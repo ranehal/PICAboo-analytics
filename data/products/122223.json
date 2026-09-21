@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122223",
+    "sku": "AS3A32545JNN",
+    "name": "Acer Aspire 3 A325-45 15.6 Inch HD Intel Celeron N4500 12GB RAM 512GB SSD Laptop (UN.36FSI.005)",
+    "slug": "acer-aspire-3-a325-45-un-36fsi-005-intel-celeron-n4500-1-1-to-2-8ghz-12gb-512gb-ssd-15-6-inch-hd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/placeholder/default/Pickaboo-plholder-thumb.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 60000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 60000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-21 21:04:36"
+    }
+  ]
+}

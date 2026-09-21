@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121264",
+    "sku": "E5783JNN",
+    "name": "E5783 4G LTE MiFi Pocket Router",
+    "slug": "e5783-4g-lte-mifi-pocket-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_97_.png",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 3500.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-21 21:06:59"
+    }
+  ]
+}

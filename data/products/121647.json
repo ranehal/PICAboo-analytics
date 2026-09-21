@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121647",
+    "sku": "TLSG1428PEJNN",
+    "name": "TP Link TL-SG1428PE 26 Gigabit + 2 SFP Port PoE Managed Switch",
+    "slug": "tp-link-tl-sg1428pe-26-gigabit-2-sfp-port-poe-managed-switch",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_94__1.png",
+    "unit": "g",
+    "unit_value": 26.0,
+    "price": 28000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 28000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-21 21:06:55"
+    }
+  ]
+}

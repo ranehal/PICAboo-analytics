@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122243",
+    "sku": "XL600CLJNN",
+    "name": "ZKTeco XL600-C-L 305 Meter 24AWG Cat6 Orange UTP Cable",
+    "slug": "zkteco-xl600-c-l-305-meter-24awg-cat6-orange-utp-cable",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/placeholder/default/Pickaboo-plholder-thumb.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 7500.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-21 21:06:23"
+    }
+  ]
+}

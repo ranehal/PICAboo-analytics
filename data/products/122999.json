@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122999",
+    "sku": "TNU2606WM09WOG",
+    "name": "Titan Raga Mother of Pearl Dial & Ornate Bracelet Women\u2019s Watch (NU2606WM09)",
+    "slug": "titan-raga-mother-of-pearl-dial-ornate-bracelet-women-s-watch-nu2606wm09",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/6/2606wm09-21-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 16000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 16000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-21 21:10:02"
+    }
+  ]
+}

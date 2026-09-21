@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123001",
+    "sku": "BG521SGLO",
+    "name": "A4Tech Bloody G521S Wired Gaming Headset",
+    "slug": "a4tech-bloody-g521s-wired-gaming-headset",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/5/g521s-21-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2600.0,
+    "special_price": 2299.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2600.0,
+      "special_price": 2299.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-21 21:05:45"
+    }
+  ]
+}
