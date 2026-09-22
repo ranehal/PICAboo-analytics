@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/a/laserjet-pro-4003dn-19.8.24..jpg",
     "unit": null,
     "unit_value": null,
-    "price": 29000.0,
-    "special_price": 28490.0,
-    "discount": 2.0,
+    "price": 45000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -78,6 +78,13 @@
       "discount": 2.0,
       "stock_available": 1,
       "scraped_at": "2026-08-14 04:53:46"
+    },
+    {
+      "price": 45000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-22 20:06:03"
     }
   ]
 }

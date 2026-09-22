@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123031",
+    "sku": "FGT50DABA",
+    "name": "FLH FlyX GT 50 Dual Camera Remote Drone with Controller",
+    "slug": "flh-flyx-gt-50-dual-camera-remote-drone-with-controller",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/t/gt-50-22-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9999.0,
+    "special_price": 6500.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9999.0,
+      "special_price": 6500.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-22 19:56:23"
+    }
+  ]
+}

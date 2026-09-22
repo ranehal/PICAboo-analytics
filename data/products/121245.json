@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121245",
+    "sku": "HOE112ADR",
+    "name": "Hoco E112 Children\u2019s Quartz Watch With Apple Find My",
+    "slug": "hoco-e112-children-s-quartz-watch-with-anti-lost-device-works-with-apple-find-my",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/1/e112-22-9-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1699.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-22 19:54:07"
+    }
+  ]
+}

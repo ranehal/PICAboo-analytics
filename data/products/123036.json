@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123036",
+    "sku": "NU95363WM01WOG",
+    "name": "Titan Raga Glimmers Quartz Metal Strap Watch for Women (NU95363WM01)",
+    "slug": "titan-raga-glimmers-quartz-metal-strap-watch-for-women-nu95363wm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/u/nu95363wm01-22-09-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-22 20:09:09"
+    }
+  ]
+}

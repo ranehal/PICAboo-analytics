@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123035",
+    "sku": "HE3001CBBDHRB",
+    "name": "Haier 30L Convection Microwave Oven (HMW-E3001CBBD)",
+    "slug": "haier-30l-convection-microwave-oven-hmw-e3001cbbd",
+    "category_id": "68",
+    "category_name": "Oven",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/m/hmw-e3001cbbd-22-sep-2026-1.jpg",
+    "unit": "L",
+    "unit_value": 30.0,
+    "price": 23990.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 23990.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-22 19:45:35"
+    }
+  ]
+}

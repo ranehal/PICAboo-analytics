@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121319",
+    "sku": "PBM12ADR",
+    "name": "Joyroom JR-PBM12 10000mAh 22.5W Magnetic Wireless Power Bank - Black",
+    "slug": "joyroom-jr-pbm12-10000mah-22-5w-magnetic-wireless-power-bank-black",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/b/pbm12-22-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3500.0,
+    "special_price": 3000.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3500.0,
+      "special_price": 3000.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-22 19:59:18"
+    }
+  ]
+}

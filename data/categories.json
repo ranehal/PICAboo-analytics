@@ -102,7 +102,7 @@
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 142
+    "prod_count": 143
   },
   {
     "id": "1731",
@@ -319,7 +319,7 @@
     "name": "Haier",
     "slug": "haier-ac",
     "parent_id": "64",
-    "prod_count": 34
+    "prod_count": 35
   },
   {
     "id": "3472",
@@ -417,7 +417,7 @@
     "name": "Induction Cooker",
     "slug": "induction-cooker",
     "parent_id": "7",
-    "prod_count": 63
+    "prod_count": 64
   },
   {
     "id": "441",
@@ -466,7 +466,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 456
+    "prod_count": 459
   },
   {
     "id": "3915",
@@ -529,7 +529,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 132
+    "prod_count": 140
   },
   {
     "id": "47",
@@ -634,7 +634,7 @@
     "name": "Oven",
     "slug": "microwave-oven",
     "parent_id": "7",
-    "prod_count": 113
+    "prod_count": 116
   },
   {
     "id": "52",
@@ -655,7 +655,7 @@
     "name": "Power Bank",
     "slug": "power-bank",
     "parent_id": "197",
-    "prod_count": 332
+    "prod_count": 333
   },
   {
     "id": "3135",
@@ -669,7 +669,7 @@
     "name": "Printer",
     "slug": "printer",
     "parent_id": "20",
-    "prod_count": 65
+    "prod_count": 69
   },
   {
     "id": "329",
@@ -711,7 +711,7 @@
     "name": "Router & Networking",
     "slug": "networking-accessories",
     "parent_id": "20",
-    "prod_count": 196
+    "prod_count": 197
   },
   {
     "id": "3490",
@@ -816,7 +816,7 @@
     "name": "Smart Watch",
     "slug": "smart-watches",
     "parent_id": "197",
-    "prod_count": 435
+    "prod_count": 436
   },
   {
     "id": "1765",
@@ -851,7 +851,7 @@
     "name": "Sound System",
     "slug": "sound-system",
     "parent_id": "20",
-    "prod_count": 23
+    "prod_count": 24
   },
   {
     "id": "211",

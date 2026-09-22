@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122966",
+    "sku": "FDRW40JNN",
+    "name": "F&D RW40 Black Portable Bluetooth Speaker",
+    "slug": "f-d-rw40-black-portable-bluetooth-speaker",
+    "category_id": "2022",
+    "category_name": "Sound System",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/w/rw40-22-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-22 20:06:59"
+    }
+  ]
+}

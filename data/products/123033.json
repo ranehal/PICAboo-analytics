@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123033",
+    "sku": "H24ARCX6HRB",
+    "name": "Haier 2 Ton\u00a0AntirustCool\u00a0Inverter Pro\u00a0Air Conditioner [HSU-24AntirustCool(INV)(Pro)(X6)]",
+    "slug": "haier-2-ton-antirustcool-inverter-pro-air-conditioner-hsu-24antirustcool-inv-pro-x6",
+    "category_id": "3478",
+    "category_name": "Haier",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/antirustcool-2ton-22-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 92990.0,
+    "special_price": 70990.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 92990.0,
+      "special_price": 70990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-22 19:43:31"
+    }
+  ]
+}

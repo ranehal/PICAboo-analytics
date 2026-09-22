@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123023",
+    "sku": "FFK3DABA",
+    "name": "FLH FlyX K3 Max GPS Drone",
+    "slug": "flh-flyx-k3-max-gps-drone",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/3/k3-max-22-09-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15500.0,
+    "special_price": 9450.0,
+    "discount": 39.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15500.0,
+      "special_price": 9450.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-22 19:56:23"
+    }
+  ]
+}

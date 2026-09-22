@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123028",
+    "sku": "FH29RDCABA",
+    "name": "FLH FlyX H29 Robot Camera Dog Car",
+    "slug": "flh-flyx-h29-robot-camera-dog-car",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/2/h29-22-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8500.0,
+    "special_price": 3990.0,
+    "discount": 53.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8500.0,
+      "special_price": 3990.0,
+      "discount": 53.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-22 19:56:23"
+    }
+  ]
+}

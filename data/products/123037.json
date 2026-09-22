@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123037",
+    "sku": "HFIC1A1PNE",
+    "name": "Hawkins Futura 2000W Single Induction Hob (FIC1A1)",
+    "slug": "hawkins-futura-2000w-single-induction-hob-fic1a1",
+    "category_id": "74",
+    "category_name": "Induction Cooker",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/i/fic1a1-22-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9800.0,
+    "special_price": 8990.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9800.0,
+      "special_price": 8990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-22 19:46:25"
+    }
+  ]
+}
