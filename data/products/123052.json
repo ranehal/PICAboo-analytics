@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123052",
+    "sku": "MYG102CBD",
+    "name": "Miyako Automatic Yogurt 1.5L Doi Maker With 8 Glass Jar (YG-102)",
+    "slug": "miyako-automatic-yogurt-1-5l-doi-maker-with-8-glass-jar-yg-102",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/y/g/yg-102-23-9-26-2.jpg",
+    "unit": "L",
+    "unit_value": 1.5,
+    "price": 2850.0,
+    "special_price": 2490.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2850.0,
+      "special_price": 2490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-24 06:02:05"
+    }
+  ]
+}

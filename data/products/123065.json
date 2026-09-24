@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123065",
+    "sku": "LSY82AGSB",
+    "name": "LDNIO LSY82A 3.5mm 1.8M AUX Audio Cable",
+    "slug": "ldnio-lsy82a-3-5mm-1-8m-aux-audio-cable",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/s/lsy82a-23-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 410.0,
+    "special_price": 300.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 410.0,
+      "special_price": 300.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-24 06:21:40"
+    }
+  ]
+}

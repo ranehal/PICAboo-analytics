@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123045",
+    "sku": "MMC580TCBD",
+    "name": "Miyako Multi Cooker 5L Electric Curry Cooker (MC-580T)",
+    "slug": "miyako-multi-cooker-5l-electric-curry-cooker-mc-580t",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/c/mc-580t-23-9-26-1.jpg",
+    "unit": "L",
+    "unit_value": 5.0,
+    "price": 6990.0,
+    "special_price": 6090.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6990.0,
+      "special_price": 6090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-24 06:02:05"
+    }
+  ]
+}

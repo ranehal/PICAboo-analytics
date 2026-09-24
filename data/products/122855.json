@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122855",
+    "sku": "HOMMJ19GSB",
+    "name": "Hoco MMJ19 200-Hour Talk & Music Time Bluetooth Neckband Earphone",
+    "slug": "hoco-mmj19-200-hour-talk-music-time-bluetooth-neckband-earphone",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/m/images_-_2026-09-14T143943_167-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1460.0,
+    "special_price": 1100.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1460.0,
+      "special_price": 1100.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-24 06:13:39"
+    }
+  ]
+}

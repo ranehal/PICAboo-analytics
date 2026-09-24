@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116354",
+    "sku": "XXDOT063STE",
+    "name": "Xundd 6000mAh Multi-Functional Portable Desktop Fan (XDOT-063)",
+    "slug": "xundd-6000mah-multi-functional-portable-desktop-fan-xdot-063",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/d/xdot-063--19-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4600.0,
+    "special_price": 2590.0,
+    "discount": 44.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4600.0,
+      "special_price": 2590.0,
+      "discount": 44.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-24 06:00:22"
+    }
+  ]
+}

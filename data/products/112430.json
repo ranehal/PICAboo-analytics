@@ -10,10 +10,10 @@
     "unit": "g",
     "unit_value": 2.0,
     "price": 3106.0,
-    "special_price": 2632.0,
-    "discount": 15.0,
+    "special_price": 2790.0,
+    "discount": 10.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -274,6 +274,13 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-09-22 19:59:31"
+    },
+    {
+      "price": 3106.0,
+      "special_price": 2790.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-24 06:17:36"
     }
   ]
 }

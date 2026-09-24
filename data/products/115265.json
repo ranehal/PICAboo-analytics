@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115265",
+    "sku": "C9090CWSGMHS",
+    "name": "Curren 9090 Couple Quartz Stainless Steel Analog Watch (Silver Green)",
+    "slug": "curren-9090-couple-quartz-stainless-steel-analog-watch-silver-green",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/9090-couple-green--5-2-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3999.0,
+    "special_price": 2690.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3999.0,
+      "special_price": 2690.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-24 06:28:29"
+    }
+  ]
+}

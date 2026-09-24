@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123059",
+    "sku": "JBLER3EEIL",
+    "name": "JBL Endurance Run 3 Wireless Earphone",
+    "slug": "jbl-endurance-run-3-wireless-earphone",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/b/jbl-endurance-run-3-23-9-26-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5780.0,
+    "special_price": 5450.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5780.0,
+      "special_price": 5450.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-24 06:13:39"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122801",
+    "sku": "MMIX87HEMKTDR",
+    "name": "MCHOSE Mix 87 HE Magnetic Switch Gaming Keyboard",
+    "slug": "mchose-mix-87-he-magnetic-switch-gaming-keyboard",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mix-87-he-23-9-26-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-24 06:21:46"
+    }
+  ]
+}

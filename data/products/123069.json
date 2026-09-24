@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123069",
+    "sku": "IP806GB128GB",
+    "name": "itel Power 80 6GB/128GB",
+    "slug": "itel-p80-6gb-128gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/p/8/p80-9-24-26-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18490.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18490.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-24 06:08:41"
+    }
+  ]
+}
