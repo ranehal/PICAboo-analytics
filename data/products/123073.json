@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123073",
+    "sku": "OP412GB256GBWIFI",
+    "name": "OnePlus Pad 4 13.2 Inch 3.4K Display 12GB/256GB (Wi-Fi)",
+    "slug": "oneplus-pad-4-13-2-inch-3-4k-display-12gb-256gb-wi-fi",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/n/oneplus-pad-4-9-24-26-20.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 97999.0,
+    "special_price": 86999.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 97999.0,
+      "special_price": 86999.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-25 04:56:50"
+    }
+  ]
+}

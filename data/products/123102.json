@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123102",
+    "sku": "AA2347IOT",
+    "name": "Apple 20W EU USB-C Power Adapter (A2347)",
+    "slug": "apple-20w-eu-usb-c-power-adapter-a2347",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/2/a2347-24-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3990.0,
+    "special_price": 2750.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3990.0,
+      "special_price": 2750.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-25 05:01:58"
+    }
+  ]
+}

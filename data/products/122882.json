@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122882",
+    "sku": "LDNIOSC4GSB",
+    "name": "LDNIO SC4 13-in-1 GaN Charging Station 65W Power Strip with 8 AC",
+    "slug": "ldnio-sc4-13-in-1-gan-charging-station-65w-power-strip-with-8-ac",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/d/ldnio-sc4-13-in-1-gan-power-strip-65w-1-removebg-preview.png",
+    "unit": "g",
+    "unit_value": 1.0,
+    "price": 4870.0,
+    "special_price": 3350.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4870.0,
+      "special_price": 3350.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-25 05:02:12"
+    }
+  ]
+}

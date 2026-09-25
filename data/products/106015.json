@@ -9,10 +9,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/m/imiki-st2-02-10-24--4.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2999.0,
-    "special_price": 2590.0,
-    "discount": 14.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   "history": [
@@ -267,6 +267,13 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-09-24 06:14:34"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-09-25 05:00:50"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "75435",
+    "sku": "FDF7700XJNN",
+    "name": "F&D F7700x 4.1 Multimedia Speaker",
+    "slug": "f-d-f7700x-4-1-multimedia-speaker",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/7/f7700x.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 20000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 20000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-25 05:26:01"
+    }
+  ]
+}

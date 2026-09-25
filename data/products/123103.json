@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123103",
+    "sku": "ACA2164IOT",
+    "name": "Apple 30W Type-C 3-Pin\u00a0Power Adapter (C-A2164)",
+    "slug": "apple-30w-type-c-3-pin-power-adapter-c-a2164",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/-/c-a2164-2-49-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7990.0,
+    "special_price": 5390.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7990.0,
+      "special_price": 5390.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-25 05:01:58"
+    }
+  ]
+}

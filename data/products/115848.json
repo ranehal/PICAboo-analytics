@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/j/mjjsq07dy-29-1-26-2.jpg",
     "unit": "L",
     "unit_value": 4.5,
-    "price": 6500.0,
-    "special_price": 4240.0,
-    "discount": 35.0,
+    "price": 6330.0,
+    "special_price": 4350.0,
+    "discount": 31.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -295,6 +295,13 @@
       "discount": 35.0,
       "stock_available": 1,
       "scraped_at": "2026-09-24 06:04:20"
+    },
+    {
+      "price": 6330.0,
+      "special_price": 4350.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-25 04:52:46"
     }
   ]
 }

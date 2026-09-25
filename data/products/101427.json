@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "101427",
+    "sku": "FDHSVASRIOT",
+    "name": "Baseus Cafule Series 60W 1m Type-C to Type-C Fast Charging Data Cable - Black",
+    "slug": "baseus-cafule-series-60w-1m-type-c-to-type-c-fast-charging-data-cable-black",
+    "category_id": "205",
+    "category_name": "Data Cable",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/base---25-4-4---1_2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 890.0,
+    "special_price": 470.0,
+    "discount": 47.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 890.0,
+      "special_price": 470.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-25 05:11:49"
+    }
+  ]
+}
