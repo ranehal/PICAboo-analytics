@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123126",
+    "sku": "HJ86AIOT",
+    "name": "Hoco Powermaster 50000mAh 22.5W Fully Compatible Power Bank (J86A)-Black",
+    "slug": "hoco-powermaster-50000mah-22-5w-fully-compatible-power-bank-j86a-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/8/j86a--26-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4990.0,
+    "special_price": 3799.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4990.0,
+      "special_price": 3799.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 02:45:51"
+    }
+  ]
+}

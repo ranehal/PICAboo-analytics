@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123150",
+    "sku": "C4BCMPTC",
+    "name": "CHARG C4B USB to Micro-USB 1M Fast Charging Data Cable",
+    "slug": "charg-c4b-usb-to-micro-usb-1m-fast-charging-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/4/c4b-26-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 125.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 125.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 02:45:51"
+    }
+  ]
+}

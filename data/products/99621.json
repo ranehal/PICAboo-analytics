@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "99621",
+    "sku": "B41RS12DGSB",
+    "name": "Baseus 4-in-1 Rapid Series 1.2m Data Cable (2x Type-C, 1x Lightning, 1x Micro USB) (CA1T4-B01)",
+    "slug": "baseus-4-in-1-rapid-series-1-2m-data-cable-2x-type-c-1x-lightning-1x-micro-usb",
+    "category_id": "205",
+    "category_name": "Data Cable",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/a/rapid-series-4-in-1-8.2.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 890.0,
+    "special_price": 670.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 890.0,
+      "special_price": 670.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 02:55:46"
+    }
+  ]
+}

@@ -158,7 +158,7 @@
     "name": "Data Cable",
     "slug": "data-cable",
     "parent_id": "197",
-    "prod_count": 481
+    "prod_count": 483
   },
   {
     "id": "122",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 952
+    "prod_count": 956
   },
   {
     "id": "4312",
@@ -382,7 +382,7 @@
     "name": "Honor",
     "slug": "honor",
     "parent_id": "171",
-    "prod_count": 16
+    "prod_count": 18
   },
   {
     "id": "190",
@@ -431,7 +431,7 @@
     "name": "Iron",
     "slug": "iron",
     "parent_id": "7",
-    "prod_count": 77
+    "prod_count": 78
   },
   {
     "id": "156",
@@ -466,7 +466,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 463
+    "prod_count": 467
   },
   {
     "id": "3915",
@@ -494,7 +494,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 1988
+    "prod_count": 1989
   },
   {
     "id": "3480",
@@ -529,7 +529,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 152
+    "prod_count": 168
   },
   {
     "id": "47",
@@ -858,7 +858,7 @@
     "name": "Speaker",
     "slug": "bluetooth-speaker",
     "parent_id": "197",
-    "prod_count": 218
+    "prod_count": 219
   },
   {
     "id": "4046",
@@ -991,7 +991,7 @@
     "name": "Wired Headphone ",
     "slug": "headphones",
     "parent_id": "197",
-    "prod_count": 235
+    "prod_count": 236
   },
   {
     "id": "568",

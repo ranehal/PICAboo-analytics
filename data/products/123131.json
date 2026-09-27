@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123131",
+    "sku": "UPB722IOT",
+    "name": "UGREEN Nexode 25000mAh 200W Power Bank (PB722)-Black",
+    "slug": "ugreen-nexode-25000mah-200w-power-bank-pb722-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/b/pb722----26-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10990.0,
+    "special_price": 8630.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10990.0,
+      "special_price": 8630.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 02:45:51"
+    }
+  ]
+}

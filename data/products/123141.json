@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123141",
+    "sku": "UPB594IOT",
+    "name": "UGREEN 10000mAh 30W Wireless Power Bank (PB594)",
+    "slug": "ugreen-10000mah-30w-wireless-power-bank-pb594",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/b/pb594-26-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5990.0,
+    "special_price": 4450.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5990.0,
+      "special_price": 4450.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 02:45:51"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123135",
+    "sku": "AA110ZIOT",
+    "name": "Anker Nano 10000mAh Magnetic Ultra-Fast Magnetic Wireless Power Bank (A110Z)",
+    "slug": "anker-nano-10000mah-magnetic-ultra-fast-magnetic-wireless-power-bank-a110z",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/1/a110z-26-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7990.0,
+    "special_price": 6700.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7990.0,
+      "special_price": 6700.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 02:45:51"
+    }
+  ]
+}

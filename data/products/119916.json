@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg3931-11-may-2026-1.jpg",
     "unit": "g",
     "unit_value": 1.0,
-    "price": 8000.0,
-    "special_price": 5129.0,
-    "discount": 36.0,
+    "price": 7150.0,
+    "special_price": 4910.0,
+    "discount": 31.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   "history": [
     {
@@ -309,6 +309,13 @@
       "discount": 36.0,
       "stock_available": 1,
       "scraped_at": "2026-09-26 04:11:59"
+    },
+    {
+      "price": 7150.0,
+      "special_price": 4910.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 03:03:16"
     }
   ]
 }

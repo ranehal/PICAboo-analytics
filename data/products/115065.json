@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/3/h3-anc-5-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3900.0,
-    "special_price": 3800.0,
-    "discount": 3.0,
+    "price": 4000.0,
+    "special_price": 3799.0,
+    "discount": 5.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -148,6 +148,13 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-08-25 08:42:09"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3799.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 02:48:43"
     }
   ]
 }

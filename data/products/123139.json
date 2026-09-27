@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123139",
+    "sku": "UPB536GIOT",
+    "name": "UGREEN Nexode 20000mAh 45W Power Bank (PB536)- Grey",
+    "slug": "ugreen-nexode-20000mah-45w-power-bank-pb536-grey",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/g/ugreen-pb536-26-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4990.0,
+    "special_price": 4020.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4990.0,
+      "special_price": 4020.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 02:45:51"
+    }
+  ]
+}

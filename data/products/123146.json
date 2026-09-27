@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123146",
+    "sku": "CP20PPTC",
+    "name": "CHARG 20000mAh 22.5W Fast Charging Power Bank with Built-In Cables (CP-20 Pro)",
+    "slug": "charg-20000mah-22-5w-fast-charging-power-bank-with-built-in-cables-cp-20-pro",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/p/cp-20-pro-26-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3130.0,
+    "special_price": 2099.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3130.0,
+      "special_price": 2099.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 02:45:51"
+    }
+  ]
+}
