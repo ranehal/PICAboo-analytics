@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "93920",
+    "sku": "F6265SM01RYW",
+    "name": "Fastrack 6265SM01 Stunners 3.0 Silver Dial Metal Strap Women\u2019s Watch",
+    "slug": "fastrack-6265sm01-stunners-3-0-silver-dial-metal-strap-women-s-watch",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/2/6265sm01-20.6.23.jpg_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4891.0,
+    "special_price": 4330.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4891.0,
+      "special_price": 4330.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 22:00:54"
+    }
+  ]
+}

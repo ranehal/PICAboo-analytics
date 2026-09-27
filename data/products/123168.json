@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123168",
+    "sku": "H1886RAIHSP",
+    "name": "Mathey-Tissot\u00a0Edmond Moon Men's Watch\u00a0H1886RAI",
+    "slug": "mathey-tissot-edmond-moon-men-s-watch-h1886rai",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/1/h1886rai-27-09-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 49400.0,
+    "special_price": 42560.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 49400.0,
+      "special_price": 42560.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 21:54:21"
+    }
+  ]
+}

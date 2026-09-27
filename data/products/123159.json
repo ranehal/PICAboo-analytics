@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123159",
+    "sku": "DS124UCGSB",
+    "name": "LDNIO DS-124UC 4-in-1 Dual Mode Expansion Hub",
+    "slug": "ldnio-ds-124uc-4-in-1-dual-mode-expansion-hub",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/s/ds-124uc-27-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2260.0,
+    "special_price": 1550.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2260.0,
+      "special_price": 1550.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 21:47:20"
+    }
+  ]
+}

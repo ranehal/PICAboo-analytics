@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123154",
+    "sku": "NH913602LHSP",
+    "name": "Citizen Automatic Open Heart Blue Dial Men's Watch (NH9136-02L)",
+    "slug": "citizen-automatic-open-heart-blue-dial-men-s-watch-nh9136-02l",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/h/nh9136-02l-27-09-2026-1.jpg",
+    "unit": "L",
+    "unit_value": 2.0,
+    "price": 50700.0,
+    "special_price": 43680.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 50700.0,
+      "special_price": 43680.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 21:54:21"
+    }
+  ]
+}

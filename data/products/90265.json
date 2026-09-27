@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "90265",
+    "sku": "DIZOIPX5IOT",
+    "name": "DIZO IPX5 Washable 4-in-1 Multi Grooming Kit Trimmer (DT2126)",
+    "slug": "dizo-ipx5-washable-4-in-1-multi-grooming-kit-trimmer",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/i/dizo-ipx5.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2990.0,
+    "special_price": 2290.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2990.0,
+      "special_price": 2290.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-27 22:02:38"
+    }
+  ]
+}
