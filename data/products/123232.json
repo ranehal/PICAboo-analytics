@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123232",
+    "sku": "BE56XOO",
+    "name": "XO Colourful Helmet Headset with Lighting LED (BE56)",
+    "slug": "xo-colourful-helmet-headset-with-lighting-led-be56",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/e/be56-29-09-2026-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2100.0,
+    "special_price": 1680.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2100.0,
+      "special_price": 1680.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 19:26:52"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123235",
+    "sku": "FEU77MOV",
+    "name": "Foneng 20W GaN Charger with Type-C Cable (EU77)- White",
+    "slug": "foneng-20w-gan-charger-with-type-c-cable-eu77-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/u/eu77-29-9-261.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 699.0,
+    "special_price": 440.0,
+    "discount": 37.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 699.0,
+      "special_price": 440.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 19:26:52"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123240",
+    "sku": "BE37XOO",
+    "name": "XO Clip On Bluetooth Headphone ( BE37)",
+    "slug": "xo-clip-on-bluetooth-headphone-be37",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/placeholder/default/Pickaboo-plholder-thumb.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2440.0,
+    "special_price": 1950.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2440.0,
+      "special_price": 1950.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 19:26:52"
+    }
+  ]
+}
