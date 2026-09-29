@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "87792",
+    "sku": "XVVXFS12AJGDX",
+    "name": "Xiaomi Viomi Electric Stand Fan (VXFS12A-J)",
+    "slug": "xiaomi-viomi-electric-stand-fan-vxfs12a-j",
+    "category_id": "88",
+    "category_name": "Fan",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/x/vxfs12a-j-29-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4500.0,
+    "special_price": 2690.0,
+    "discount": 40.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4500.0,
+      "special_price": 2690.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 08:14:54"
+    }
+  ]
+}

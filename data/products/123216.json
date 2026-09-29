@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123216",
+    "sku": "NU6152SM06RYW",
+    "name": "Fastrack Stunners Quartz Analog Metal Strap Women\u2019s Watch (NU6152SM06)",
+    "slug": "fastrack-stunners-quartz-analog-black-dial-silver-metal-strap-women-s-watch-ns6152sm06",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/s/ns6152sm06-28-09-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3010.0,
+    "special_price": 2660.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3010.0,
+      "special_price": 2660.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 08:35:46"
+    }
+  ]
+}

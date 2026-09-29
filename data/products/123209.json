@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123209",
+    "sku": "CBNBATWEIOT",
+    "name": "CMF Buds Neo ANC True Wireless Earbuds",
+    "slug": "cmf-buds-neo-anc-true-wireless-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/m/cmf-buds-neo-28-9-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5990.0,
+    "special_price": 4350.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5990.0,
+      "special_price": 4350.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 08:20:20"
+    }
+  ]
+}

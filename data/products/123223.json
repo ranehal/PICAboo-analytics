@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123223",
+    "sku": "ACM25SCGSB",
+    "name": "Xiaomi Mijia Air Purifier 5 (AC-M25-SC)",
+    "slug": "xiaomi-mijia-air-purifier-5-ac-m25-sc",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/ac-m25-sc-29-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 40920.0,
+    "special_price": 27980.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 40920.0,
+      "special_price": 27980.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 08:10:15"
+    }
+  ]
+}

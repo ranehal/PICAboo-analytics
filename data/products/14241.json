@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/u/pureit-germ-kill-kit-1500l-18-5-25.jpg",
     "unit": "L",
     "unit_value": 1500.0,
-    "price": 800.0,
-    "special_price": 780.0,
-    "discount": 3.0,
+    "price": 900.0,
+    "special_price": 890.0,
+    "discount": 1.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -316,6 +316,13 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-09-27 02:34:51"
+    },
+    {
+      "price": 900.0,
+      "special_price": 890.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 08:10:09"
     }
   ]
 }

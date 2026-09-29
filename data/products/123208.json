@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123208",
+    "sku": "NU3250NM01RYW",
+    "name": "Fastrack Gamify Quartz Analog Grey Dial Metal Strap Men's Watch (NU3250NM01)",
+    "slug": "fastrack-gamify-quartz-analog-grey-dial-metal-strap-men-s-watch-nu3250nm01",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/u/nu3250nm01-28-09-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7364.0,
+    "special_price": 6520.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7364.0,
+      "special_price": 6520.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 08:35:53"
+    }
+  ]
+}

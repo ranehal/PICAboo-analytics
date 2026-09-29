@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/s/ns6152sm04-9.6.24.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4390.0,
-    "special_price": 3640.0,
-    "discount": 17.0,
+    "price": 4408.0,
+    "special_price": 3900.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -309,6 +309,13 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-09-27 03:06:57"
+    },
+    {
+      "price": 4408.0,
+      "special_price": 3900.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 08:40:23"
     }
   ]
 }

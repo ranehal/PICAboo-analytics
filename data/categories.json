@@ -25,7 +25,7 @@
     "name": "Air Fryer",
     "slug": "air-fryer",
     "parent_id": "7",
-    "prod_count": 72
+    "prod_count": 73
   },
   {
     "id": "452",
@@ -46,7 +46,7 @@
     "name": "Bluetooth Headphone",
     "slug": "bluetooth-headphone",
     "parent_id": "197",
-    "prod_count": 262
+    "prod_count": 263
   },
   {
     "id": "148",
@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 365
+    "prod_count": 366
   },
   {
     "id": "167",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 956
+    "prod_count": 959
   },
   {
     "id": "4312",
@@ -228,7 +228,7 @@
     "name": "Fan",
     "slug": "fan",
     "parent_id": "7",
-    "prod_count": 214
+    "prod_count": 215
   },
   {
     "id": "73",
@@ -466,7 +466,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 474
+    "prod_count": 479
   },
   {
     "id": "3915",
@@ -494,7 +494,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2003
+    "prod_count": 2013
   },
   {
     "id": "3480",
@@ -529,7 +529,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 169
+    "prod_count": 174
   },
   {
     "id": "47",
@@ -928,7 +928,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 462
+    "prod_count": 468
   },
   {
     "id": "460",

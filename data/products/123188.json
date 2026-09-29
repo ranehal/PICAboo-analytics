@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123188",
+    "sku": "DS15UGSB",
+    "name": "LDNIO DS-15U 5-in-1 Type-C Docking Station Hub",
+    "slug": "ldnio-ds-15u-5-in-1-type-c-docking-station-hub",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/s/ds-15u-28-sep-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1900.0,
+    "special_price": 1310.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1900.0,
+      "special_price": 1310.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 08:30:02"
+    }
+  ]
+}

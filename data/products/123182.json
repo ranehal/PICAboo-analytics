@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123182",
+    "sku": "F38164SM01RYW",
+    "name": "Fastrack Stunners X Quartz Analog Blue Dial Men\u2019s Watch (38164SM01)",
+    "slug": "fastrack-stunners-x-quartz-analog-blue-dial-men-s-watch-38164sm01",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/8/38164sm01-28-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5268.0,
+    "special_price": 4660.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5268.0,
+      "special_price": 4660.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-09-29 08:35:53"
+    }
+  ]
+}
