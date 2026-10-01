@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/w/hwm80-316s6-28-4-25.jpg",
     "unit": "kg",
     "unit_value": 8.0,
-    "price": 32900.0,
+    "price": 34400.0,
     "special_price": 27990.0,
-    "discount": 15.0,
+    "discount": 19.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -127,6 +127,13 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-09-29 08:08:12"
+    },
+    {
+      "price": 34400.0,
+      "special_price": 27990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-01 05:35:17"
     }
   ]
 }

@@ -46,7 +46,7 @@
     "name": "Bluetooth Headphone",
     "slug": "bluetooth-headphone",
     "parent_id": "197",
-    "prod_count": 264
+    "prod_count": 268
   },
   {
     "id": "148",
@@ -102,7 +102,7 @@
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 143
+    "prod_count": 144
   },
   {
     "id": "1731",
@@ -529,7 +529,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 182
+    "prod_count": 185
   },
   {
     "id": "47",

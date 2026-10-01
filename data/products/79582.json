@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-23l-oven-3-13-2024-2.jpg",
     "unit": "L",
     "unit_value": 23.0,
-    "price": 24900.0,
-    "special_price": 19190.0,
-    "discount": 23.0,
+    "price": 22500.0,
+    "special_price": 18790.0,
+    "discount": 16.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   "history": [
     {
@@ -323,6 +323,13 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-09-29 08:08:45"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 18790.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-01 05:36:07"
     }
   ]
 }

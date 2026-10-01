@@ -9,7 +9,7 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/p/sports-headphone-lite-blk-1-7-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2000.0,
+    "price": 1999.0,
     "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
@@ -323,6 +323,13 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-09-29 08:18:45"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-01 05:44:21"
     }
   ]
 }

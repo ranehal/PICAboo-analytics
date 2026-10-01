@@ -10,8 +10,8 @@
     "unit": "kg",
     "unit_value": 12.0,
     "price": 84900.0,
-    "special_price": 77900.0,
-    "discount": 8.0,
+    "special_price": 66990.0,
+    "discount": 21.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -330,6 +330,13 @@
       "discount": 8.0,
       "stock_available": 1,
       "scraped_at": "2026-09-29 08:08:56"
+    },
+    {
+      "price": 84900.0,
+      "special_price": 66990.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-01 05:35:22"
     }
   ]
 }

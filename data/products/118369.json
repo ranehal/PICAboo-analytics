@@ -323,6 +323,13 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-09-29 08:13:26"
+    },
+    {
+      "price": 57900.0,
+      "special_price": 54680.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-01 05:40:27"
     }
   ]
 }

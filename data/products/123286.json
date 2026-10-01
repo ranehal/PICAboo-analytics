@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123286",
+    "sku": "Q282AXOO",
+    "name": "XO Type C to Lightning 30W fast charging Data Cable (Q282A)",
+    "slug": "xo-type-c-to-lightning-30w-fast-charging-data-cable-q282a",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/q/2/q282a-30-09-2026-5.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 430.0,
+    "special_price": 349.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 430.0,
+      "special_price": 349.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-01 05:47:13"
+    }
+  ]
+}

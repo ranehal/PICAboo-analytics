@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/oppo-a6-6gb-19-8-26-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 28999.0,
-    "special_price": 27199.0,
-    "discount": 6.0,
+    "price": 29999.0,
+    "special_price": 28499.0,
+    "discount": 5.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -323,6 +323,13 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-09-29 08:17:38"
+    },
+    {
+      "price": 29999.0,
+      "special_price": 28499.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-01 05:43:12"
     }
   ]
 }

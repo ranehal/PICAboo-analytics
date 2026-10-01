@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123257",
+    "sku": "BE55XOO",
+    "name": "XO\u00a0Folding & Swiveling Headband Noise Cancelling ANC Headphone (BE55)",
+    "slug": "xo-folding-swiveling-headband-noise-cancelling-anc-headphone-be55",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/e/be55-30-09-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3535.0,
+    "special_price": 2829.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3535.0,
+      "special_price": 2829.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-01 05:45:40"
+    }
+  ]
+}
