@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123318",
+    "sku": "PR296XOO",
+    "name": "XO 10000mAh 22.5W Fast Charging Magnetic Gadget Power Bank (PR296)",
+    "slug": "xo-10000mah-22-5w-fast-charging-magnetic-gadget-power-bank-pr296",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/r/pr296-01-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4620.0,
+    "special_price": 3699.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4620.0,
+      "special_price": 3699.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 04:42:35"
+    }
+  ]
+}

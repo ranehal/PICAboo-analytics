@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104709",
+    "sku": "TYSOSW1MOV",
+    "name": "Oraimo Nova AM Bluetooth Calling Smart Watch (OSW-812)",
+    "slug": "oraimo-nova-am-smart-watch-osw-812",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/8/1/812--29-8-24---2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-10-02 05:04:59"
+    }
+  ]
+}

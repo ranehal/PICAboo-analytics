@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116463",
+    "sku": "MMALTD3PGDX",
+    "name": "MiLi MiTag Android Location Tracker Device - 3Pcs",
+    "slug": "mili-mitag-android-location-tracker-device-3pcs",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mili-mitag.jpg",
+    "unit": "pcs",
+    "unit_value": 3.0,
+    "price": 3750.0,
+    "special_price": 1899.0,
+    "discount": 49.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3750.0,
+      "special_price": 1899.0,
+      "discount": 49.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 04:46:39"
+    }
+  ]
+}

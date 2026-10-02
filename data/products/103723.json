@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103723",
+    "sku": "OPBP5101MOV",
+    "name": "Oraimo Slice Link 12W 10000mAh Power Bank (OPB-P5101)-Black",
+    "slug": "oraimo-slice-link-12w-10000mah-power-bank-opb-p5101-black",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/opb-p5101-27.8.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1610.0,
+    "special_price": 1336.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1610.0,
+      "special_price": 1336.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 04:48:48"
+    }
+  ]
+}

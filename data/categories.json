@@ -46,7 +46,7 @@
     "name": "Bluetooth Headphone",
     "slug": "bluetooth-headphone",
     "parent_id": "197",
-    "prod_count": 268
+    "prod_count": 270
   },
   {
     "id": "148",
@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 461
+    "prod_count": 466
   },
   {
     "id": "3565",
@@ -158,7 +158,7 @@
     "name": "Data Cable",
     "slug": "data-cable",
     "parent_id": "197",
-    "prod_count": 483
+    "prod_count": 485
   },
   {
     "id": "122",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 959
+    "prod_count": 960
   },
   {
     "id": "4312",
@@ -329,6 +329,13 @@
     "prod_count": 0
   },
   {
+    "id": "4553",
+    "name": "Haier",
+    "slug": "haier-washing-machine",
+    "parent_id": "66",
+    "prod_count": 0
+  },
+  {
     "id": "391",
     "name": "Hair Dryers",
     "slug": "hair-dryer",
@@ -368,6 +375,13 @@
     "name": "Hisense",
     "slug": "hisense-television",
     "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "4554",
+    "name": "Hitachi",
+    "slug": "hitachi-washing-machine",
+    "parent_id": "66",
     "prod_count": 0
   },
   {
@@ -455,6 +469,13 @@
     "prod_count": 0
   },
   {
+    "id": "4557",
+    "name": "LG",
+    "slug": "lg-washing-machine",
+    "parent_id": "66",
+    "prod_count": 0
+  },
+  {
     "id": "18",
     "name": "Laptop & Notebook",
     "slug": "laptop-notebook",
@@ -529,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 185
+    "prod_count": 200
   },
   {
     "id": "47",
@@ -637,6 +658,13 @@
     "prod_count": 116
   },
   {
+    "id": "4561",
+    "name": "Panasonic",
+    "slug": "panasonic-washing-machine",
+    "parent_id": "66",
+    "prod_count": 0
+  },
+  {
     "id": "52",
     "name": "Pen Drive",
     "slug": "pendrive",
@@ -655,7 +683,7 @@
     "name": "Power Bank",
     "slug": "power-bank",
     "parent_id": "197",
-    "prod_count": 333
+    "prod_count": 340
   },
   {
     "id": "3135",
@@ -742,6 +770,13 @@
     "prod_count": 0
   },
   {
+    "id": "4559",
+    "name": "Samsung",
+    "slug": "samsung-washing-machine",
+    "parent_id": "66",
+    "prod_count": 0
+  },
+  {
     "id": "200",
     "name": "Screen Protector",
     "slug": "screen-protector",
@@ -760,6 +795,13 @@
     "name": "Sharp",
     "slug": "sharp-television",
     "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "4560",
+    "name": "Sharp",
+    "slug": "sharp-washing-machine",
+    "parent_id": "66",
     "prod_count": 0
   },
   {
@@ -802,7 +844,7 @@
     "name": "Smart Gadget",
     "slug": "smart-gadgets",
     "parent_id": "197",
-    "prod_count": 170
+    "prod_count": 171
   },
   {
     "id": "3842",
@@ -858,7 +900,7 @@
     "name": "Speaker",
     "slug": "bluetooth-speaker",
     "parent_id": "197",
-    "prod_count": 219
+    "prod_count": 222
   },
   {
     "id": "4046",
@@ -907,7 +949,7 @@
     "name": "Television",
     "slug": "television",
     "parent_id": "",
-    "prod_count": 195
+    "prod_count": 196
   },
   {
     "id": "418",
@@ -928,7 +970,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 468
+    "prod_count": 470
   },
   {
     "id": "460",
@@ -959,6 +1001,13 @@
     "prod_count": 24
   },
   {
+    "id": "4556",
+    "name": "Walton",
+    "slug": "walton-washing-machine",
+    "parent_id": "66",
+    "prod_count": 0
+  },
+  {
     "id": "66",
     "name": "Washing Machine",
     "slug": "washing-machine",
@@ -987,11 +1036,18 @@
     "prod_count": 18
   },
   {
+    "id": "4555",
+    "name": "Whirlpool",
+    "slug": "whirlpool-washing-machine",
+    "parent_id": "66",
+    "prod_count": 0
+  },
+  {
     "id": "206",
     "name": "Wired Headphone ",
     "slug": "headphones",
     "parent_id": "197",
-    "prod_count": 236
+    "prod_count": 237
   },
   {
     "id": "568",
@@ -1012,6 +1068,13 @@
     "name": "Xiaomi",
     "slug": "xiaomi-television",
     "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "4558",
+    "name": "Xiaomi",
+    "slug": "xiaomi-washing-machine",
+    "parent_id": "66",
     "prod_count": 0
   },
   {

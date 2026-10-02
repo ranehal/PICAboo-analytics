@@ -323,6 +323,13 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-10-01 05:44:36"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-10-02 04:40:30"
     }
   ]
 }

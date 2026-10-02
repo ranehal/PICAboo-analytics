@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103697",
+    "sku": "OCD154CCMOV",
+    "name": "Oraimo FastLine 2 3A Type-C to C Data Cable (OCD-154CC)-Black",
+    "slug": "oraimo-fastline-2-3a-type-c-to-c-data-cable-ocd-154cc-black",
+    "category_id": "205",
+    "category_name": "Data Cable",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocd-154cc-27.8.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 250.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 250.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 04:53:33"
+    }
+  ]
+}

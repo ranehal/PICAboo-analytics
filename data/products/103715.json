@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103715",
+    "sku": "OEBE108DCMOV",
+    "name": "Oraimo FreePods Pro+ Hybrid ANC TWS Earbuds (OEB-E108DC)-Silver",
+    "slug": "oraimo-freepods-pro-hybrid-anc-tws-earbuds-oeb-e108dc-silver",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/e/oeb-e108dc-27.8.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4675.0,
+    "special_price": 3984.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4675.0,
+      "special_price": 3984.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 04:43:57"
+    }
+  ]
+}

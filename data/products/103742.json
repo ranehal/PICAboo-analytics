@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103742",
+    "sku": "OSW42MOV",
+    "name": "Oraimo Watch ER 1.43\u201d AMOLED Display Smart Watch (OSW-42)",
+    "slug": "oraimo-watch-er-1-43-amoled-display-smart-watch-osw-42",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/s/osw-42-23-11-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3635.0,
+    "special_price": 3094.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3635.0,
+      "special_price": 3094.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 05:05:52"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104385",
+    "sku": "HGCDOB0SMOV",
+    "name": "Oraimo Wrap Portable Bluetooth Wireless Speaker (OBS-40S)",
+    "slug": "oraimo-wrap-portable-bluetooth-wireless-speaker-obs-40s",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/b/obs-40s-27.8.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3495.0,
+    "special_price": 2981.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3495.0,
+      "special_price": 2981.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 04:45:47"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123296",
+    "sku": "NBQ298XOO",
+    "name": "XO Type C to Type C 240W Non-gadget Data Cable (NBQ298)",
+    "slug": "xo-type-c-to-type-c-240w-non-gadget-data-cable-nbq298",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/b/nbq298-01-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 375.0,
+    "special_price": 299.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 375.0,
+      "special_price": 299.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 04:42:35"
+    }
+  ]
+}

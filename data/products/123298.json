@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123298",
+    "sku": "NB276XOO",
+    "name": "XO 4 in 1 60W Multifunction Non-gadget Data Cable (NB276)",
+    "slug": "xo-4-in-1-multifunction-non-gadget-data-cable-nb276",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/b/nb276-01-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 705.0,
+    "special_price": 550.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 705.0,
+      "special_price": 550.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 04:42:35"
+    }
+  ]
+}

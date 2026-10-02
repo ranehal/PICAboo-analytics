@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123299",
+    "sku": "L152EU3XOO",
+    "name": "XO L152(EU) QC18W 1USB-A Fast Charger TYPE-C Kit (NB103)",
+    "slug": "xo-l152-eu-qc18w-1usb-a-fast-charger-type-c-kit-nb103",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/1/l152_eu_-01-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 690.0,
+    "special_price": 550.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 690.0,
+      "special_price": 550.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 04:42:35"
+    }
+  ]
+}

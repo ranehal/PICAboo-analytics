@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103739",
+    "sku": "OSW801MOV",
+    "name": "Oraimo Watch 4 Plus 2.01\" TFT Display Smart Watch (OSW-801)",
+    "slug": "oraimo-watch-4-plus-2-01-tft-display-smart-watch-osw-801",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/s/osw-801-27.8.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2745.0,
+    "special_price": 2366.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2745.0,
+      "special_price": 2366.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 05:05:52"
+    }
+  ]
+}

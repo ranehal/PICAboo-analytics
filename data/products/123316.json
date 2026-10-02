@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123316",
+    "sku": "BS37XOO",
+    "name": "XO Sports ANC & ENC 300mAh Full in-ear Magnetic Earbuds Neckband (BS37)",
+    "slug": "xo-sports-anc-enc-300mah-full-in-ear-magnetic-earbuds-neckband-bs37",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/s/bs37-01-10-2026-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3175.0,
+    "special_price": 2549.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3175.0,
+      "special_price": 2549.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-02 04:42:35"
+    }
+  ]
+}
