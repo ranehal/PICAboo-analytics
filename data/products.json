@@ -57530,10 +57530,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1535.0,
-    "special_price": 1310.0,
-    "discount": 15.0,
+    "special_price": 1366.0,
+    "discount": 11.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "112496",
@@ -113833,11 +113833,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/p/rpbp48-7-5-25-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2620.0,
-    "special_price": 1500.0,
-    "discount": 43.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "111710",
@@ -135337,10 +135337,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/h/wh-ult900n-28-3-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 33900.0,
-    "special_price": 15153.0,
-    "discount": 55.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -139497,10 +139497,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/r/jr-oe3-18-6-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 5440.0,
-    "special_price": 3580.0,
-    "discount": 34.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -164794,10 +164794,10 @@
     "unit": null,
     "unit_value": null,
     "price": 22800.0,
-    "special_price": 18690.0,
-    "discount": 18.0,
+    "special_price": 18890.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "102148",
@@ -199161,10 +199161,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/honor-600-lite-19-7-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 44999.0,
-    "special_price": 42299.0,
-    "discount": 6.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
