@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111273",
+    "sku": "OOUH511MOV",
+    "name": "Oraimo PowerTrans USB-C 7-in-1 Multi-Functional Hub (OUH-511)",
+    "slug": "oraimo-powertrans-usb-c-7-in-1-multi-functional-hub-ouh-511",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/u/ouh-511-3-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2220.0,
+    "special_price": 1976.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2220.0,
+      "special_price": 1976.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-04 06:20:52"
+    }
+  ]
+}

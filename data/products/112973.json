@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112973",
+    "sku": "OCW5183EM53MOV",
+    "name": "Oraimo 18W Dual Port Fast Charging Adapter with Micro USB Cable (OCW-5183E-M53)",
+    "slug": "oraimo-18w-dual-port-fast-charging-adapter-with-micro-usb-cable-ocw-5183e-m53",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocw-5183e-m53-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 520.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 520.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-04 06:11:19"
+    }
+  ]
+}

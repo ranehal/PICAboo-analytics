@@ -1,5 +1,85 @@
 [
   {
+    "id": "111273",
+    "sku": "OOUH511MOV",
+    "name": "Oraimo PowerTrans USB-C 7-in-1 Multi-Functional Hub (OUH-511)",
+    "slug": "oraimo-powertrans-usb-c-7-in-1-multi-functional-hub-ouh-511",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/u/ouh-511-3-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2220.0,
+    "special_price": 1976.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "112973",
+    "sku": "OCW5183EM53MOV",
+    "name": "Oraimo 18W Dual Port Fast Charging Adapter with Micro USB Cable (OCW-5183E-M53)",
+    "slug": "oraimo-18w-dual-port-fast-charging-adapter-with-micro-usb-cable-ocw-5183e-m53",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocw-5183e-m53-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 520.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "107006",
+    "sku": "OPB727SQMOV",
+    "name": "Oraimo PowerJet 130 27600mAh Power Bank (OPB-727SQ)",
+    "slug": "oraimo-powerjet-130-27600mah-power-bank-opb-727sq",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/opb-727sq-6-1-25--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7270.0,
+    "special_price": 6184.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "123339",
+    "sku": "G39XOO",
+    "name": "XO G39 ENC Metal TWS Earbuds",
+    "slug": "xo-g39-enc-metal-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/g/3/g39-04-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3225.0,
+    "special_price": 2580.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "123340",
+    "sku": "X43XOO",
+    "name": "XO X43 TWS Bluetooth 5.4 Wireless Earphones",
+    "slug": "xo-x43-tws-bluetooth-5-4-wireless-earphones",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/placeholder/default/Pickaboo-plholder-thumb.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2275.0,
+    "special_price": 1820.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
     "id": "103739",
     "sku": "OSW801MOV",
     "name": "Oraimo Watch 4 Plus 2.01\" TFT Display Smart Watch (OSW-801)",
@@ -3338,8 +3418,8 @@
     "unit": null,
     "unit_value": null,
     "price": 5780.0,
-    "special_price": 5450.0,
-    "discount": 6.0,
+    "special_price": 4979.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -5546,10 +5626,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3990.0,
-    "special_price": 2980.0,
-    "discount": 25.0,
+    "special_price": 3139.0,
+    "discount": 21.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "122895",
@@ -96010,10 +96090,10 @@
     "unit": null,
     "unit_value": null,
     "price": 250.0,
-    "special_price": 240.0,
-    "discount": 4.0,
+    "special_price": 0.0,
+    "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "89052",
@@ -103817,11 +103897,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/opb-1201-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2300.0,
-    "special_price": 2070.0,
-    "discount": 10.0,
+    "price": 1820.0,
+    "special_price": 1511.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "112435",
@@ -103945,11 +104025,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/opb-7270q-21-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2860.0,
-    "special_price": 2720.0,
-    "discount": 5.0,
+    "price": 3115.0,
+    "special_price": 0.0,
+    "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "113118",
@@ -113833,11 +113913,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/p/rpbp48-7-5-25-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 2620.0,
+    "special_price": 1500.0,
+    "discount": 43.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "111710",
@@ -119082,10 +119162,10 @@
     "unit": null,
     "unit_value": null,
     "price": 5990.0,
-    "special_price": 4630.0,
-    "discount": 23.0,
+    "special_price": 4829.0,
+    "discount": 19.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "102414",
@@ -123882,10 +123962,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3850.0,
-    "special_price": 3029.0,
-    "discount": 21.0,
+    "special_price": 3139.0,
+    "discount": 18.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "83076",
@@ -125546,10 +125626,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3990.0,
-    "special_price": 2549.0,
-    "discount": 36.0,
+    "special_price": 2585.0,
+    "discount": 35.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "108333",
@@ -132794,10 +132874,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3600.0,
-    "special_price": 3350.0,
-    "discount": 7.0,
+    "special_price": 3459.0,
+    "discount": 4.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "107021",
@@ -133018,8 +133098,8 @@
     "unit": null,
     "unit_value": null,
     "price": 9650.0,
-    "special_price": 7990.0,
-    "discount": 17.0,
+    "special_price": 7709.0,
+    "discount": 20.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -133034,10 +133114,10 @@
     "unit": null,
     "unit_value": null,
     "price": 9650.0,
-    "special_price": 7690.0,
+    "special_price": 7709.0,
     "discount": 20.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "111506",
@@ -133978,8 +134058,8 @@
     "unit": null,
     "unit_value": null,
     "price": 9650.0,
-    "special_price": 7790.0,
-    "discount": 19.0,
+    "special_price": 7699.0,
+    "discount": 20.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -136314,10 +136394,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3070.0,
-    "special_price": 2780.0,
-    "discount": 9.0,
+    "special_price": 2900.0,
+    "discount": 6.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116716",
@@ -137354,8 +137434,8 @@
     "unit": null,
     "unit_value": null,
     "price": 5799.0,
-    "special_price": 5300.0,
-    "discount": 9.0,
+    "special_price": 5039.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -141033,9 +141113,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/opn-672-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4675.0,
-    "special_price": 4208.0,
-    "discount": 10.0,
+    "price": 3855.0,
+    "special_price": 3350.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -143050,8 +143130,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2750.0,
-    "special_price": 2532.0,
-    "discount": 8.0,
+    "special_price": 2282.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -143865,11 +143945,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/solar-lite-2-22-feb-2026-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3699.0,
-    "special_price": 3200.0,
-    "discount": 13.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "116679",
@@ -144010,10 +144090,10 @@
     "unit": null,
     "unit_value": null,
     "price": 4900.0,
-    "special_price": 4450.0,
-    "discount": 9.0,
+    "special_price": 4539.0,
+    "discount": 7.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116967",
@@ -145929,9 +146009,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/s/osw-830-19-4-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 6200.0,
-    "special_price": 5680.0,
-    "discount": 8.0,
+    "price": 5975.0,
+    "special_price": 4990.0,
+    "discount": 16.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -146473,11 +146553,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/o/kospet-orb-2-11-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 8999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "121915",
@@ -198185,9 +198265,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vivo-y05-64gb-20-8-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 18999.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "price": 19499.0,
+    "special_price": 18599.0,
+    "discount": 5.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -199161,11 +199241,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/honor-600-lite-19-7-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 44999.0,
+    "special_price": 42299.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "120812",
@@ -199577,11 +199657,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/n/infinix-smart-10-3gb-19-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 13999.0,
-    "special_price": 12999.0,
-    "discount": 7.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "116383",
