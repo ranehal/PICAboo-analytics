@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123372",
+    "sku": "LST90ICGSB",
+    "name": "LDNIO Lightning to 3.5mm Female Adapter (LS-T90i)",
+    "slug": "ldnio-lightning-to-3-5mm-female-adapter-ls-t90i",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/s/ls-t90i-4-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 600.0,
+    "special_price": 450.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 600.0,
+      "special_price": 450.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:49:00"
+    }
+  ]
+}

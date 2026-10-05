@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/2/c210-11-4-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2890.0,
-    "special_price": 2149.0,
-    "discount": 26.0,
+    "price": 2438.0,
+    "special_price": 2223.0,
+    "discount": 9.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -351,6 +351,13 @@
       "discount": 26.0,
       "stock_available": 1,
       "scraped_at": "2026-10-04 06:14:38"
+    },
+    {
+      "price": 2438.0,
+      "special_price": 2223.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:58:33"
     }
   ]
 }

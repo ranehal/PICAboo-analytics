@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/r/brb-lovely-56-ceiling-fan-14-3-26-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4210.0,
-    "special_price": 4190.0,
-    "discount": 0.0,
+    "price": 4255.0,
+    "special_price": 4210.0,
+    "discount": 1.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -239,6 +239,13 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-10-04 06:01:51"
+    },
+    {
+      "price": 4255.0,
+      "special_price": 4210.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:40:31"
     }
   ]
 }

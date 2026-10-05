@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/c/3color--18-5-24.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1699.0,
-    "special_price": 1450.0,
-    "discount": 15.0,
+    "price": 1625.0,
+    "special_price": 1417.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -337,6 +337,13 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-10-04 06:16:13"
+    },
+    {
+      "price": 1625.0,
+      "special_price": 1417.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 05:00:55"
     }
   ]
 }

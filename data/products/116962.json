@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/microlab-fc330bt-2.1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 10500.0,
-    "special_price": 9630.0,
-    "discount": 8.0,
+    "price": 11250.0,
+    "special_price": 9900.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -309,6 +309,13 @@
       "discount": 8.0,
       "stock_available": 1,
       "scraped_at": "2026-10-03 03:58:54"
+    },
+    {
+      "price": 11250.0,
+      "special_price": 9900.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:58:43"
     }
   ]
 }

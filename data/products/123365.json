@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123365",
+    "sku": "MF102XOO",
+    "name": "XO MF102 3-in-1 Electric Handheld Fan",
+    "slug": "xo-mf102-3-in-1-electric-handheld-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/f/mf102-04-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2275.0,
+    "special_price": 1820.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2275.0,
+      "special_price": 1820.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:35:45"
+    }
+  ]
+}

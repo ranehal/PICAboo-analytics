@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123350",
+    "sku": "X50XOO",
+    "name": "XO X50 TWS LCD Black ANC Bluetooth earphones ",
+    "slug": "xo-x50-tws-lcd-black-anc-dual-mic",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/5/x50-04-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2560.0,
+    "special_price": 2049.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2560.0,
+      "special_price": 2049.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:49:00"
+    }
+  ]
+}

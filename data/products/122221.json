@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/halo-h30g-1pcs-15-8-26-1.jpg",
     "unit": "g",
     "unit_value": 30.0,
-    "price": 2900.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "price": 3690.0,
+    "special_price": 3190.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -281,6 +281,13 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-10-04 06:16:42"
+    },
+    {
+      "price": 3690.0,
+      "special_price": 3190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 05:00:40"
     }
   ]
 }

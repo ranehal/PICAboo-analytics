@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/o/logitech-mouse3-2-7-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3549.0,
-    "special_price": 3300.0,
-    "discount": 7.0,
+    "price": 3488.0,
+    "special_price": 3181.0,
+    "discount": 9.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -344,6 +344,13 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-10-04 06:14:43"
+    },
+    {
+      "price": 3488.0,
+      "special_price": 3181.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:58:47"
     }
   ]
 }

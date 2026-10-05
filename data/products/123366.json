@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123366",
+    "sku": "SF11XOO",
+    "name": "XO Colorful Light Wireless Doorbell (SF11)",
+    "slug": "xo-colorful-light-wireless-doorbell-sf11",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/f/sf11-04-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2235.0,
+    "special_price": 1789.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2235.0,
+      "special_price": 1789.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:35:45"
+    }
+  ]
+}

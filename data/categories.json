@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 960
+    "prod_count": 965
   },
   {
     "id": "4312",
@@ -298,7 +298,7 @@
     "name": "Grinder & Blender",
     "slug": "blender",
     "parent_id": "7",
-    "prod_count": 207
+    "prod_count": 208
   },
   {
     "id": "59",
@@ -417,7 +417,7 @@
     "name": "IP Cameras",
     "slug": "ip-camera",
     "parent_id": "20",
-    "prod_count": 38
+    "prod_count": 39
   },
   {
     "id": "474",
@@ -550,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 203
+    "prod_count": 212
   },
   {
     "id": "47",
@@ -858,7 +858,7 @@
     "name": "Smart Watch",
     "slug": "smart-watches",
     "parent_id": "197",
-    "prod_count": 436
+    "prod_count": 437
   },
   {
     "id": "1765",

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123384",
+    "sku": "ECH6CP3MEXL",
+    "name": "EZVIZ CS-H6C Pro 3MP Pan & Tilt Smart Home Security IP Camera",
+    "slug": "ezviz-cs-h6c-pro-3mp-pan-tilt-smart-home-security-ip-camera",
+    "category_id": "216",
+    "category_name": "IP Cameras",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/placeholder/default/Pickaboo-plholder-thumb.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2990.0,
+    "special_price": 2620.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2990.0,
+      "special_price": 2620.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:59:39"
+    }
+  ]
+}

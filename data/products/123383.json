@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123383",
+    "sku": "HES30VC2UGHRB",
+    "name": "Haier Zenglow 30 Liter Water Heater (Vertical)-ES30V-C2UG(BD)",
+    "slug": "haier-zenglow-30-liter-water-heater-vertical-es30v-c2ug-bd",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-zenglow-30-liter-water-heater-_vertical_-es30v-c2ug_bd_-10-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 13800.0,
+    "special_price": 11500.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13800.0,
+      "special_price": 11500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:35:45"
+    }
+  ]
+}

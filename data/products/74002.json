@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/o/logitech-c270-hd-webcam-111_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2599.0,
-    "special_price": 2300.0,
-    "discount": 12.0,
+    "price": 2558.0,
+    "special_price": 2373.0,
+    "discount": 7.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -344,6 +344,13 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-10-04 06:14:54"
+    },
+    {
+      "price": 2558.0,
+      "special_price": 2373.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:58:47"
     }
   ]
 }

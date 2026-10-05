@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/1/m196--6-3-25---1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1299.0,
-    "special_price": 1049.0,
-    "discount": 19.0,
+    "price": 1183.0,
+    "special_price": 1031.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -344,6 +344,13 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-10-04 06:14:43"
+    },
+    {
+      "price": 1183.0,
+      "special_price": 1031.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:58:43"
     }
   ]
 }

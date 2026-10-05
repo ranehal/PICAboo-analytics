@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123368",
+    "sku": "DK05AXOO",
+    "name": "XO USB 2-in-1 Card Reader (DK05A)",
+    "slug": "xo-usb-2-in-1-card-reader-dk05a",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/k/dk05a-04-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 340.0,
+    "special_price": 270.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 340.0,
+      "special_price": 270.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-05 04:49:00"
+    }
+  ]
+}
