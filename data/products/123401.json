@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123401",
+    "sku": "HMMJ12PGSB",
+    "name": "Hoco MMJ12 Plentiful 22.5W 50000mAh Power Bank",
+    "slug": "hoco-mmj12-plentiful-22-5w-50000mah-power-bank",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/m/mmj12-4-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4710.0,
+    "special_price": 3240.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4710.0,
+      "special_price": 3240.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-06 04:00:06"
+    }
+  ]
+}

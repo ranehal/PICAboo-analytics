@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/x/px152-27-4-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4299.0,
-    "special_price": 3300.0,
-    "discount": 23.0,
+    "price": 4499.0,
+    "special_price": 3848.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -351,6 +351,13 @@
       "discount": 23.0,
       "stock_available": 1,
       "scraped_at": "2026-10-05 04:54:49"
+    },
+    {
+      "price": 4499.0,
+      "special_price": 3848.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-06 04:07:45"
     }
   ]
 }

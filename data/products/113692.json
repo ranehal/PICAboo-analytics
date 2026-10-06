@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v005g-1budf-28-10-25-2.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 5636.0,
-    "special_price": 4549.0,
-    "discount": 19.0,
+    "price": 5390.0,
+    "special_price": 4430.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -344,6 +344,13 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-10-05 05:03:00"
+    },
+    {
+      "price": 5390.0,
+      "special_price": 4430.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-06 04:26:30"
     }
   ]
 }

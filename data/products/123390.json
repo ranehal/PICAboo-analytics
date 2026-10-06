@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123390",
+    "sku": "MG955165GSB",
+    "name": "Philips 9000 Series All-in-One Trimmer (MG9551/65)",
+    "slug": "philips-9000-series-all-in-one-trimmer-mg9551-65",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg9551-65-4-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15270.0,
+    "special_price": 10500.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15270.0,
+      "special_price": 10500.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-06 04:22:26"
+    }
+  ]
+}

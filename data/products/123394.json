@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123394",
+    "sku": "DB103AGSB",
+    "name": "Hoco 65W 60000mAh High Capacity Power Bank (DB103A)",
+    "slug": "hoco-65w-60000mah-high-capacity-power-bank-db103a",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/b/db103a-4-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7550.0,
+    "special_price": 5190.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7550.0,
+      "special_price": 5190.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-06 04:00:06"
+    }
+  ]
+}

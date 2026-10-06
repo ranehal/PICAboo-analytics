@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123403",
+    "sku": "SSP30SNT",
+    "name": "Sannai Powermax 30,000mAh 22.5W Fast Charging Power Bank (SP-30)",
+    "slug": "sannai-powermax-30-000mah-22-5w-fast-charging-power-bank-sp-30",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/p/sp-30-5-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3300.0,
+    "special_price": 3069.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3300.0,
+      "special_price": 3069.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-06 04:00:06"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123398",
+    "sku": "HDB49AGSB",
+    "name": "Hoco DB49 Action 22.5W 100000mAh Power Bank with Built-in Cables",
+    "slug": "hoco-db49-action-22-5w-100000mah-power-bank-with-built-in-cables",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/b/db49-4-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8280.0,
+    "special_price": 5690.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8280.0,
+      "special_price": 5690.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-06 04:00:06"
+    }
+  ]
+}
