@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115596",
+    "sku": "IA100C4GB64GB",
+    "name": "itel A100C 4GB/64GB",
+    "slug": "itel-a100c-4gb-64gb",
+    "category_id": "3173",
+    "category_name": "itel",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/cache/51a16c2d96dc116e20063db695fa4069/a/1/a100c--16-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11990.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11990.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-06 23:56:53"
+    }
+  ]
+}

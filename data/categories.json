@@ -1089,14 +1089,14 @@
     "name": "iPhone",
     "slug": "iphone",
     "parent_id": "171",
-    "prod_count": 3
+    "prod_count": 9
   },
   {
     "id": "3173",
     "name": "itel",
     "slug": "itel",
     "parent_id": "171",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "1833",

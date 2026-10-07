@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "123430",
+    "sku": "I18PM1TB",
+    "name": "iPhone 18 Pro Max 1TB (Pre-Book)",
+    "slug": "iphone-18-pro-max-1tb",
+    "category_id": "173",
+    "category_name": "iPhone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/cache/51a16c2d96dc116e20063db695fa4069/i/p/iphone-18-pro-max-1tb-10-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 429999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 429999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-06 23:56:51"
+    },
+    {
+      "price": 429999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-07 00:00:04"
+    }
+  ]
+}
