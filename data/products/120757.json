@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/h/wh950nb-14-6-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 15449.0,
-    "special_price": 12879.0,
-    "discount": 17.0,
+    "price": 15499.0,
+    "special_price": 0.0,
+    "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -358,6 +358,13 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-10-06 04:03:22"
+    },
+    {
+      "price": 15499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-07 23:04:30"
     }
   ]
 }

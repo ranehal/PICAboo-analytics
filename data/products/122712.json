@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122712",
+    "sku": "MIJN614ADR",
+    "name": "Mijia N614-CN Smart In-Car Humidifier",
+    "slug": "mijia-n614-cn-smart-in-car-humidifier",
+    "category_id": "452",
+    "category_name": "Air Purifier",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/i/m/images_-_2026-09-08T113109_164-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 4800.0,
+    "special_price": 4250.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4800.0,
+      "special_price": 4250.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-07 23:01:40"
+    }
+  ]
+}

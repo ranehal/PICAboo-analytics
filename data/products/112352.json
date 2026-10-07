@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/3/a36-black-20-8-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 14499.0,
-    "special_price": 13999.0,
-    "discount": 3.0,
+    "price": 14999.0,
+    "special_price": 14299.0,
+    "discount": 5.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -365,6 +365,13 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-10-06 03:48:02"
+    },
+    {
+      "price": 14999.0,
+      "special_price": 14299.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-07 23:00:27"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110579",
+    "sku": "C33WCCDGSB",
+    "name": "CMF by Nothing 33W Type-C Fast Charging Adapter (Chinese Variant)",
+    "slug": "cmf-by-nothing-33w-type-c-fast-charging-adapter",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/c/m/cmf-33w-1-6-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2600.0,
+    "special_price": 1790.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2600.0,
+      "special_price": 1790.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-07 23:04:59"
+    }
+  ]
+}

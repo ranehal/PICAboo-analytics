@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122718",
+    "sku": "JOJH3ADR",
+    "name": "JOYROOM JHead Series JR-JH3 Hybrid ANC Wireless Headphones",
+    "slug": "joyroom-jhead-series-jr-jh3-hybrid-anc-wireless-headphones",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/E/D/EDA009424701A-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 3500.0,
+    "special_price": 3150.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3500.0,
+      "special_price": 3150.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-07 23:04:32"
+    }
+  ]
+}

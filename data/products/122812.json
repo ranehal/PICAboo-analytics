@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122812",
+    "sku": "BASE20SADR",
+    "name": "Baseus Bowie E20s ENC TWS Earbuds",
+    "slug": "baseus-bowie-e20s-ipx5-enc-tws-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/S/e/See768c2c0edb44e3bf8d0a5a1553e352N_jpg_720x720q80-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1800.0,
+    "special_price": 1590.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1800.0,
+      "special_price": 1590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-07 23:04:24"
+    }
+  ]
+}

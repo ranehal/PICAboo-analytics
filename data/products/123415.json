@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123415",
+    "sku": "SSK23SNT",
+    "name": "Sannai Rhythm X Pro Bluetooth Speaker (SK-23)",
+    "slug": "sannai-rhythm-x-pro-bluetooth-speaker-sk-23",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/s/k/sk-23-6-10-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1350.0,
+    "special_price": 1089.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1350.0,
+      "special_price": 1089.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-07 23:04:49"
+    }
+  ]
+}
