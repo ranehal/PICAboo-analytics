@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122818",
+    "sku": "AWAT36ADR",
+    "name": "Awei AT36 Tri-Mode Wireless Low-Latency Gaming Headphone",
+    "slug": "awei-tri-mode-black-at36-bluetooth-wireless-low-latency-gaming-headset",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/m/images_-_2026-09-13T160125_659-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 4700.0,
+    "special_price": 3800.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4700.0,
+      "special_price": 3800.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-08 21:41:29"
+    }
+  ]
+}

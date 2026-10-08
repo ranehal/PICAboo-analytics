@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122722",
+    "sku": "HOHA10ADR",
+    "name": "Hoco Oleada Outdoor Wireless Speaker (HA10)",
+    "slug": "hoco-ha10-oleada-outdoor-wireless-bluetooth-speaker",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/H/o/Hoco-HA10-Wireless-Outdoor-40W-Speaker-price-in-Bangladesh-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 7000.0,
+    "special_price": 6350.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7000.0,
+      "special_price": 6350.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-08 21:41:15"
+    }
+  ]
+}

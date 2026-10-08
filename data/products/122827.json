@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122827",
+    "sku": "ACES2ADR",
+    "name": "Acefast S2 Button Type Positioning Device Single - Black",
+    "slug": "acefast-s2-button-type-positioning-device-single-black",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/2/4/240502105-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1400.0,
+    "special_price": 1100.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1400.0,
+      "special_price": 1100.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-08 21:41:48"
+    }
+  ]
+}

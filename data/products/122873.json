@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/h/ohs-220n-14-sep-2026-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2500.0,
-    "special_price": 1590.0,
-    "discount": 36.0,
+    "price": 2075.0,
+    "special_price": 1870.0,
+    "discount": 10.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -148,6 +148,13 @@
       "discount": 36.0,
       "stock_available": 1,
       "scraped_at": "2026-10-07 23:10:58"
+    },
+    {
+      "price": 2075.0,
+      "special_price": 1870.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-08 21:47:16"
     }
   ]
 }

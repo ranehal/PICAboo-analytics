@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122720",
+    "sku": "JOHG2ADR",
+    "name": "Joyroom JHead JR-HG2 Gaming Headphone",
+    "slug": "joyroom-jhead-jr-hg2-gaming-headphone",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/_/1_67e9133a-6423-4799-be4d-d12c66dbba1f_540x-removebg-preview.png",
+    "unit": "g",
+    "unit_value": 2.0,
+    "price": 2000.0,
+    "special_price": 1700.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1700.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-08 21:46:41"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123459",
+    "sku": "NFH2SWGSB",
+    "name": "Noise NoiseFit Halo 2 Smart Watch",
+    "slug": "noise-noisefit-halo-2-smart-watch",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/a/halo-2-8-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9740.0,
+    "special_price": 6700.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9740.0,
+      "special_price": 6700.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-08 21:40:32"
+    }
+  ]
+}

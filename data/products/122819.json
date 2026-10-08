@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122819",
+    "sku": "AWAT7ADR",
+    "name": "Awei AT7 Bluetooth Wireless Headphones - Black",
+    "slug": "awei-at7-bluetooth-wireless-headphones-black",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/t/at7-01-500x500-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1700.0,
+    "special_price": 1350.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1700.0,
+      "special_price": 1350.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-08 21:41:02"
+    }
+  ]
+}

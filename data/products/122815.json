@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122815",
+    "sku": "AWPA91ADR",
+    "name": "Awei 10000mAh 22.5W Fast Charging Power Bank with Built-in Cables (PA-91)",
+    "slug": "awei-pa-91-22-5w-fast-charging-power-bank-with-built-in-cable-10000mah",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/p/a/pa-91-01-500x500-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1800.0,
+    "special_price": 1480.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1800.0,
+      "special_price": 1480.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-08 21:41:50"
+    }
+  ]
+}

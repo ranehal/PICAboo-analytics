@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/o/_oao-561a_-7-24-26-4.jpg",
     "unit": "L",
     "unit_value": 20.0,
-    "price": 17450.0,
-    "special_price": 13990.0,
-    "discount": 20.0,
+    "price": 16450.0,
+    "special_price": 14810.0,
+    "discount": 10.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -372,6 +372,13 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-10-07 23:01:18"
+    },
+    {
+      "price": 16450.0,
+      "special_price": 14810.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-08 21:37:54"
     }
   ]
 }

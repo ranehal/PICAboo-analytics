@@ -46,7 +46,7 @@
     "name": "Bluetooth Headphone",
     "slug": "bluetooth-headphone",
     "parent_id": "197",
-    "prod_count": 271
+    "prod_count": 275
   },
   {
     "id": "148",
@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 371
+    "prod_count": 372
   },
   {
     "id": "167",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 967
+    "prod_count": 968
   },
   {
     "id": "4312",
@@ -550,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 224
+    "prod_count": 225
   },
   {
     "id": "47",
@@ -683,7 +683,7 @@
     "name": "Power Bank",
     "slug": "power-bank",
     "parent_id": "197",
-    "prod_count": 343
+    "prod_count": 346
   },
   {
     "id": "3135",
@@ -844,7 +844,7 @@
     "name": "Smart Gadget",
     "slug": "smart-gadgets",
     "parent_id": "197",
-    "prod_count": 171
+    "prod_count": 172
   },
   {
     "id": "3842",
@@ -900,7 +900,7 @@
     "name": "Speaker",
     "slug": "bluetooth-speaker",
     "parent_id": "197",
-    "prod_count": 225
+    "prod_count": 228
   },
   {
     "id": "4046",
