@@ -9,10 +9,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-usb-c-25w-pd-adapter-_3-pin_.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2499.0,
-    "special_price": 1599.0,
-    "discount": 36.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   "history": [
@@ -372,6 +372,13 @@
       "discount": 36.0,
       "stock_available": 1,
       "scraped_at": "2026-10-08 21:39:57"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-10-09 20:41:54"
     }
   ]
 }
