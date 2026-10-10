@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/a/ua43u8510frser-5_1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 51900.0,
-    "special_price": 45990.0,
-    "discount": 11.0,
+    "price": 55900.0,
+    "special_price": 44390.0,
+    "discount": 21.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -393,6 +393,13 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-10-09 20:38:45"
+    },
+    {
+      "price": 55900.0,
+      "special_price": 44390.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-10 19:20:47"
     }
   ]
 }

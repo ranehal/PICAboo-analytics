@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/m/omo-821a-2-sep-2026-1.jpg",
     "unit": "L",
     "unit_value": 27.0,
-    "price": 34820.0,
-    "special_price": 31340.0,
-    "discount": 10.0,
+    "price": 40000.0,
+    "special_price": 28790.0,
+    "discount": 28.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   "history": [
     {
@@ -246,6 +246,13 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-10-09 20:39:05"
+    },
+    {
+      "price": 40000.0,
+      "special_price": 28790.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-10 19:21:02"
     }
   ]
 }

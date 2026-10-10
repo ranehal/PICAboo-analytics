@@ -10,8 +10,8 @@
     "unit": "g",
     "unit_value": 15.0,
     "price": 4790.0,
-    "special_price": 4190.0,
-    "discount": 13.0,
+    "special_price": 4090.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -386,6 +386,13 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-10-09 20:39:22"
+    },
+    {
+      "price": 4790.0,
+      "special_price": 4090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-10 19:20:39"
     }
   ]
 }

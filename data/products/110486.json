@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/l/allura-premia-29-5-25-1.jpg",
     "unit": "L",
     "unit_value": 7.0,
-    "price": 34000.0,
-    "special_price": 31690.0,
-    "discount": 7.0,
+    "price": 34500.0,
+    "special_price": 29690.0,
+    "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   "history": [
     {
@@ -386,6 +386,13 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-10-09 20:39:31"
+    },
+    {
+      "price": 34500.0,
+      "special_price": 29690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-10 19:21:31"
     }
   ]
 }
