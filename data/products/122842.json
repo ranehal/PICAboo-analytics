@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122842",
+    "sku": "HOHI38ADR",
+    "name": "Hoco HI38 USB Internal Antenna Wi-Fi4 Network Card",
+    "slug": "hoco-hi38-wifi4-usb-internal-antenna-wireless-network-card",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/6/9/6942007681438_wifi_adapter_hoco_wifi4_usb_internal_antenna_wirel_7-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 700.0,
+    "special_price": 550.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 700.0,
+      "special_price": 550.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:49:03"
+    }
+  ]
+}

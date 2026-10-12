@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123498",
+    "sku": "BG20DCGSB",
+    "name": "Baseus Glimmer Series 20W Type-C to Lightning 1M Fast Charging Data Cable",
+    "slug": "baseus-glimmer-series-20w-type-c-to-lightning-1m-fast-charging-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/l/glimmer-20w-1m-11-oct-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 730.0,
+    "special_price": 550.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 730.0,
+      "special_price": 550.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:44:42"
+    }
+  ]
+}

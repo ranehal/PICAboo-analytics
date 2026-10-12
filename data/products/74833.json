@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/1/m1010-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 15293.0,
-    "special_price": 13298.0,
-    "discount": 13.0,
+    "price": 15000.0,
+    "special_price": 13650.0,
+    "discount": 9.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -386,6 +386,13 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-10-10 19:29:00"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 13650.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:48:46"
     }
   ]
 }

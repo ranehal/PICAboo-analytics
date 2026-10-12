@@ -10,8 +10,8 @@
     "unit": "L",
     "unit_value": 32.0,
     "price": 11000.0,
-    "special_price": 8999.0,
-    "discount": 18.0,
+    "special_price": 8890.0,
+    "discount": 19.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -386,6 +386,13 @@
       "discount": 18.0,
       "stock_available": 1,
       "scraped_at": "2026-10-10 19:21:12"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8890.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:41:12"
     }
   ]
 }

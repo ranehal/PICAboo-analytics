@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122832",
+    "sku": "BOBH138ADR",
+    "name": "Borofone BH138 Metal Foldable Desktop Stand",
+    "slug": "borofone-bh138-metal-foldable-desktop-stand",
+    "category_id": "202",
+    "category_name": "Others ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/7/1789041012_6aa29974238e2-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 600.0,
+    "special_price": 380.0,
+    "discount": 37.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 600.0,
+      "special_price": 380.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:47:52"
+    }
+  ]
+}

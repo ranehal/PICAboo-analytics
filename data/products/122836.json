@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122836",
+    "sku": "HOHI26ADR",
+    "name": "Hoco HI26 Self-Powered Wireless Doorbell",
+    "slug": "hoco-hi26-self-powered-wireless-doorbell-150m-range-38-chimes",
+    "category_id": "3842",
+    "category_name": "Smart Home",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/m/images_-_2026-09-13T211755_147-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1600.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1600.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:43:06"
+    }
+  ]
+}

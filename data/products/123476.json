@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123476",
+    "sku": "NHPESWGSB",
+    "name": "Noise NoiseFit Halo Plus Elite Edition Metal Smart Watch",
+    "slug": "noise-noisefit-halo-plus-elite-edition-metal-smart-watch",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/a/halo-plus11-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7470.0,
+    "special_price": 5140.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7470.0,
+      "special_price": 5140.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:45:02"
+    }
+  ]
+}

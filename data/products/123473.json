@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123473",
+    "sku": "B65WPWCCMA",
+    "name": "Belkin 65W Boost Charger Pro GaN Dual Wall Charger\u00a0",
+    "slug": "belkin-65w-boost-charger-pro-gan-dual-wall-charger",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/6/5/65w_11_10_26_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:47:14"
+    }
+  ]
+}

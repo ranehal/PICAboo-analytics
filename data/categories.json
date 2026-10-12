@@ -46,7 +46,7 @@
     "name": "Bluetooth Headphone",
     "slug": "bluetooth-headphone",
     "parent_id": "197",
-    "prod_count": 275
+    "prod_count": 276
   },
   {
     "id": "148",
@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 467
+    "prod_count": 469
   },
   {
     "id": "3565",
@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 372
+    "prod_count": 374
   },
   {
     "id": "167",
@@ -550,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 226
+    "prod_count": 227
   },
   {
     "id": "47",
@@ -578,7 +578,7 @@
     "name": "Mouse & Keyboard",
     "slug": "mouse",
     "parent_id": "20",
-    "prod_count": 201
+    "prod_count": 205
   },
   {
     "id": "4036",
@@ -641,7 +641,7 @@
     "name": "Others ",
     "slug": "mobile-accessories-others",
     "parent_id": "197",
-    "prod_count": 208
+    "prod_count": 211
   },
   {
     "id": "1983",
@@ -683,7 +683,7 @@
     "name": "Power Bank",
     "slug": "power-bank",
     "parent_id": "197",
-    "prod_count": 346
+    "prod_count": 347
   },
   {
     "id": "3135",
@@ -851,14 +851,14 @@
     "name": "Smart Home",
     "slug": "smart-home",
     "parent_id": "7",
-    "prod_count": 119
+    "prod_count": 121
   },
   {
     "id": "226",
     "name": "Smart Watch",
     "slug": "smart-watches",
     "parent_id": "197",
-    "prod_count": 437
+    "prod_count": 438
   },
   {
     "id": "1765",
@@ -872,7 +872,7 @@
     "name": "Smartphones",
     "slug": "smartphone",
     "parent_id": "",
-    "prod_count": 99
+    "prod_count": 100
   },
   {
     "id": "3475",
@@ -949,7 +949,7 @@
     "name": "Television",
     "slug": "television",
     "parent_id": "",
-    "prod_count": 197
+    "prod_count": 199
   },
   {
     "id": "418",
@@ -1001,6 +1001,13 @@
     "prod_count": 24
   },
   {
+    "id": "3495",
+    "name": "Walton",
+    "slug": "walton-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
     "id": "4556",
     "name": "Walton",
     "slug": "walton-washing-machine",
@@ -1047,7 +1054,7 @@
     "name": "Wired Headphone ",
     "slug": "headphones",
     "parent_id": "197",
-    "prod_count": 237
+    "prod_count": 238
   },
   {
     "id": "568",
@@ -1089,7 +1096,7 @@
     "name": "iPhone",
     "slug": "iphone",
     "parent_id": "171",
-    "prod_count": 9
+    "prod_count": 10
   },
   {
     "id": "3173",

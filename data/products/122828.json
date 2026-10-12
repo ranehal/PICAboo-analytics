@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122828",
+    "sku": "HOM119ADR",
+    "name": "Hoco M119A Mia 2-in-1 Type-C & 3.5mm Universal Digital Earphones",
+    "slug": "hoco-m119a-mia-2-in-1-type-c-3-5mm-universal-digital-earphones",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/o/hoco-m119a-mia-type-c-3_5mm-dual-interface-earphones-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 800.0,
+    "special_price": 650.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 800.0,
+      "special_price": 650.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:45:22"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122841",
+    "sku": "HOGM751ADR",
+    "name": "HOCO GM751 Elegante 3-mode Wireless Gaming Keyboard - Black",
+    "slug": "hoco-gm751-elegante-3-mode-wireless-gaming-keyboard-black",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/E/D/EDA009845301A_3-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 3000.0,
+    "special_price": 2200.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3000.0,
+      "special_price": 2200.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:48:43"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123478",
+    "sku": "I18P1TB",
+    "name": "iPhone 18 Pro 1TB",
+    "slug": "iphone-18-pro-1tb",
+    "category_id": "173",
+    "category_name": "iPhone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/p/iphone-18-pro-1tb-1011-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-10-12 05:40:57"
+    }
+  ]
+}

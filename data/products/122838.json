@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122838",
+    "sku": "HOCH601ADR",
+    "name": "Hoco GM601 Grandeza Wired Gaming Mouse - Black",
+    "slug": "hoco-gm601-grandeza-wired-gaming-mouse-black",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/g/sg-11134201-8259d-mqd78tvxj40b5f-removebg-preview.png",
+    "unit": "g",
+    "unit_value": 601.0,
+    "price": 1100.0,
+    "special_price": 800.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1100.0,
+      "special_price": 800.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:48:19"
+    }
+  ]
+}

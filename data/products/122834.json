@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122834",
+    "sku": "HOGA4ADR",
+    "name": "Hoco GA4 Laptop Cooler Pad - Black",
+    "slug": "hoco-ga4-jade-cooling-stand-for-12-17-inch-laptop-black",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/6/1/61tnQqT-Q-L_AC_UF1000_1000_QL80_-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2800.0,
+    "special_price": 2400.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:49:03"
+    }
+  ]
+}

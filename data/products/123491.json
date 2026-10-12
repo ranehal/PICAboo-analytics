@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123491",
+    "sku": "BN30PBGSB",
+    "name": "Baseus Nomos 30W 10000mAh Power Bank with Built\u2011in Cable",
+    "slug": "baseus-nomos-30w-10000mah-power-bank-with-built-in-cable",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/o/nomos-30w-10000-11-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3170.0,
+    "special_price": 2180.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3170.0,
+      "special_price": 2180.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-12 05:46:13"
+    }
+  ]
+}
