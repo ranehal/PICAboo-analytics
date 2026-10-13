@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122846",
+    "sku": "HOHC53ADR",
+    "name": "Hoco HC53 Suyun Sports Portable Bluetooth Speaker - Black",
+    "slug": "hoco-hc53-suyun-sports-portable-tws-bluetooth-speaker-black",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/E/D/EDA009876601A-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2200.0,
+    "special_price": 1580.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2200.0,
+      "special_price": 1580.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-13 04:30:49"
+    }
+  ]
+}

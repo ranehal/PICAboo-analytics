@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123513",
+    "sku": "MILGR805MST",
+    "name": "Minister Electric Kettle (MI-LGR-805)",
+    "slug": "minister-electric-kettle-mi-lgr-805",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/0/805-12-10-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2350.0,
+    "special_price": 2090.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2350.0,
+      "special_price": 2090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-13 04:36:24"
+    }
+  ]
+}

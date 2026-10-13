@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123505",
+    "sku": "BWXJNBEGSB",
+    "name": "Baseus WXJN-01 Big Energy 15W Magnetic Car Mount Wireless Charger",
+    "slug": "baseus-wxjn-01-big-energy-15w-magnetic-car-mount-wireless-charger",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/w/x/wxjn-01-12-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4140.0,
+    "special_price": 2850.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4140.0,
+      "special_price": 2850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-13 04:29:53"
+    }
+  ]
+}

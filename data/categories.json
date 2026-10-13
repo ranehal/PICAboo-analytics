@@ -46,7 +46,7 @@
     "name": "Bluetooth Headphone",
     "slug": "bluetooth-headphone",
     "parent_id": "197",
-    "prod_count": 276
+    "prod_count": 277
   },
   {
     "id": "148",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 968
+    "prod_count": 974
   },
   {
     "id": "4312",
@@ -228,7 +228,7 @@
     "name": "Fan",
     "slug": "fan",
     "parent_id": "7",
-    "prod_count": 215
+    "prod_count": 216
   },
   {
     "id": "73",
@@ -550,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 227
+    "prod_count": 228
   },
   {
     "id": "47",
@@ -683,7 +683,7 @@
     "name": "Power Bank",
     "slug": "power-bank",
     "parent_id": "197",
-    "prod_count": 347
+    "prod_count": 349
   },
   {
     "id": "3135",
@@ -844,7 +844,7 @@
     "name": "Smart Gadget",
     "slug": "smart-gadgets",
     "parent_id": "197",
-    "prod_count": 172
+    "prod_count": 173
   },
   {
     "id": "3842",
@@ -900,7 +900,7 @@
     "name": "Speaker",
     "slug": "bluetooth-speaker",
     "parent_id": "197",
-    "prod_count": 228
+    "prod_count": 230
   },
   {
     "id": "4046",
@@ -949,7 +949,7 @@
     "name": "Television",
     "slug": "television",
     "parent_id": "",
-    "prod_count": 199
+    "prod_count": 202
   },
   {
     "id": "418",
@@ -970,7 +970,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 474
+    "prod_count": 477
   },
   {
     "id": "460",

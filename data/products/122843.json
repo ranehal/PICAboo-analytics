@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122843",
+    "sku": "HOGM205ADR",
+    "name": "Hoco GM205 3-in-1 Wireless Presentation Remote",
+    "slug": "hoco-gm205-3-in-1-wireless-presentation-remote",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/o/hoco-gm205-3-in-1-wireless-presentation-remote-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1600.0,
+    "special_price": 1280.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1600.0,
+      "special_price": 1280.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-13 04:31:09"
+    }
+  ]
+}

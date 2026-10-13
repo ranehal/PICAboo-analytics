@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122878",
+    "sku": "WIWUT36ADR",
+    "name": "WiWU T36 ANC Gaming TWS Earbuds - White",
+    "slug": "wiwu-t36-anc-black-tws-bluetooth-gaming-earbuds-black",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/0/3/03_2a1e09c0-5ab3-4e84-a9d9-6dea2d847089-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2600.0,
+    "special_price": 2280.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2600.0,
+      "special_price": 2280.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-13 04:30:15"
+    }
+  ]
+}

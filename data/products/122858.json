@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122858",
+    "sku": "HORM33ADR",
+    "name": "Hoco RM33 20000mAh Power Bank with 22.5W Fast Charging - Black",
+    "slug": "hoco-rm33-20000mah-power-bank-with-22-5w-fast-charging-black",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/o/hoco-rm33-20000mah-power-bank-black-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2200.0,
+    "special_price": 1800.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2200.0,
+      "special_price": 1800.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-13 04:31:15"
+    }
+  ]
+}

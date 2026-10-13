@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122877",
+    "sku": "WIWUT31ADR",
+    "name": "WiWU T31 ENC TWS Earbuds - Black",
+    "slug": "wiwu-t31-enc-true-wireless-earbuds-black",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/0/5/05_1dbfac1f-2d26-4b87-a1a9-766b967a649b_1_-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1680.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1680.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-13 04:30:15"
+    }
+  ]
+}

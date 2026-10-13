@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122844",
+    "sku": "HOHC27ADR",
+    "name": "Hoco HC27 16W Powerful 3D Sound Wireless Speaker - Black",
+    "slug": "hoco-hc27-16w-powerful-3d-sound-wireless-speaker-black",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/2/b2937d71c33d4c73a208095417755672-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2200.0,
+    "special_price": 1750.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2200.0,
+      "special_price": 1750.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-13 04:30:29"
+    }
+  ]
+}

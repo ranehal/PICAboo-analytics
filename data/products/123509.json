@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123509",
+    "sku": "MIEKX200MST",
+    "name": "Minister Electric Kettle (MI- EKX-200)",
+    "slug": "minister-electric-kettle-mi-ekx-200",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/2/0/200-12-10-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1099.0,
+    "special_price": 1090.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1099.0,
+      "special_price": 1090.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-13 04:36:20"
+    }
+  ]
+}
