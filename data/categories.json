@@ -53,7 +53,7 @@
     "name": "Camera Accessories",
     "slug": "camera-accessories",
     "parent_id": "197",
-    "prod_count": 39
+    "prod_count": 40
   },
   {
     "id": "1742",
@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 469
+    "prod_count": 471
   },
   {
     "id": "3565",
@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 374
+    "prod_count": 376
   },
   {
     "id": "167",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 974
+    "prod_count": 975
   },
   {
     "id": "4312",
@@ -284,7 +284,7 @@
     "name": "Google",
     "slug": "google",
     "parent_id": "171",
-    "prod_count": 2
+    "prod_count": 3
   },
   {
     "id": "3477",
@@ -487,7 +487,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 481
+    "prod_count": 485
   },
   {
     "id": "3915",
@@ -515,7 +515,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2013
+    "prod_count": 2021
   },
   {
     "id": "3480",
@@ -634,14 +634,14 @@
     "name": "Others",
     "slug": "electronics-others",
     "parent_id": "7",
-    "prod_count": 171
+    "prod_count": 172
   },
   {
     "id": "202",
     "name": "Others ",
     "slug": "mobile-accessories-others",
     "parent_id": "197",
-    "prod_count": 211
+    "prod_count": 212
   },
   {
     "id": "1983",
@@ -788,7 +788,7 @@
     "name": "Selfie Stick",
     "slug": "selfie-sticks-vr-otg",
     "parent_id": "197",
-    "prod_count": 28
+    "prod_count": 30
   },
   {
     "id": "3494",
@@ -844,7 +844,7 @@
     "name": "Smart Gadget",
     "slug": "smart-gadgets",
     "parent_id": "197",
-    "prod_count": 173
+    "prod_count": 174
   },
   {
     "id": "3842",
@@ -900,7 +900,7 @@
     "name": "Speaker",
     "slug": "bluetooth-speaker",
     "parent_id": "197",
-    "prod_count": 230
+    "prod_count": 237
   },
   {
     "id": "4046",
@@ -956,7 +956,7 @@
     "name": "Tools & Hardware",
     "slug": "tools-hardware",
     "parent_id": "7",
-    "prod_count": 177
+    "prod_count": 190
   },
   {
     "id": "3476",
@@ -970,7 +970,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 477
+    "prod_count": 478
   },
   {
     "id": "460",

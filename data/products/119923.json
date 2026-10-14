@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119923",
+    "sku": "THKTHP11292TOO",
+    "name": "TOTAL 129 Pcs Tools Set (THKTHP11292)",
+    "slug": "total-129-pcs-tools-set-thkthp11292",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/s/tsdli04425-13-10-26.jpg",
+    "unit": "pcs",
+    "unit_value": 129.0,
+    "price": 5500.0,
+    "special_price": 4880.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5500.0,
+      "special_price": 4880.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:29:10"
+    }
+  ]
+}

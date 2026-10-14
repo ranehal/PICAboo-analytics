@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122977",
+    "sku": "HOHP65ADR",
+    "name": "Hoco HP65 Ears Cleaning Tool with Camera - White",
+    "slug": "hoco-hp65-ears-cleaning-tool-with-camera-white",
+    "category_id": "202",
+    "category_name": "Others ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/-/1-removebg-preview_1.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1800.0,
+    "special_price": 1500.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1800.0,
+      "special_price": 1500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:33:38"
+    }
+  ]
+}

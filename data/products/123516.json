@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123516",
+    "sku": "DW5600STT1BNS",
+    "name": "Casio G-Shock 5600 Series Men\u2019s Watch (DW-5600STT-1)",
+    "slug": "casio-g-shock-5600-series-men-s-watch-dw-5600stt-1",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/5/6/5600stt-13-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24500.0,
+    "special_price": 23680.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24500.0,
+      "special_price": 23680.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:37:40"
+    }
+  ]
+}

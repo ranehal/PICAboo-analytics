@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122986",
+    "sku": "HOHC46ADR",
+    "name": "HOCO HC46 Bluetooth HiFi Audio Speaker - Black",
+    "slug": "hoco-hc46-bluetooth-hifi-audio-speaker-black",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/H/O/HOCO-HC46-Bluetooth-HiFi-Audio-Speaker-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 1150.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 1150.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:31:45"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122978",
+    "sku": "HOL27ADR",
+    "name": "HOCO L27 Type-C Hidden Wireless Microphone (Dual Clip-on Lapel Mic) - Black",
+    "slug": "hoco-l27-type-c-hidden-wireless-microphone-dual-clip-on-lapel-mic-black",
+    "category_id": "148",
+    "category_name": "Camera Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/H/o/Hoco-L27-600x600-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 3000.0,
+    "special_price": 2500.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3000.0,
+      "special_price": 2500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:32:05"
+    }
+  ]
+}

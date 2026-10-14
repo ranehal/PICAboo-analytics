@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "86051",
+    "sku": "GSGA1A1DRBNS",
+    "name": "Casio G-SHOCK GA-2100-1A1DR Analogue-Digital Men\u2019s Watch",
+    "slug": "g-shock-ga-2100-1a1dr-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/2/g2-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18500.0,
+    "special_price": 17880.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18500.0,
+      "special_price": 17880.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:37:03"
+    }
+  ]
+}

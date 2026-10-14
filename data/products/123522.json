@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123522",
+    "sku": "TTG11010056TOO",
+    "name": "Total Angle Grinder (TG11010056)",
+    "slug": "total-angle-grinder-tg11010056",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/g/tg11010056-13-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4650.0,
+    "special_price": 4130.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4650.0,
+      "special_price": 4130.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:29:22"
+    }
+  ]
+}

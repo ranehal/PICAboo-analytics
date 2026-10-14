@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122883",
+    "sku": "LDNIOQ336ADR",
+    "name": "LDNIO Q366 65W GaN Supper Fast Charger - Black",
+    "slug": "ldnio-q366-65w-gan-supper-fast-charger-black",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/l/d/ldnio-20-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2800.0,
+    "special_price": 2000.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2800.0,
+      "special_price": 2000.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:33:34"
+    }
+  ]
+}

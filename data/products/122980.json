@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122980",
+    "sku": "HODQ12ADR",
+    "name": "Hoco DQ12 Portable Wi-fi Router with Display - White",
+    "slug": "hoco-dq12-mobile-portable-wifi-with-display-white",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/6/8/68f7a9687a202ffeaf6b9229adca4af7_jpg_720x720q80-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 3200.0,
+    "special_price": 2900.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3200.0,
+      "special_price": 2900.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:35:28"
+    }
+  ]
+}

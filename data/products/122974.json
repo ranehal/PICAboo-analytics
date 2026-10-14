@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122974",
+    "sku": "HODI109ADR",
+    "name": "HOCO DI109 Powerful 140W Smart Fully Charged Disconnector - Black",
+    "slug": "hoco-di109-powerful-140w-smart-fully-charged-disconnector-black",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/H/o/Hoco-DI109-Smart-Fully-Charged-Disconnector-Type-C-1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1300.0,
+    "special_price": 1050.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1300.0,
+      "special_price": 1050.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:32:17"
+    }
+  ]
+}

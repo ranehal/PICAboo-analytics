@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122985",
+    "sku": "ACK12ADR",
+    "name": "ACEFAST K12 Air Portable Wireless Speaker - Black",
+    "slug": "acefast-k12-air-portable-wireless-speaker-black",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/A/C/ACEFAST-K12-Air-Portable-Wireless-Speaker-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2200.0,
+    "special_price": 1700.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2200.0,
+      "special_price": 1700.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:31:45"
+    }
+  ]
+}

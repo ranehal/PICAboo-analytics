@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/ga-2300-8a-7-9-25-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 18000.0,
-    "special_price": 16200.0,
-    "discount": 10.0,
+    "price": 22500.0,
+    "special_price": 21750.0,
+    "discount": 3.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -295,6 +295,13 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-10-09 20:48:47"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 21750.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:37:58"
     }
   ]
 }

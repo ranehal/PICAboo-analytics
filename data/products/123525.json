@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123525",
+    "sku": "TTAC210107100TOO",
+    "name": "Total Abrasive Metal Cutting Disc Set (TAC210107100)",
+    "slug": "total-abrasive-metal-cutting-disc-set-tac210107100",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/a/tac210107100-13-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2100.0,
+    "special_price": 1860.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2100.0,
+      "special_price": 1860.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:29:08"
+    }
+  ]
+}

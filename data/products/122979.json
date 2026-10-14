@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122979",
+    "sku": "HODWQ04ADR",
+    "name": "Hoco 15W 3-in-1 Wireless Charger (DWQ04)",
+    "slug": "hoco-dwq04-3-in-1-wireless-charger-bluetooth-speaker-alarm-clock-15w-fast-wireless-charge",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/d/1/d1ae3749-1c02-11f1-83b3-32de4b37c187-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 4000.0,
+    "special_price": 3500.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4000.0,
+      "special_price": 3500.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:32:58"
+    }
+  ]
+}

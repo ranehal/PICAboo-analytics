@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123535",
+    "sku": "TTDLI1218TOO",
+    "name": "Total Lithium-Ion Cordless Drill (TDLI1218)",
+    "slug": "total-lithium-ion-cordless-drill-tdli1218",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/d/tdli1218-13-10-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3650.0,
+    "special_price": 3240.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3650.0,
+      "special_price": 3240.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:29:08"
+    }
+  ]
+}

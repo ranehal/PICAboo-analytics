@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122990",
+    "sku": "BYZG03ADR",
+    "name": "BYZ G03 Portable Wireless Speaker - Black",
+    "slug": "byz-g03-portable-wireless-bluetooth-speaker-black",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/B/Y/BYZ-G03-Portable-Wireless-Bluetooth-Speakerbb-3910-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 1200.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 1200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:31:47"
+    }
+  ]
+}

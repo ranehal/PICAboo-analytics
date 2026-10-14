@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122981",
+    "sku": "HODY01ADR",
+    "name": "HOCO DY01 Master Detachable Tripod Selfie Stick - Black",
+    "slug": "hoco-dy01-master-detachable-tripod-selfie-stick-black",
+    "category_id": "1767",
+    "category_name": "Selfie Stick",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/H/O/HOCO-DY01-Master-Detachable-Tripod-Selfie-Stick-1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 1200.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 1200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:33:28"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122975",
+    "sku": "HODI81ADR",
+    "name": "Hoco DI81 Portable Foldable Wireless Keyboard",
+    "slug": "hoco-di81-portable-foldable-wireless-bluetooth-keyboard",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/H/o/Hoco_DI81_Portable_Foldable_Wireless_Bluetooth_Keyboard_2-500x500-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1750.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1750.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:35:28"
+    }
+  ]
+}

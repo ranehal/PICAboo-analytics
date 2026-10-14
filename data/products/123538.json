@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123538",
+    "sku": "GAB2100LUU8ABNS",
+    "name": "Casio G-Shock 2100 SERIES Men\u2019s Watch (GA-B2100LUU-8A)",
+    "slug": "casio-g-shock-2100-series-men-s-watch-ga-b2100luu-8a",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/a/8a-13-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 23500.0,
+    "special_price": 22710.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 23500.0,
+      "special_price": 22710.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:36:26"
+    }
+  ]
+}

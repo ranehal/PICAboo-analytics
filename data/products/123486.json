@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123486",
+    "sku": "DXPO10WEXL",
+    "name": "DigitalX Pulse Go 10W Portable Bluetooth Speaker",
+    "slug": "digitalx-pulse-go-10w-portable-bluetooth-speaker",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/d/x/dxpo10wexl-.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2300.0,
+    "special_price": 2050.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2300.0,
+      "special_price": 2050.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:32:00"
+    }
+  ]
+}

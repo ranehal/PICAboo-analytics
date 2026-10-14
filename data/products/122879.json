@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122879",
+    "sku": "WIWUAI302ADR",
+    "name": "WiWU Ai302 Wearable Open-Ear Clip TWS Earbuds - Black",
+    "slug": "wiwu-ai302-wearable-open-ear-clip-earbuds-black",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/9/_/9_f13d8a32-5936-4555-a478-90820f181903-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 3900.0,
+    "special_price": 3300.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3900.0,
+      "special_price": 3300.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-14 03:31:37"
+    }
+  ]
+}
