@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123565",
+    "sku": "MDZ35DAGDX",
+    "name": "Xiaomi Mi MDZ-35-DA 2.1 Home Theater Soundbar With 100W Bluetooth Subwoofer",
+    "slug": "xiaomi-mi-mdz-35-da-2-1-home-theater-soundbar-with-100w-bluetooth-subwoofer",
+    "category_id": "30",
+    "category_name": "Home Theater & Sound System",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/d/mdz-14-10-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 17550.0,
+    "special_price": 12100.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 17550.0,
+      "special_price": 12100.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:30:36"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123539",
+    "sku": "TTDLI12206TOO",
+    "name": "Total Cordless Drill (TDLI12206)",
+    "slug": "total-cordless-drill-tdli12206",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/d/tdli12206-14-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4350.0,
+    "special_price": 3860.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4350.0,
+      "special_price": 3860.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:30:42"
+    }
+  ]
+}

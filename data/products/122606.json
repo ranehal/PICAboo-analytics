@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122606",
+    "sku": "HOCESD15ADR",
+    "name": "Hoco ESD15 Max ANC Wireless Headphone",
+    "slug": "hoco-esd15-max-anc-bluetooth-wireless-headphone",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/m/images_-_2026-09-01T172434_185-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2300.0,
+    "special_price": 2140.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2300.0,
+      "special_price": 2140.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:33:16"
+    }
+  ]
+}

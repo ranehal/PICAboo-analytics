@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123542",
+    "sku": "TTDLI205581TOO",
+    "name": "Total Compact Brushless Cordless Drill (TDLI205581)",
+    "slug": "total-compact-brushless-cordless-drill-tdli205581",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/d/tdli205581-14-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3600.0,
+    "special_price": 3200.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3600.0,
+      "special_price": 3200.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:30:42"
+    }
+  ]
+}

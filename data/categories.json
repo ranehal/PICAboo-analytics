@@ -46,7 +46,7 @@
     "name": "Bluetooth Headphone",
     "slug": "bluetooth-headphone",
     "parent_id": "197",
-    "prod_count": 277
+    "prod_count": 279
   },
   {
     "id": "148",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 975
+    "prod_count": 976
   },
   {
     "id": "4312",
@@ -228,7 +228,7 @@
     "name": "Fan",
     "slug": "fan",
     "parent_id": "7",
-    "prod_count": 216
+    "prod_count": 218
   },
   {
     "id": "73",
@@ -389,7 +389,7 @@
     "name": "Home Theater & Sound System",
     "slug": "home-theater-sound-system",
     "parent_id": "7",
-    "prod_count": 57
+    "prod_count": 58
   },
   {
     "id": "1227",
@@ -515,7 +515,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2021
+    "prod_count": 2025
   },
   {
     "id": "3480",
@@ -550,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 228
+    "prod_count": 229
   },
   {
     "id": "47",
@@ -634,7 +634,7 @@
     "name": "Others",
     "slug": "electronics-others",
     "parent_id": "7",
-    "prod_count": 172
+    "prod_count": 175
   },
   {
     "id": "202",
@@ -760,7 +760,7 @@
     "name": "Samsung",
     "slug": "samsung",
     "parent_id": "171",
-    "prod_count": 13
+    "prod_count": 14
   },
   {
     "id": "3471",
@@ -956,7 +956,7 @@
     "name": "Tools & Hardware",
     "slug": "tools-hardware",
     "parent_id": "7",
-    "prod_count": 190
+    "prod_count": 216
   },
   {
     "id": "3476",
@@ -1054,7 +1054,7 @@
     "name": "Wired Headphone ",
     "slug": "headphones",
     "parent_id": "197",
-    "prod_count": 238
+    "prod_count": 242
   },
   {
     "id": "568",

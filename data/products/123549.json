@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123549",
+    "sku": "S26FE8GB256GB",
+    "name": "Samsung Galaxy S26 FE 5G 8GB/256GB",
+    "slug": "samsung-galaxy-s26-fe-8gb-256gb",
+    "category_id": "172",
+    "category_name": "Samsung",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/a/samsung-s26fe-10-14-26-8.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 121999.0,
+    "special_price": 109999.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 121999.0,
+      "special_price": 109999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:28:35"
+    }
+  ]
+}

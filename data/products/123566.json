@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123566",
+    "sku": "TTG1071366TOO",
+    "name": "Total Impact Drill (TG1071366)",
+    "slug": "total-impact-drill-tg1071366",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/g/tg1071366-14-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3050.0,
+    "special_price": 2710.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3050.0,
+      "special_price": 2710.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:31:13"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123576",
+    "sku": "HD23S24PAP",
+    "name": "Kangaro Heavy-Duty Stapler Machine (HD 23S24)",
+    "slug": "kangaro-heavy-duty-stapler-machine-hd-23s24",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/d/hd-23s24-14-oct-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2890.0,
+    "special_price": 1990.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2890.0,
+      "special_price": 1990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:29:34"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122823",
+    "sku": "KZATEADR",
+    "name": "KZ ATE Dynamic Balanced Armature In Ear Earphones - Black",
+    "slug": "kz-ate-dynamic-balanced-armature-iems-in-ear-hifi-earphone-black",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/3/b/3b2491136f701b15570003a913ccb332_jpg_720x720q80-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 1150.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 1150.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:33:46"
+    }
+  ]
+}

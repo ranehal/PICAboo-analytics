@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122581",
+    "sku": "SMA15A4ADR",
+    "name": "Smartools 1.5V Type-C Rechargeable Batteries AAA (4-Pack) With Type-C Cable",
+    "slug": "smartools-1-5v-type-c-rechargeable-batteries-aaa-4-pack-with-type-c-cable",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/m/smartools-aaa-4p-14-10-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1600.0,
+    "special_price": 1350.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1600.0,
+      "special_price": 1350.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:31:10"
+    }
+  ]
+}

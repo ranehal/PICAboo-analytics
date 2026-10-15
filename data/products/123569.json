@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123569",
+    "sku": "F570ESP2PAP",
+    "name": "Casio 2nd Edition Scientific Calculator (FX-570ES PLUS-2)",
+    "slug": "casio-2nd-edition-scientific-calculator-fx-570es-plus-2",
+    "category_id": "2257",
+    "category_name": "Others",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/f/x/fx-570es-plus-2-14-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3280.0,
+    "special_price": 2260.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3280.0,
+      "special_price": 2260.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:31:09"
+    }
+  ]
+}

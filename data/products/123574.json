@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123574",
+    "sku": "TTH1153216TOO",
+    "name": "Total Rotary Hammer (TH1153216)",
+    "slug": "total-rotary-hammer-th1153216",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/h/th1153216-14-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9900.0,
+    "special_price": 8790.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9900.0,
+      "special_price": 8790.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:31:13"
+    }
+  ]
+}

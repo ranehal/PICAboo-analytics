@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123041",
+    "sku": "HOHX608ADR",
+    "name": "Hoco HX608 3-in-1 Automatic Rotating Clip Fan - White",
+    "slug": "hoco-hx608-3-in-1-automatic-rotating-clip-fan-white",
+    "category_id": "88",
+    "category_name": "Fan",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/H/o/Hoco-HX608-3-in-1-Automatic-Rotating-Clip-Fan-with-3600mAh-Battery-_-Clip-Desk-Wall-Mount-Cooling-4-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2900.0,
+    "special_price": 2650.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2900.0,
+      "special_price": 2650.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:31:11"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123561",
+    "sku": "TCL48GDX",
+    "name": "TCL 48 Inch Modern Ceiling Fan with Lights and Remote Control",
+    "slug": "tcl-48-inch-modern-ceiling-fan-with-lights-and-remote-control",
+    "category_id": "88",
+    "category_name": "Fan",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/c/tcl-14-10-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14200.0,
+    "special_price": 9790.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14200.0,
+      "special_price": 9790.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:30:21"
+    }
+  ]
+}

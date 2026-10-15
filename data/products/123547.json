@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123547",
+    "sku": "TTCKLI20286TOO",
+    "name": "Total Cordless 2 Pcs Impact Drill & Impact Wrench Combo Kit (TCKLI20286)",
+    "slug": "total-cordless-2-pcs-impact-drill-impact-wrench-combo-kit-tckli20286",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/c/tckli20286-14-10-26-1.jpg",
+    "unit": "pcs",
+    "unit_value": 2.0,
+    "price": 13250.0,
+    "special_price": 11770.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13250.0,
+      "special_price": 11770.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-15 03:30:42"
+    }
+  ]
+}
