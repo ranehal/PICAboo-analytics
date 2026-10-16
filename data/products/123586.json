@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123586",
+    "sku": "TTHWS010301TOO",
+    "name": "Total Plastic Trigger Nozzle (THWS010301)",
+    "slug": "total-plastic-trigger-nozzle-thws010301",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/h/thws010301-15-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 290.0,
+    "special_price": 260.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 290.0,
+      "special_price": 260.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:19:03"
+    }
+  ]
+}

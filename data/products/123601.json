@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123601",
+    "sku": "TTT101116TOO",
+    "name": "Total Glue Gun (TT101116)",
+    "slug": "total-glue-gun-tt101116",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/t/tt101116-15-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 680.0,
+    "special_price": 600.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 680.0,
+      "special_price": 600.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:19:03"
+    }
+  ]
+}

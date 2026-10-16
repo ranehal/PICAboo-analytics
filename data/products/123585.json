@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123585",
+    "sku": "NT2598SM06RYW",
+    "name": "Titan Lagan Pink Dial Analog Metal Strap Watch for Women (NT2598SM06)",
+    "slug": "titan-lagan-pink-dial-analog-metal-strap-watch-for-women-nt2598sm06",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/t/nt2598sm06-15-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5429.0,
+    "special_price": 4810.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5429.0,
+      "special_price": 4810.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:27:52"
+    }
+  ]
+}

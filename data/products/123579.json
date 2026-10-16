@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123579",
+    "sku": "TTACLI2018TOO",
+    "name": "Total Cordless Auto Air Compressor (TACLI2018)",
+    "slug": "total-cordless-auto-air-compressor-tacli2018",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/a/tacli2018-15-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3100.0,
+    "special_price": 2750.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3100.0,
+      "special_price": 2750.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:18:31"
+    }
+  ]
+}

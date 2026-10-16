@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123584",
+    "sku": "SGA084GB64GB",
+    "name": "Samsung Galaxy A08 4GB/64GB",
+    "slug": "samsung-galaxy-a08-4gb-64gb",
+    "category_id": "172",
+    "category_name": "Samsung",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/a/samsung-galaxy-a08-4gb-64gb--10-15-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 27799.0,
+    "special_price": 24999.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 27799.0,
+      "special_price": 24999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:15:46"
+    }
+  ]
+}

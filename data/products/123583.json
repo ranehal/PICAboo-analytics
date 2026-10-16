@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123583",
+    "sku": "TTHWS030301TOO",
+    "name": "Total 3 Pcs Hose Quick Connectors Set (THWS030301)",
+    "slug": "total-3-pcs-hose-quick-connectors-set-thws030301",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/h/thws030301-15-10-26-1.jpg",
+    "unit": "pcs",
+    "unit_value": 3.0,
+    "price": 450.0,
+    "special_price": 400.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 450.0,
+      "special_price": 400.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:19:03"
+    }
+  ]
+}

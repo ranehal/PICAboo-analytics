@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123594",
+    "sku": "E1589PAP",
+    "name": "Deli Modern Design Desktop Calculator (E1589)",
+    "slug": "deli-modern-design-desktop-calculator-e1589",
+    "category_id": "2257",
+    "category_name": "Others",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/e/1/e1589-15-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1700.0,
+    "special_price": 1170.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1700.0,
+      "special_price": 1170.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:19:24"
+    }
+  ]
+}

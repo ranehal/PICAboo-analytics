@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123582",
+    "sku": "NT26033PP01RYW",
+    "name": "Titan Zoop Analog Lion Watch with Yellow Dial (NT26033PP01)",
+    "slug": "titan-zoop-analog-lion-watch-with-yellow-dial-nt26033pp01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/t/nt26033pp01-15-10-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3655.0,
+    "special_price": 3240.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3655.0,
+      "special_price": 3240.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:27:57"
+    }
+  ]
+}

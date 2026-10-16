@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mt-450rcl-d-rb-11-8-25.png",
     "unit": "L",
     "unit_value": 45.0,
-    "price": 14000.0,
-    "special_price": 9590.0,
-    "discount": 32.0,
+    "price": 14890.0,
+    "special_price": 0.0,
+    "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -421,6 +421,13 @@
       "discount": 32.0,
       "stock_available": 1,
       "scraped_at": "2026-10-15 03:29:22"
+    },
+    {
+      "price": 14890.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:16:45"
     }
   ]
 }

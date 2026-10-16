@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 976
+    "prod_count": 977
   },
   {
     "id": "4312",
@@ -487,7 +487,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 485
+    "prod_count": 488
   },
   {
     "id": "3915",
@@ -634,7 +634,7 @@
     "name": "Others",
     "slug": "electronics-others",
     "parent_id": "7",
-    "prod_count": 175
+    "prod_count": 178
   },
   {
     "id": "202",
@@ -760,7 +760,7 @@
     "name": "Samsung",
     "slug": "samsung",
     "parent_id": "171",
-    "prod_count": 14
+    "prod_count": 15
   },
   {
     "id": "3471",
@@ -949,14 +949,14 @@
     "name": "Television",
     "slug": "television",
     "parent_id": "",
-    "prod_count": 202
+    "prod_count": 203
   },
   {
     "id": "418",
     "name": "Tools & Hardware",
     "slug": "tools-hardware",
     "parent_id": "7",
-    "prod_count": 216
+    "prod_count": 230
   },
   {
     "id": "3476",
@@ -1061,7 +1061,7 @@
     "name": "Women's Watches",
     "slug": "womens-watch",
     "parent_id": "1837",
-    "prod_count": 402
+    "prod_count": 404
   },
   {
     "id": "239",

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123581",
+    "sku": "TTGT11236TOO",
+    "name": "Total High Pressure Washer (TGT11236)",
+    "slug": "total-high-pressure-washer-tgt11236",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/g/tgt11236-15-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15250.0,
+    "special_price": 13540.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15250.0,
+      "special_price": 13540.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:19:03"
+    }
+  ]
+}

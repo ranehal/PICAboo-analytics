@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123587",
+    "sku": "TTHT10834TOO",
+    "name": "Total Hydraulic Floor Jack (THT10834)",
+    "slug": "total-hydraulic-floor-jack-tht10834",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/h/tht10834-15-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 21500.0,
+    "special_price": 19090.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 21500.0,
+      "special_price": 19090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:19:03"
+    }
+  ]
+}

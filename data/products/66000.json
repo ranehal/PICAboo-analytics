@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "66000",
+    "sku": "ZF05CRYW",
+    "name": "Titan NJ1585SM05C Blue Dial Silver Stainless Steel Strap Men\u2019s Watch",
+    "slug": "titan-nj1585sm05c-blue-dial-silver-stainless-steel-strap-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/j/nj1585sm05c-28-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7095.0,
+    "special_price": 6280.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7095.0,
+      "special_price": 6280.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:26:17"
+    }
+  ]
+}

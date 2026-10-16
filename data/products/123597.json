@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123597",
+    "sku": "1639SM02FRYW",
+    "name": "Titan Men's Elegance Watch  Black Dial with Sleek Link Strap (1639SM02F) ",
+    "slug": "titan-men-s-elegance-watch-black-dial-with-sleek-link-strap-1639sm02f",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/6/1639sm02f-15-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6665.0,
+    "special_price": 5900.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6665.0,
+      "special_price": 5900.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-16 02:26:13"
+    }
+  ]
+}
