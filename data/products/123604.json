@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123604",
+    "sku": "TTGGLI2001TOO",
+    "name": "Total Cordless Glue Gun (TGGLI2001)",
+    "slug": "total-cordless-glue-gun-tggli2001",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/g/tggli2001-17-9-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1900.0,
+    "special_price": 1690.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1900.0,
+      "special_price": 1690.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 00:16:35"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123610",
+    "sku": "YGT034PAP",
+    "name": "YAGE Rechargeable Eye Protector Desk Lamp (YG-T034)-Multicolor",
+    "slug": "yage-rechargeable-eye-protector-desk-lamp-yg-t034",
+    "category_id": "3915",
+    "category_name": "Light",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/y/g/yg-t034-17-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1170.0,
+    "special_price": 810.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1170.0,
+      "special_price": 810.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 00:17:14"
+    }
+  ]
+}

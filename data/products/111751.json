@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v007l-1b-23-7-25-1.jpg",
     "unit": "L",
     "unit_value": 7.0,
-    "price": 3540.0,
-    "special_price": 2960.0,
-    "discount": 16.0,
+    "price": 3990.0,
+    "special_price": 3090.0,
+    "discount": 23.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -316,6 +316,13 @@
       "discount": 16.0,
       "stock_available": 1,
       "scraped_at": "2026-10-07 23:10:50"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3090.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 00:24:11"
     }
   ]
 }

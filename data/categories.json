@@ -263,7 +263,7 @@
     "name": "Geyser",
     "slug": "geyser",
     "parent_id": "7",
-    "prod_count": 85
+    "prod_count": 87
   },
   {
     "id": "3047",
@@ -494,7 +494,7 @@
     "name": "Light",
     "slug": "light",
     "parent_id": "7",
-    "prod_count": 97
+    "prod_count": 98
   },
   {
     "id": "3496",
@@ -718,7 +718,7 @@
     "name": "Refrigerator & Freezer",
     "slug": "refrigerator",
     "parent_id": "7",
-    "prod_count": 242
+    "prod_count": 243
   },
   {
     "id": "77",
@@ -956,7 +956,7 @@
     "name": "Tools & Hardware",
     "slug": "tools-hardware",
     "parent_id": "7",
-    "prod_count": 230
+    "prod_count": 237
   },
   {
     "id": "3476",

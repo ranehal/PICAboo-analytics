@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123608",
+    "sku": "TTET01606TOO",
+    "name": "Total Electric Soldering Iron (TET01606)",
+    "slug": "total-electric-soldering-iron-tet01606",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/e/tet01606-17-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 730.0,
+    "special_price": 650.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 730.0,
+      "special_price": 650.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 00:16:21"
+    }
+  ]
+}

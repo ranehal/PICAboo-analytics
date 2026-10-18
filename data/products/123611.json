@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123611",
+    "sku": "HES35HTHRB",
+    "name": "Haier 35L Horizontal Geyser- (ES35H-Tigris)",
+    "slug": "haier-35l-horizontal-geyser-es35h-tigris",
+    "category_id": "274",
+    "category_name": "Geyser",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/e/s/es45h-tigris-17-10-26-1.png",
+    "unit": "L",
+    "unit_value": 35.0,
+    "price": 13800.0,
+    "special_price": 11900.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13800.0,
+      "special_price": 11900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 00:15:35"
+    }
+  ]
+}

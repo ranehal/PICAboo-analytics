@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123612",
+    "sku": "WWNI6A9GWIWLT",
+    "name": "Walton 591L No-Frost Inverter Refrigerator (WNI-6A9-GVHE-WI)",
+    "slug": "walton-591l-no-frost-inverter-refrigerator-wni-6a9-gvhe-wi",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/w/n/wni-6a9-17-10-26-1.jpg",
+    "unit": "L",
+    "unit_value": 591.0,
+    "price": 124990.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 124990.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 00:14:49"
+    }
+  ]
+}

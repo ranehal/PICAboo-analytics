@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123605",
+    "sku": "TTACGT2061TOO",
+    "name": "Total Glue Gun Stick (TACGT2061)- 6 pcs",
+    "slug": "total-glue-gun-stick-tacgt2061-6-pcs",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/a/tacgt2061-17-10-26-1.jpg",
+    "unit": "pcs",
+    "unit_value": 6.0,
+    "price": 220.0,
+    "special_price": 200.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 220.0,
+      "special_price": 200.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 00:16:35"
+    }
+  ]
+}
