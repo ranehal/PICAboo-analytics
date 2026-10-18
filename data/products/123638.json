@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123638",
+    "sku": "AZ70W4UACIL",
+    "name": "Anker Zolo 70W 4 Port UK Plug Fast Charging Folable Adapter",
+    "slug": "anker-zolo-70w-4-port-uk-plug-fast-charging-folable-adapter",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/n/anker-zolo-70w-18-10-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3890.0,
+    "special_price": 3089.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3890.0,
+      "special_price": 3089.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 22:20:32"
+    }
+  ]
+}

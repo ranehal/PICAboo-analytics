@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 977
+    "prod_count": 981
   },
   {
     "id": "4312",
@@ -487,7 +487,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 488
+    "prod_count": 490
   },
   {
     "id": "3915",
@@ -515,7 +515,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2025
+    "prod_count": 2026
   },
   {
     "id": "3480",
@@ -550,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 229
+    "prod_count": 231
   },
   {
     "id": "47",
@@ -634,7 +634,7 @@
     "name": "Others",
     "slug": "electronics-others",
     "parent_id": "7",
-    "prod_count": 178
+    "prod_count": 180
   },
   {
     "id": "202",
@@ -872,7 +872,7 @@
     "name": "Smartphones",
     "slug": "smartphone",
     "parent_id": "",
-    "prod_count": 100
+    "prod_count": 101
   },
   {
     "id": "3475",
@@ -949,14 +949,14 @@
     "name": "Television",
     "slug": "television",
     "parent_id": "",
-    "prod_count": 203
+    "prod_count": 204
   },
   {
     "id": "418",
     "name": "Tools & Hardware",
     "slug": "tools-hardware",
     "parent_id": "7",
-    "prod_count": 237
+    "prod_count": 242
   },
   {
     "id": "3476",
@@ -970,7 +970,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 478
+    "prod_count": 480
   },
   {
     "id": "460",
@@ -1061,7 +1061,7 @@
     "name": "Women's Watches",
     "slug": "womens-watch",
     "parent_id": "1837",
-    "prod_count": 404
+    "prod_count": 408
   },
   {
     "id": "239",

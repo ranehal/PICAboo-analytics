@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123623",
+    "sku": "KSDS45NPAP",
+    "name": "Kangaro Stapler Machine (DS-45N)",
+    "slug": "kangaro-stapler-machine-ds-45n",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/d/s/ds-45n-18-oct-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 350.0,
+    "special_price": 240.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 350.0,
+      "special_price": 240.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 22:19:03"
+    }
+  ]
+}

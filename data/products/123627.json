@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123627",
+    "sku": "ML404CPAP",
+    "name": "Maxline 18W 4-Port USB Travel Multi Charger (ML-404)",
+    "slug": "maxline-18w-4-port-usb-travel-multi-charger-ml-404",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/l/ml-404-18-oct-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 480.0,
+    "special_price": 330.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 480.0,
+      "special_price": 330.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 22:21:03"
+    }
+  ]
+}

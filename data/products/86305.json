@@ -9,8 +9,8 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/e/ae-1200whd-1avdf.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 5890.0,
-    "special_price": 5126.0,
+    "price": 6000.0,
+    "special_price": 5200.0,
     "discount": 13.0,
     "stock_available": 1,
     "is_atl": 0
@@ -379,6 +379,13 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-10-15 03:38:28"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 5200.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 22:27:21"
     }
   ]
 }

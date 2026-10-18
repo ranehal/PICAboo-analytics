@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123618",
+    "sku": "KSHD45PAP",
+    "name": "Kangaro Stapler Machine (HD-45)-Multicolor",
+    "slug": "kangaro-stapler-machine-hd-45-multicolor",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/d/hd-45-18-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 320.0,
+    "special_price": 220.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 320.0,
+      "special_price": 220.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 22:19:16"
+    }
+  ]
+}

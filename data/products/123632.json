@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123632",
+    "sku": "ML804MPPAP",
+    "name": "Maxline Power Strip With 3 Sockets & USB Ports Multiplug (ML-804)-Multicolor",
+    "slug": "maxline-power-strip-with-3-sockets-usb-ports-multiplug-ml-804-multicolor",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/l/ml-804-18-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1100.0,
+    "special_price": 760.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1100.0,
+      "special_price": 760.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 22:21:03"
+    }
+  ]
+}

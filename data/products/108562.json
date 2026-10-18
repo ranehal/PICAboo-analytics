@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108562",
+    "sku": "ASP30IANCCIL",
+    "name": "Anker Soundcore P30i ANC TWS Earbuds",
+    "slug": "anker-soundcore-p30i-anc-tws-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/p/3/p30i-black-8-3-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3390.0,
+    "special_price": 2719.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3390.0,
+      "special_price": 2719.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 22:20:38"
+    }
+  ]
+}

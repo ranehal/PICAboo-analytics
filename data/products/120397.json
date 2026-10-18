@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120397",
+    "sku": "AA9215CIL",
+    "name": "Anker Nano 20W 5-in-1 Universal Travel Adapter (A9215)",
+    "slug": "anker-nano-20w-5-in-1-universal-travel-adapter-a9215",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/n/anker-nano-5-in-1-20w-23-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3490.0,
+    "special_price": 2809.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3490.0,
+      "special_price": 2809.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 22:21:15"
+    }
+  ]
+}

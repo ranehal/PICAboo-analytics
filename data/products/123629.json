@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123629",
+    "sku": "ML604MPPAP",
+    "name": "Maxline 4 USB Ports & 2 Sockets Multiplug (ML-604)-Multicolor",
+    "slug": "maxline-4-usb-ports-2-sockets-multiplug-ml-604-multicolor",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/l/ml-604-18-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 590.0,
+    "special_price": 410.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 590.0,
+      "special_price": 410.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 22:21:03"
+    }
+  ]
+}

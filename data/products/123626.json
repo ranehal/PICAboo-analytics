@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123626",
+    "sku": "FSC100MSPAP",
+    "name": "Faymas 2nd Edition Scientific Calculator (FSC100MS)-Multicolor",
+    "slug": "faymas-2nd-edition-scientific-calculator-fsc100ms-multicolor",
+    "category_id": "2257",
+    "category_name": "Others",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/f/s/fsc100ms-18-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1090.0,
+    "special_price": 750.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1090.0,
+      "special_price": 750.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-18 22:19:32"
+    }
+  ]
+}
