@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/b/wba-2b4-gtxa-xx--5-7-26-1.jpg",
     "unit": "L",
     "unit_value": 224.0,
-    "price": 49990.0,
+    "price": 52190.0,
     "special_price": 42990.0,
-    "discount": 14.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -442,6 +442,13 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-10-18 00:14:53"
+    },
+    {
+      "price": 52190.0,
+      "special_price": 42990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-19 21:08:35"
     }
   ]
 }

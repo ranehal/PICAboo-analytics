@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123675",
+    "sku": "NU2781WL03RYW",
+    "name": "Titan Neo Women\u2019s Watch (NU2781WL03) ",
+    "slug": "titan-neo-women-s-watch-nu2781wl03",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/u/nu2781wl03-19-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7934.0,
+    "special_price": 7020.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7934.0,
+      "special_price": 7020.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-19 21:19:11"
+    }
+  ]
+}

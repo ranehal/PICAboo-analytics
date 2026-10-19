@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123684",
+    "sku": "2617SM08RYW",
+    "name": "Titan Urban Anthracite Women\u2019s watch (2617SM08)",
+    "slug": "titan-urban-anthracite-women-s-watch-2617sm08",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/2/6/2617sm08-19-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7955.0,
+    "special_price": 7040.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7955.0,
+      "special_price": 7040.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-19 21:19:11"
+    }
+  ]
+}

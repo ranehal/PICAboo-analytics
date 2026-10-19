@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123643",
+    "sku": "RN804GB64GB",
+    "name": "realme Note 80 4GB/64GB",
+    "slug": "realme-note-80-4gb-64gb",
+    "category_id": "1833",
+    "category_name": "realme",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/r/e/realme-note-80-10-19-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 17999.0,
+    "special_price": 17299.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 17999.0,
+      "special_price": 17299.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-19 21:07:54"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123660",
+    "sku": "C50ICIL",
+    "name": "Anker Soundcore C50i TWS Earbuds",
+    "slug": "anker-soundcore-c50i-tws-earbuds",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/5/c50i-19-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5490.0,
+    "special_price": 4539.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5490.0,
+      "special_price": 4539.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-19 21:12:38"
+    }
+  ]
+}

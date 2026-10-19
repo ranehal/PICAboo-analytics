@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123646",
+    "sku": "P31ICIL",
+    "name": "Anker ANC Wireless TWS Earbuds (P31I)",
+    "slug": "wireless-earbuds-with-immersive-adaptive-anc-p31i",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/p/3/p31i-19-10-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3990.0,
+    "special_price": 3229.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3990.0,
+      "special_price": 3229.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-19 21:11:49"
+    }
+  ]
+}

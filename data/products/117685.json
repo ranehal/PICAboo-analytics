@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/aci-smart-concrete-vibrator-motor---2-hp-_3-30-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 8990.0,
-    "special_price": 6590.0,
+    "price": 9600.0,
+    "special_price": 6990.0,
     "discount": 27.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -435,6 +435,13 @@
       "discount": 27.0,
       "stock_available": 1,
       "scraped_at": "2026-10-18 00:16:29"
+    },
+    {
+      "price": 9600.0,
+      "special_price": 6990.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-19 21:10:14"
     }
   ]
 }

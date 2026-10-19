@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123651",
+    "sku": "AN10K45WPCIL",
+    "name": "Anker Nano 10000mAh 45W Power Bank with Built-In Cable",
+    "slug": "anker-nano-10000mah-45w-power-bank-with-built-in-cable",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/a/nano-10000mah-45w-19-10-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6990.0,
+    "special_price": 5689.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6990.0,
+      "special_price": 5689.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-19 21:13:06"
+    }
+  ]
+}

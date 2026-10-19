@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123679",
+    "sku": "A110L35CIL",
+    "name": "Anker Zolo 35W 10000mAh Power Bank with Built\u2011in Cables (A110L)",
+    "slug": "anker-zolo-35w-10000mah-power-bank-with-built-in-cables-a110l",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/1/a110l-19-oct-2026-1.jpg",
+    "unit": "L",
+    "unit_value": 110.0,
+    "price": 5490.0,
+    "special_price": 3929.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5490.0,
+      "special_price": 3929.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-19 21:13:02"
+    }
+  ]
+}

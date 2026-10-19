@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123659",
+    "sku": "AN5K22WPCIL",
+    "name": "Anker Nano 5000mAh 22.5W Power Bank with Type-C Connector",
+    "slug": "anker-nano-50000mah-22-5w-power-bank-with-type-c-connector",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/a/nano-50000mah-19-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3490.0,
+    "special_price": 2619.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3490.0,
+      "special_price": 2619.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-19 21:13:06"
+    }
+  ]
+}

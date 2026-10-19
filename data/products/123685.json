@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123685",
+    "sku": "SCF202PGZO",
+    "name": "Gazi Smiss Dobule Infrared Cooker SCF-202(Plus)",
+    "slug": "gazi-smiss-dobule-infrared-cooker-scf-202-plus",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/a/gazi-smiss-dobule-infrared-cooker-scf-202_plus_-10-19-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14400.0,
+    "special_price": 11890.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14400.0,
+      "special_price": 11890.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-19 21:08:55"
+    }
+  ]
+}
