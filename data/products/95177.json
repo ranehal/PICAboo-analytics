@@ -9,10 +9,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/r/sr06--11-9-24---2.jpg",
     "unit": "L",
     "unit_value": 0.6,
-    "price": 5250.0,
-    "special_price": 4190.0,
-    "discount": 20.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   "history": [
@@ -463,6 +463,13 @@
       "discount": 20.0,
       "stock_available": 1,
       "scraped_at": "2026-10-22 06:07:27"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-10-23 05:16:56"
     }
   ]
 }
