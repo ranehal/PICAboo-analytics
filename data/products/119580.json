@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/n/infinix-hot-70-4-22-26-13.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 25999.0,
+    "special_price": 24999.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   "history": [
     {
@@ -470,6 +470,13 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-10-23 05:15:44"
+    },
+    {
+      "price": 25999.0,
+      "special_price": 24999.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-24 06:01:45"
     }
   ]
 }

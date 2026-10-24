@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119881",
+    "sku": "TB20078TOO",
+    "name": "TOTAL Heat Gun (TB20078)",
+    "slug": "total-heat-gun-tb20078",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/b/tb20045-24-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2650.0,
+    "special_price": 2350.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2650.0,
+      "special_price": 2350.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-24 06:04:01"
+    }
+  ]
+}

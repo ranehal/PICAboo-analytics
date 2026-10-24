@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 982
+    "prod_count": 983
   },
   {
     "id": "4312",
@@ -487,7 +487,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 491
+    "prod_count": 492
   },
   {
     "id": "3915",
@@ -956,7 +956,7 @@
     "name": "Tools & Hardware",
     "slug": "tools-hardware",
     "parent_id": "7",
-    "prod_count": 242
+    "prod_count": 246
   },
   {
     "id": "3476",

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123687",
+    "sku": "TTB6566TOO",
+    "name": "Total Aspirator Blower (TB6566)",
+    "slug": "total-aspirator-blower-tb6566",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/b/tb6566-24-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3800.0,
+    "special_price": 3370.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3800.0,
+      "special_price": 3370.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-24 06:04:14"
+    }
+  ]
+}
