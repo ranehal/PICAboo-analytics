@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 983
+    "prod_count": 984
   },
   {
     "id": "4312",
@@ -228,7 +228,7 @@
     "name": "Fan",
     "slug": "fan",
     "parent_id": "7",
-    "prod_count": 218
+    "prod_count": 219
   },
   {
     "id": "73",
@@ -396,7 +396,7 @@
     "name": "Honor",
     "slug": "honor",
     "parent_id": "171",
-    "prod_count": 19
+    "prod_count": 20
   },
   {
     "id": "190",
@@ -487,7 +487,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 492
+    "prod_count": 494
   },
   {
     "id": "3915",
@@ -515,7 +515,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2026
+    "prod_count": 2027
   },
   {
     "id": "3480",
@@ -956,7 +956,7 @@
     "name": "Tools & Hardware",
     "slug": "tools-hardware",
     "parent_id": "7",
-    "prod_count": 246
+    "prod_count": 253
   },
   {
     "id": "3476",
@@ -1061,7 +1061,7 @@
     "name": "Women's Watches",
     "slug": "womens-watch",
     "parent_id": "1837",
-    "prod_count": 411
+    "prod_count": 415
   },
   {
     "id": "239",

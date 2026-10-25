@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123707",
+    "sku": "NU2480SM12RYW",
+    "name": "Titan Purple Workwear Women\u2019s Watch (NU2480SM12)",
+    "slug": "titan-purple-workwear-women-s-watch-nu2480sm12",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/u/nu2480sm12-24-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8546.0,
+    "special_price": 7570.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8546.0,
+      "special_price": 7570.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:15:02"
+    }
+  ]
+}

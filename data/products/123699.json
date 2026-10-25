@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123699",
+    "sku": "HX7E6GB128GB",
+    "name": "HONOR X7e 6GB/128GB",
+    "slug": "honor-x7e-6gb-128gb",
+    "category_id": "1227",
+    "category_name": "Honor",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/o/honor-x7e-6gb-24-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 27999.0,
+    "special_price": 27499.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 27999.0,
+      "special_price": 27499.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:02:51"
+    }
+  ]
+}

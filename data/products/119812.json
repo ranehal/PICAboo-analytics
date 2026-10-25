@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119812",
+    "sku": "TVLI2026TOO",
+    "name": "TOTAL Cordless Vacuum Cleaner (TVLI2026)",
+    "slug": "total-cordless-vacuum-cleaner-tvli2026",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/v/tvli2026-24-10-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4150.0,
+    "special_price": 3690.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4150.0,
+      "special_price": 3690.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:05:14"
+    }
+  ]
+}

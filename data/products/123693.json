@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123693",
+    "sku": "TTVLI201261TOO",
+    "name": "Total Cordless Vacuum Cleaner (TVLI201261)",
+    "slug": "total-cordless-vacuum-cleaner-tvli201261",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/v/tvli201261-24-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4500.0,
+    "special_price": 4000.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4500.0,
+      "special_price": 4000.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:05:26"
+    }
+  ]
+}

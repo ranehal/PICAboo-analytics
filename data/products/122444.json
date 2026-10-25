@@ -9,7 +9,7 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/a/national_5-feet.png",
     "unit": null,
     "unit_value": null,
-    "price": 24000.0,
+    "price": 23690.0,
     "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
@@ -386,6 +386,13 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-10-24 06:01:23"
+    },
+    {
+      "price": 23690.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:02:35"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123708",
+    "sku": "NU2606SM01RYW",
+    "name": "Titan Blue Dial Women\u2019s Watch (NU2606SM01)",
+    "slug": "titan-blue-dial-women-s-watch-nu2606sm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/u/nu2606sm01-24-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8654.0,
+    "special_price": 7660.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8654.0,
+      "special_price": 7660.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:13:05"
+    }
+  ]
+}

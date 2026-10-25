@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123696",
+    "sku": "TTHTLI20018TOO",
+    "name": "Total Cordless Hedge Trimmer (THTLI20018)",
+    "slug": "total-cordless-hedge-trimmer-thtli20018",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/h/thtli20018-24-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5350.0,
+    "special_price": 4750.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5350.0,
+      "special_price": 4750.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:05:26"
+    }
+  ]
+}

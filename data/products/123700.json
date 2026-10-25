@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123700",
+    "sku": "TTWPS101TOO",
+    "name": "Total Automatic Pump Control (TWPS101)",
+    "slug": "total-automatic-pump-control-twps101",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/w/twps101-24-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2880.0,
+    "special_price": 2560.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2880.0,
+      "special_price": 2560.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:03:58"
+    }
+  ]
+}

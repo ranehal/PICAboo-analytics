@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123695",
+    "sku": "TTVC14122TOO",
+    "name": "Total Vacuum Cleaner (TVC14122)",
+    "slug": "total-vacuum-cleaner-tvc14122",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/v/tvc14122-24-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7500.0,
+    "special_price": 6660.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7500.0,
+      "special_price": 6660.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:05:26"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123697",
+    "sku": "TTGTLI20018TOO",
+    "name": "Total Cordless Grass Trimmer (TGTLI20018)",
+    "slug": "total-cordless-grass-trimmer-tgtli20018",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/g/tgtli20018-24-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4990.0,
+    "special_price": 4430.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4990.0,
+      "special_price": 4430.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:05:26"
+    }
+  ]
+}

@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/e/ae465--31-3-24---1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 15600.0,
-    "special_price": 13570.0,
-    "discount": 13.0,
+    "price": 19500.0,
+    "special_price": 16200.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -477,6 +477,13 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-10-24 06:02:56"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 16200.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:04:04"
     }
   ]
 }

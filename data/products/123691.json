@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123691",
+    "sku": "TTRLF4415TOO",
+    "name": "Total Cordless Work Lamp (TRLF4415)",
+    "slug": "total-cordless-work-lamp-trlf4415",
+    "category_id": "418",
+    "category_name": "Tools & Hardware",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/r/trlf4415-24-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4600.0,
+    "special_price": 4080.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4600.0,
+      "special_price": 4080.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-25 03:05:26"
+    }
+  ]
+}
