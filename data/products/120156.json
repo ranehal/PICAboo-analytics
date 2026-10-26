@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/a/fan-life-10-17-5-26-2_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3710.0,
+    "price": 3040.0,
     "special_price": 2250.0,
-    "discount": 39.0,
+    "discount": 26.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -477,6 +477,13 @@
       "discount": 39.0,
       "stock_available": 1,
       "scraped_at": "2026-10-25 03:05:46"
+    },
+    {
+      "price": 3040.0,
+      "special_price": 2250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-26 01:32:22"
     }
   ]
 }

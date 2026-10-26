@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/canon-pixma-g570-7-1-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 29000.0,
-    "special_price": 27080.0,
-    "discount": 7.0,
+    "price": 29580.0,
+    "special_price": 27030.0,
+    "discount": 9.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -484,6 +484,13 @@
       "discount": 7.0,
       "stock_available": 1,
       "scraped_at": "2026-10-25 03:11:45"
+    },
+    {
+      "price": 29580.0,
+      "special_price": 27030.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-26 01:38:16"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115142",
+    "sku": "EW280NBPSMT",
+    "name": "Edifier W280NB Pro ANC Wireless Sports Neckband",
+    "slug": "edifier-w280nb-pro-anc-wireless-sports-neckband",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/w/2/w280nb-pro-7-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4249.0,
+    "special_price": 3799.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4249.0,
+      "special_price": 3799.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-26 01:34:40"
+    }
+  ]
+}

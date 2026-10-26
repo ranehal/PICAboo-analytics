@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123737",
+    "sku": "SM4WAHIOT",
+    "name": "Sennheiser Momentum 4 Wireless ANC Over-Ear Headphone",
+    "slug": "sennheiser-momentum-4-wireless-anc-over-ear-headphone",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/o/momentum-4-wireless--25-10-26-3_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 45799.0,
+    "special_price": 41259.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 45799.0,
+      "special_price": 41259.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-26 01:34:53"
+    }
+  ]
+}

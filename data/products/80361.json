@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "80361",
+    "sku": "EK800USBSMT",
+    "name": "Edifier K800 Over-Ear Headphone (USB Port)",
+    "slug": "edifier-k800-computer-headphone-usb-port",
+    "category_id": "324",
+    "category_name": "Headset",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/k/8/k800-16.5.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2199.0,
+    "special_price": 1999.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2199.0,
+      "special_price": 1999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-26 01:38:29"
+    }
+  ]
+}

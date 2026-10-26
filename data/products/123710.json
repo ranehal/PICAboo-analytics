@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123710",
+    "sku": "APM2AHIOT",
+    "name": "Apple AirPods Max 2 ANC Headphone",
+    "slug": "apple-airpods-max-2-anc-headphone",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/i/airpods-max-2-25-10-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 88109.0,
+    "special_price": 79379.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 88109.0,
+      "special_price": 79379.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-26 01:34:53"
+    }
+  ]
+}

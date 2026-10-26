@@ -9,8 +9,8 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/1/m1120-8-1-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 21000.0,
-    "special_price": 18560.0,
+    "price": 20010.0,
+    "special_price": 17660.0,
     "discount": 12.0,
     "stock_available": 1,
     "is_atl": 1
@@ -477,6 +477,13 @@
       "discount": 12.0,
       "stock_available": 1,
       "scraped_at": "2026-10-25 03:11:45"
+    },
+    {
+      "price": 20010.0,
+      "special_price": 17660.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-26 01:38:16"
     }
   ]
 }

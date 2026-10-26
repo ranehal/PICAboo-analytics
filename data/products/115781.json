@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115781",
+    "sku": "J105HFLZB",
+    "name": "JisuLife Life10S 5000mAh Handheld Fan",
+    "slug": "jisulife-life10s-5000mah-handheld-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/l/i/life10s-28-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3580.0,
+    "special_price": 2650.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3580.0,
+      "special_price": 2650.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-26 01:36:41"
+    }
+  ]
+}

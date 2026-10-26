@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123743",
+    "sku": "ECBOEESMT",
+    "name": "Edifier Comfo Bass Open-ear Earbuds",
+    "slug": "edifier-comfo-bass-open-ear-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/o/comfo-bass-25-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4240.0,
+    "special_price": 3790.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4240.0,
+      "special_price": 3790.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-26 01:34:43"
+    }
+  ]
+}
