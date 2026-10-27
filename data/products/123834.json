@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123834",
+    "sku": "FE108CFTB",
+    "name": "Foomee In-ear Type-C Earphone (FE108-C)",
+    "slug": "foomee-in-ear-type-c-earphone-fe108-c",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/f/e/fe108-c-27-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 400.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 23:32:18"
+    }
+  ]
+}

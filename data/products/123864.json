@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123864",
+    "sku": "TSX465LDHAFDSQ",
+    "name": "TQIU SX4 6.5L Double Heating Air Fryer",
+    "slug": "tqiu-sx4-6-5l-double-heating-air-fryer",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/q/tqiu-air-fryer-sx4--27-10-26-2.jpg",
+    "unit": "L",
+    "unit_value": 6.5,
+    "price": 16888.0,
+    "special_price": 15790.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 16888.0,
+      "special_price": 15790.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 23:39:18"
+    }
+  ]
+}

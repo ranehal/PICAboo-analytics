@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123906",
+    "sku": "GHPSIOT",
+    "name": "Google Home Portable Speaker",
+    "slug": "google-home-portable-speaker",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/o/home-27-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 26619.0,
+    "special_price": 23979.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 26619.0,
+      "special_price": 23979.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 23:32:00"
+    }
+  ]
+}

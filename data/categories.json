@@ -25,14 +25,14 @@
     "name": "Air Fryer",
     "slug": "air-fryer",
     "parent_id": "7",
-    "prod_count": 73
+    "prod_count": 75
   },
   {
     "id": "452",
     "name": "Air Purifier",
     "slug": "air-purifier",
     "parent_id": "7",
-    "prod_count": 45
+    "prod_count": 46
   },
   {
     "id": "3926",
@@ -46,7 +46,7 @@
     "name": "Bluetooth Headphone",
     "slug": "bluetooth-headphone",
     "parent_id": "197",
-    "prod_count": 284
+    "prod_count": 287
   },
   {
     "id": "148",
@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 474
+    "prod_count": 475
   },
   {
     "id": "3565",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 988
+    "prod_count": 992
   },
   {
     "id": "4312",
@@ -487,7 +487,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 504
+    "prod_count": 508
   },
   {
     "id": "3915",
@@ -515,7 +515,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2032
+    "prod_count": 2049
   },
   {
     "id": "3480",
@@ -550,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 233
+    "prod_count": 234
   },
   {
     "id": "47",
@@ -613,7 +613,7 @@
     "name": "Nubia",
     "slug": "nubia",
     "parent_id": "171",
-    "prod_count": 1
+    "prod_count": 2
   },
   {
     "id": "183",
@@ -900,7 +900,7 @@
     "name": "Speaker",
     "slug": "bluetooth-speaker",
     "parent_id": "197",
-    "prod_count": 238
+    "prod_count": 242
   },
   {
     "id": "4046",
@@ -970,7 +970,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 496
+    "prod_count": 508
   },
   {
     "id": "460",
@@ -1054,14 +1054,14 @@
     "name": "Wired Headphone ",
     "slug": "headphones",
     "parent_id": "197",
-    "prod_count": 245
+    "prod_count": 246
   },
   {
     "id": "568",
     "name": "Women's Watches",
     "slug": "womens-watch",
     "parent_id": "1837",
-    "prod_count": 416
+    "prod_count": 417
   },
   {
     "id": "239",

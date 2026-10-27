@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123871",
+    "sku": "SAD2065WEC",
+    "name": "Addiesdive Quartz Silver Dial Men\u2019s Watch (AD2065)",
+    "slug": "addiesdive-quartz-silver-dial-men-s-watch-ad2065",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/a/sad2065wec-27-10-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9799.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9799.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 23:38:41"
+    }
+  ]
+}

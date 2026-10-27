@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123875",
+    "sku": "SKC540AHIOT",
+    "name": "Skullcandy Crusher 540 Active Wireless Headphone",
+    "slug": "skullcandy-crusher-540-active-wireless-headphone",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/r/crusher-540-27-10-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 29009.0,
+    "special_price": 26139.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 29009.0,
+      "special_price": 26139.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 23:32:26"
+    }
+  ]
+}

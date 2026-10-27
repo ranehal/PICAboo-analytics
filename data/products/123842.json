@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123842",
+    "sku": "BFPRATIOT",
+    "name": "Beats Fit Pro ANC TWS Earbuds",
+    "slug": "beats-fit-pro-anc-tws-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/e/beats-fit-pro-27-10-26-7.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18579.0,
+    "special_price": 16739.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18579.0,
+      "special_price": 16739.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 23:31:39"
+    }
+  ]
+}

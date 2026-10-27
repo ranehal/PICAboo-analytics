@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123855",
+    "sku": "SOF2PTEIOT",
+    "name": "Shokz OpenFit 2 Plus Open-Ear TWS Earbuds",
+    "slug": "shokz-openfit-2-plus-open-ear-tws-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/h/shokz-openfit-2-plus-27-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24569.0,
+    "special_price": 22139.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24569.0,
+      "special_price": 22139.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 23:31:39"
+    }
+  ]
+}

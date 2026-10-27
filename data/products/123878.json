@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123878",
+    "sku": "TV1MCDSQ",
+    "name": "TQIU V1 Multi Cooker",
+    "slug": "tqiu-v1-multi-cooker",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/q/tqiu-v1-27-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4188.0,
+    "special_price": 3990.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4188.0,
+      "special_price": 3990.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 23:28:14"
+    }
+  ]
+}
