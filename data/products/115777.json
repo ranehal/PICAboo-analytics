@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115777",
+    "sku": "JNFPRO1LZB",
+    "name": "Jisulife NeckFan Pro1 5000mAh Rechargeable Fan (FA45)",
+    "slug": "jisulife-fa45-5000mah-neckfan-pro1",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/j/i/jisulife-neck-fan-pro1--28-1-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6410.0,
+    "special_price": 4750.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6410.0,
+      "special_price": 4750.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 01:01:44"
+    }
+  ]
+}

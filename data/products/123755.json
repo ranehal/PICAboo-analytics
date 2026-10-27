@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123755",
+    "sku": "AN2CTCDCIL",
+    "name": "Anker Nylon 2.0 Type-C to Type-C Fast Charging Cable (6ft)",
+    "slug": "anker-nylon-2-0-type-c-to-type-c-fast-charging-cable-6ft",
+    "category_id": "205",
+    "category_name": "Data Cable",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/n/anker-nylon-2-26-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 690.0,
+    "special_price": 549.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 690.0,
+      "special_price": 549.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 01:05:19"
+    }
+  ]
+}

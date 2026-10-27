@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123788",
+    "sku": "FCQ18CFTB",
+    "name": "Foomee 45W VOOC GaN Charger with Type-C Cable (CQ18)",
+    "slug": "foomee-45w-vooc-gan-charger-with-type-c-cable-cq18",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/q/cq18-26-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1700.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1700.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 01:05:05"
+    }
+  ]
+}

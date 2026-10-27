@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123672",
+    "sku": "AA1685CIL",
+    "name": "Anker Zolo 10000mAh 30W Magnetic Power Bank with Type-C Cable (A1685)",
+    "slug": "anker-zolo-10000mah-30w-magnetic-power-bank-with-type-c-cable-a1685",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/1/a1685-19-10-26-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6490.0,
+    "special_price": 4469.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6490.0,
+      "special_price": 4469.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 01:04:47"
+    }
+  ]
+}

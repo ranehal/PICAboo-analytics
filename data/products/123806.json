@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123806",
+    "sku": "SGA184GB128GB",
+    "name": " Samsung Galaxy A18 4GB/128GB",
+    "slug": "samsung-galaxy-a18-4gb-128gb",
+    "category_id": "172",
+    "category_name": "Samsung",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/a/samsung-galaxy-a18-4gb-128gb-10-26-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 37699.0,
+    "special_price": 36699.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 37699.0,
+      "special_price": 36699.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 00:58:46"
+    }
+  ]
+}

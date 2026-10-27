@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123778",
+    "sku": "JPRO1MTFLZB",
+    "name": "Jisulife 4250mAh Pro1 Mini Handheld Turbo Fan",
+    "slug": "jisulife-4250mah-pro1-mini-handheld-turbo-fan",
+    "category_id": "88",
+    "category_name": "Fan",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/p/r/pro1-mini-4-26-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9990.0,
+    "special_price": 7400.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9990.0,
+      "special_price": 7400.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 01:00:55"
+    }
+  ]
+}

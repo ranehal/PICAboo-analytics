@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123782",
+    "sku": "NE3ATEIOT",
+    "name": "Nothing Ear (3a) ANC TWS Earbuds",
+    "slug": "nothing-ear-3a-anc-tws-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/o/nothing-ear-_3a_-26-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18579.0,
+    "special_price": 16739.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18579.0,
+      "special_price": 16739.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 01:03:12"
+    }
+  ]
+}

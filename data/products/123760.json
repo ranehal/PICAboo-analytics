@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123760",
+    "sku": "JLIFE9HFMELZB",
+    "name": "Jisulife 5000mAh Life9 Handheld Fan (Maltese Edition)",
+    "slug": "jisulife-5000mah-life9-handheld-fan-maltese-edition",
+    "category_id": "88",
+    "category_name": "Fan",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/l/i/life9-26-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4050.0,
+    "special_price": 3000.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4050.0,
+      "special_price": 3000.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 01:00:55"
+    }
+  ]
+}

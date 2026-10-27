@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123774",
+    "sku": "JP1FA53TFLZB",
+    "name": "Jisulife 3600mAh Pro1 FA53 Handheld Turbo Fan",
+    "slug": "jisulife-3600mah-pro1-fa53-handheld-turbo-fan",
+    "category_id": "88",
+    "category_name": "Fan",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/f/a/fa53-26-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5200.0,
+    "special_price": 3850.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5200.0,
+      "special_price": 3850.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 01:00:55"
+    }
+  ]
+}

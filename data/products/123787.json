@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123787",
+    "sku": "JL780NCHIOT",
+    "name": "JBL Live 780NC ANC Wireless Overhead Headphone",
+    "slug": "jbl-live-780nc-anc-wireless-overhead-headphone",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/v/ive-780nc-26-10-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 34159.0,
+    "special_price": 30779.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 34159.0,
+      "special_price": 30779.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 01:04:00"
+    }
+  ]
+}

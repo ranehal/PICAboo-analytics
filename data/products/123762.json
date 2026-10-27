@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123762",
+    "sku": "CROSA7WPCTY",
+    "name": "City RO Supreme Alkaline 7 Stage Water Purifier",
+    "slug": "city-ro-supreme-alkaine-7-stage-water-purifier",
+    "category_id": "78",
+    "category_name": "Water Purifiers & Filters",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/i/city-ro-supreme-alkaline-7-stage-water-purifier-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 25500.0,
+    "special_price": 20390.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 25500.0,
+      "special_price": 20390.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-27 01:00:02"
+    }
+  ]
+}
