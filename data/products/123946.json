@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123946",
+    "sku": "BDAD2510WEC",
+    "name": "ADDIESDIVE Vintage Black Dial Men\u2019s Watch (AD2510)",
+    "slug": "addiesdive-vintage-men-s-watch-ad2510",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/d/ad2510-28-10-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7699.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7699.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:12:21"
+    }
+  ]
+}

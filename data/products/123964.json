@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123964",
+    "sku": "ODAD2511WEC",
+    "name": "ADDIESDIVE Turtle Orange Dial Men\u2019s Watch (AD2511)",
+    "slug": "addiesdive-turtle-orange-dial-men-s-watch-ad2511",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/d/ad2511-28-10-2026-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8699.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8699.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:12:21"
+    }
+  ]
+}

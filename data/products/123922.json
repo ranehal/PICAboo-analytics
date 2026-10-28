@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123922",
+    "sku": "FBC6FTGIOT",
+    "name": "Fitbit Charge 6 Fitness Tracker Band with GPS",
+    "slug": "fitbit-charge-6-fitness-tracker-band-with-gps",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/f/i/fitbit-charge-6-fitness-28-10-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24569.0,
+    "special_price": 22139.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24569.0,
+      "special_price": 22139.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:05:25"
+    }
+  ]
+}

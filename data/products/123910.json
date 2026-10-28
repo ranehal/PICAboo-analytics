@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123910",
+    "sku": "FSE2SWIOT",
+    "name": "Fitbit Sense 2 Smart Watch with GPS",
+    "slug": "fitbit-sense-2-smart-watch-with-gps",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/f/i/fitbit-sense-2-28-10-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 29969.0,
+    "special_price": 26999.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 29969.0,
+      "special_price": 26999.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:04:41"
+    }
+  ]
+}

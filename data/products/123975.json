@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123975",
+    "sku": "RW4012GIOT",
+    "name": "Ray-Ban Meta Wayfarer 2nd Gen Ai Glasses (RW4012)",
+    "slug": "ray-ban-meta-wayfarer-2nd-gen-ai-glasses-rw4012",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/r/w/rw4012-28-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 72169.0,
+    "special_price": 65019.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 72169.0,
+      "special_price": 65019.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:05:13"
+    }
+  ]
+}

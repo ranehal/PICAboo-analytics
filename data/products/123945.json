@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123945",
+    "sku": "AKSC11DEIOT",
+    "name": "Amazon Kindle Scribe Colorsoft 11\" 32GB E-Book Reader with Front Light (Wi-Fi)",
+    "slug": "amazon-kindle-scribe-colorsoft-11-32gb-e-book-reader-with-front-light-wi-fi",
+    "category_id": "202",
+    "category_name": "Others ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/k/i/kindle-scribe-colorsoft-28-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 111489.0,
+    "special_price": 100439.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 111489.0,
+      "special_price": 100439.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:07:54"
+    }
+  ]
+}

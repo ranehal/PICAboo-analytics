@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123954",
+    "sku": "ASCI17PMIOT",
+    "name": "iPhone 17 Pro Max Silicone Case with Magsafe",
+    "slug": "apple-silicone-case-iphone-17-pro-max",
+    "category_id": "1742",
+    "category_name": "Case & Cover",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/p/apple-silicone-case-_iphone-17-pro-max_-10-28-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7189.0,
+    "special_price": 6479.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7189.0,
+      "special_price": 6479.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:07:17"
+    }
+  ]
+}

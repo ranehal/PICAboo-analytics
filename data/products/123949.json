@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123949",
+    "sku": "AESSCIOT",
+    "name": "Amazon Echo Spot Smart Clock",
+    "slug": "amazon-echo-spot-smart-clock",
+    "category_id": "202",
+    "category_name": "Others ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/m/amazon-echo-spot-28-10-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11989.0,
+    "special_price": 10799.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11989.0,
+      "special_price": 10799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:07:54"
+    }
+  ]
+}

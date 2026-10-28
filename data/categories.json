@@ -46,7 +46,7 @@
     "name": "Bluetooth Headphone",
     "slug": "bluetooth-headphone",
     "parent_id": "197",
-    "prod_count": 287
+    "prod_count": 288
   },
   {
     "id": "148",
@@ -60,7 +60,7 @@
     "name": "Case & Cover",
     "slug": "cases-covers",
     "parent_id": "197",
-    "prod_count": 47
+    "prod_count": 49
   },
   {
     "id": "201",
@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 378
+    "prod_count": 379
   },
   {
     "id": "167",
@@ -158,7 +158,7 @@
     "name": "Data Cable",
     "slug": "data-cable",
     "parent_id": "197",
-    "prod_count": 489
+    "prod_count": 490
   },
   {
     "id": "122",
@@ -487,7 +487,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 508
+    "prod_count": 519
   },
   {
     "id": "3915",
@@ -515,7 +515,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2049
+    "prod_count": 2058
   },
   {
     "id": "3480",
@@ -550,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 234
+    "prod_count": 235
   },
   {
     "id": "47",
@@ -641,7 +641,7 @@
     "name": "Others ",
     "slug": "mobile-accessories-others",
     "parent_id": "197",
-    "prod_count": 213
+    "prod_count": 220
   },
   {
     "id": "1983",
@@ -844,7 +844,7 @@
     "name": "Smart Gadget",
     "slug": "smart-gadgets",
     "parent_id": "197",
-    "prod_count": 174
+    "prod_count": 175
   },
   {
     "id": "3842",
@@ -858,7 +858,7 @@
     "name": "Smart Watch",
     "slug": "smart-watches",
     "parent_id": "197",
-    "prod_count": 438
+    "prod_count": 444
   },
   {
     "id": "1765",
@@ -900,7 +900,7 @@
     "name": "Speaker",
     "slug": "bluetooth-speaker",
     "parent_id": "197",
-    "prod_count": 242
+    "prod_count": 244
   },
   {
     "id": "4046",

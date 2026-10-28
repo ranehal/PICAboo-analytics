@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123912",
+    "sku": "UEW4BSIOT",
+    "name": "Ultimate Ears Wonderboom 4 Bluetooth Speaker",
+    "slug": "ultimate-ears-wonderboom-4-bluetooth-speaker",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/w/o/wonderboom-4-28-10-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11989.0,
+    "special_price": 10799.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11989.0,
+      "special_price": 10799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:06:21"
+    }
+  ]
+}

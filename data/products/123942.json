@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123942",
+    "sku": "SD256GBPDIOT",
+    "name": "SanDisk 256GB 3.2 Gen 1 Phone Disk Drive",
+    "slug": "sandisk-256gb-3-2-gen-1-phone-disk-drive",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/a/sandisk256gb-28-10-26-1.jpg",
+    "unit": "g",
+    "unit_value": 3.2,
+    "price": 11629.0,
+    "special_price": 10479.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11629.0,
+      "special_price": 10479.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:08:44"
+    }
+  ]
+}

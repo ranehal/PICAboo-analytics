@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123936",
+    "sku": "AT2GN4PIOT",
+    "name": "Apple AirTag (2nd Generation)\u20134 Pack",
+    "slug": "apple-airtag-2nd-generation-4-pack",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/i/airtag_4pk_28-10-26_1_.png",
+    "unit": "pack",
+    "unit_value": 4.0,
+    "price": 17379.0,
+    "special_price": 15659.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 17379.0,
+      "special_price": 15659.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:06:19"
+    }
+  ]
+}

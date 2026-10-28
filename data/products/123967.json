@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123967",
+    "sku": "DDJREV1IOT",
+    "name": "Pioneer DDJ-REV1 DJ Controller",
+    "slug": "pioneer-ddj-rev1-dj-controller",
+    "category_id": "202",
+    "category_name": "Others ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/d/d/ddj-rev1-28-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 52149.0,
+    "special_price": 46979.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 52149.0,
+      "special_price": 46979.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:07:54"
+    }
+  ]
+}

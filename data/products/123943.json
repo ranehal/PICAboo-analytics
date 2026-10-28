@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123943",
+    "sku": "AD2117WEC",
+    "name": "ADDIESDIVE Turtle White Men\u2019s Watch (AD2117)",
+    "slug": "addiesdive-turtle-white-men-s-watch-ad2117",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/d/ad2117-28-10-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 20999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 20999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:12:21"
+    }
+  ]
+}

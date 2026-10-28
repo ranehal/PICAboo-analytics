@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123958",
+    "sku": "I17PMTCIOT",
+    "name": "iPhone 17 Pro Max TechWoven Case with MagSafe - Purple",
+    "slug": "iphone-17-pro-max-techwoven-case-with-magsafe-purple",
+    "category_id": "1742",
+    "category_name": "Case & Cover",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/p/iphone-17-pro-max-techwoven-case-with-magsafe-10-28-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7189.0,
+    "special_price": 6479.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7189.0,
+      "special_price": 6479.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:07:17"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123944",
+    "sku": "AKS11D32EIOT",
+    "name": "Amazon Kindle Scribe 11\" 3rd Gen 32GB E-Book Reader with Front Light (Wi-Fi)",
+    "slug": "amazon-kindle-scribe-11-3rd-gen-32gb-e-book-reader-with-front-light-wi-fi",
+    "category_id": "202",
+    "category_name": "Others ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/k/i/kindle-scribe-3rd-28-10-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 92309.0,
+    "special_price": 83159.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 92309.0,
+      "special_price": 83159.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-28 22:08:17"
+    }
+  ]
+}
