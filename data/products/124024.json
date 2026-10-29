@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124024",
+    "sku": "C5CLPTC",
+    "name": "CHARG C5CL C-to-Lightning 4A Braided Data Cable",
+    "slug": "charg-c5cl-c-to-lightning-4a-braided-data-cable",
+    "category_id": "205",
+    "category_name": "Data Cable",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/5/c5cl-29-10-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 750.0,
+    "special_price": 499.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 750.0,
+      "special_price": 499.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:35:46"
+    }
+  ]
+}

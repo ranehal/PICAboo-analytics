@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123984",
+    "sku": "SEL43G25FSSO",
+    "name": "Smart 43 Inch 4K UHD Google TV (SEL-43G25F)",
+    "slug": "smart-43-inch-4k-uhd-google-tv-sel-43g25f",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/e/sel-43g25f-29-10-26-5.jpg",
+    "unit": "g",
+    "unit_value": 43.0,
+    "price": 57900.0,
+    "special_price": 39900.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 57900.0,
+      "special_price": 39900.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:30:28"
+    }
+  ]
+}

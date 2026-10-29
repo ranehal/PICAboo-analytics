@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103757",
+    "sku": "BDWB64BC52BSH",
+    "name": "BOSCH DWB64BC52 Series 2 60cm Wall-Mounted Cooker Hood ",
+    "slug": "bosch-dwb64bc52-series-2-60cm-wall-mounted-cooker-hood",
+    "category_id": "156",
+    "category_name": "Kitchen Hood",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/d/w/dwb64bc52-24-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 79900.0,
+    "special_price": 74690.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 79900.0,
+      "special_price": 74690.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:31:42"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124003",
+    "sku": "TVLI2006TOO",
+    "name": "Total Li-ion Cordless Vacuum Cleaner (TVLI2006)",
+    "slug": "total-li-ion-cordless-vacuum-cleaner-tvli2006",
+    "category_id": "2257",
+    "category_name": "Others",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/v/tvli2006-29-oct-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11990.0,
+    "special_price": 10590.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11990.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:32:12"
+    }
+  ]
+}

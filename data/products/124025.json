@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124025",
+    "sku": "CL16PTC",
+    "name": "CHARG CL16 Neo TWS Earbuds",
+    "slug": "charg-cl16-neo-tws-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/l/cl16-29-10-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:33:43"
+    }
+  ]
+}

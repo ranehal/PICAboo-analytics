@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "107661",
+    "sku": "HCX5PTWSSTB",
+    "name": "Honor Choice X5 Pro TWS Earbuds with ANC",
+    "slug": "honor-choice-x5-pro-tws-earbuds-with-anc",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/h/choice-x5-pro-4-2-25-1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-10-29 20:33:18"
+    }
+  ]
+}

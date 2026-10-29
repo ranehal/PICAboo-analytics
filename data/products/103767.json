@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103767",
+    "sku": "BHBF534ES0QBSH",
+    "name": "BOSCH HBF534ES0Q Series 4 66L Built-in Oven",
+    "slug": "bosch-hbf534es0q-series-4-66l-built-in-oven",
+    "category_id": "68",
+    "category_name": "Oven",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/b/hbf534es0q-24-5-25-1.jpg",
+    "unit": "L",
+    "unit_value": 66.0,
+    "price": 85900.0,
+    "special_price": 81190.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 85900.0,
+      "special_price": 81190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:30:37"
+    }
+  ]
+}

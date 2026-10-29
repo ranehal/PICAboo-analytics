@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124016",
+    "sku": "TJAT72LEBETL",
+    "name": "TAILG Jaguar T72L Electric Bike",
+    "slug": "tailg-jaguar-t72l-electric-bike",
+    "category_id": "3531",
+    "category_name": "Electric Vehicle (EV)",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/a/tailg-jaguar-t72l-29-10-26-4.jpg",
+    "unit": "L",
+    "unit_value": 72.0,
+    "price": 229990.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 229990.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:41:07"
+    }
+  ]
+}

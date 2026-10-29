@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103795",
+    "sku": "BSMS6HMW76QBSH",
+    "name": "BOSCH SMS6HMW76Q Series 6 Dish Washer",
+    "slug": "bosch-sms6hmw76q-dish-washer",
+    "category_id": "122",
+    "category_name": "Dishwashers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/m/sms6hmw76q-25-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 138900.0,
+    "special_price": 131290.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 138900.0,
+      "special_price": 131290.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:31:36"
+    }
+  ]
+}

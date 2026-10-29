@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124001",
+    "sku": "WDAD2539WEC",
+    "name": "ADDIESDIVE White Dial Men\u2019s Watch (AD2539)",
+    "slug": "addiesdive-white-dial-men-s-watch-ad2539",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/d/ad2539-29-10-2026-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 13999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:40:34"
+    }
+  ]
+}

@@ -81,7 +81,7 @@
     "name": "Coffee Maker",
     "slug": "coffee-maker",
     "parent_id": "7",
-    "prod_count": 35
+    "prod_count": 36
   },
   {
     "id": "20",
@@ -158,14 +158,14 @@
     "name": "Data Cable",
     "slug": "data-cable",
     "parent_id": "197",
-    "prod_count": 490
+    "prod_count": 492
   },
   {
     "id": "122",
     "name": "Dishwashers",
     "slug": "dishwashers",
     "parent_id": "7",
-    "prod_count": 13
+    "prod_count": 14
   },
   {
     "id": "3925",
@@ -193,14 +193,14 @@
     "name": "Electric Vehicle (EV)",
     "slug": "electric-vehicle",
     "parent_id": "1837",
-    "prod_count": 13
+    "prod_count": 15
   },
   {
     "id": "7",
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 992
+    "prod_count": 994
   },
   {
     "id": "4312",
@@ -452,7 +452,7 @@
     "name": "Kitchen Hood",
     "slug": "chimney-kitchen-hood",
     "parent_id": "7",
-    "prod_count": 72
+    "prod_count": 75
   },
   {
     "id": "4469",
@@ -487,7 +487,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 519
+    "prod_count": 524
   },
   {
     "id": "3915",
@@ -515,7 +515,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2058
+    "prod_count": 2084
   },
   {
     "id": "3480",
@@ -634,7 +634,7 @@
     "name": "Others",
     "slug": "electronics-others",
     "parent_id": "7",
-    "prod_count": 180
+    "prod_count": 185
   },
   {
     "id": "202",
@@ -655,7 +655,7 @@
     "name": "Oven",
     "slug": "microwave-oven",
     "parent_id": "7",
-    "prod_count": 116
+    "prod_count": 120
   },
   {
     "id": "4561",
@@ -949,7 +949,7 @@
     "name": "Television",
     "slug": "television",
     "parent_id": "",
-    "prod_count": 204
+    "prod_count": 206
   },
   {
     "id": "418",
@@ -970,7 +970,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 508
+    "prod_count": 510
   },
   {
     "id": "460",
@@ -1061,7 +1061,7 @@
     "name": "Women's Watches",
     "slug": "womens-watch",
     "parent_id": "1837",
-    "prod_count": 417
+    "prod_count": 418
   },
   {
     "id": "239",

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111246",
+    "sku": "B$DIB97IM50MBSH",
+    "name": "BOSCH Series 4 Island Cooker Hood (DIB97IM50M)",
+    "slug": "bosch-series-4-island-cooker-hood-dib97im50m",
+    "category_id": "156",
+    "category_name": "Kitchen Hood",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/d/i/dib97im50m-3-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 200900.0,
+    "special_price": 184990.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 200900.0,
+      "special_price": 184990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:31:36"
+    }
+  ]
+}

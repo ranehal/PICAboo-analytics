@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123991",
+    "sku": "SEL65S224KKSSSO",
+    "name": "Smart 65 Inch 4K UHD Android TV (SEL-65S224KKS)",
+    "slug": "smart-65-inch-4k-uhd-android-tv-sel-65s224kks",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/6/5/65s224kks-29-10-26-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 110900.0,
+    "special_price": 81000.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 110900.0,
+      "special_price": 81000.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:30:17"
+    }
+  ]
+}

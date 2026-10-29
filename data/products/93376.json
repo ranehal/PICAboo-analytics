@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-465-liter-twin-cooling-non-frost-refrigerator-_rt47k6231ut-d3_-9-17-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 112500.0,
-    "special_price": 96990.0,
-    "discount": 14.0,
+    "price": 112900.0,
+    "special_price": 98900.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -218,6 +218,13 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-10-28 22:02:52"
+    },
+    {
+      "price": 112900.0,
+      "special_price": 98900.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:31:37"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124008",
+    "sku": "DDK1139931WWB",
+    "name": "Daniel Klein Black Dial Watch for Men (DK.1.13993-1)",
+    "slug": "daniel-klein-black-dial-watch-for-men-dk-1-13993-1",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/d/d/ddk1139931w-29-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8815.0,
+    "special_price": 7934.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8815.0,
+      "special_price": 7934.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:39:41"
+    }
+  ]
+}

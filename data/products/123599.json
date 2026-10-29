@@ -9,11 +9,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/t/tt4506-15-10-26-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3300.0,
-    "special_price": 2930.0,
+    "price": 3350.0,
+    "special_price": 2990.0,
     "discount": 11.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -99,6 +99,13 @@
       "discount": 11.0,
       "stock_available": 1,
       "scraped_at": "2026-10-28 22:03:06"
+    },
+    {
+      "price": 3350.0,
+      "special_price": 2990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:31:59"
     }
   ]
 }

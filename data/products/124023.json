@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124023",
+    "sku": "C5CCPTC",
+    "name": "CHARG C5CC C to C 4A Braided Data Cable",
+    "slug": "charg-c5cc-c-to-c-4a-braided-data-cable",
+    "category_id": "205",
+    "category_name": "Data Cable",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/5/c5cc-29-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 650.0,
+    "special_price": 450.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 650.0,
+      "special_price": 450.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:36:13"
+    }
+  ]
+}

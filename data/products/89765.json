@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "89765",
+    "sku": "SMV50E00GCBSH",
+    "name": "BOSCH SMV50E00GC Series 4| 60cm 12 Place Settings Built-in Dishwasher",
+    "slug": "bosch-smv50e00gc-series-4-60cm-12-place-settings-built-in-dishwasher",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/m/smv50e00gc-25-5-25-1.jpg",
+    "unit": "g",
+    "unit_value": 0.0,
+    "price": 144900.0,
+    "special_price": 136990.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 144900.0,
+      "special_price": 136990.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:31:23"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123983",
+    "sku": "MT35RCLDSQ",
+    "name": "Miyako 35L 1600W Electric Oven (MT-35 RCL)",
+    "slug": "miyako-35l-1600w-electric-oven-mt-35-rcl",
+    "category_id": "68",
+    "category_name": "Oven",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/t/mt-35-rcl-29-oct-2026-1.jpg",
+    "unit": "L",
+    "unit_value": 35.0,
+    "price": 14000.0,
+    "special_price": 12190.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14000.0,
+      "special_price": 12190.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:30:37"
+    }
+  ]
+}

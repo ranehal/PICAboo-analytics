@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124015",
+    "sku": "TVC24751TOO",
+    "name": "Total 75L Industrial Vacuum Cleaner (TVC24751)",
+    "slug": "total-75l-industrial-vacuum-cleaner-tvc24751",
+    "category_id": "2257",
+    "category_name": "Others",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/v/tvc24751-29-oct-2026-1.jpg",
+    "unit": "L",
+    "unit_value": 75.0,
+    "price": 33500.0,
+    "special_price": 29490.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 33500.0,
+      "special_price": 29490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-10-29 20:32:12"
+    }
+  ]
+}
