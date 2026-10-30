@@ -4105,11 +4105,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/3/a30-19-10-2026-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 17990.0,
+    "special_price": 12199.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "123685",
@@ -149433,11 +149433,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/i/wireless-5-anc-15-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2599.0,
-    "special_price": 2560.0,
-    "discount": 2.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "108399",
@@ -195225,11 +195225,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/y/my-1f5g-dahlia-black-match.jpg",
     "unit": "L",
     "unit_value": 165.0,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 35100.0,
+    "special_price": 22490.0,
+    "discount": 36.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "102741",
@@ -207305,11 +207305,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/m/hmd101-7-13-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2000.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "121656",
@@ -207561,11 +207561,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/honor-x9d-5g-19-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 46999.0,
-    "special_price": 45999.0,
-    "discount": 2.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "115950",
@@ -207641,11 +207641,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/honor-600-5g-19-8-26-1_1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 64999.0,
-    "special_price": 61999.0,
-    "discount": 5.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "119899",
@@ -208505,11 +208505,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/o/google-pixel-9--19-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 89999.0,
-    "special_price": 86499.0,
-    "discount": 4.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "109164",
