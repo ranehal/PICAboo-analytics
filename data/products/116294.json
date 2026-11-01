@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116294",
+    "sku": "XXDCH090STE",
+    "name": "Xundd 65W GaN Universal Travel Adapter with Built-in Cable (XDCH-090)",
+    "slug": "xundd-65w-gan-international-travel-adapter-with-built-in-cable-xdch-090",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/x/d/xdch-090-18-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3780.0,
+    "special_price": 3591.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3780.0,
+      "special_price": 3591.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 06:12:33"
+    }
+  ]
+}

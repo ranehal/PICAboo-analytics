@@ -9,8 +9,8 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-250-ltr-direct-cool-refrigerator-_wfb-2e0-gdel-xx_-_m199-gd_-8-102-6-1.jpg",
     "unit": "L",
     "unit_value": 250.0,
-    "price": 43290.0,
-    "special_price": 37290.0,
+    "price": 42590.0,
+    "special_price": 36730.0,
     "discount": 14.0,
     "stock_available": 1,
     "is_atl": 1
@@ -519,6 +519,13 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-10-30 19:47:47"
+    },
+    {
+      "price": 42590.0,
+      "special_price": 36730.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 06:01:53"
     }
   ]
 }

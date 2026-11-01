@@ -1,5 +1,181 @@
 [
   {
+    "id": "124036",
+    "sku": "COREGPTC",
+    "name": "CHARG CORE Green TWS (COREG) ",
+    "slug": "charg-core-green-tws-coreg",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/o/coreg-1-11-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 899.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "116294",
+    "sku": "XXDCH090STE",
+    "name": "Xundd 65W GaN Universal Travel Adapter with Built-in Cable (XDCH-090)",
+    "slug": "xundd-65w-gan-international-travel-adapter-with-built-in-cable-xdch-090",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/x/d/xdch-090-18-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3780.0,
+    "special_price": 3591.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124028",
+    "sku": "DDK1140931WWB",
+    "name": "Daniel Klein Automatic Skeleton Grey Dial Watch for Men (DK.1.14093-1)",
+    "slug": "daniel-klein-automatic-skeleton-grey-dial-watch-for-men-dk-1-14093-1",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/d/k/dk1140931-11-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 17093.0,
+    "special_price": 15383.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124031",
+    "sku": "DDK1140932WWB",
+    "name": "Daniel Klein Automatic Skeleton Black Dial Watch for Men (DK.1.14093-2)",
+    "slug": "daniel-klein-automatic-skeleton-black-dial-watch-for-men-dk-1-14093-2",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/d/d/ddk1140932-1-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 17093.0,
+    "special_price": 15383.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124033",
+    "sku": "DDK1140935WWB",
+    "name": "Daniel Klein Automatic Skeleton Black Dial Watch for Men (DK.1.14093-5)",
+    "slug": "daniel-klein-automatic-skeleton-black-dial-watch-for-men-dk-1-14093-5",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/d/d/ddk1140935-1-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18490.0,
+    "special_price": 16641.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124035",
+    "sku": "DDK6140375WWB",
+    "name": "Daniel Klein Black Dial Watch for Men (DK.6.14037-5)",
+    "slug": "daniel-klein-black-dial-watch-for-men-dk-6-14037-5",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/d/d/ddk6140375-1-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6773.0,
+    "special_price": 6095.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124027",
+    "sku": "G25BPTC",
+    "name": "Charg Ultra Fast 25W PD GaN Charger Blue (G25B)",
+    "slug": "charg-ultra-fast-25w-pd-gan-charger-blue-g25b",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/2/g25b-1-11-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 899.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124029",
+    "sku": "G25PPTC",
+    "name": "CHARG Ultra Fast 25W PD GaN Charger Pink (G25P)",
+    "slug": "charg-ultra-fast-25w-pd-gan-charger-pink-g25p",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/2/g25p-1-11-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 899.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124030",
+    "sku": "G25WPTC",
+    "name": "CHARG Ultra Fast 25W PD GaN Charger White (G25W)",
+    "slug": "charg-ultra-fast-25w-pd-gan-charger-white-g25w",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/2/g25w-1-11-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 899.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124032",
+    "sku": "G25OPTC",
+    "name": "CHARG Ultra Fast 25W PD GaN Charger Orange (G25O)",
+    "slug": "charg-ultra-fast-25w-pd-gan-charger-orange-g25o",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/2/g25o-1-11-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 899.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124034",
+    "sku": "AURAPTC",
+    "name": "CHARG Aura Watch AI AMOLED Smartwatch (AURA)",
+    "slug": "charg-aura-watch-ai-amoled-smartwatch-aura",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/u/aura-1-11-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3899.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
     "id": "124016",
     "sku": "TJAT72LEBETL",
     "name": "TAILG Jaguar T72L Electric Bike",
@@ -8890,8 +9066,8 @@
     "unit": null,
     "unit_value": null,
     "price": 375.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "special_price": 340.0,
+    "discount": 9.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -16137,9 +16313,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-note-17-9-6-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 36999.0,
-    "special_price": 36499.0,
-    "discount": 1.0,
+    "price": 37999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -87657,11 +87833,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/q/bq---21-9-24---1.jpg",
     "unit": "g",
     "unit_value": 1135.0,
-    "price": 76800.0,
-    "special_price": 69825.0,
+    "price": 84990.0,
+    "special_price": 77750.0,
     "discount": 9.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "105239",
@@ -129593,11 +129769,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/6/t67-7-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 499.0,
+    "special_price": 399.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "106993",
@@ -131385,11 +131561,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/e/oep-320s-17-9-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 185.0,
-    "special_price": 170.0,
-    "discount": 8.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "112936",
@@ -133049,11 +133225,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/c/qcy-c2-b-26-1-26-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 999.0,
-    "special_price": 410.0,
-    "discount": 59.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "115711",
@@ -145209,11 +145385,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/i/air-7-pro-8-4-26-5.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 7990.0,
-    "special_price": 7150.0,
-    "discount": 11.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "110444",
@@ -151593,11 +151769,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/2/n20-9-3-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2750.0,
-    "special_price": 2282.0,
-    "discount": 17.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "117265",
@@ -189273,10 +189449,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/saffron-toofan-120w-8-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 6680.0,
-    "special_price": 5690.0,
-    "discount": 15.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -197530,8 +197706,8 @@
     "unit": null,
     "unit_value": null,
     "price": 39990.0,
-    "special_price": 28390.0,
-    "discount": 29.0,
+    "special_price": 29990.0,
+    "discount": 25.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -197594,10 +197770,10 @@
     "unit": "L",
     "unit_value": 224.0,
     "price": 52190.0,
-    "special_price": 42990.0,
-    "discount": 18.0,
+    "special_price": 45010.0,
+    "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "110932",
@@ -198442,10 +198618,10 @@
     "unit": "L",
     "unit_value": 268.0,
     "price": 49490.0,
-    "special_price": 42000.0,
-    "discount": 15.0,
+    "special_price": 43120.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "111685",
@@ -199754,10 +199930,10 @@
     "unit": null,
     "unit_value": null,
     "price": 59390.0,
-    "special_price": 49890.0,
-    "discount": 16.0,
+    "special_price": 51220.0,
+    "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "113918",
@@ -199834,8 +200010,8 @@
     "unit": null,
     "unit_value": null,
     "price": 39990.0,
-    "special_price": 28390.0,
-    "discount": 29.0,
+    "special_price": 29990.0,
+    "discount": 25.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -199849,8 +200025,8 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-252l-direct-cool-refrigerator-_wfb-2b6-gdel-sc_-8-10-26-1.jpg",
     "unit": "L",
     "unit_value": 252.0,
-    "price": 45490.0,
-    "special_price": 38990.0,
+    "price": 43890.0,
+    "special_price": 37860.0,
     "discount": 14.0,
     "stock_available": 1,
     "is_atl": 1
@@ -200233,8 +200409,8 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-250-ltr-direct-cool-refrigerator-_wfb-2e0-gdel-xx_-_m199-gd_-8-102-6-1.jpg",
     "unit": "L",
     "unit_value": 250.0,
-    "price": 43290.0,
-    "special_price": 37290.0,
+    "price": 42590.0,
+    "special_price": 36730.0,
     "discount": 14.0,
     "stock_available": 1,
     "is_atl": 1
@@ -201674,10 +201850,10 @@
     "unit": "L",
     "unit_value": 213.0,
     "price": 37990.0,
-    "special_price": 31690.0,
-    "discount": 17.0,
+    "special_price": 32770.0,
+    "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "120782",
@@ -201786,10 +201962,10 @@
     "unit": "L",
     "unit_value": 380.0,
     "price": 54190.0,
-    "special_price": 45890.0,
-    "discount": 15.0,
+    "special_price": 46740.0,
+    "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "121177",
@@ -202362,10 +202538,10 @@
     "unit": "L",
     "unit_value": 213.0,
     "price": 39390.0,
-    "special_price": 33890.0,
+    "special_price": 33970.0,
     "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "111684",
@@ -208490,8 +208666,8 @@
     "unit": null,
     "unit_value": null,
     "price": 59999.0,
-    "special_price": 51499.0,
-    "discount": 14.0,
+    "special_price": 57999.0,
+    "discount": 3.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208889,11 +209065,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/n/infinix-hot-70-4-22-26-13.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 25999.0,
+    "special_price": 24999.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "120488",
@@ -210825,11 +211001,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-aroma-1.5-ton-inverter-air-conditioner-7-5-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 89990.0,
-    "special_price": 66990.0,
-    "discount": 26.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "120165",

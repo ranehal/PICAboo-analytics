@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124036",
+    "sku": "COREGPTC",
+    "name": "CHARG CORE Green TWS (COREG) ",
+    "slug": "charg-core-green-tws-coreg",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/o/coreg-1-11-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 899.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 999.0,
+      "special_price": 899.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 06:15:06"
+    }
+  ]
+}
