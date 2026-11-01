@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116295",
+    "sku": "XXDCH089STE",
+    "name": "Xundd 35W GaN Universal Travel Adapter with Built-in Cable (XDCH-089)",
+    "slug": "xundd-35w-gan-universal-travel-adapter-with-built-in-cable-xdch-089",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/x/d/xdch-089-18-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2890.0,
+    "special_price": 2746.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2890.0,
+      "special_price": 2746.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:15:19"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124045",
+    "sku": "C9009LWHG",
+    "name": "CURREN Stainless Steel Gold Women\u2019s Watch (C9009L)",
+    "slug": "curren-stainless-steel-gold-women-s-watch-c9009l",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/9/c9009l-1-11-2026.jpg",
+    "unit": "L",
+    "unit_value": 9009.0,
+    "price": 1650.0,
+    "special_price": 1400.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:18:49"
+    }
+  ]
+}

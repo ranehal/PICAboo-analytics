@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "107147",
+    "sku": "XH002NSTE",
+    "name": "XUNDD ENC Bluetooth Neckband (H002)",
+    "slug": "xundd-enc-bluetooth-neckband-h002",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/0/h002-12-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1650.0,
+    "special_price": 1568.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1650.0,
+      "special_price": 1568.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:14:02"
+    }
+  ]
+}

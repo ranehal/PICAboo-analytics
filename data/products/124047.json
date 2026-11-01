@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124047",
+    "sku": "XSP018STE",
+    "name": "Xundd Mini Wireless Bluetooth Speaker (SP018)",
+    "slug": "xundd-mini-wireless-bluetooth-speaker-sp018",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/p/sp018-1-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1390.0,
+    "special_price": 1321.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1390.0,
+      "special_price": 1321.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:14:16"
+    }
+  ]
+}

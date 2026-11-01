@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124040",
+    "sku": "FES5217WWB",
+    "name": "Fossil Neutra Chronograph Silver-Tone Watch for Women (ES5217)",
+    "slug": "fossil-neutra-chronograph-silver-tone-watch-for-women-es5217",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/e/s/es5217-1-1126.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 27090.0,
+    "special_price": 24381.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 27090.0,
+      "special_price": 24381.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:20:35"
+    }
+  ]
+}

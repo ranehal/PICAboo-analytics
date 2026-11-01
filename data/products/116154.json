@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116154",
+    "sku": "XW012STE",
+    "name": "Xundd Transparent Open-Ear TWS Earbuds (W012)",
+    "slug": "xundd-transparent-open-ear-tws-earbuds-w012",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/w/0/w012-14-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1990.0,
+    "special_price": 1891.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1990.0,
+      "special_price": 1891.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:13:12"
+    }
+  ]
+}

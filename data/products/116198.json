@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116198",
+    "sku": "XSP010STE",
+    "name": "Xundd RGB Karaoke Bluetooth Speaker (SP-010)",
+    "slug": "xundd-rgb-karaoke-bluetooth-speaker-sp-010",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/p/sp010-14-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9000.0,
+    "special_price": 8550.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9000.0,
+      "special_price": 8550.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:14:43"
+    }
+  ]
+}

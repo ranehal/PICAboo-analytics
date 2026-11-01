@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115819",
+    "sku": "XDCH110CLSTE",
+    "name": "Xundd PD 20W GaN US Charging Adapter with Type-C to Lightning Cable (XDCH-110)",
+    "slug": "xundd-pd-20w-gan-us-charging-adapter-with-type-c-to-lighting-cable-xdch-110",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/x/d/xdch-110-ctl-29-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1390.0,
+    "special_price": 1321.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1390.0,
+      "special_price": 1321.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:15:24"
+    }
+  ]
+}

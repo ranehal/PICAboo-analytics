@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115832",
+    "sku": "X57MWMSTE",
+    "name": "Xundd X57 Mini Wireless Lavalier Microphone (1 Transmitters + 1 Receiver)",
+    "slug": "xundd-x57-mini-wireless-lavalier-microphone-1-transmitters-1-receiver",
+    "category_id": "148",
+    "category_name": "Camera Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/x/5/x57-29-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2390.0,
+    "special_price": 2271.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2390.0,
+      "special_price": 2271.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:14:30"
+    }
+  ]
+}

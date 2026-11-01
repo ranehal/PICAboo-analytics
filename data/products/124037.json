@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124037",
+    "sku": "COREBPTC",
+    "name": "CHARG CORE Black TWS (COREB) ",
+    "slug": "charg-core-black-tws-coreb",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/o/coreg-1-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 899.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 999.0,
+      "special_price": 899.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:14:13"
+    }
+  ]
+}

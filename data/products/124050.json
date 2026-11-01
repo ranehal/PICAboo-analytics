@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124050",
+    "sku": "XX64AESTE",
+    "name": "Xundd ANC True Wireless Earbuds (X64)",
+    "slug": "xundd-anc-true-wireless-earbuds-x64",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/x/6/x64-1-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1890.0,
+    "special_price": 1796.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1890.0,
+      "special_price": 1796.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:13:52"
+    }
+  ]
+}

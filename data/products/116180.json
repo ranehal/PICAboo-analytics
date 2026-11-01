@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116180",
+    "sku": "XSP005STE",
+    "name": "Xundd RGB Magnetic Portable Bluetooth Speaker (SP005)",
+    "slug": "xundd-rgb-magnetic-portable-bluetooth-speaker-sp005",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/p/sp005--14-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1550.0,
+    "special_price": 1473.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1550.0,
+      "special_price": 1473.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-01 22:14:43"
+    }
+  ]
+}
