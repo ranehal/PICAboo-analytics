@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124062",
+    "sku": "SSB4100121WWB",
+    "name": "Santa Barbara Polo & Racquet Club White Dial Watch for Women (SB.4.10012-1)",
+    "slug": "santa-barbara-polo-racquet-club-white-dial-watch-for-women-sb-4-10012-1",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/s/ssb3100023-2-11-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7740.0,
+    "special_price": 6966.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7740.0,
+      "special_price": 6966.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-03 11:09:13"
+    }
+  ]
+}

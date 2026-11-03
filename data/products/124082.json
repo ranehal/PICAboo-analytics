@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124082",
+    "sku": "RR5398CBD",
+    "name": "RAF 10L Double Coil Transparent Digital Air Fryer (R5398)",
+    "slug": "raf-10l-double-coil-transparent-digital-air-fryer-r5398",
+    "category_id": "2936",
+    "category_name": "Air Fryer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/r/5/r5398-3-11-26-2.jpg",
+    "unit": "L",
+    "unit_value": 10.0,
+    "price": 14500.0,
+    "special_price": 7790.0,
+    "discount": 46.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14500.0,
+      "special_price": 7790.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-03 10:59:19"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124059",
+    "sku": "SSB1105961WWB",
+    "name": "Santa Barbara Polo & Racquet Club Silver Dial Watch for Women (SB.1.10596-1)",
+    "slug": "santa-barbara-polo-racquet-club-silver-dial-watch-for-women-sb-1-10596-1",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/s/ssb1105961-2-111-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10965.0,
+    "special_price": 9869.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10965.0,
+      "special_price": 9869.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-03 11:09:32"
+    }
+  ]
+}

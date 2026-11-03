@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124066",
+    "sku": "IESS05K10NGES",
+    "name": "itel Energy Power Tank 500W Battery Smart Portable IPS (IESS-05K10N)",
+    "slug": "itel-energy-power-tank-500w-battery-smart-portable-ips-iess-05k10n",
+    "category_id": "474",
+    "category_name": "IPS",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/e/iess05k10n-2-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 42999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 42999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-03 11:00:16"
+    }
+  ]
+}

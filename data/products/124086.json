@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124086",
+    "sku": "MPTCF2017YLCBD",
+    "name": "Miyako Electric Room Heater (PTC-F2017 YL)",
+    "slug": "miyako-electric-room-heater-ptc-f2017-yl",
+    "category_id": "308",
+    "category_name": "Room Heater",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/f/2/f2017-yl-3-11-26-2jpg.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7000.0,
+    "special_price": 5390.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7000.0,
+      "special_price": 5390.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-03 10:59:44"
+    }
+  ]
+}

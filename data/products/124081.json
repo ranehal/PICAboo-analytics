@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124081",
+    "sku": "NTTAF1080ASTCCBD",
+    "name": "National 8L Digital Air Fryer (TTAF-1080ASTC)",
+    "slug": "national-8l-digital-air-fryer-ttaf-1080astc",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/0/1080astc-3-11-26-2jpg.jpg",
+    "unit": "L",
+    "unit_value": 8.0,
+    "price": 9500.0,
+    "special_price": 7150.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9500.0,
+      "special_price": 7150.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-03 11:09:10"
+    }
+  ]
+}

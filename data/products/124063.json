@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124063",
+    "sku": "SSB4100142WWB",
+    "name": "Santa Barbara Polo & Racquet Club Moonphase Black Dial Watch for Men (SB.4.10014-2)",
+    "slug": "santa-barbara-polo-racquet-club-moonphase-black-dial-watch-for-men-sb-4-10014-2",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/s/ssb4100142-2-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11073.0,
+    "special_price": 9965.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11073.0,
+      "special_price": 9965.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-03 11:08:00"
+    }
+  ]
+}

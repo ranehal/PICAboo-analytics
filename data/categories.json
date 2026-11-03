@@ -25,7 +25,7 @@
     "name": "Air Fryer",
     "slug": "air-fryer",
     "parent_id": "7",
-    "prod_count": 75
+    "prod_count": 77
   },
   {
     "id": "452",
@@ -46,14 +46,14 @@
     "name": "Bluetooth Headphone",
     "slug": "bluetooth-headphone",
     "parent_id": "197",
-    "prod_count": 290
+    "prod_count": 292
   },
   {
     "id": "148",
     "name": "Camera Accessories",
     "slug": "camera-accessories",
     "parent_id": "197",
-    "prod_count": 42
+    "prod_count": 43
   },
   {
     "id": "1742",
@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 484
+    "prod_count": 487
   },
   {
     "id": "3565",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 994
+    "prod_count": 1000
   },
   {
     "id": "4312",
@@ -389,7 +389,7 @@
     "name": "Home Theater & Sound System",
     "slug": "home-theater-sound-system",
     "parent_id": "7",
-    "prod_count": 58
+    "prod_count": 59
   },
   {
     "id": "1227",
@@ -424,14 +424,14 @@
     "name": "IPS",
     "slug": "ips",
     "parent_id": "7",
-    "prod_count": 88
+    "prod_count": 91
   },
   {
     "id": "74",
     "name": "Induction Cooker",
     "slug": "induction-cooker",
     "parent_id": "7",
-    "prod_count": 64
+    "prod_count": 65
   },
   {
     "id": "441",
@@ -515,7 +515,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2090
+    "prod_count": 2096
   },
   {
     "id": "3480",
@@ -550,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 239
+    "prod_count": 240
   },
   {
     "id": "47",
@@ -634,7 +634,7 @@
     "name": "Others",
     "slug": "electronics-others",
     "parent_id": "7",
-    "prod_count": 185
+    "prod_count": 186
   },
   {
     "id": "202",
@@ -725,14 +725,14 @@
     "name": "Rice Cooker",
     "slug": "rice-cooker",
     "parent_id": "7",
-    "prod_count": 68
+    "prod_count": 69
   },
   {
     "id": "308",
     "name": "Room Heater",
     "slug": "room-heater",
     "parent_id": "7",
-    "prod_count": 20
+    "prod_count": 21
   },
   {
     "id": "325",
@@ -900,7 +900,7 @@
     "name": "Speaker",
     "slug": "bluetooth-speaker",
     "parent_id": "197",
-    "prod_count": 248
+    "prod_count": 250
   },
   {
     "id": "4046",
@@ -970,7 +970,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 517
+    "prod_count": 519
   },
   {
     "id": "460",
@@ -1061,7 +1061,7 @@
     "name": "Women's Watches",
     "slug": "womens-watch",
     "parent_id": "1837",
-    "prod_count": 420
+    "prod_count": 423
   },
   {
     "id": "239",

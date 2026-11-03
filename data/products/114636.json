@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-308l-inverter-no-frost-freezer-_wut-3x8-gere-ci_-8-10-26-1.jpg",
     "unit": "L",
     "unit_value": 308.0,
-    "price": 73990.0,
-    "special_price": 63630.0,
-    "discount": 14.0,
+    "price": 75690.0,
+    "special_price": 64190.0,
+    "discount": 15.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -526,6 +526,13 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-11-01 06:01:32"
+    },
+    {
+      "price": 75690.0,
+      "special_price": 64190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-03 10:58:52"
     }
   ]
 }

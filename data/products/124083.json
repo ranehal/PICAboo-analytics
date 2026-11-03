@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124083",
+    "sku": "MTC105YKCBD",
+    "name": "Miyako 2000W Digital Induction Cooker (TC-105-YK)",
+    "slug": "miyako-2000w-digital-induction-cooker-tc-105-yk",
+    "category_id": "74",
+    "category_name": "Induction Cooker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/c/tc-105-yk-3-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6900.0,
+    "special_price": 5150.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6900.0,
+      "special_price": 5150.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-03 10:59:34"
+    }
+  ]
+}

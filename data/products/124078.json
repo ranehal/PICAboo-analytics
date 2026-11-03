@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124078",
+    "sku": "ED2BSNHQ",
+    "name": "Evran D23 Bluetooth 5.3 Home Theater",
+    "slug": "evran-d23-circular-shaped-bluetooth-speaker",
+    "category_id": "30",
+    "category_name": "Home Theater & Sound System",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/e/v/evran-d23-2-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9700.0,
+    "special_price": 6690.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9700.0,
+      "special_price": 6690.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-03 11:00:23"
+    }
+  ]
+}

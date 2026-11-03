@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124074",
+    "sku": "OOEH261AGES",
+    "name": "Oraimo Multipot 3L Electric Rice Cooker with Steamer (OEH-261A)",
+    "slug": "oraimo-multipot-3l-electric-rice-cooker-with-steamer-oeh-261a",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/o/e/oeh261a--2-11-26-1.jpg",
+    "unit": "L",
+    "unit_value": 3.0,
+    "price": 4940.0,
+    "special_price": 3290.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4940.0,
+      "special_price": 3290.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-03 11:02:18"
+    }
+  ]
+}
