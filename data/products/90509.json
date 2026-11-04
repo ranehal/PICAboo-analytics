@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "90509",
+    "sku": "JBLl660NCIOT",
+    "name": "JBL Live 660NC Wireless Over-Ear Bluetooth Headphones",
+    "slug": "jbl-live-660nc-wireless-over-ear-bluetooth-headphones",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/j/b/jbl-live-660nc-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12589.0,
+    "special_price": 11339.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12589.0,
+      "special_price": 11339.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-04 20:39:24"
+    }
+  ]
+}

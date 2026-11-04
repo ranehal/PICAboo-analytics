@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/o/google-pixel-9--19-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 89999.0,
+    "special_price": 86499.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   "history": [
     {
@@ -533,6 +533,13 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-11-03 10:58:30"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 86499.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-04 20:35:42"
     }
   ]
 }

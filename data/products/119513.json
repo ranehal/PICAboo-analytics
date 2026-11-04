@@ -9,8 +9,8 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-galaxy-a37-19-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 68999.0,
-    "special_price": 66899.0,
+    "price": 69399.0,
+    "special_price": 67099.0,
     "discount": 3.0,
     "stock_available": 1,
     "is_atl": 0
@@ -533,6 +533,13 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-11-03 10:58:34"
+    },
+    {
+      "price": 69399.0,
+      "special_price": 67099.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-04 20:35:48"
     }
   ]
 }

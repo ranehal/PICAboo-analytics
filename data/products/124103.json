@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124103",
+    "sku": "AMS76RKGLO",
+    "name": "A4Tech Bloody MS76 RGB Wired Gaming Keyboard",
+    "slug": "a4tech-bloody-ms76-rgb-wired-gaming-keyboard",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/l/bloody-ms76-4-11-26-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6000.0,
+    "special_price": 5500.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6000.0,
+      "special_price": 5500.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-04 20:42:51"
+    }
+  ]
+}

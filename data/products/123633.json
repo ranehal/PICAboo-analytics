@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123633",
+    "sku": "AN70W3PUCIL",
+    "name": "Anker Nano 70W 3 Port US Plug Fast Charging Adapter",
+    "slug": "anker-nano-70w-3-port-us-plug-fast-charging-adapter",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/a/nano-70w-18-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3990.0,
+    "special_price": 3139.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3990.0,
+      "special_price": 3139.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-04 20:40:46"
+    }
+  ]
+}

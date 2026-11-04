@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anobik-power-bank-3-7-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2290.0,
-    "special_price": 1999.0,
-    "discount": 13.0,
+    "price": 2690.0,
+    "special_price": 2390.0,
+    "discount": 11.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -519,6 +519,13 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-11-03 11:03:39"
+    },
+    {
+      "price": 2690.0,
+      "special_price": 2390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-04 20:44:36"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124107",
+    "sku": "MCB400MGI",
+    "name": "Mango 2W Basic Charger with Type-C Cable (B400)",
+    "slug": "mango-2w-basic-charger-with-type-c-cable-b400",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/4/b400-4-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 129.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 129.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-04 20:41:01"
+    }
+  ]
+}

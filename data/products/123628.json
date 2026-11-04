@@ -9,11 +9,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/t/itel-a300-plus-6-128-10-18-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 18990.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   "history": [
     {
@@ -113,6 +113,13 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-11-03 10:58:39"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-11-04 20:35:44"
     }
   ]
 }

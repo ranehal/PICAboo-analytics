@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124100",
+    "sku": "MB200MGI",
+    "name": "Mango 10W Mobile Charger with Type B Cable (B200)",
+    "slug": "mango-10w-mobile-charger-with-type-b-cable-b200",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/placeholder/default/Pickaboo-plholder-thumb.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 209.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 209.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-04 20:41:01"
+    }
+  ]
+}

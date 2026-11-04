@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109066",
+    "sku": "FONENGP65MOV",
+    "name": "FONENG 22.5W 50000mAh Power Bank (P65)-Black",
+    "slug": "foneng-22-5w-50000mah-power-bank-p65",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/p/6/p65-27-3-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3999.0,
+    "special_price": 3499.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3999.0,
+      "special_price": 3499.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-04 20:44:06"
+    }
+  ]
+}

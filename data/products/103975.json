@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/h/ah--1-8-24----1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1599.0,
-    "special_price": 999.0,
-    "discount": 38.0,
+    "price": 1990.0,
+    "special_price": 919.0,
+    "discount": 54.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -533,6 +533,13 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-11-03 11:01:54"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 919.0,
+      "discount": 54.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-04 20:38:46"
     }
   ]
 }

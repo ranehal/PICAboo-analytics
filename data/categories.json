@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 487
+    "prod_count": 497
   },
   {
     "id": "3565",
@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 380
+    "prod_count": 381
   },
   {
     "id": "167",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 1000
+    "prod_count": 1001
   },
   {
     "id": "4312",
@@ -487,7 +487,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 525
+    "prod_count": 527
   },
   {
     "id": "3915",
@@ -515,7 +515,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2096
+    "prod_count": 2097
   },
   {
     "id": "3480",
@@ -550,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 241
+    "prod_count": 244
   },
   {
     "id": "47",
@@ -578,7 +578,7 @@
     "name": "Mouse & Keyboard",
     "slug": "mouse",
     "parent_id": "20",
-    "prod_count": 205
+    "prod_count": 208
   },
   {
     "id": "4036",
@@ -858,7 +858,7 @@
     "name": "Smart Watch",
     "slug": "smart-watches",
     "parent_id": "197",
-    "prod_count": 444
+    "prod_count": 445
   },
   {
     "id": "1765",
@@ -970,7 +970,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 520
+    "prod_count": 521
   },
   {
     "id": "460",
