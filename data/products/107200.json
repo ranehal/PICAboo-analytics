@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "107200",
+    "sku": "FONENGT52MOV",
+    "name": "FONENG Angled In-Ear Wired Earphone (T52)",
+    "slug": "foneng-angled-in-ear-wired-earphone-t52",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/5/t52-14-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 299.0,
+    "special_price": 199.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 299.0,
+      "special_price": 199.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-05 21:29:32"
+    }
+  ]
+}

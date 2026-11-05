@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124152",
+    "sku": "3220SM01RYW",
+    "name": "Titan Fastrack Quartz Men\u2019s Watch (3220SM01)",
+    "slug": "titan-fastrack-quartz-men-s-watch-3220sm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/3/2/3220sm01-5-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5644.0,
+    "special_price": 5000.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5644.0,
+      "special_price": 5000.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-05 21:36:08"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124144",
+    "sku": "GIFHL01GZO",
+    "name": "Gazi Smiss Infrared Cooker (IF-HL01)",
+    "slug": "gazi-smiss-infrared-cooker-if-hl01",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/f/if-hl01-5-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7440.0,
+    "special_price": 6190.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7440.0,
+      "special_price": 6190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-05 21:35:55"
+    }
+  ]
+}

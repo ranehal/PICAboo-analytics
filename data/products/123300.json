@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/1/c100-6gb--5-10-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 27999.0,
-    "special_price": 26399.0,
+    "price": 29999.0,
+    "special_price": 28299.0,
     "discount": 6.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -197,6 +197,13 @@
       "discount": 6.0,
       "stock_available": 1,
       "scraped_at": "2026-11-04 20:35:41"
+    },
+    {
+      "price": 29999.0,
+      "special_price": 28299.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-05 21:24:21"
     }
   ]
 }

@@ -9,11 +9,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/0/1080astc-3-11-26-2jpg.jpg",
     "unit": "L",
     "unit_value": 8.0,
-    "price": 9500.0,
-    "special_price": 7150.0,
-    "discount": 25.0,
+    "price": 12900.0,
+    "special_price": 7790.0,
+    "discount": 40.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -29,6 +29,13 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-11-04 20:36:19"
+    },
+    {
+      "price": 12900.0,
+      "special_price": 7790.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-05 21:25:22"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "73660",
+    "sku": "FNG3039SM02CRYW",
+    "name": "Fastrack NG3039SM02C Men\u2019s Watch",
+    "slug": "fastrack-ng3039sm02c-men-s-watch",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/3/0/3039mo.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4461.0,
+    "special_price": 3950.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4461.0,
+      "special_price": 3950.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-05 21:34:21"
+    }
+  ]
+}

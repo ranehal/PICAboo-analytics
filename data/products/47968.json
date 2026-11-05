@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "47968",
+    "sku": "TAN3039RYW",
+    "name": "Fastrack Economy Stainless Steel Analog Watch for Men (3039SM01)-Silver",
+    "slug": "fastrack-economy-stainless-steel-analog-watch-for-men-ng3039sm01c-silver",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/g/ng3039sm01c-sugedfkwue-2-1-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4408.0,
+    "special_price": 3900.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4408.0,
+      "special_price": 3900.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-05 21:34:14"
+    }
+  ]
+}

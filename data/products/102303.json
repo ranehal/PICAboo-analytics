@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "102303",
+    "sku": "GA20RGZO",
+    "name": "Gazi A-20R 2000W Smiss Induction Cooker With Inverter",
+    "slug": "gazi-a-20r-2000w-smiss-induction-cooker-with-inverter",
+    "category_id": "74",
+    "category_name": "Induction Cooker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/a/gazi-smiss-induction-cooker-a-20r-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4800.0,
+    "special_price": 3990.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4800.0,
+      "special_price": 3990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-05 21:25:37"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124153",
+    "sku": "KD90D25ELCHAZIL",
+    "name": "Konka 25L Microwave Oven with Grill (KD90D25EL-CHA)",
+    "slug": "konka-25l-microwave-oven-with-grill-kd90d25el-cha",
+    "category_id": "68",
+    "category_name": "Oven",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/k/d/kd90d25el-cha-5-11-26-2.jpg",
+    "unit": "L",
+    "unit_value": 25.0,
+    "price": 18500.0,
+    "special_price": 16490.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18500.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-05 21:25:22"
+    }
+  ]
+}

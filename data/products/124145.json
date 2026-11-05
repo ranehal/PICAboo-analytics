@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124145",
+    "sku": "GSCF101YBGZO",
+    "name": "Gazi 2200W Inverter Infrared Cooker [SCF-101(YB)]",
+    "slug": "gazi-2200w-inverter-infrared-cooker-scf-101-yb",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/n/infrared-scf-101-_yb_-5-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6960.0,
+    "special_price": 5790.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6960.0,
+      "special_price": 5790.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-05 21:35:55"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124137",
+    "sku": "R175G6GB128GB",
+    "name": "Redmi 17 5G 6GB/128GB",
+    "slug": "redmi-17-5g-6gb-128gb",
+    "category_id": "239",
+    "category_name": "Xiaomi",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/r/e/redmi-17-5g-11-5-26-1.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 31999.0,
+    "special_price": 30999.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 31999.0,
+      "special_price": 30999.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-05 21:24:20"
+    }
+  ]
+}
