@@ -6473,11 +6473,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/t/itel-a300-plus-6-128-10-18-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 18990.0,
+    "special_price": 17999.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "123610",
@@ -208777,11 +208777,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vivo-v70-5g-8gb-20-8-26.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 72999.0,
+    "special_price": 70499.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "118453",
@@ -210649,11 +210649,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-galaxy-s25-fe-19-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 99999.0,
-    "special_price": 97099.0,
-    "discount": 3.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "113338",
@@ -212777,11 +212777,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-aroma-1.5-ton-inverter-air-conditioner-7-5-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 89990.0,
+    "special_price": 66990.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "120165",
