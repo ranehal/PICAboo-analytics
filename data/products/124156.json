@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124156",
+    "sku": "3305NM02RYW",
+    "name": "Titan Fastrack Grey Dial Men\u2019s Watch (3305NM02)",
+    "slug": "titan-fastrack-grey-dial-men-s-watch-3305nm02",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/3/3/3305nm02-8-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7525.0,
+    "special_price": 6660.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7525.0,
+      "special_price": 6660.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-08 06:01:10"
+    }
+  ]
+}

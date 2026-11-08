@@ -1,5 +1,53 @@
 [
   {
+    "id": "124156",
+    "sku": "3305NM02RYW",
+    "name": "Titan Fastrack Grey Dial Men\u2019s Watch (3305NM02)",
+    "slug": "titan-fastrack-grey-dial-men-s-watch-3305nm02",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/3/3/3305nm02-8-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7525.0,
+    "special_price": 6660.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124157",
+    "sku": "3287SM01RYW",
+    "name": "Titan Fastrack Tick Tock Men\u2019s Watch (3287SM01)",
+    "slug": "titan-fastrack-tick-tock-men-s-watch-3287sm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/3/2/3287sm01-8-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7633.0,
+    "special_price": 6760.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124158",
+    "sku": "38024PP72RYW",
+    "name": "Titan Fastrack Tees Wanderlust Watch (38024PP72)",
+    "slug": "titan-fastrack-tees-wanderlust-watch-38024pp72",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/3/8/38024pp72-8-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2903.0,
+    "special_price": 2570.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
     "id": "124152",
     "sku": "3220SM01RYW",
     "name": "Titan Fastrack Quartz Men\u2019s Watch (3220SM01)",
@@ -6473,11 +6521,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/t/itel-a300-plus-6-128-10-18-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 18990.0,
-    "special_price": 17999.0,
-    "discount": 5.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "123610",
@@ -151385,11 +151433,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/i/wireless-5-anc-15-2-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 2599.0,
+    "special_price": 2560.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "108399",
@@ -197177,11 +197225,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/y/my-1f5g-dahlia-black-match.jpg",
     "unit": "L",
     "unit_value": 165.0,
-    "price": 35100.0,
-    "special_price": 21990.0,
-    "discount": 37.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "102741",
@@ -202858,8 +202906,8 @@
     "unit": null,
     "unit_value": null,
     "price": 12700.0,
-    "special_price": 7750.0,
-    "discount": 39.0,
+    "special_price": 7990.0,
+    "discount": 37.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -207529,11 +207577,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/e/tecno-spark-go-3-12-8-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 17999.0,
-    "special_price": 16699.0,
-    "discount": 7.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "116355",

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124157",
+    "sku": "3287SM01RYW",
+    "name": "Titan Fastrack Tick Tock Men\u2019s Watch (3287SM01)",
+    "slug": "titan-fastrack-tick-tock-men-s-watch-3287sm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/3/2/3287sm01-8-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7633.0,
+    "special_price": 6760.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7633.0,
+      "special_price": 6760.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-08 06:01:10"
+    }
+  ]
+}

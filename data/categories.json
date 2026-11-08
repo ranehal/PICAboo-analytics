@@ -487,7 +487,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 528
+    "prod_count": 530
   },
   {
     "id": "3915",
@@ -515,7 +515,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2102
+    "prod_count": 2103
   },
   {
     "id": "3480",
