@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/1/x14-11-8-26-4.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 5999.0,
-    "special_price": 3999.0,
-    "discount": 33.0,
+    "price": 4499.0,
+    "special_price": 4249.0,
+    "discount": 6.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -484,6 +484,13 @@
       "discount": 33.0,
       "stock_available": 1,
       "scraped_at": "2026-11-04 20:39:08"
+    },
+    {
+      "price": 4499.0,
+      "special_price": 4249.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-09 04:37:34"
     }
   ]
 }

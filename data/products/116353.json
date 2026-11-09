@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/t/rt-ax52--19-2-26-4.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 9500.0,
-    "special_price": 8175.0,
-    "discount": 14.0,
+    "price": 8700.0,
+    "special_price": 8100.0,
+    "discount": 7.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -547,6 +547,13 @@
       "discount": 14.0,
       "stock_available": 1,
       "scraped_at": "2026-11-08 05:57:46"
+    },
+    {
+      "price": 8700.0,
+      "special_price": 8100.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-09 04:40:06"
     }
   ]
 }

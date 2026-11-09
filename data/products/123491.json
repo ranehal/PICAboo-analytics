@@ -9,9 +9,9 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/o/nomos-30w-10000-11-oct-2026-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3170.0,
-    "special_price": 2180.0,
-    "discount": 31.0,
+    "price": 2350.0,
+    "special_price": 2088.0,
+    "discount": 11.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -183,6 +183,13 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-11-08 05:55:49"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 2088.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-09 04:39:01"
     }
   ]
 }

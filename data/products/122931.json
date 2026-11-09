@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/o/move-bkash-16-sep-2026.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3990.0,
-    "special_price": 3009.0,
-    "discount": 25.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   "history": [
     {
@@ -323,6 +323,13 @@
       "discount": 25.0,
       "stock_available": 1,
       "scraped_at": "2026-11-08 05:53:46"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-11-09 04:36:56"
     }
   ]
 }

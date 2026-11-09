@@ -9,11 +9,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/h/choice-x5-pro-4-2-25-1-removebg-preview.png",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
+    "price": 4499.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "stock_available": 1,
+    "is_atl": 0
   },
   "history": [
     {
@@ -71,6 +71,13 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-11-08 05:52:49"
+    },
+    {
+      "price": 4499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-09 04:35:35"
     }
   ]
 }
