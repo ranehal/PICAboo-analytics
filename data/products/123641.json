@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "123641",
+    "sku": "APD30WCCCIL",
+    "name": "Anker PowerDrive 30W 2 Port Car Charger",
+    "slug": "anker-powerdrive-30w-2-port-car-charger",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/p/o/powerdrive-30w-19-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1390.0,
+    "special_price": 999.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1390.0,
+      "special_price": 999.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-10 04:08:27"
+    }
+  ]
+}

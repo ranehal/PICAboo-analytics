@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/9065-gold-8-1-25--1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1849.0,
-    "special_price": 1450.0,
-    "discount": 22.0,
+    "price": 1590.0,
+    "special_price": 1350.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -526,6 +526,13 @@
       "discount": 22.0,
       "stock_available": 1,
       "scraped_at": "2026-11-09 04:42:44"
+    },
+    {
+      "price": 1590.0,
+      "special_price": 1350.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-10 04:14:27"
     }
   ]
 }
