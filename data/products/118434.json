@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-7.5kg-top-loading-fully-automatic-washing-machine-_hwm75-abfis6_-starry-silver8-926-1.jpg",
     "unit": "kg",
     "unit_value": 7.5,
-    "price": 29900.0,
-    "special_price": 20999.0,
-    "discount": 30.0,
+    "price": 20999.0,
+    "special_price": 18490.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   "history": [
     {
@@ -582,6 +582,13 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-11-10 04:02:38"
+    },
+    {
+      "price": 20999.0,
+      "special_price": 18490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-11 02:32:23"
     }
   ]
 }

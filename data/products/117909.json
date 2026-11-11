@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-a7-pro-18-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 17999.0,
-    "special_price": 17499.0,
-    "discount": 3.0,
+    "price": 18999.0,
+    "special_price": 17999.0,
+    "discount": 5.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -575,6 +575,13 @@
       "discount": 3.0,
       "stock_available": 1,
       "scraped_at": "2026-11-10 04:02:09"
+    },
+    {
+      "price": 18999.0,
+      "special_price": 17999.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-11 02:31:46"
     }
   ]
 }
