@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124193",
+    "sku": "K65XR80M2SSO",
+    "name": "Sony BRAVIA 8 65 Inch 4K OLED Google TV (K-65XR80M2)",
+    "slug": "sony-bravia-8-65-inch-4k-oled-google-tv-k-65xr80m2",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/6/5/65xr80m2-11-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 283900.0,
+    "special_price": 191700.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 283900.0,
+      "special_price": 191700.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-12 02:40:50"
+    }
+  ]
+}

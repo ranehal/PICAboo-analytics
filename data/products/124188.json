@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124188",
+    "sku": "K55XR30M2SSO",
+    "name": "Sony BRAVIA 3 55 Inch 4K HDR Google TV (K-55XR30M2)",
+    "slug": "sony-bravia-3-55-inch-4k-hdr-google-tv-k-55xr30m2",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/5/5/55xr30m2-11-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 226900.0,
+    "special_price": 153360.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 226900.0,
+      "special_price": 153360.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-12 02:40:50"
+    }
+  ]
+}

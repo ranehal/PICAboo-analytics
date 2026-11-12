@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124195",
+    "sku": "XMFB090XGO",
+    "name": "Xiaomi 4L Multifunctional Rice Cooker (MFB090-1)",
+    "slug": "xiaomi-4l-multifunctional-rice-cooker-mfb090-1",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/f/mfb090-1-11-nov-2026-1.jpg",
+    "unit": "L",
+    "unit_value": 4.0,
+    "price": 10550.0,
+    "special_price": 9999.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10550.0,
+      "special_price": 9999.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-12 02:52:06"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124185",
+    "sku": "XESS101XGO",
+    "name": "Xiaomi Electric Shaver (S101)",
+    "slug": "xiaomi-electric-shaver-s101",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/1/s101-11-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3799.0,
+    "special_price": 3659.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3799.0,
+      "special_price": 3659.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-12 02:51:54"
+    }
+  ]
+}

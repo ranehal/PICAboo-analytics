@@ -9,11 +9,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/5/c50i-19-10-2026-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 5490.0,
-    "special_price": 4539.0,
-    "discount": 17.0,
+    "price": 6990.0,
+    "special_price": 5639.0,
+    "discount": 19.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -155,6 +155,13 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-11-11 02:37:11"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 5639.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-12 02:45:49"
     }
   ]
 }

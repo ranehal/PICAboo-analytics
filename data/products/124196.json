@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124196",
+    "sku": "X1SPPPXGO",
+    "name": "Xiaomi 1S Portable Photo Printer",
+    "slug": "xiaomi-1s-portable-photo-printer",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/s/1s-11-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8999.0,
+    "special_price": 8669.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8999.0,
+      "special_price": 8669.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-12 02:44:38"
+    }
+  ]
+}

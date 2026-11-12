@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124180",
+    "sku": "XSSS200XGO",
+    "name": "Xiaomi Smart Weight Scale (S200)",
+    "slug": "xiaomi-smart-weight-scale-s200",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/2/s200-scale-11-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1899.0,
+    "special_price": 1829.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1899.0,
+      "special_price": 1829.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-12 02:51:54"
+    }
+  ]
+}
