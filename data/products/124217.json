@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124217",
+    "sku": "SEL50G25FSSO",
+    "name": "SMART 50\" 4K Android Google TV (SEL-50G25F)",
+    "slug": "smart-50-4k-android-google-tv-sel-50g25f",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/5/0/50g25f-12-11-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 50.0,
+    "price": 71900.0,
+    "special_price": 49750.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 71900.0,
+      "special_price": 49750.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-13 00:23:08"
+    }
+  ]
+}

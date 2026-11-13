@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/o/go-5-bk-18-6-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 9720.0,
-    "special_price": 5999.0,
-    "discount": 38.0,
+    "price": 7140.0,
+    "special_price": 5989.0,
+    "discount": 16.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -582,6 +582,13 @@
       "discount": 38.0,
       "stock_available": 1,
       "scraped_at": "2026-11-12 02:45:43"
+    },
+    {
+      "price": 7140.0,
+      "special_price": 5989.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-13 00:27:55"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124222",
+    "sku": "SER238BSSSO",
+    "name": "Smart 246L Bottom Mount Refrigerator (SER-238BS)",
+    "slug": "smart-246l-bottom-mount-refrigerator-ser-238bs",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/e/ser-238bs-12-11-26-1.jpg",
+    "unit": "L",
+    "unit_value": 246.0,
+    "price": 55900.0,
+    "special_price": 38600.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 55900.0,
+      "special_price": 38600.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-13 00:22:59"
+    }
+  ]
+}

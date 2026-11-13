@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124219",
+    "sku": "SER356TSSSO",
+    "name": "Smart 375L Top Mount Refrigerator (SER-356TS)",
+    "slug": "smart-375l-top-mount-refrigerator-ser-356ts",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/e/ser-356ts-12-11-26.jpg",
+    "unit": "L",
+    "unit_value": 375.0,
+    "price": 70900.0,
+    "special_price": 49250.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 70900.0,
+      "special_price": 49250.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-13 00:23:11"
+    }
+  ]
+}

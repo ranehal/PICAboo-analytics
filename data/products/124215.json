@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124215",
+    "sku": "SER217TSSSO",
+    "name": "Smart 225L Top Mount Refrigerator (SER-217TS)",
+    "slug": "smart-225l-top-mount-refrigerator-ser-217ts",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/e/ser-217ts-12-11-26.jpg",
+    "unit": "L",
+    "unit_value": 225.0,
+    "price": 52900.0,
+    "special_price": 36670.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 52900.0,
+      "special_price": 36670.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-13 00:23:11"
+    }
+  ]
+}

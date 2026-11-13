@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124202",
+    "sku": "JGE2PBSEIL",
+    "name": "JBL Go Essential 2 Portable Bluetooth Speaker",
+    "slug": "jbl-go-essential-2-portable-bluetooth-speaker",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/o/go-essential-2-12-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5850.0,
+    "special_price": 4849.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5850.0,
+      "special_price": 4849.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-13 00:27:42"
+    }
+  ]
+}

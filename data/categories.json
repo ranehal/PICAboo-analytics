@@ -162,7 +162,7 @@
   },
   {
     "id": "122",
-    "name": "Dishwashers",
+    "name": "Dishwasher",
     "slug": "dishwashers",
     "parent_id": "7",
     "prod_count": 14
@@ -389,7 +389,7 @@
     "name": "Home Theater & Sound System",
     "slug": "home-theater-sound-system",
     "parent_id": "7",
-    "prod_count": 59
+    "prod_count": 60
   },
   {
     "id": "1227",
@@ -550,7 +550,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 246
+    "prod_count": 247
   },
   {
     "id": "47",
@@ -568,7 +568,7 @@
   },
   {
     "id": "1581",
-    "name": "Motorola Mobile Phone",
+    "name": "Motorola",
     "slug": "motorola",
     "parent_id": "171",
     "prod_count": 0
@@ -718,7 +718,7 @@
     "name": "Refrigerator & Freezer",
     "slug": "refrigerator",
     "parent_id": "7",
-    "prod_count": 243
+    "prod_count": 250
   },
   {
     "id": "77",
@@ -900,7 +900,7 @@
     "name": "Speaker",
     "slug": "bluetooth-speaker",
     "parent_id": "197",
-    "prod_count": 250
+    "prod_count": 251
   },
   {
     "id": "4046",
@@ -949,7 +949,7 @@
     "name": "Television",
     "slug": "television",
     "parent_id": "",
-    "prod_count": 212
+    "prod_count": 220
   },
   {
     "id": "418",
@@ -985,6 +985,13 @@
     "slug": "usb-ports-hubs",
     "parent_id": "20",
     "prod_count": 50
+  },
+  {
+    "id": "4609",
+    "name": "Villaon",
+    "slug": "villaon",
+    "parent_id": "171",
+    "prod_count": 0
   },
   {
     "id": "3485",
@@ -1100,7 +1107,7 @@
   },
   {
     "id": "3173",
-    "name": "itel Mobile Phone",
+    "name": "itel",
     "slug": "itel",
     "parent_id": "171",
     "prod_count": 1

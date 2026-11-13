@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124214",
+    "sku": "SEL50V24KSSO",
+    "name": "SMART 50\" 4K Android Smart TV (SEL-50V24K)",
+    "slug": "smart-50-4k-android-smart-tv-sel-50v24k",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/5/0/50v24k--12-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 69900.0,
+    "special_price": 47830.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 69900.0,
+      "special_price": 47830.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-13 00:23:08"
+    }
+  ]
+}
