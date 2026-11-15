@@ -1,5 +1,389 @@
 [
   {
+    "id": "124231",
+    "sku": "ESDMHCTTZ",
+    "name": "Enchen SquareDot Mini Electric Hair Clipper",
+    "slug": "enchen-squaredot-mini-electric-hair-clipper",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/q/squaredot-14-11-26-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2050.0,
+    "special_price": 1900.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124273",
+    "sku": "BOBW589SED",
+    "name": "BWOO ANC Over-Ear BT V5.4 Wireless Headphones (BO-BW589)",
+    "slug": "bwoo-anc-over-ear-bt-v5-4-wireless-headphones-bo-bw589",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw589-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4799.0,
+    "special_price": 4219.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124246",
+    "sku": "JGPBSEIL",
+    "name": "JBL GRIP Portable Bluetooth Speaker",
+    "slug": "jbl-grip-portable-bluetooth-speaker",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/r/grip-14-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14425.0,
+    "special_price": 12059.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124261",
+    "sku": "BOBW41SED",
+    "name": "BWOO ENC Wireless Earphones BT 6.0 (BO-BW41)",
+    "slug": "bwoo-enc-wireless-earphones-bt-6-0-bo-bw41",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw41-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2039.0,
+    "special_price": 1709.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124239",
+    "sku": "BOBW52SED",
+    "name": "BWOO ANC TWS Earbuds (BO-BW52)",
+    "slug": "bwoo-anc-tws-earbuds-bo-bw52",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw52-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2039.0,
+    "special_price": 1649.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124274",
+    "sku": "BOBW586SED",
+    "name": "BWOO Over-Ear Wireless Headphones (BO-BW586)",
+    "slug": "bwoo-over-ear-wireless-headphones-bo-bw586",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw586-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2579.0,
+    "special_price": 2169.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124275",
+    "sku": "JT530CHEIL",
+    "name": "JBL Tune 530C Type-C Over-Ear Headphone",
+    "slug": "jbl-tune-530c-type-c-over-ear-headphone",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/u/tune-530c-14-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5170.0,
+    "special_price": 4339.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124276",
+    "sku": "BOBW585SED",
+    "name": "BWOO Over-Ear Gaming Wireless Headset (BO-BW585)",
+    "slug": "bwoo-over-ear-gaming-wireless-headset-bo-bw585",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw585-14-10-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2339.0,
+    "special_price": 1939.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124244",
+    "sku": "BOBW53SED",
+    "name": "BWOO BT 6.0 ANC TWS Earbuds (BO-BW53)",
+    "slug": "bwoo-anc-tws-earbuds-bo-bw53",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw53-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2039.0,
+    "special_price": 1649.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124264",
+    "sku": "BOBW39SED",
+    "name": "BWOO Open-Ear Clip-On TWS Earbuds (BO-BW39)",
+    "slug": "bwoo-open-ear-clip-on-tws-earbuds-bo-bw39",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw39-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2639.0,
+    "special_price": 2279.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124267",
+    "sku": "BOBW95SED",
+    "name": "BWOO Wireless Earbuds with Transparent Case BT 5.2 (BO-BW95)",
+    "slug": "bwoo-wireless-earbuds-with-transparent-case-bt-5-2-bo-bw95",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw95-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2159.0,
+    "special_price": 1819.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124270",
+    "sku": "BOBW50SED",
+    "name": "BWOO Half-In-Ear TWS Earbuds (BO-BW50)",
+    "slug": "bwoo-half-in-ear-tws-earbuds-bo-bw50",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw50-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2039.0,
+    "special_price": 1709.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124248",
+    "sku": "BOBW98SED",
+    "name": "BWOO ENC BT 5.3 TWS Earbuds (BO-BW98)",
+    "slug": "bwoo-enc-bt-5-3-tws-earbuds-bo-bw98",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw98-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1559.0,
+    "special_price": 1249.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124247",
+    "sku": "BW06SED",
+    "name": "BWOO Half-In-Ear Wireless Earbuds BT 5.3 (BOBW06)",
+    "slug": "bwoo-half-in-ear-wireless-earbuds-bt-5-3-bw06",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw06-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1439.0,
+    "special_price": 1139.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124251",
+    "sku": "BOBW40SED",
+    "name": "BWOO ANC + ENC TWS Earbuds (BO-BW40)",
+    "slug": "bwoo-anc-enc-tws-earbuds-bo-bw40",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw40-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2399.0,
+    "special_price": 2049.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124226",
+    "sku": "SER330BSSSO",
+    "name": "Smart 345L Direct Cool Bottom Mount Refrigerator (SER-330BS)",
+    "slug": "smart-345l-direct-cool-bottom-mount-refrigerator-ser-330bs",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/e/ser-330bs-14-11-26-2.jpg",
+    "unit": "L",
+    "unit_value": 345.0,
+    "price": 70900.0,
+    "special_price": 49250.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124230",
+    "sku": "SEL85G25FSSO",
+    "name": "SMART 85\u201d 4K Android Google TV (SEL-85G25F)",
+    "slug": "smart-85-4k-android-google-tv-sel-85g25f",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/5/85g25f-14-11-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 85.0,
+    "price": 225900.0,
+    "special_price": 153260.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124228",
+    "sku": "SEL65G25FSSO",
+    "name": "SMART 65\u201d 4K Android Google TV (SEL-65G25F)",
+    "slug": "smart-65-4k-android-google-tv-sel-65g25f",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/6/5/65g25f-14-11-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 65.0,
+    "price": 111900.0,
+    "special_price": 76580.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124229",
+    "sku": "SEL75G25FSSO",
+    "name": "SMART 75\u201d 4K Android Google TV (SEL-75G25F)",
+    "slug": "smart-75-4k-android-google-tv-sel-75g25f",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/7/5/75g25f-14-11-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 75.0,
+    "price": 179900.0,
+    "special_price": 124510.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124227",
+    "sku": "SER566DDSSO",
+    "name": "Smart 556L Side-by-Side No Frost Inverter Refrigerator (SER-566DD)",
+    "slug": "smart-556l-side-by-side-no-frost-inverter-refrigerator-ser-566dd",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/e/ser-566dd-14-11-26-1.jpg",
+    "unit": "L",
+    "unit_value": 556.0,
+    "price": 120900.0,
+    "special_price": 91820.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "86883",
+    "sku": "BKDN86AI31MBSH",
+    "name": "BOSCH 641L KDN86AI31M Serie | 6 Free-Standing Fridge-Freezer with Freezer at Top",
+    "slug": "bosch-641l-kdn86ai31m-serie-6-free-standing-fridge-freezer-with-freezer-at-top",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/k/bkdn86ai31m7.jpg",
+    "unit": "L",
+    "unit_value": 641.0,
+    "price": 404900.0,
+    "special_price": 379890.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124232",
+    "sku": "SEL100G25FSSO",
+    "name": "SMART 100\u201d 4K Android Google TV (SEL-100G25F)",
+    "slug": "smart-100-4k-android-google-tv-sel-100g25f",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/0/100g25f-14-11-2026-1_1.jpg",
+    "unit": "g",
+    "unit_value": 100.0,
+    "price": 651900.0,
+    "special_price": 421740.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124241",
+    "sku": "XX26SMT",
+    "name": "Xtreme X26",
+    "slug": "xtreme-x26",
+    "category_id": "171",
+    "category_name": "Smartphones ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/x/t/xtreme-x26-11-14-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1299.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124233",
+    "sku": "H600S5G8GB256GB",
+    "name": "HONOR 600S 5G 8GB/256GB",
+    "slug": "honor-600s-5g-8gb-256gb",
+    "category_id": "1227",
+    "category_name": "Honor",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/o/honor-600s-5g-8gb-256gb-11-14-26-1_1.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 45999.0,
+    "special_price": 43999.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
     "id": "124202",
     "sku": "JGE2PBSEIL",
     "name": "JBL Go Essential 2 Portable Bluetooth Speaker",
@@ -538,10 +922,10 @@
     "unit": "L",
     "unit_value": 1.8,
     "price": 1280.0,
-    "special_price": 690.0,
-    "discount": 46.0,
+    "special_price": 750.0,
+    "discount": 41.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124159",
@@ -858,10 +1242,10 @@
     "unit": null,
     "unit_value": null,
     "price": 7200.0,
-    "special_price": 5750.0,
-    "discount": 20.0,
+    "special_price": 5990.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "102303",
@@ -1770,10 +2154,10 @@
     "unit": null,
     "unit_value": null,
     "price": 9700.0,
-    "special_price": 6490.0,
-    "discount": 33.0,
+    "special_price": 6590.0,
+    "discount": 32.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124089",
@@ -2841,11 +3225,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/d/ad2095-29-10-2026-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 10499.0,
+    "price": 10770.0,
     "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124008",
@@ -3033,11 +3417,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/d/ad2537-29-10-2026-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 7499.0,
+    "price": 7700.0,
     "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123992",
@@ -3434,10 +3818,10 @@
     "unit": "g",
     "unit_value": 43.0,
     "price": 57900.0,
-    "special_price": 34390.0,
-    "discount": 41.0,
+    "special_price": 38490.0,
+    "discount": 34.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123991",
@@ -3450,10 +3834,10 @@
     "unit": null,
     "unit_value": null,
     "price": 110900.0,
-    "special_price": 66390.0,
-    "discount": 40.0,
+    "special_price": 67390.0,
+    "discount": 39.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123943",
@@ -3545,11 +3929,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/d/ad2511-28-10-2026-3.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 8699.0,
+    "price": 8930.0,
     "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123964",
@@ -3625,11 +4009,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/d/ad2099-28-10-2026-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 9399.0,
+    "price": 9640.0,
     "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123937",
@@ -4138,10 +4522,10 @@
     "unit": null,
     "unit_value": null,
     "price": 5200.0,
-    "special_price": 4484.0,
-    "discount": 14.0,
+    "special_price": 4330.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "123843",
@@ -4281,11 +4665,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/d/ad2065-27-10-2026.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 9799.0,
+    "price": 10050.0,
     "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123888",
@@ -4474,8 +4858,8 @@
     "unit": null,
     "unit_value": null,
     "price": 5500.0,
-    "special_price": 4720.0,
-    "discount": 14.0,
+    "special_price": 4560.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -5145,11 +5529,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/n/anker-nylon-2-26-10-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 690.0,
+    "special_price": 549.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "123788",
@@ -5241,9 +5625,9 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/v/ive-780nc-26-10-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 34159.0,
-    "special_price": 30779.0,
-    "discount": 10.0,
+    "price": 34000.0,
+    "special_price": 28439.0,
+    "discount": 16.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -5546,10 +5930,10 @@
     "unit": null,
     "unit_value": null,
     "price": 25500.0,
-    "special_price": 18590.0,
-    "discount": 27.0,
+    "special_price": 20190.0,
+    "discount": 21.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123766",
@@ -5562,10 +5946,10 @@
     "unit": null,
     "unit_value": null,
     "price": 45500.0,
-    "special_price": 33690.0,
-    "discount": 26.0,
+    "special_price": 34690.0,
+    "discount": 24.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123805",
@@ -5818,10 +6202,10 @@
     "unit": null,
     "unit_value": null,
     "price": 46480.0,
-    "special_price": 42600.0,
-    "discount": 8.0,
+    "special_price": 44000.0,
+    "discount": 5.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "115781",
@@ -6650,10 +7034,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3990.0,
-    "special_price": 3229.0,
-    "discount": 19.0,
+    "special_price": 3359.0,
+    "discount": 16.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123667",
@@ -7850,10 +8234,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2000.0,
-    "special_price": 1100.0,
-    "discount": 45.0,
+    "special_price": 990.0,
+    "discount": 51.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "123560",
@@ -8506,10 +8890,10 @@
     "unit": null,
     "unit_value": null,
     "price": 44500.0,
-    "special_price": 41608.0,
-    "discount": 6.0,
+    "special_price": 43120.0,
+    "discount": 3.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "87900",
@@ -10410,10 +10794,10 @@
     "unit": null,
     "unit_value": null,
     "price": 4000.0,
-    "special_price": 3189.0,
-    "discount": 20.0,
+    "special_price": 3290.0,
+    "discount": 18.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123377",
@@ -10426,10 +10810,10 @@
     "unit": null,
     "unit_value": null,
     "price": 4000.0,
-    "special_price": 3189.0,
-    "discount": 20.0,
+    "special_price": 3290.0,
+    "discount": 18.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123387",
@@ -11722,8 +12106,8 @@
     "unit": null,
     "unit_value": null,
     "price": 60900.0,
-    "special_price": 50690.0,
-    "discount": 17.0,
+    "special_price": 44990.0,
+    "discount": 26.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -11738,10 +12122,10 @@
     "unit": null,
     "unit_value": null,
     "price": 9100.0,
-    "special_price": 7040.0,
-    "discount": 23.0,
+    "special_price": 8290.0,
+    "discount": 9.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123268",
@@ -14441,11 +14825,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/b/jbl-endurance-run-3-23-9-26-4.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 5780.0,
+    "special_price": 4869.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "123053",
@@ -14970,7 +15354,7 @@
     "unit": "L",
     "unit_value": 23.0,
     "price": 15990.0,
-    "special_price": 13770.0,
+    "special_price": 13790.0,
     "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
@@ -14986,8 +15370,8 @@
     "unit": "L",
     "unit_value": 20.0,
     "price": 10990.0,
-    "special_price": 9650.0,
-    "discount": 12.0,
+    "special_price": 9590.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -15434,8 +15818,8 @@
     "unit": "L",
     "unit_value": 7.0,
     "price": 8990.0,
-    "special_price": 7920.0,
-    "discount": 12.0,
+    "special_price": 7790.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -15450,10 +15834,10 @@
     "unit": "L",
     "unit_value": 238.0,
     "price": 42900.0,
-    "special_price": 27490.0,
-    "discount": 36.0,
+    "special_price": 28690.0,
+    "discount": 33.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "122993",
@@ -16666,7 +17050,7 @@
     "unit": null,
     "unit_value": null,
     "price": 35500.0,
-    "special_price": 30390.0,
+    "special_price": 30590.0,
     "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
@@ -16682,7 +17066,7 @@
     "unit": null,
     "unit_value": null,
     "price": 43125.0,
-    "special_price": 36920.0,
+    "special_price": 37190.0,
     "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
@@ -16698,8 +17082,8 @@
     "unit": null,
     "unit_value": null,
     "price": 71875.0,
-    "special_price": 60950.0,
-    "discount": 15.0,
+    "special_price": 61890.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -17162,10 +17546,10 @@
     "unit": null,
     "unit_value": null,
     "price": 90900.0,
-    "special_price": 74900.0,
-    "discount": 18.0,
+    "special_price": 75990.0,
+    "discount": 16.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "93371",
@@ -17210,8 +17594,8 @@
     "unit": null,
     "unit_value": null,
     "price": 45000.0,
-    "special_price": 28890.0,
-    "discount": 36.0,
+    "special_price": 29090.0,
+    "discount": 35.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -17514,10 +17898,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2500.0,
-    "special_price": 2126.0,
-    "discount": 15.0,
+    "special_price": 2200.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "62189",
@@ -18650,7 +19034,7 @@
     "unit": null,
     "unit_value": null,
     "price": 17500.0,
-    "special_price": 13100.0,
+    "special_price": 13190.0,
     "discount": 25.0,
     "stock_available": 1,
     "is_atl": 0
@@ -19274,8 +19658,8 @@
     "unit": null,
     "unit_value": null,
     "price": 6850.0,
-    "special_price": 3970.0,
-    "discount": 42.0,
+    "special_price": 3890.0,
+    "discount": 43.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -19306,10 +19690,10 @@
     "unit": null,
     "unit_value": null,
     "price": 65990.0,
-    "special_price": 41290.0,
-    "discount": 37.0,
+    "special_price": 41990.0,
+    "discount": 36.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "86485",
@@ -19386,8 +19770,8 @@
     "unit": null,
     "unit_value": null,
     "price": 73900.0,
-    "special_price": 51490.0,
-    "discount": 30.0,
+    "special_price": 52890.0,
+    "discount": 28.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -19530,10 +19914,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3044.0,
-    "special_price": 2556.0,
-    "discount": 16.0,
+    "special_price": 2640.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "115748",
@@ -19562,8 +19946,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4500.0,
-    "special_price": 4059.0,
-    "discount": 10.0,
+    "special_price": 4190.0,
+    "discount": 7.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -21498,7 +21882,7 @@
     "unit": null,
     "unit_value": null,
     "price": 14500.0,
-    "special_price": 9800.0,
+    "special_price": 9790.0,
     "discount": 32.0,
     "stock_available": 1,
     "is_atl": 0
@@ -21514,8 +21898,8 @@
     "unit": "L",
     "unit_value": 27.0,
     "price": 40000.0,
-    "special_price": 29190.0,
-    "discount": 27.0,
+    "special_price": 29490.0,
+    "discount": 26.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -22042,8 +22426,8 @@
     "unit": null,
     "unit_value": null,
     "price": 21990.0,
-    "special_price": 19160.0,
-    "discount": 13.0,
+    "special_price": 19290.0,
+    "discount": 12.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -27194,10 +27578,10 @@
     "unit": null,
     "unit_value": null,
     "price": 969.0,
-    "special_price": 825.0,
-    "discount": 15.0,
+    "special_price": 850.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "96592",
@@ -28378,10 +28762,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1100.0,
-    "special_price": 746.0,
-    "discount": 32.0,
+    "special_price": 770.0,
+    "discount": 30.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116713",
@@ -28394,10 +28778,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1300.0,
-    "special_price": 1012.0,
-    "discount": 22.0,
+    "special_price": 1050.0,
+    "discount": 19.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116715",
@@ -29418,8 +29802,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2500.0,
-    "special_price": 1711.0,
-    "discount": 32.0,
+    "special_price": 1650.0,
+    "discount": 34.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -34234,8 +34618,8 @@
     "unit": "L",
     "unit_value": 4.0,
     "price": 3990.0,
-    "special_price": 3174.0,
-    "discount": 20.0,
+    "special_price": 3070.0,
+    "discount": 23.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -34554,8 +34938,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2500.0,
-    "special_price": 1829.0,
-    "discount": 27.0,
+    "special_price": 1770.0,
+    "discount": 29.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -49418,8 +49802,8 @@
     "unit": null,
     "unit_value": null,
     "price": 13868.0,
-    "special_price": 12062.0,
-    "discount": 13.0,
+    "special_price": 12280.0,
+    "discount": 11.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -49722,8 +50106,8 @@
     "unit": null,
     "unit_value": null,
     "price": 5913.0,
-    "special_price": 4987.0,
-    "discount": 16.0,
+    "special_price": 4860.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -49738,8 +50122,8 @@
     "unit": null,
     "unit_value": null,
     "price": 6020.0,
-    "special_price": 5077.0,
-    "discount": 16.0,
+    "special_price": 4950.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -50185,10 +50569,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/3/9337-13-4-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2290.0,
-    "special_price": 1520.0,
-    "discount": 34.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -50394,7 +50778,7 @@
     "unit": null,
     "unit_value": null,
     "price": 9353.0,
-    "special_price": 7686.0,
+    "special_price": 7690.0,
     "discount": 18.0,
     "stock_available": 1,
     "is_atl": 0
@@ -50554,8 +50938,8 @@
     "unit": null,
     "unit_value": null,
     "price": 6020.0,
-    "special_price": 5077.0,
-    "discount": 16.0,
+    "special_price": 4950.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -53338,8 +53722,8 @@
     "unit": null,
     "unit_value": null,
     "price": 7500.0,
-    "special_price": 2990.0,
-    "discount": 60.0,
+    "special_price": 2790.0,
+    "discount": 63.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -53354,10 +53738,10 @@
     "unit": null,
     "unit_value": null,
     "price": 4286.0,
-    "special_price": 3590.0,
-    "discount": 16.0,
+    "special_price": 3390.0,
+    "discount": 21.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "79874",
@@ -53418,8 +53802,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4315.0,
-    "special_price": 3750.0,
-    "discount": 13.0,
+    "special_price": 3570.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -53962,8 +54346,8 @@
     "unit": null,
     "unit_value": null,
     "price": 1500.0,
-    "special_price": 1105.0,
-    "discount": 26.0,
+    "special_price": 990.0,
+    "discount": 34.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -53978,8 +54362,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4800.0,
-    "special_price": 4120.0,
-    "discount": 14.0,
+    "special_price": 3920.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -53994,8 +54378,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4175.0,
-    "special_price": 3799.0,
-    "discount": 9.0,
+    "special_price": 3570.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -54010,8 +54394,8 @@
     "unit": null,
     "unit_value": null,
     "price": 8175.0,
-    "special_price": 6950.0,
-    "discount": 15.0,
+    "special_price": 6700.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -54074,8 +54458,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3510.0,
-    "special_price": 2890.0,
-    "discount": 18.0,
+    "special_price": 2760.0,
+    "discount": 21.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -54474,8 +54858,8 @@
     "unit": null,
     "unit_value": null,
     "price": 6429.0,
-    "special_price": 3990.0,
-    "discount": 38.0,
+    "special_price": 4990.0,
+    "discount": 22.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -54810,10 +55194,10 @@
     "unit": null,
     "unit_value": null,
     "price": 7143.0,
-    "special_price": 5590.0,
-    "discount": 22.0,
+    "special_price": 5890.0,
+    "discount": 18.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "115248",
@@ -54858,10 +55242,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2000.0,
-    "special_price": 690.0,
-    "discount": 66.0,
+    "special_price": 1090.0,
+    "discount": 46.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "115253",
@@ -55642,8 +56026,8 @@
     "unit": null,
     "unit_value": null,
     "price": 12578.0,
-    "special_price": 11038.0,
-    "discount": 12.0,
+    "special_price": 11140.0,
+    "discount": 11.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -56874,8 +57258,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3350.0,
-    "special_price": 3050.0,
-    "discount": 9.0,
+    "special_price": 2890.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -56906,8 +57290,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2100.0,
-    "special_price": 1790.0,
-    "discount": 15.0,
+    "special_price": 1690.0,
+    "discount": 20.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -56970,8 +57354,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3000.0,
-    "special_price": 2790.0,
-    "discount": 7.0,
+    "special_price": 2650.0,
+    "discount": 12.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -58922,10 +59306,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2400.0,
-    "special_price": 1920.0,
-    "discount": 20.0,
+    "special_price": 1820.0,
+    "discount": 24.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "56891",
@@ -58954,8 +59338,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3390.0,
-    "special_price": 2640.0,
-    "discount": 22.0,
+    "special_price": 2510.0,
+    "discount": 26.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59018,8 +59402,8 @@
     "unit": null,
     "unit_value": null,
     "price": 1249.0,
-    "special_price": 999.0,
-    "discount": 20.0,
+    "special_price": 970.0,
+    "discount": 22.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59066,8 +59450,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2899.0,
-    "special_price": 2400.0,
-    "discount": 17.0,
+    "special_price": 2280.0,
+    "discount": 21.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59146,7 +59530,7 @@
     "unit": null,
     "unit_value": null,
     "price": 1299.0,
-    "special_price": 899.0,
+    "special_price": 890.0,
     "discount": 31.0,
     "stock_available": 1,
     "is_atl": 0
@@ -59162,8 +59546,8 @@
     "unit": null,
     "unit_value": null,
     "price": 5499.0,
-    "special_price": 5474.0,
-    "discount": 0.0,
+    "special_price": 5240.0,
+    "discount": 5.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59210,8 +59594,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2990.0,
-    "special_price": 2400.0,
-    "discount": 20.0,
+    "special_price": 2280.0,
+    "discount": 24.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59226,8 +59610,8 @@
     "unit": null,
     "unit_value": null,
     "price": 5499.0,
-    "special_price": 4200.0,
-    "discount": 24.0,
+    "special_price": 3990.0,
+    "discount": 27.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59274,8 +59658,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4999.0,
-    "special_price": 4559.0,
-    "discount": 9.0,
+    "special_price": 4330.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59290,8 +59674,8 @@
     "unit": null,
     "unit_value": null,
     "price": 7999.0,
-    "special_price": 7796.0,
-    "discount": 3.0,
+    "special_price": 7600.0,
+    "discount": 5.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59306,8 +59690,8 @@
     "unit": null,
     "unit_value": null,
     "price": 6500.0,
-    "special_price": 5831.0,
-    "discount": 10.0,
+    "special_price": 5590.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59354,8 +59738,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2099.0,
-    "special_price": 1636.0,
-    "discount": 22.0,
+    "special_price": 1550.0,
+    "discount": 26.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59370,8 +59754,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4499.0,
-    "special_price": 3600.0,
-    "discount": 20.0,
+    "special_price": 3420.0,
+    "discount": 24.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59402,8 +59786,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4599.0,
-    "special_price": 4200.0,
-    "discount": 9.0,
+    "special_price": 3990.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59418,8 +59802,8 @@
     "unit": null,
     "unit_value": null,
     "price": 1990.0,
-    "special_price": 999.0,
-    "discount": 50.0,
+    "special_price": 970.0,
+    "discount": 51.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -59610,8 +59994,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4768.0,
-    "special_price": 3920.0,
-    "discount": 18.0,
+    "special_price": 3799.0,
+    "discount": 20.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -64474,8 +64858,8 @@
     "unit": null,
     "unit_value": null,
     "price": 1990.0,
-    "special_price": 1464.0,
-    "discount": 26.0,
+    "special_price": 1390.0,
+    "discount": 30.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -66618,8 +67002,8 @@
     "unit": null,
     "unit_value": null,
     "price": 8500.0,
-    "special_price": 4210.0,
-    "discount": 50.0,
+    "special_price": 4090.0,
+    "discount": 52.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -66634,8 +67018,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3500.0,
-    "special_price": 2180.0,
-    "discount": 38.0,
+    "special_price": 2190.0,
+    "discount": 37.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -67578,8 +67962,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2490.0,
-    "special_price": 1740.0,
-    "discount": 30.0,
+    "special_price": 1650.0,
+    "discount": 34.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -69818,10 +70202,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2190.0,
-    "special_price": 1475.0,
-    "discount": 33.0,
+    "special_price": 1430.0,
+    "discount": 35.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "118242",
@@ -72538,10 +72922,10 @@
     "unit": null,
     "unit_value": null,
     "price": 9500.0,
-    "special_price": 6720.0,
-    "discount": 29.0,
+    "special_price": 7450.0,
+    "discount": 22.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "121028",
@@ -73850,8 +74234,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2290.0,
-    "special_price": 2113.0,
-    "discount": 8.0,
+    "special_price": 2010.0,
+    "discount": 12.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -73962,8 +74346,8 @@
     "unit": null,
     "unit_value": null,
     "price": 1290.0,
-    "special_price": 960.0,
-    "discount": 26.0,
+    "special_price": 910.0,
+    "discount": 29.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -74058,8 +74442,8 @@
     "unit": null,
     "unit_value": null,
     "price": 1480.0,
-    "special_price": 396.0,
-    "discount": 73.0,
+    "special_price": 380.0,
+    "discount": 74.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -74666,8 +75050,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4290.0,
-    "special_price": 3504.0,
-    "discount": 18.0,
+    "special_price": 3620.0,
+    "discount": 16.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -74810,8 +75194,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2563.0,
-    "special_price": 2290.0,
-    "discount": 11.0,
+    "special_price": 2370.0,
+    "discount": 8.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -74890,8 +75274,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3890.0,
-    "special_price": 3195.0,
-    "discount": 18.0,
+    "special_price": 3300.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -76154,10 +76538,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2990.0,
-    "special_price": 2280.0,
-    "discount": 24.0,
+    "special_price": 2170.0,
+    "discount": 27.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "87355",
@@ -76250,8 +76634,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2500.0,
-    "special_price": 1500.0,
-    "discount": 40.0,
+    "special_price": 1430.0,
+    "discount": 43.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -76394,8 +76778,8 @@
     "unit": null,
     "unit_value": null,
     "price": 5499.0,
-    "special_price": 3960.0,
-    "discount": 28.0,
+    "special_price": 3760.0,
+    "discount": 32.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -76698,8 +77082,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3700.0,
-    "special_price": 3220.0,
-    "discount": 13.0,
+    "special_price": 3190.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -76714,8 +77098,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2675.0,
-    "special_price": 2420.0,
-    "discount": 10.0,
+    "special_price": 2290.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -78442,8 +78826,8 @@
     "unit": null,
     "unit_value": null,
     "price": 141900.0,
-    "special_price": 114450.0,
-    "discount": 19.0,
+    "special_price": 112200.0,
+    "discount": 21.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -79706,10 +80090,10 @@
     "unit": null,
     "unit_value": null,
     "price": 5800.0,
-    "special_price": 5219.0,
-    "discount": 10.0,
+    "special_price": 5390.0,
+    "discount": 7.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "120136",
@@ -80602,10 +80986,10 @@
     "unit": null,
     "unit_value": null,
     "price": 10098.0,
-    "special_price": 8733.0,
-    "discount": 14.0,
+    "special_price": 9020.0,
+    "discount": 11.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "120256",
@@ -81274,8 +81658,8 @@
     "unit": null,
     "unit_value": null,
     "price": 1850.0,
-    "special_price": 1757.0,
-    "discount": 5.0,
+    "special_price": 1820.0,
+    "discount": 2.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -82634,10 +83018,10 @@
     "unit": null,
     "unit_value": null,
     "price": 15570.0,
-    "special_price": 12993.0,
-    "discount": 17.0,
+    "special_price": 13420.0,
+    "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "74834",
@@ -82762,10 +83146,10 @@
     "unit": null,
     "unit_value": null,
     "price": 12500.0,
-    "special_price": 9798.0,
-    "discount": 22.0,
+    "special_price": 10120.0,
+    "discount": 19.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "77522",
@@ -82922,10 +83306,10 @@
     "unit": null,
     "unit_value": null,
     "price": 8700.0,
-    "special_price": 8201.0,
-    "discount": 6.0,
+    "special_price": 8470.0,
+    "discount": 3.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "90898",
@@ -83546,10 +83930,10 @@
     "unit": null,
     "unit_value": null,
     "price": 14250.0,
-    "special_price": 13100.0,
-    "discount": 8.0,
+    "special_price": 13530.0,
+    "discount": 5.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "102527",
@@ -83562,10 +83946,10 @@
     "unit": null,
     "unit_value": null,
     "price": 16740.0,
-    "special_price": 15336.0,
-    "discount": 8.0,
+    "special_price": 15840.0,
+    "discount": 5.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "102749",
@@ -83610,10 +83994,10 @@
     "unit": null,
     "unit_value": null,
     "price": 23938.0,
-    "special_price": 20448.0,
-    "discount": 15.0,
+    "special_price": 21120.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "106815",
@@ -85370,10 +85754,10 @@
     "unit": null,
     "unit_value": null,
     "price": 4069.0,
-    "special_price": 3467.0,
-    "discount": 15.0,
+    "special_price": 3580.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "104096",
@@ -85946,8 +86330,8 @@
     "unit": null,
     "unit_value": null,
     "price": 29580.0,
-    "special_price": 26412.0,
-    "discount": 11.0,
+    "special_price": 27280.0,
+    "discount": 8.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -86570,8 +86954,8 @@
     "unit": null,
     "unit_value": null,
     "price": 999.0,
-    "special_price": 799.0,
-    "discount": 20.0,
+    "special_price": 830.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -87210,10 +87594,10 @@
     "unit": null,
     "unit_value": null,
     "price": 10990.0,
-    "special_price": 9053.0,
-    "discount": 18.0,
+    "special_price": 9350.0,
+    "discount": 15.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "120972",
@@ -90986,8 +91370,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2200.0,
-    "special_price": 2078.0,
-    "discount": 6.0,
+    "special_price": 2150.0,
+    "discount": 2.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -91146,10 +91530,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1100.0,
-    "special_price": 1015.0,
-    "discount": 8.0,
+    "special_price": 1050.0,
+    "discount": 5.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "118345",
@@ -91962,10 +92346,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1100.0,
-    "special_price": 1015.0,
-    "discount": 8.0,
+    "special_price": 1050.0,
+    "discount": 5.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "120947",
@@ -92058,10 +92442,10 @@
     "unit": null,
     "unit_value": null,
     "price": 430.0,
-    "special_price": 366.0,
-    "discount": 15.0,
+    "special_price": 380.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "16215",
@@ -92074,8 +92458,8 @@
     "unit": null,
     "unit_value": null,
     "price": 563.0,
-    "special_price": 479.0,
-    "discount": 15.0,
+    "special_price": 500.0,
+    "discount": 11.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -92090,10 +92474,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1959.0,
-    "special_price": 1669.0,
-    "discount": 15.0,
+    "special_price": 1720.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "77475",
@@ -92106,8 +92490,8 @@
     "unit": null,
     "unit_value": null,
     "price": 873.0,
-    "special_price": 743.0,
-    "discount": 15.0,
+    "special_price": 770.0,
+    "discount": 12.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -92122,10 +92506,10 @@
     "unit": null,
     "unit_value": null,
     "price": 860.0,
-    "special_price": 733.0,
-    "discount": 15.0,
+    "special_price": 760.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "96376",
@@ -92154,10 +92538,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1183.0,
-    "special_price": 1007.0,
-    "discount": 15.0,
+    "special_price": 1040.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "108532",
@@ -92170,10 +92554,10 @@
     "unit": null,
     "unit_value": null,
     "price": 430.0,
-    "special_price": 366.0,
-    "discount": 15.0,
+    "special_price": 380.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "112697",
@@ -92730,10 +93114,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2738.0,
-    "special_price": 2290.0,
-    "discount": 16.0,
+    "special_price": 2370.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "118143",
@@ -92746,10 +93130,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2438.0,
-    "special_price": 2024.0,
-    "discount": 17.0,
+    "special_price": 2090.0,
+    "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "120948",
@@ -124841,11 +125225,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/1/p139k-14.7.24..jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2549.0,
-    "special_price": 1877.0,
-    "discount": 26.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "104081",
@@ -127273,10 +127657,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/9/m98.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 250.0,
-    "special_price": 170.0,
-    "discount": 32.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -128010,10 +128394,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3500.0,
-    "special_price": 3195.0,
-    "discount": 9.0,
+    "special_price": 3300.0,
+    "discount": 6.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116807",
@@ -128026,10 +128410,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3550.0,
-    "special_price": 3195.0,
-    "discount": 10.0,
+    "special_price": 3300.0,
+    "discount": 7.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116810",
@@ -132073,11 +132457,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/1/310c-17-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 2310.0,
+    "special_price": 1929.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "106406",
@@ -132281,10 +132665,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/6/t68-24-2-25-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 499.0,
-    "special_price": 399.0,
-    "discount": 20.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -146234,10 +146618,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1550.0,
-    "special_price": 1331.0,
-    "discount": 14.0,
+    "special_price": 1380.0,
+    "discount": 11.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116957",
@@ -149609,11 +149993,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/a/laxasfit-s10--5-11-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1600.0,
-    "special_price": 756.0,
-    "discount": 53.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "113584",
@@ -150937,11 +151321,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/b/jbl-tune-730bt-13-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 9870.0,
-    "special_price": 6810.0,
-    "discount": 31.0,
+    "price": 8850.0,
+    "special_price": 7389.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "122225",
@@ -151994,8 +152378,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2599.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "special_price": 2370.0,
+    "discount": 9.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -153289,11 +153673,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/u/buds-6-play-8-3-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 1499.0,
+    "special_price": 1472.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "107237",
@@ -156090,8 +156474,8 @@
     "unit": "kg",
     "unit_value": 11.0,
     "price": 134900.0,
-    "special_price": 107990.0,
-    "discount": 20.0,
+    "special_price": 109990.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -160298,10 +160682,10 @@
     "unit": null,
     "unit_value": null,
     "price": 13500.0,
-    "special_price": 6720.0,
-    "discount": 50.0,
+    "special_price": 7290.0,
+    "discount": 46.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "115911",
@@ -164938,8 +165322,8 @@
     "unit": null,
     "unit_value": null,
     "price": 1480.0,
-    "special_price": 770.0,
-    "discount": 48.0,
+    "special_price": 790.0,
+    "discount": 47.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -167386,7 +167770,7 @@
     "unit": null,
     "unit_value": null,
     "price": 19500.0,
-    "special_price": 10560.0,
+    "special_price": 10490.0,
     "discount": 46.0,
     "stock_available": 1,
     "is_atl": 1
@@ -167402,7 +167786,7 @@
     "unit": null,
     "unit_value": null,
     "price": 19500.0,
-    "special_price": 10560.0,
+    "special_price": 10490.0,
     "discount": 46.0,
     "stock_available": 1,
     "is_atl": 1
@@ -167418,7 +167802,7 @@
     "unit": null,
     "unit_value": null,
     "price": 19500.0,
-    "special_price": 10560.0,
+    "special_price": 10490.0,
     "discount": 46.0,
     "stock_available": 1,
     "is_atl": 0
@@ -168554,8 +168938,8 @@
     "unit": null,
     "unit_value": null,
     "price": 33725.0,
-    "special_price": 26750.0,
-    "discount": 21.0,
+    "special_price": 26890.0,
+    "discount": 20.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -168570,8 +168954,8 @@
     "unit": null,
     "unit_value": null,
     "price": 78500.0,
-    "special_price": 71020.0,
-    "discount": 10.0,
+    "special_price": 71990.0,
+    "discount": 8.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -171722,8 +172106,8 @@
     "unit": null,
     "unit_value": null,
     "price": 66900.0,
-    "special_price": 47990.0,
-    "discount": 28.0,
+    "special_price": 48950.0,
+    "discount": 27.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -173306,8 +173690,8 @@
     "unit": null,
     "unit_value": null,
     "price": 16500.0,
-    "special_price": 11290.0,
-    "discount": 32.0,
+    "special_price": 11490.0,
+    "discount": 30.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -173338,8 +173722,8 @@
     "unit": null,
     "unit_value": null,
     "price": 15500.0,
-    "special_price": 10190.0,
-    "discount": 34.0,
+    "special_price": 10390.0,
+    "discount": 33.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -173434,10 +173818,10 @@
     "unit": null,
     "unit_value": null,
     "price": 19950.0,
-    "special_price": 16990.0,
-    "discount": 15.0,
+    "special_price": 17390.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "81650",
@@ -173962,10 +174346,10 @@
     "unit": null,
     "unit_value": null,
     "price": 7000.0,
-    "special_price": 4690.0,
-    "discount": 33.0,
+    "special_price": 4790.0,
+    "discount": 32.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "89674",
@@ -174906,10 +175290,10 @@
     "unit": null,
     "unit_value": null,
     "price": 187900.0,
-    "special_price": 159990.0,
-    "discount": 15.0,
+    "special_price": 162990.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "106101",
@@ -175018,8 +175402,8 @@
     "unit": null,
     "unit_value": null,
     "price": 65000.0,
-    "special_price": 41230.0,
-    "discount": 37.0,
+    "special_price": 41790.0,
+    "discount": 36.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -176074,10 +176458,10 @@
     "unit": null,
     "unit_value": null,
     "price": 10200.0,
-    "special_price": 8000.0,
-    "discount": 22.0,
+    "special_price": 8490.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "103756",
@@ -176250,8 +176634,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3700.0,
-    "special_price": 2360.0,
-    "discount": 36.0,
+    "special_price": 2250.0,
+    "discount": 39.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -176906,10 +177290,10 @@
     "unit": null,
     "unit_value": null,
     "price": 42000.0,
-    "special_price": 31070.0,
-    "discount": 26.0,
+    "special_price": 32490.0,
+    "discount": 23.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "90413",
@@ -178474,10 +178858,10 @@
     "unit": null,
     "unit_value": null,
     "price": 15000.0,
-    "special_price": 12990.0,
-    "discount": 13.0,
+    "special_price": 13990.0,
+    "discount": 7.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "103992",
@@ -180170,7 +180554,7 @@
     "unit": null,
     "unit_value": null,
     "price": 15500.0,
-    "special_price": 12100.0,
+    "special_price": 12090.0,
     "discount": 22.0,
     "stock_available": 1,
     "is_atl": 0
@@ -180826,7 +181210,7 @@
     "unit": null,
     "unit_value": null,
     "price": 15500.0,
-    "special_price": 12100.0,
+    "special_price": 12090.0,
     "discount": 22.0,
     "stock_available": 1,
     "is_atl": 0
@@ -180954,7 +181338,7 @@
     "unit": null,
     "unit_value": null,
     "price": 15500.0,
-    "special_price": 12100.0,
+    "special_price": 12090.0,
     "discount": 22.0,
     "stock_available": 1,
     "is_atl": 0
@@ -180970,7 +181354,7 @@
     "unit": null,
     "unit_value": null,
     "price": 15500.0,
-    "special_price": 12100.0,
+    "special_price": 12090.0,
     "discount": 22.0,
     "stock_available": 1,
     "is_atl": 0
@@ -182666,10 +183050,10 @@
     "unit": null,
     "unit_value": null,
     "price": 9900.0,
-    "special_price": 6690.0,
-    "discount": 32.0,
+    "special_price": 7390.0,
+    "discount": 25.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "39541",
@@ -182890,10 +183274,10 @@
     "unit": null,
     "unit_value": null,
     "price": 370000.0,
-    "special_price": 320090.0,
-    "discount": 13.0,
+    "special_price": 338290.0,
+    "discount": 9.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "121212",
@@ -183178,8 +183562,8 @@
     "unit": null,
     "unit_value": null,
     "price": 22000.0,
-    "special_price": 17230.0,
-    "discount": 22.0,
+    "special_price": 17290.0,
+    "discount": 21.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -183258,10 +183642,10 @@
     "unit": null,
     "unit_value": null,
     "price": 90000.0,
-    "special_price": 76190.0,
-    "discount": 15.0,
+    "special_price": 82290.0,
+    "discount": 9.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "121234",
@@ -183274,10 +183658,10 @@
     "unit": null,
     "unit_value": null,
     "price": 45000.0,
-    "special_price": 38290.0,
-    "discount": 15.0,
+    "special_price": 41190.0,
+    "discount": 8.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "121244",
@@ -183306,10 +183690,10 @@
     "unit": null,
     "unit_value": null,
     "price": 45000.0,
-    "special_price": 38290.0,
-    "discount": 15.0,
+    "special_price": 41190.0,
+    "discount": 8.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "121261",
@@ -184490,10 +184874,10 @@
     "unit": null,
     "unit_value": null,
     "price": 15000.0,
-    "special_price": 12990.0,
-    "discount": 13.0,
+    "special_price": 13990.0,
+    "discount": 7.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "121347",
@@ -184810,8 +185194,8 @@
     "unit": null,
     "unit_value": null,
     "price": 26000.0,
-    "special_price": 21800.0,
-    "discount": 16.0,
+    "special_price": 21990.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -184826,7 +185210,7 @@
     "unit": null,
     "unit_value": null,
     "price": 24000.0,
-    "special_price": 16500.0,
+    "special_price": 16490.0,
     "discount": 31.0,
     "stock_available": 1,
     "is_atl": 0
@@ -185802,10 +186186,10 @@
     "unit": null,
     "unit_value": null,
     "price": 8500.0,
-    "special_price": 6040.0,
-    "discount": 29.0,
+    "special_price": 7190.0,
+    "discount": 15.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "115682",
@@ -185850,10 +186234,10 @@
     "unit": null,
     "unit_value": null,
     "price": 16890.0,
-    "special_price": 10980.0,
-    "discount": 35.0,
+    "special_price": 11690.0,
+    "discount": 31.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "115764",
@@ -185994,8 +186378,8 @@
     "unit": "g",
     "unit_value": 22.0,
     "price": 7850.0,
-    "special_price": 6040.0,
-    "discount": 23.0,
+    "special_price": 5890.0,
+    "discount": 25.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -186842,10 +187226,10 @@
     "unit": null,
     "unit_value": null,
     "price": 15900.0,
-    "special_price": 14100.0,
-    "discount": 11.0,
+    "special_price": 14590.0,
+    "discount": 8.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "89348",
@@ -187818,10 +188202,10 @@
     "unit": null,
     "unit_value": null,
     "price": 20500.0,
-    "special_price": 18180.0,
-    "discount": 11.0,
+    "special_price": 18790.0,
+    "discount": 8.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "121562",
@@ -187834,10 +188218,10 @@
     "unit": null,
     "unit_value": null,
     "price": 23900.0,
-    "special_price": 21200.0,
-    "discount": 11.0,
+    "special_price": 21890.0,
+    "discount": 8.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "121569",
@@ -189034,8 +189418,8 @@
     "unit": null,
     "unit_value": null,
     "price": 16500.0,
-    "special_price": 10590.0,
-    "discount": 36.0,
+    "special_price": 10990.0,
+    "discount": 33.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -189082,8 +189466,8 @@
     "unit": null,
     "unit_value": null,
     "price": 20500.0,
-    "special_price": 16490.0,
-    "discount": 20.0,
+    "special_price": 17490.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -189098,8 +189482,8 @@
     "unit": "L",
     "unit_value": 6.0,
     "price": 16500.0,
-    "special_price": 16060.0,
-    "discount": 3.0,
+    "special_price": 16190.0,
+    "discount": 2.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -189114,8 +189498,8 @@
     "unit": "L",
     "unit_value": 9.0,
     "price": 36000.0,
-    "special_price": 34060.0,
-    "discount": 5.0,
+    "special_price": 35690.0,
+    "discount": 1.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -190426,7 +190810,7 @@
     "unit": null,
     "unit_value": null,
     "price": 15600.0,
-    "special_price": 13260.0,
+    "special_price": 13290.0,
     "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
@@ -190442,7 +190826,7 @@
     "unit": null,
     "unit_value": null,
     "price": 14700.0,
-    "special_price": 11100.0,
+    "special_price": 11190.0,
     "discount": 24.0,
     "stock_available": 1,
     "is_atl": 0
@@ -190890,10 +191274,10 @@
     "unit": null,
     "unit_value": null,
     "price": 17500.0,
-    "special_price": 11210.0,
-    "discount": 36.0,
+    "special_price": 13190.0,
+    "discount": 25.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "104543",
@@ -191562,8 +191946,8 @@
     "unit": "L",
     "unit_value": 8.0,
     "price": 20790.0,
-    "special_price": 14850.0,
-    "discount": 29.0,
+    "special_price": 14890.0,
+    "discount": 28.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -192042,7 +192426,7 @@
     "unit": "L",
     "unit_value": 30.0,
     "price": 18700.0,
-    "special_price": 15430.0,
+    "special_price": 15490.0,
     "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
@@ -192314,7 +192698,7 @@
     "unit": "L",
     "unit_value": 7.2,
     "price": 26500.0,
-    "special_price": 18240.0,
+    "special_price": 18290.0,
     "discount": 31.0,
     "stock_available": 1,
     "is_atl": 0
@@ -192330,8 +192714,8 @@
     "unit": "L",
     "unit_value": 7.2,
     "price": 24450.0,
-    "special_price": 19600.0,
-    "discount": 20.0,
+    "special_price": 19690.0,
+    "discount": 19.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -192426,7 +192810,7 @@
     "unit": "L",
     "unit_value": 6.2,
     "price": 18170.0,
-    "special_price": 12980.0,
+    "special_price": 12990.0,
     "discount": 29.0,
     "stock_available": 1,
     "is_atl": 0
@@ -192522,7 +192906,7 @@
     "unit": "L",
     "unit_value": 6.0,
     "price": 9999.0,
-    "special_price": 9410.0,
+    "special_price": 9350.0,
     "discount": 6.0,
     "stock_available": 1,
     "is_atl": 0
@@ -192586,8 +192970,8 @@
     "unit": "L",
     "unit_value": 7.0,
     "price": 9500.0,
-    "special_price": 6690.0,
-    "discount": 30.0,
+    "special_price": 7590.0,
+    "discount": 20.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -192777,9 +193161,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/e/hexo-plus-1100-24-6-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 18000.0,
-    "special_price": 12990.0,
-    "discount": 28.0,
+    "price": 17800.0,
+    "special_price": 12950.0,
+    "discount": 27.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -193274,8 +193658,8 @@
     "unit": "L",
     "unit_value": 7.1,
     "price": 19699.0,
-    "special_price": 14850.0,
-    "discount": 25.0,
+    "special_price": 15290.0,
+    "discount": 22.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -193290,7 +193674,7 @@
     "unit": "L",
     "unit_value": 6.5,
     "price": 14499.0,
-    "special_price": 13520.0,
+    "special_price": 13550.0,
     "discount": 7.0,
     "stock_available": 1,
     "is_atl": 0
@@ -193322,7 +193706,7 @@
     "unit": "L",
     "unit_value": 4.5,
     "price": 10500.0,
-    "special_price": 9100.0,
+    "special_price": 9090.0,
     "discount": 13.0,
     "stock_available": 1,
     "is_atl": 0
@@ -193514,7 +193898,7 @@
     "unit": "L",
     "unit_value": 7.0,
     "price": 19960.0,
-    "special_price": 12320.0,
+    "special_price": 12390.0,
     "discount": 38.0,
     "stock_available": 1,
     "is_atl": 0
@@ -193530,10 +193914,10 @@
     "unit": "L",
     "unit_value": 30.0,
     "price": 29490.0,
-    "special_price": 23990.0,
-    "discount": 19.0,
+    "special_price": 24990.0,
+    "discount": 15.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "94758",
@@ -193610,7 +193994,7 @@
     "unit": "L",
     "unit_value": 20.0,
     "price": 17890.0,
-    "special_price": 14300.0,
+    "special_price": 14290.0,
     "discount": 20.0,
     "stock_available": 1,
     "is_atl": 0
@@ -193754,7 +194138,7 @@
     "unit": "L",
     "unit_value": 25.0,
     "price": 22500.0,
-    "special_price": 18700.0,
+    "special_price": 18690.0,
     "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
@@ -194682,10 +195066,10 @@
     "unit": "L",
     "unit_value": 641.0,
     "price": 263000.0,
-    "special_price": 221990.0,
-    "discount": 16.0,
+    "special_price": 225990.0,
+    "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "91194",
@@ -194778,8 +195162,8 @@
     "unit": "L",
     "unit_value": 4.2,
     "price": 11395.0,
-    "special_price": 8440.0,
-    "discount": 26.0,
+    "special_price": 9290.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -194954,8 +195338,8 @@
     "unit": null,
     "unit_value": null,
     "price": 8860.0,
-    "special_price": 6300.0,
-    "discount": 29.0,
+    "special_price": 5890.0,
+    "discount": 34.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -195290,7 +195674,7 @@
     "unit": "L",
     "unit_value": 35.0,
     "price": 61990.0,
-    "special_price": 41420.0,
+    "special_price": 41790.0,
     "discount": 33.0,
     "stock_available": 1,
     "is_atl": 0
@@ -196138,10 +196522,10 @@
     "unit": null,
     "unit_value": null,
     "price": 143450.0,
-    "special_price": 120990.0,
-    "discount": 16.0,
+    "special_price": 122990.0,
+    "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "93342",
@@ -196458,7 +196842,7 @@
     "unit": null,
     "unit_value": null,
     "price": 12630.0,
-    "special_price": 9180.0,
+    "special_price": 9190.0,
     "discount": 27.0,
     "stock_available": 1,
     "is_atl": 0
@@ -196762,8 +197146,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3108.0,
-    "special_price": 1960.0,
-    "discount": 37.0,
+    "special_price": 1890.0,
+    "discount": 39.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -197786,8 +198170,8 @@
     "unit": "L",
     "unit_value": 165.0,
     "price": 33753.0,
-    "special_price": 20990.0,
-    "discount": 38.0,
+    "special_price": 21690.0,
+    "discount": 36.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -198442,8 +198826,8 @@
     "unit": "L",
     "unit_value": 30.0,
     "price": 12500.0,
-    "special_price": 9320.0,
-    "discount": 25.0,
+    "special_price": 9290.0,
+    "discount": 26.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -198922,8 +199306,8 @@
     "unit": "L",
     "unit_value": 175.0,
     "price": 38490.0,
-    "special_price": 21990.0,
-    "discount": 43.0,
+    "special_price": 22690.0,
+    "discount": 41.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -199674,8 +200058,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3750.0,
-    "special_price": 3260.0,
-    "discount": 13.0,
+    "special_price": 3190.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -199786,7 +200170,7 @@
     "unit": null,
     "unit_value": null,
     "price": 5499.0,
-    "special_price": 5490.0,
+    "special_price": 0.0,
     "discount": 0.0,
     "stock_available": 1,
     "is_atl": 0
@@ -200090,8 +200474,8 @@
     "unit": null,
     "unit_value": null,
     "price": 39990.0,
-    "special_price": 27990.0,
-    "discount": 30.0,
+    "special_price": 28990.0,
+    "discount": 28.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -200138,10 +200522,10 @@
     "unit": null,
     "unit_value": null,
     "price": 143500.0,
-    "special_price": 120990.0,
-    "discount": 16.0,
+    "special_price": 122990.0,
+    "discount": 14.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "110799",
@@ -200426,8 +200810,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3750.0,
-    "special_price": 3260.0,
-    "discount": 13.0,
+    "special_price": 3190.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -200490,8 +200874,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4450.0,
-    "special_price": 3870.0,
-    "discount": 13.0,
+    "special_price": 3790.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -201642,10 +202026,10 @@
     "unit": null,
     "unit_value": null,
     "price": 25500.0,
-    "special_price": 16990.0,
-    "discount": 33.0,
+    "special_price": 17590.0,
+    "discount": 31.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "122407",
@@ -201834,8 +202218,8 @@
     "unit": null,
     "unit_value": null,
     "price": 259900.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "special_price": 211990.0,
+    "discount": 18.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -202218,8 +202602,8 @@
     "unit": "L",
     "unit_value": 165.0,
     "price": 34183.0,
-    "special_price": 18490.0,
-    "discount": 46.0,
+    "special_price": 18990.0,
+    "discount": 44.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -202362,8 +202746,8 @@
     "unit": "L",
     "unit_value": 245.0,
     "price": 55490.0,
-    "special_price": 39990.0,
-    "discount": 28.0,
+    "special_price": 40490.0,
+    "discount": 27.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -202394,8 +202778,8 @@
     "unit": null,
     "unit_value": null,
     "price": 39990.0,
-    "special_price": 27990.0,
-    "discount": 30.0,
+    "special_price": 28990.0,
+    "discount": 28.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -202538,7 +202922,7 @@
     "unit": "L",
     "unit_value": 6.2,
     "price": 22000.0,
-    "special_price": 14300.0,
+    "special_price": 14290.0,
     "discount": 35.0,
     "stock_available": 1,
     "is_atl": 0
@@ -202554,8 +202938,8 @@
     "unit": null,
     "unit_value": null,
     "price": 16900.0,
-    "special_price": 11290.0,
-    "discount": 33.0,
+    "special_price": 11890.0,
+    "discount": 30.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -202602,8 +202986,8 @@
     "unit": null,
     "unit_value": null,
     "price": 10850.0,
-    "special_price": 5490.0,
-    "discount": 49.0,
+    "special_price": 5890.0,
+    "discount": 46.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -202650,7 +203034,7 @@
     "unit": "L",
     "unit_value": 28.0,
     "price": 36900.0,
-    "special_price": 31570.0,
+    "special_price": 31890.0,
     "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
@@ -202682,8 +203066,8 @@
     "unit": "L",
     "unit_value": 28.0,
     "price": 30500.0,
-    "special_price": 25060.0,
-    "discount": 18.0,
+    "special_price": 25290.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -202698,8 +203082,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3600.0,
-    "special_price": 3160.0,
-    "discount": 12.0,
+    "special_price": 3090.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -203082,8 +203466,8 @@
     "unit": "L",
     "unit_value": 23.0,
     "price": 21900.0,
-    "special_price": 16960.0,
-    "discount": 23.0,
+    "special_price": 16990.0,
+    "discount": 22.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -203098,8 +203482,8 @@
     "unit": null,
     "unit_value": null,
     "price": 5499.0,
-    "special_price": 4720.0,
-    "discount": 14.0,
+    "special_price": 4590.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -203322,8 +203706,8 @@
     "unit": "g",
     "unit_value": 15.0,
     "price": 4790.0,
-    "special_price": 4060.0,
-    "discount": 15.0,
+    "special_price": 3990.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -203338,10 +203722,10 @@
     "unit": "L",
     "unit_value": 4.2,
     "price": 21500.0,
-    "special_price": 9810.0,
-    "discount": 54.0,
+    "special_price": 12168.0,
+    "discount": 43.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "106437",
@@ -203354,10 +203738,10 @@
     "unit": "L",
     "unit_value": 4.2,
     "price": 13900.0,
-    "special_price": 6690.0,
-    "discount": 52.0,
+    "special_price": 7190.0,
+    "discount": 48.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "108114",
@@ -203418,8 +203802,8 @@
     "unit": null,
     "unit_value": null,
     "price": 10450.0,
-    "special_price": 6070.0,
-    "discount": 42.0,
+    "special_price": 5890.0,
+    "discount": 44.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -203450,10 +203834,10 @@
     "unit": null,
     "unit_value": null,
     "price": 11200.0,
-    "special_price": 6550.0,
-    "discount": 42.0,
+    "special_price": 6890.0,
+    "discount": 38.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "110023",
@@ -203466,10 +203850,10 @@
     "unit": null,
     "unit_value": null,
     "price": 12700.0,
-    "special_price": 7390.0,
-    "discount": 42.0,
+    "special_price": 7790.0,
+    "discount": 39.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "110197",
@@ -203497,11 +203881,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/f/sfb-5702-28-5-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 3000.0,
+    "special_price": 2590.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "110829",
@@ -204938,10 +205322,10 @@
     "unit": "L",
     "unit_value": 230.0,
     "price": 45490.0,
-    "special_price": 40990.0,
-    "discount": 10.0,
+    "special_price": 41490.0,
+    "discount": 9.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "112092",
@@ -204970,8 +205354,8 @@
     "unit": null,
     "unit_value": null,
     "price": 5930.0,
-    "special_price": 4230.0,
-    "discount": 29.0,
+    "special_price": 4490.0,
+    "discount": 24.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -205002,10 +205386,10 @@
     "unit": "L",
     "unit_value": 6.5,
     "price": 8000.0,
-    "special_price": 6220.0,
-    "discount": 22.0,
+    "special_price": 6490.0,
+    "discount": 19.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "113597",
@@ -205018,7 +205402,7 @@
     "unit": null,
     "unit_value": null,
     "price": 28900.0,
-    "special_price": 16430.0,
+    "special_price": 16490.0,
     "discount": 43.0,
     "stock_available": 1,
     "is_atl": 0
@@ -205050,8 +205434,8 @@
     "unit": null,
     "unit_value": null,
     "price": 7000.0,
-    "special_price": 5290.0,
-    "discount": 24.0,
+    "special_price": 5090.0,
+    "discount": 27.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -205082,7 +205466,7 @@
     "unit": null,
     "unit_value": null,
     "price": 3100.0,
-    "special_price": 1700.0,
+    "special_price": 1690.0,
     "discount": 45.0,
     "stock_available": 1,
     "is_atl": 0
@@ -205178,10 +205562,10 @@
     "unit": null,
     "unit_value": null,
     "price": 26500.0,
-    "special_price": 22820.0,
-    "discount": 14.0,
+    "special_price": 25175.0,
+    "discount": 5.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "114298",
@@ -205194,8 +205578,8 @@
     "unit": null,
     "unit_value": null,
     "price": 45900.0,
-    "special_price": 39870.0,
-    "discount": 13.0,
+    "special_price": 40490.0,
+    "discount": 12.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -205210,10 +205594,10 @@
     "unit": null,
     "unit_value": null,
     "price": 53900.0,
-    "special_price": 46410.0,
-    "discount": 14.0,
+    "special_price": 51205.0,
+    "discount": 5.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "114591",
@@ -205562,10 +205946,10 @@
     "unit": null,
     "unit_value": null,
     "price": 77900.0,
-    "special_price": 67070.0,
-    "discount": 14.0,
+    "special_price": 74005.0,
+    "discount": 5.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "114320",
@@ -205690,10 +206074,10 @@
     "unit": "L",
     "unit_value": 6.0,
     "price": 12300.0,
-    "special_price": 8390.0,
-    "discount": 32.0,
+    "special_price": 8890.0,
+    "discount": 28.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "114696",
@@ -205738,8 +206122,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4100.0,
-    "special_price": 3570.0,
-    "discount": 13.0,
+    "special_price": 3490.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -205754,8 +206138,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4950.0,
-    "special_price": 4300.0,
-    "discount": 13.0,
+    "special_price": 4190.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -205770,10 +206154,10 @@
     "unit": null,
     "unit_value": null,
     "price": 4750.0,
-    "special_price": 4130.0,
-    "discount": 13.0,
+    "special_price": 3990.0,
+    "discount": 16.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "114709",
@@ -206362,10 +206746,10 @@
     "unit": "kg",
     "unit_value": 7.5,
     "price": 42790.0,
-    "special_price": 28990.0,
-    "discount": 32.0,
+    "special_price": 30990.0,
+    "discount": 28.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "102212",
@@ -206458,10 +206842,10 @@
     "unit": null,
     "unit_value": null,
     "price": 399900.0,
-    "special_price": 328990.0,
-    "discount": 18.0,
+    "special_price": 348990.0,
+    "discount": 13.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116135",
@@ -206474,10 +206858,10 @@
     "unit": null,
     "unit_value": null,
     "price": 121900.0,
-    "special_price": 76990.0,
-    "discount": 37.0,
+    "special_price": 80990.0,
+    "discount": 34.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116137",
@@ -206602,10 +206986,10 @@
     "unit": null,
     "unit_value": null,
     "price": 24900.0,
-    "special_price": 15690.0,
-    "discount": 37.0,
+    "special_price": 17390.0,
+    "discount": 30.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116411",
@@ -206714,10 +207098,10 @@
     "unit": null,
     "unit_value": null,
     "price": 139999.0,
-    "special_price": 110990.0,
-    "discount": 21.0,
+    "special_price": 111990.0,
+    "discount": 20.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "120349",
@@ -206970,10 +207354,10 @@
     "unit": null,
     "unit_value": null,
     "price": 430900.0,
-    "special_price": 353990.0,
-    "discount": 18.0,
+    "special_price": 359990.0,
+    "discount": 16.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "121355",
@@ -207018,8 +207402,8 @@
     "unit": null,
     "unit_value": null,
     "price": 162900.0,
-    "special_price": 139390.0,
-    "discount": 14.0,
+    "special_price": 138990.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -207050,8 +207434,8 @@
     "unit": null,
     "unit_value": null,
     "price": 73900.0,
-    "special_price": 55990.0,
-    "discount": 24.0,
+    "special_price": 57990.0,
+    "discount": 22.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -207114,8 +207498,8 @@
     "unit": null,
     "unit_value": null,
     "price": 8999.0,
-    "special_price": 7999.0,
-    "discount": 11.0,
+    "special_price": 8390.0,
+    "discount": 7.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -207146,10 +207530,10 @@
     "unit": null,
     "unit_value": null,
     "price": 5170.0,
-    "special_price": 4570.0,
-    "discount": 12.0,
+    "special_price": 4390.0,
+    "discount": 15.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "115664",
@@ -207194,8 +207578,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4590.0,
-    "special_price": 3990.0,
-    "discount": 13.0,
+    "special_price": 3890.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -207241,11 +207625,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/i/wir-d01a-10-feb-2026-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1160.0,
-    "special_price": 990.0,
-    "discount": 15.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "116142",
@@ -207290,10 +207674,10 @@
     "unit": null,
     "unit_value": null,
     "price": 6500.0,
-    "special_price": 5330.0,
-    "discount": 18.0,
+    "special_price": 5390.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116526",
@@ -207306,8 +207690,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2400.0,
-    "special_price": 2070.0,
-    "discount": 14.0,
+    "special_price": 1990.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -207322,8 +207706,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2700.0,
-    "special_price": 2330.0,
-    "discount": 14.0,
+    "special_price": 2290.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -207466,10 +207850,10 @@
     "unit": null,
     "unit_value": null,
     "price": 48900.0,
-    "special_price": 37490.0,
-    "discount": 23.0,
+    "special_price": 39990.0,
+    "discount": 18.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "112023",
@@ -207482,8 +207866,8 @@
     "unit": null,
     "unit_value": null,
     "price": 55900.0,
-    "special_price": 44490.0,
-    "discount": 20.0,
+    "special_price": 42990.0,
+    "discount": 23.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -207626,10 +208010,10 @@
     "unit": null,
     "unit_value": null,
     "price": 9000.0,
-    "special_price": 7180.0,
-    "discount": 20.0,
+    "special_price": 7590.0,
+    "discount": 16.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "117905",
@@ -207642,8 +208026,8 @@
     "unit": null,
     "unit_value": null,
     "price": 1750.0,
-    "special_price": 1670.0,
-    "discount": 5.0,
+    "special_price": 1690.0,
+    "discount": 3.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -207738,10 +208122,10 @@
     "unit": null,
     "unit_value": null,
     "price": 103999.0,
-    "special_price": 83990.0,
-    "discount": 19.0,
+    "special_price": 85390.0,
+    "discount": 18.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "119131",
@@ -207882,7 +208266,7 @@
     "unit": "L",
     "unit_value": 23.0,
     "price": 13392.0,
-    "special_price": 11430.0,
+    "special_price": 11390.0,
     "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
@@ -207898,7 +208282,7 @@
     "unit": "L",
     "unit_value": 20.0,
     "price": 12420.0,
-    "special_price": 10600.0,
+    "special_price": 10590.0,
     "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
@@ -208010,8 +208394,8 @@
     "unit": null,
     "unit_value": null,
     "price": 8800.0,
-    "special_price": 7450.0,
-    "discount": 15.0,
+    "special_price": 7390.0,
+    "discount": 16.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208202,8 +208586,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4990.0,
-    "special_price": 4570.0,
-    "discount": 8.0,
+    "special_price": 4390.0,
+    "discount": 12.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208314,8 +208698,8 @@
     "unit": null,
     "unit_value": null,
     "price": 95900.0,
-    "special_price": 78890.0,
-    "discount": 18.0,
+    "special_price": 79890.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208346,7 +208730,7 @@
     "unit": null,
     "unit_value": null,
     "price": 22300.0,
-    "special_price": 18650.0,
+    "special_price": 18690.0,
     "discount": 16.0,
     "stock_available": 1,
     "is_atl": 0
@@ -208362,8 +208746,8 @@
     "unit": null,
     "unit_value": null,
     "price": 9900.0,
-    "special_price": 8400.0,
-    "discount": 15.0,
+    "special_price": 8290.0,
+    "discount": 16.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208378,8 +208762,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3275.0,
-    "special_price": 2840.0,
-    "discount": 13.0,
+    "special_price": 2790.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208394,8 +208778,8 @@
     "unit": null,
     "unit_value": null,
     "price": 9090.0,
-    "special_price": 8340.0,
-    "discount": 8.0,
+    "special_price": 8190.0,
+    "discount": 10.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208410,8 +208794,8 @@
     "unit": null,
     "unit_value": null,
     "price": 5850.0,
-    "special_price": 5470.0,
-    "discount": 6.0,
+    "special_price": 5290.0,
+    "discount": 10.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208458,10 +208842,10 @@
     "unit": "L",
     "unit_value": 277.0,
     "price": 46900.0,
-    "special_price": 31990.0,
-    "discount": 32.0,
+    "special_price": 32990.0,
+    "discount": 30.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "121182",
@@ -208746,7 +209130,7 @@
     "unit": "L",
     "unit_value": 20.0,
     "price": 17450.0,
-    "special_price": 13910.0,
+    "special_price": 13950.0,
     "discount": 20.0,
     "stock_available": 1,
     "is_atl": 0
@@ -208762,8 +209146,8 @@
     "unit": "L",
     "unit_value": 6.0,
     "price": 10550.0,
-    "special_price": 8210.0,
-    "discount": 22.0,
+    "special_price": 8090.0,
+    "discount": 23.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208778,8 +209162,8 @@
     "unit": "L",
     "unit_value": 9.0,
     "price": 16500.0,
-    "special_price": 11500.0,
-    "discount": 30.0,
+    "special_price": 11390.0,
+    "discount": 31.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208794,8 +209178,8 @@
     "unit": null,
     "unit_value": null,
     "price": 11780.0,
-    "special_price": 10060.0,
-    "discount": 15.0,
+    "special_price": 10090.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208810,8 +209194,8 @@
     "unit": null,
     "unit_value": null,
     "price": 9930.0,
-    "special_price": 8550.0,
-    "discount": 14.0,
+    "special_price": 8490.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208874,8 +209258,8 @@
     "unit": null,
     "unit_value": null,
     "price": 57900.0,
-    "special_price": 45390.0,
-    "discount": 22.0,
+    "special_price": 45890.0,
+    "discount": 21.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208890,8 +209274,8 @@
     "unit": null,
     "unit_value": null,
     "price": 87900.0,
-    "special_price": 69690.0,
-    "discount": 21.0,
+    "special_price": 70490.0,
+    "discount": 20.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208969,11 +209353,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/t/htc-wildfire-e5-elite-12-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 20999.0,
+    "special_price": 19999.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "104836",
@@ -210457,11 +210841,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/honor-pad-x8b-19-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 22999.0,
+    "special_price": 21499.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "117483",
@@ -210714,8 +211098,8 @@
     "unit": null,
     "unit_value": null,
     "price": 20999.0,
-    "special_price": 19999.0,
-    "discount": 5.0,
+    "special_price": 18999.0,
+    "discount": 10.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -211402,8 +211786,8 @@
     "unit": null,
     "unit_value": null,
     "price": 23999.0,
-    "special_price": 22999.0,
-    "discount": 4.0,
+    "special_price": 21999.0,
+    "discount": 8.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -213034,8 +213418,8 @@
     "unit": null,
     "unit_value": null,
     "price": 73900.0,
-    "special_price": 42990.0,
-    "discount": 42.0,
+    "special_price": 46990.0,
+    "discount": 36.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -213434,8 +213818,8 @@
     "unit": null,
     "unit_value": null,
     "price": 76990.0,
-    "special_price": 59990.0,
-    "discount": 22.0,
+    "special_price": 60990.0,
+    "discount": 21.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -213514,8 +213898,8 @@
     "unit": null,
     "unit_value": null,
     "price": 66990.0,
-    "special_price": 48290.0,
-    "discount": 28.0,
+    "special_price": 49690.0,
+    "discount": 26.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -215434,10 +215818,10 @@
     "unit": null,
     "unit_value": null,
     "price": 17790.0,
-    "special_price": 15123.0,
-    "discount": 15.0,
+    "special_price": 15620.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "74840",
@@ -216154,8 +216538,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2590.0,
-    "special_price": 2130.0,
-    "discount": 18.0,
+    "special_price": 2200.0,
+    "discount": 15.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -216170,8 +216554,8 @@
     "unit": null,
     "unit_value": null,
     "price": 19500.0,
-    "special_price": 16295.0,
-    "discount": 16.0,
+    "special_price": 16830.0,
+    "discount": 14.0,
     "stock_available": 1,
     "is_atl": 0
   },

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "86883",
+    "sku": "BKDN86AI31MBSH",
+    "name": "BOSCH 641L KDN86AI31M Serie | 6 Free-Standing Fridge-Freezer with Freezer at Top",
+    "slug": "bosch-641l-kdn86ai31m-serie-6-free-standing-fridge-freezer-with-freezer-at-top",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/k/bkdn86ai31m7.jpg",
+    "unit": "L",
+    "unit_value": 641.0,
+    "price": 404900.0,
+    "special_price": 379890.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 404900.0,
+      "special_price": 379890.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-15 04:19:08"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124231",
+    "sku": "ESDMHCTTZ",
+    "name": "Enchen SquareDot Mini Electric Hair Clipper",
+    "slug": "enchen-squaredot-mini-electric-hair-clipper",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/q/squaredot-14-11-26-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2050.0,
+    "special_price": 1900.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2050.0,
+      "special_price": 1900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-15 04:29:25"
+    }
+  ]
+}

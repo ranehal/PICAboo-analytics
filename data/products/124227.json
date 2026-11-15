@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124227",
+    "sku": "SER566DDSSO",
+    "name": "Smart 556L Side-by-Side No Frost Inverter Refrigerator (SER-566DD)",
+    "slug": "smart-556l-side-by-side-no-frost-inverter-refrigerator-ser-566dd",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/e/ser-566dd-14-11-26-1.jpg",
+    "unit": "L",
+    "unit_value": 556.0,
+    "price": 120900.0,
+    "special_price": 91820.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 120900.0,
+      "special_price": 91820.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-15 04:19:08"
+    }
+  ]
+}

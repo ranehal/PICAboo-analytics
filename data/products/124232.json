@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124232",
+    "sku": "SEL100G25FSSO",
+    "name": "SMART 100\u201d 4K Android Google TV (SEL-100G25F)",
+    "slug": "smart-100-4k-android-google-tv-sel-100g25f",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/0/100g25f-14-11-2026-1_1.jpg",
+    "unit": "g",
+    "unit_value": 100.0,
+    "price": 651900.0,
+    "special_price": 421740.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 651900.0,
+      "special_price": 421740.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-15 04:19:05"
+    }
+  ]
+}

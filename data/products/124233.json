@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124233",
+    "sku": "H600S5G8GB256GB",
+    "name": "HONOR 600S 5G 8GB/256GB",
+    "slug": "honor-600s-5g-8gb-256gb",
+    "category_id": "1227",
+    "category_name": "Honor",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/o/honor-600s-5g-8gb-256gb-11-14-26-1_1.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 45999.0,
+    "special_price": 43999.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 45999.0,
+      "special_price": 43999.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-15 04:18:47"
+    }
+  ]
+}

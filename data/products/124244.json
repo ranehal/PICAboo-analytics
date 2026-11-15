@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124244",
+    "sku": "BOBW53SED",
+    "name": "BWOO BT 6.0 ANC TWS Earbuds (BO-BW53)",
+    "slug": "bwoo-anc-tws-earbuds-bo-bw53",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw53-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2039.0,
+    "special_price": 1649.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2039.0,
+      "special_price": 1649.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-15 04:23:04"
+    }
+  ]
+}

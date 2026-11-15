@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124246",
+    "sku": "JGPBSEIL",
+    "name": "JBL GRIP Portable Bluetooth Speaker",
+    "slug": "jbl-grip-portable-bluetooth-speaker",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/r/grip-14-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14425.0,
+    "special_price": 12059.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14425.0,
+      "special_price": 12059.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-15 04:24:14"
+    }
+  ]
+}

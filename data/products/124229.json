@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124229",
+    "sku": "SEL75G25FSSO",
+    "name": "SMART 75\u201d 4K Android Google TV (SEL-75G25F)",
+    "slug": "smart-75-4k-android-google-tv-sel-75g25f",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/7/5/75g25f-14-11-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 75.0,
+    "price": 179900.0,
+    "special_price": 124510.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 179900.0,
+      "special_price": 124510.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-15 04:19:13"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124273",
+    "sku": "BOBW589SED",
+    "name": "BWOO ANC Over-Ear BT V5.4 Wireless Headphones (BO-BW589)",
+    "slug": "bwoo-anc-over-ear-bt-v5-4-wireless-headphones-bo-bw589",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw589-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4799.0,
+    "special_price": 4219.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4799.0,
+      "special_price": 4219.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-15 04:24:48"
+    }
+  ]
+}

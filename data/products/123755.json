@@ -9,11 +9,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/n/anker-nylon-2-26-10-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 690.0,
+    "special_price": 549.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   "history": [
     {
@@ -64,6 +64,13 @@
       "discount": 0.0,
       "stock_available": 0,
       "scraped_at": "2026-11-11 02:36:02"
+    },
+    {
+      "price": 690.0,
+      "special_price": 549.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-15 04:26:06"
     }
   ]
 }

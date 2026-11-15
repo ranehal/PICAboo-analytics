@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124247",
+    "sku": "BW06SED",
+    "name": "BWOO Half-In-Ear Wireless Earbuds BT 5.3 (BOBW06)",
+    "slug": "bwoo-half-in-ear-wireless-earbuds-bt-5-3-bw06",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw06-14-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1439.0,
+    "special_price": 1139.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1439.0,
+      "special_price": 1139.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-15 04:23:02"
+    }
+  ]
+}
