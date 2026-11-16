@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124287",
+    "sku": "JT780NCHEIL",
+    "name": "JBL Tune 780NC Wireless ANC Headphone",
+    "slug": "jbl-tune-780nc-wireless-anc-headphone",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/t/u/tune-780nc-15-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12920.0,
+    "special_price": 10809.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12920.0,
+      "special_price": 10809.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:27:04"
+    }
+  ]
+}

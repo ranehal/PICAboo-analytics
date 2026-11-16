@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "75399",
+    "sku": "PTPR2322SSB",
+    "name": "PRITECH PR-2322 3 Level Adjustment Rechargeable Hair Trimmer ",
+    "slug": "pritech-pr-2322-3-level-adjustment-rechargeable-hair-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/2/3/2322-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1899.0,
+    "special_price": 1180.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1899.0,
+      "special_price": 1180.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:32:30"
+    }
+  ]
+}

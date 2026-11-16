@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "75283",
+    "sku": "PER115SSB",
+    "name": "Panasonic ER115 Wet & Dry Nose & Ear Hair Trimmer",
+    "slug": "panasonic-er115-wet-dry-nose-ear-hair-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/p/a/panasonic-er115.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2599.0,
+    "special_price": 1699.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2599.0,
+      "special_price": 1699.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:32:26"
+    }
+  ]
+}

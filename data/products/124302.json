@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124302",
+    "sku": "S1584BMHS",
+    "name": "Skmei 1584 Digital Analog Chronograph Stainless Steel Wristwatch for Men-Black",
+    "slug": "skmei-1584-digital-analog-chronograph-stainless-steel-wristwatch-for-men-black",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/k/skmei-1584-15-11-26-1_black.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2590.0,
+    "special_price": 1880.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2590.0,
+      "special_price": 1880.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:34:10"
+    }
+  ]
+}

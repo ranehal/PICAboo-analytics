@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/r/grooking-kit-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 5200.0,
-    "special_price": 3570.0,
-    "discount": 31.0,
+    "price": 6499.0,
+    "special_price": 4999.0,
+    "discount": 23.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -589,6 +589,13 @@
       "discount": 31.0,
       "stock_available": 1,
       "scraped_at": "2026-11-15 04:31:27"
+    },
+    {
+      "price": 6499.0,
+      "special_price": 4999.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:34:28"
     }
   ]
 }

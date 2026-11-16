@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124263",
+    "sku": "H656GB128GB",
+    "name": "Helio 65 6GB/128GB",
+    "slug": "helio-65-6gb-128gb",
+    "category_id": "171",
+    "category_name": "Smartphones ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/e/helio-65-6gb-128gb-11-15-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 21999.0,
+    "special_price": 20999.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 21999.0,
+      "special_price": 20999.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:22:43"
+    }
+  ]
+}

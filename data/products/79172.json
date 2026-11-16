@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "79172",
+    "sku": "S1335BLMHS",
+    "name": "Skmei 1335 Digital Wrist Men\u2019s Watch-Black",
+    "slug": "skmei-1335bl-digital-wrist-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/3/1335bl.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2590.0,
+    "special_price": 1310.0,
+    "discount": 49.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2590.0,
+      "special_price": 1310.0,
+      "discount": 49.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:32:40"
+    }
+  ]
+}

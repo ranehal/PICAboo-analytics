@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124301",
+    "sku": "S1584WSMHS",
+    "name": "Skmei 1584 Multifunction Dial Digital Analog Chronograph Stainless Steel Watch for Men-Silver",
+    "slug": "skmei-1584-multifunction-dial-digital-analog-chronograph-stainless-steel-watch-for-men-silver",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/k/skmei-1584-15-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2590.0,
+    "special_price": 1880.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2590.0,
+      "special_price": 1880.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:34:10"
+    }
+  ]
+}

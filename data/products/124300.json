@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124300",
+    "sku": "O9966SMHS",
+    "name": "Olevs 9966 Stainless Steel Analog Watch For Men- Silver",
+    "slug": "olevs-9966-stainless-steel-analog-watch-for-men-silver",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/o/l/olevs-9966-15-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2590.0,
+    "special_price": 1600.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2590.0,
+      "special_price": 1600.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:34:10"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124298",
+    "sku": "BOP80SED",
+    "name": "BWOO 10000mAh 22.5W Magnetic Power Bank (BO-P80)",
+    "slug": "bwoo-10000mah-22-5w-magnetic-power-bank-bo-p80",
+    "category_id": "203",
+    "category_name": "Power Bank",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/p/8/p80-15-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3839.0,
+    "special_price": 3309.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3839.0,
+      "special_price": 3309.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:27:59"
+    }
+  ]
+}

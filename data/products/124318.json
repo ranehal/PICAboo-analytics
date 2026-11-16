@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124318",
+    "sku": "BOX330CSED",
+    "name": "BWOO 3A Fast Charging USB-A to USB-C Cable (BO-CDA165)",
+    "slug": "bwoo-3a-fast-charging-usb-a-to-usb-c-cable-bo-x330c",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/x/3/x330c-15-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 719.0,
+    "special_price": 529.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 719.0,
+      "special_price": 529.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:28:41"
+    }
+  ]
+}

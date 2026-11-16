@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122902",
+    "sku": "SK9390SLMHS",
+    "name": "SKMEI 9390 Luxury Stainless Steel Leather straps Quartz Analog Men\u2019s Watch- Silver Black",
+    "slug": "skmei-9390-luxury-stainless-steel-leather-straps-quartz-analog-men-s-watch-silver-black",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/s/i/silver_black.jpeg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2590.0,
+    "special_price": 1480.0,
+    "discount": 43.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2590.0,
+      "special_price": 1480.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:34:24"
+    }
+  ]
+}

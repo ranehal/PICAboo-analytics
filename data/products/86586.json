@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-bhd308-hair-dryer-12.10.23..jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4900.0,
-    "special_price": 4089.0,
-    "discount": 17.0,
+    "price": 4499.0,
+    "special_price": 3999.0,
+    "discount": 11.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -596,6 +596,13 @@
       "discount": 17.0,
       "stock_available": 1,
       "scraped_at": "2026-11-15 04:32:00"
+    },
+    {
+      "price": 4499.0,
+      "special_price": 3999.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-16 03:34:49"
     }
   ]
 }
