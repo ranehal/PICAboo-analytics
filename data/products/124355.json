@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124355",
+    "sku": "BCaP60DSGLO",
+    "name": "Boya CastMic P60D USB & XLR Dynamic Microphone with Desktop Stand",
+    "slug": "boya-castmic-p60d-usb-xlr-dynamic-microphone-with-desktop-stand",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/o/boya-castmic-p60d-16-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8499.0,
+    "special_price": 8390.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8499.0,
+      "special_price": 8390.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:48:51"
+    }
+  ]
+}

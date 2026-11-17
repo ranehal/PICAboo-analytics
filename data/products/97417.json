@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-321-liters-digital-inverter-compressor-non-frost-refrigerator-_rt34k5532ut-9-12-26-2.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 85500.0,
-    "special_price": 73990.0,
-    "discount": 13.0,
+    "price": 85900.0,
+    "special_price": 75900.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -155,6 +155,13 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-10-06 03:49:58"
+    },
+    {
+      "price": 85900.0,
+      "special_price": 75900.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:44:13"
     }
   ]
 }

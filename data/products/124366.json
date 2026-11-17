@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124366",
+    "sku": "KMJ03RCSSB",
+    "name": "Kemei Rechargeable Beard & Hair Clipper (KM-J03)",
+    "slug": "kemei-rechargeable-beard-hair-clipper-km-j03",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/k/m/km-j03-16-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1800.0,
+    "special_price": 1350.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1800.0,
+      "special_price": 1350.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:49:01"
+    }
+  ]
+}

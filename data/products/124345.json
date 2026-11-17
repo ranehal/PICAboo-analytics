@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124345",
+    "sku": "BOCDA170SED",
+    "name": "BWOO 20W Dual-Port Fast Charger (BO-CDA170)",
+    "slug": "bwoo-20w-dual-port-fast-charger-bo-cda170",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/d/cda170-16-11-2026-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 899.0,
+    "special_price": 639.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 899.0,
+      "special_price": 639.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:46:49"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124321",
+    "sku": "BOCDA224SED",
+    "name": "BWOO 70W USB-C Dual-Port GaN Charger (BO-CDA224)",
+    "slug": "bwoo-70w-usb-c-dual-port-gan-charger-bo-cda224",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/d/cda224-16-11-2026-5.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2699.0,
+    "special_price": 2339.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2699.0,
+      "special_price": 2339.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:46:16"
+    }
+  ]
+}

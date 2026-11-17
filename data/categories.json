@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 503
+    "prod_count": 517
   },
   {
     "id": "3565",
@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 381
+    "prod_count": 389
   },
   {
     "id": "167",
@@ -102,7 +102,7 @@
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 144
+    "prod_count": 149
   },
   {
     "id": "1731",
@@ -200,7 +200,7 @@
     "name": "Electronics & Appliances",
     "slug": "electronics-appliances",
     "parent_id": "",
-    "prod_count": 1009
+    "prod_count": 1012
   },
   {
     "id": "4312",
@@ -364,6 +364,13 @@
     "prod_count": 64
   },
   {
+    "id": "213",
+    "name": "Helio",
+    "slug": "helio",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
     "id": "3479",
     "name": "Hisense",
     "slug": "hisense-ac",
@@ -487,7 +494,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 550
+    "prod_count": 556
   },
   {
     "id": "3915",
@@ -550,7 +557,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 249
+    "prod_count": 250
   },
   {
     "id": "47",
@@ -648,7 +655,7 @@
     "name": "Others Accessories",
     "slug": "others-accessories",
     "parent_id": "20",
-    "prod_count": 61
+    "prod_count": 62
   },
   {
     "id": "68",
@@ -718,7 +725,7 @@
     "name": "Refrigerator & Freezer",
     "slug": "refrigerator",
     "parent_id": "7",
-    "prod_count": 253
+    "prod_count": 254
   },
   {
     "id": "77",
@@ -883,7 +890,7 @@
   },
   {
     "id": "3497",
-    "name": "Sony Plus TV",
+    "name": "Sony Plus",
     "slug": "sony-plus-television",
     "parent_id": "29",
     "prod_count": 0
@@ -942,7 +949,7 @@
     "name": "Tablets ",
     "slug": "tablet",
     "parent_id": "4",
-    "prod_count": 0
+    "prod_count": 1
   },
   {
     "id": "29",
@@ -1097,6 +1104,13 @@
     "slug": "xtra",
     "parent_id": "171",
     "prod_count": 1
+  },
+  {
+    "id": "4612",
+    "name": "Xtreme",
+    "slug": "xtreme",
+    "parent_id": "171",
+    "prod_count": 0
   },
   {
     "id": "173",

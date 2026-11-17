@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115628",
+    "sku": "L83K100G0LKGLO",
+    "name": "Lenovo IdeaPad Slim 3i 15IRH10 13th Gen Core i7-13620H 16GB RAM 512GB SSD 15.3-inch WUXGA Laptop (83K100G0LK)",
+    "slug": "lenovo-ideapad-slim-3i-15irh10-13th-gen-core-i7-13620h-16gb-ram-512gb-ssd-15-3-inch-wuxga-laptop-83k100g0lk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83k100g0lk-21-1-26-1.jpg",
+    "unit": "g",
+    "unit_value": 100.0,
+    "price": 107900.0,
+    "special_price": 107700.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 107900.0,
+      "special_price": 107700.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:47:02"
+    }
+  ]
+}

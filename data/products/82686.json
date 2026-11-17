@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "82686",
+    "sku": "BBYGM18CBGLO",
+    "name": "BOYA BY-GM18CB Gooseneck Microphone",
+    "slug": "boya-by-gm18cb-gooseneck-microphone",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/o/boya-by-gm18cb-gooseneck-microphone2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6499.0,
+    "special_price": 6000.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6499.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:47:56"
+    }
+  ]
+}

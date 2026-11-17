@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124325",
+    "sku": "BOCDA236SED",
+    "name": "BWOO 30W GaN USB-C Charger (BO-CDA236)",
+    "slug": "bwoo-30w-gan-usb-c-charger-bo-cda236",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/d/cda236-16-11-2026-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1079.0,
+    "special_price": 849.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1079.0,
+      "special_price": 849.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:46:16"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124352",
+    "sku": "VV725TSSB",
+    "name": "VGR 4 in 1 Professional Lady Trimmer (V-725)",
+    "slug": "vgr-4-in-1-professional-lady-trimmer-v-725",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/_/v/_v-725_-16-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1850.0,
+    "special_price": 1495.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1850.0,
+      "special_price": 1495.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:49:01"
+    }
+  ]
+}

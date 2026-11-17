@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124356",
+    "sku": "SRS72R5011B4D3SBN",
+    "name": "Samsung 700 Liters Side by Side Refrigerator (RS72R5011B4/D3)",
+    "slug": "samsung-700-liters-side-side-refrigerator-rs72r5011b4-d3",
+    "category_id": "67",
+    "category_name": "Refrigerator & Freezer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/r/s/rs72r5011b4-d3-15-6-23.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 204900.0,
+    "special_price": 148990.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 204900.0,
+      "special_price": 148990.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:42:56"
+    }
+  ]
+}

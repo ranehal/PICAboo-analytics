@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124343",
+    "sku": "BOCDA169SED",
+    "name": "BWOO 20W USB-C PD Wall Charger (BO-CDA169)",
+    "slug": "bwoo-20w-usb-c-pd-wall-charger-bo-cda169",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/d/cda169-16-11-2026-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 719.0,
+    "special_price": 529.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 719.0,
+      "special_price": 529.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:46:49"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124330",
+    "sku": "BNRAIVGLO",
+    "name": "Boya Notra All-Around Recording AI Voice Recorder",
+    "slug": "boya-notra-all-around-recording-ai-voice-recorder",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/o/boya-notra-16-11-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15900.0,
+    "special_price": 15260.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15900.0,
+      "special_price": 15260.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:48:51"
+    }
+  ]
+}

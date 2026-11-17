@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124324",
+    "sku": "R35LREGRFL",
+    "name": "RFL Rosela 35L Electric Geyser",
+    "slug": "rfl-rosela-35l-electric-geyser",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/r/o/rosela-35l-16-nov-2026-1.jpg",
+    "unit": "L",
+    "unit_value": 35.0,
+    "price": 11160.0,
+    "special_price": 8860.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11160.0,
+      "special_price": 8860.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:50:01"
+    }
+  ]
+}

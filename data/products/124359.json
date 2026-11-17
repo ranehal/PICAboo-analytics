@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124359",
+    "sku": "BOCC110SED",
+    "name": "BWOO 48W Dual-Port Fast Car Charger (BO-CC110)",
+    "slug": "bwoo-48w-dual-port-fast-car-charger-bo-cc110",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/c/cc110-16-11-2026-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1139.0,
+    "special_price": 879.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1139.0,
+      "special_price": 879.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:46:16"
+    }
+  ]
+}

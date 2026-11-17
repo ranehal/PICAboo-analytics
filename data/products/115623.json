@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115623",
+    "sku": "L83K30012LKGLO",
+    "name": "Lenovo IdeaPad Slim 3i 14IRH10R Intel Core 5-210H 16GB RAM 512GB SSD 14.0-inch WUXGA Laptop (83K30012LK)",
+    "slug": "lenovo-ideapad-slim-3i-14irh10r-intel-core-5-210h-16gb-ram-512gb-ssd-14-0-inch-wuxga-laptop-83k30012lk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83k30012lk-21--126-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 100500.0,
+    "special_price": 100300.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 100500.0,
+      "special_price": 100300.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:47:02"
+    }
+  ]
+}

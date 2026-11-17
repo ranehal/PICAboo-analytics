@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/p/apple-macbook-air-m5-chip-13-inch-16gb-512gb-_singapore-variant_-8-16-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 170999.0,
-    "special_price": 0.0,
-    "discount": 0.0,
+    "price": 171999.0,
+    "special_price": 161999.0,
+    "discount": 6.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -533,6 +533,13 @@
       "discount": 0.0,
       "stock_available": 1,
       "scraped_at": "2026-11-16 03:29:55"
+    },
+    {
+      "price": 171999.0,
+      "special_price": 161999.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:46:55"
     }
   ]
 }

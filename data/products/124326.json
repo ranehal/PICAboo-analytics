@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124326",
+    "sku": "RGR40LHRFL",
+    "name": "RFL Rozana 40L Electric Geyser (H-TG)",
+    "slug": "rfl-rozana-40l-electric-geyser-h-tg",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/r/o/rozana-40l-16-nov-2026-1.jpg",
+    "unit": "L",
+    "unit_value": 40.0,
+    "price": 13200.0,
+    "special_price": 10290.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13200.0,
+      "special_price": 10290.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 01:50:01"
+    }
+  ]
+}
