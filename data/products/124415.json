@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124415",
+    "sku": "L83K101LYLKGLO",
+    "name": "Lenovo IdeaPad Slim 3 15IRH10 Intel Core i7 8GB RAM 512GB SSD 15.3-inch IPS Laptop (83K101LYLK)",
+    "slug": "lenovo-ideapad-slim-3-15irh10-intel-core-i5-8gb-ram-512gb-ssd-15-3-inch-ips-laptop-83k101lylk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83k101lylk-17-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 109999.0,
+    "special_price": 109799.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 109999.0,
+      "special_price": 109799.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 23:52:54"
+    }
+  ]
+}

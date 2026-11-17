@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124370",
+    "sku": "B9985BSESSB",
+    "name": "Braun Beauty Set 9 Cordless Wet & Dry Epilator (9-985BS)",
+    "slug": "braun-beauty-set-9-cordless-wet-dry-epilator-9-985bs",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/9/-/9-985bs-17-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 37500.0,
+    "special_price": 34999.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 37500.0,
+      "special_price": 34999.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 23:54:54"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124382",
+    "sku": "BOBS97SED",
+    "name": "BWOO Wireless Speaker (BO-BS97)",
+    "slug": "bwoo-wireless-speaker-bo-bs97",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/s/bs97-17-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5999.0,
+    "special_price": 5409.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5999.0,
+      "special_price": 5409.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 23:51:45"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124425",
+    "sku": "BOBZ64SED",
+    "name": "BWOO USB-C 2-in-1 SD/TF Card Reader (BO-BZ64)",
+    "slug": "bwoo-usb-c-2-in-1-sd-tf-card-reader-bo-bz64",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/z/bz64-17-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 899.0,
+    "special_price": 669.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 899.0,
+      "special_price": 669.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 23:53:11"
+    }
+  ]
+}

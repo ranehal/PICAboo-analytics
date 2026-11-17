@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124376",
+    "sku": "BOHF58SED",
+    "name": "BWOO Wired Stereo Earphone (BO-HF58)",
+    "slug": "bwoo-wired-stereo-earphone-bo-hf58",
+    "category_id": "206",
+    "category_name": "Wired Headphone ",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/f/hf58-17-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 659.0,
+    "special_price": 399.0,
+    "discount": 39.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 659.0,
+      "special_price": 399.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 23:51:34"
+    }
+  ]
+}

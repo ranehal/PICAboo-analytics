@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124401",
+    "sku": "L83UR00ABLKGLO",
+    "name": "Lenovo IdeaPad Slim 3i 15IPH11 Intel Core Ultra 5 322 16GB RAM 512GB SSD 15.3-inch IPS Display Laptop (83UR00ABLK)",
+    "slug": "lenovo-ideapad-slim-3i-15iph11-intel-core-ultra-5-322-16gb-ram-512gb-ssd-15-3-inch-ips-display-laptop-83ur00ablk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83ur00ablk-17-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 114999.0,
+    "special_price": 114699.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 114999.0,
+      "special_price": 114699.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 23:52:49"
+    }
+  ]
+}

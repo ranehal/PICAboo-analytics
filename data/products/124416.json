@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124416",
+    "sku": "BOAUX068SED",
+    "name": "BWOO Lightning to 3.5mm Audio Cable (BO-AUX068)",
+    "slug": "bwoo-lightning-to-3-5mm-audio-cable-bo-aux068",
+    "category_id": "205",
+    "category_name": "Data Cable",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/u/aux068-17-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 599.0,
+    "special_price": 439.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 599.0,
+      "special_price": 439.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 23:52:43"
+    }
+  ]
+}

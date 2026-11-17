@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124378",
+    "sku": "BOBW900SED",
+    "name": "BWOO Wireless Neckband Earbuds (BO-BW900)",
+    "slug": "bwoo-wireless-neckband-earbuds-bo-bw900",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/w/bw900-17-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1619.0,
+    "special_price": 1309.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1619.0,
+      "special_price": 1309.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 23:51:35"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124397",
+    "sku": "BOBS88SED",
+    "name": "BWOO Wireless Speaker (BO-BS88)",
+    "slug": "bwoo-wireless-speaker-bo-bs88",
+    "category_id": "211",
+    "category_name": "Speaker",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/s/bs88-17-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3419.0,
+    "special_price": 2989.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3419.0,
+      "special_price": 2989.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-17 23:51:59"
+    }
+  ]
+}
