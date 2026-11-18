@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124428",
+    "sku": "BXT3100TSSB",
+    "name": "Braun All-in-One Series XT3 4D-Blade Hair Trimmer (XT3100)",
+    "slug": "braun-all-in-one-series-xt3-4d-blade-hair-trimmer-xt3100",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/x/t/xt3100-18-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9450.0,
+    "special_price": 8950.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9450.0,
+      "special_price": 8950.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:47:48"
+    }
+  ]
+}

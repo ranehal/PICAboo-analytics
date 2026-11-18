@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124431",
+    "sku": "EEN006TSSB",
+    "name": "Enchen Nose Hair Trimmer (EN006)",
+    "slug": "enchen-nose-hair-trimmer-en006",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/e/n/en006-18-18-11-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 750.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 750.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:47:13"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124434",
+    "sku": "BOBZ38SED",
+    "name": "BWOO USB-C to USB OTG Adapter (BO-BZ38)",
+    "slug": "bwoo-usb-c-to-usb-otg-adapter-bo-bz38",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/z/bz38-18-11-2026-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 299.0,
+    "special_price": 209.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 299.0,
+      "special_price": 209.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:43:46"
+    }
+  ]
+}

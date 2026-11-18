@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124451",
+    "sku": "GEGM8039TSSB",
+    "name": "Geemy Professional Hair Trimmer (GM-8039)",
+    "slug": "geemy-professional-hair-trimmer-gm-8039",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/g/m/gm-8039-18-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1590.0,
+    "special_price": 1150.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1590.0,
+      "special_price": 1150.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:47:13"
+    }
+  ]
+}

@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/t/htc-at-522-hair-trimmer-2-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 990.0,
-    "special_price": 500.0,
-    "discount": 49.0,
+    "price": 999.0,
+    "special_price": 650.0,
+    "discount": 35.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -547,6 +547,13 @@
       "discount": 49.0,
       "stock_available": 1,
       "scraped_at": "2026-11-15 04:29:16"
+    },
+    {
+      "price": 999.0,
+      "special_price": 650.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:45:46"
     }
   ]
 }

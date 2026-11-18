@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 522
+    "prod_count": 524
   },
   {
     "id": "3565",
@@ -487,14 +487,14 @@
     "name": "Laptop & Notebook",
     "slug": "laptop-notebook",
     "parent_id": "4",
-    "prod_count": 60
+    "prod_count": 68
   },
   {
     "id": "1837",
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 570
+    "prod_count": 584
   },
   {
     "id": "3915",
@@ -522,7 +522,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2107
+    "prod_count": 2110
   },
   {
     "id": "3480",
@@ -557,7 +557,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 254
+    "prod_count": 255
   },
   {
     "id": "47",
@@ -585,7 +585,7 @@
     "name": "Mouse & Keyboard",
     "slug": "mouse",
     "parent_id": "20",
-    "prod_count": 208
+    "prod_count": 210
   },
   {
     "id": "4036",
@@ -816,7 +816,7 @@
     "name": "Shaver & Trimmer",
     "slug": "shaver-trimmer",
     "parent_id": "1837",
-    "prod_count": 172
+    "prod_count": 176
   },
   {
     "id": "3593",
@@ -865,7 +865,7 @@
     "name": "Smart Watch",
     "slug": "smart-watches",
     "parent_id": "197",
-    "prod_count": 445
+    "prod_count": 446
   },
   {
     "id": "1765",
@@ -1075,7 +1075,7 @@
     "name": "Women's Watches",
     "slug": "womens-watch",
     "parent_id": "1837",
-    "prod_count": 426
+    "prod_count": 429
   },
   {
     "id": "239",

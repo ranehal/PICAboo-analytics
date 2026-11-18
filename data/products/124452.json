@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124452",
+    "sku": "L83CV00DYINGLO",
+    "name": "Lenovo Yoga Slim 7i 14IMH9 Core Ultra 5 125H 16GB RAM 512GB SSD 14.0-inch OLED Display AI Laptop (83CV00DYIN)",
+    "slug": "lenovo-yoga-slim-7i-14imh9-core-ultra-5-125h-16gb-ram-512gb-ssd-14-0-inch-oled-display-ai-laptop-83cv00dyin",
+    "category_id": "18",
+    "category_name": "Laptop & Notebook",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83cv00dyin-18-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 143500.0,
+    "special_price": 143200.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 143500.0,
+      "special_price": 143200.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:43:57"
+    }
+  ]
+}

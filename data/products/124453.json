@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124453",
+    "sku": "ES3SHTSSB",
+    "name": "Enchen Sharp 3S Rechargeable Hair Trimmer",
+    "slug": "enchen-sharp-3s-rechargeable-hair-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/e/n/enchen-sharp-3s-18-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2190.0,
+    "special_price": 1750.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2190.0,
+      "special_price": 1750.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:47:13"
+    }
+  ]
+}

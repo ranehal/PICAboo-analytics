@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124437",
+    "sku": "L83UQ003TLKGLO",
+    "name": "Lenovo IdeaPad Slim 3i 14IPH11 Intel Core Ultra 7 355 16GB RAM 512GB SSD 14-inch IPS Display Laptop (83UQ003TLK)",
+    "slug": "lenovo-ideapad-slim-3i-14iph11-intel-core-ultra-7-355-16gb-ram-512gb-ssd-14-inch-ips-display-laptop-83uq003tlk",
+    "category_id": "18",
+    "category_name": "Laptop & Notebook",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83uq003tlk-18-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 125999.0,
+    "special_price": 125699.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 125999.0,
+      "special_price": 125699.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:43:57"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124462",
+    "sku": "L83JX00APINGLO",
+    "name": "Lenovo Yoga Slim 7i Aura Edition 14ILL10 Core Ultra 7 256V 16GB RAM 512GB SSD 14.0-inch OLED Display Laptop (83JX00APIN)",
+    "slug": "lenovo-yoga-slim-7i-aura-edition-14ill10-core-ultra-7-256v-16gb-ram-512gb-ssd-14-0-inch-oled-display-laptop-83jx00apin",
+    "category_id": "18",
+    "category_name": "Laptop & Notebook",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83jx00apin-18-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 170500.0,
+    "special_price": 170200.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 170500.0,
+      "special_price": 170200.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:43:57"
+    }
+  ]
+}

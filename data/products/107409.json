@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "107409",
+    "sku": "F6296WM02AMZ",
+    "name": "Fastrack Green Dial Rose Gold Strap Watch for Women (6296WM02)",
+    "slug": "fastrack-green-dial-rose-gold-strap-watch-for-women-6296wm02",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/6/2/6296wm02-23-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5490.0,
+    "special_price": 4390.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5490.0,
+      "special_price": 4390.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:46:54"
+    }
+  ]
+}

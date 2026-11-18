@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "117228",
+    "sku": "3313SL01AMZ",
+    "name": "Fastrack 3313SL01 Fleek Analog Day Date Blue Dial Leather Watch For Men",
+    "slug": "fastrack-3313sl01-fleek-analog-day-date-blue-dial-leather-watch-for-guys",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/_/1_32.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5990.0,
+    "special_price": 5090.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:47:36"
+    }
+  ]
+}

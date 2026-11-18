@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111768",
+    "sku": "F68045WM02AMZ",
+    "name": "Fastrack Stunners X Quartz Analog Strap Watch for Women (68045WM02)",
+    "slug": "fastrack-stunners-x-quartz-analog-strap-watch-for-women-68045wm02",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/6/8/68045wm02-24-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5690.0,
+    "special_price": 4690.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5690.0,
+      "special_price": 4690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:47:24"
+    }
+  ]
+}

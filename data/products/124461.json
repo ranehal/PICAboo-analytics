@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124461",
+    "sku": "HTAT508SSB",
+    "name": "HTC Professional Hair Trimmer (AT-508)",
+    "slug": "htc-professional-hair-trimmer-at-508",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/t/htc-at-508-18-11-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1650.0,
+    "special_price": 1330.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1650.0,
+      "special_price": 1330.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:47:13"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124457",
+    "sku": "CLTPV009D4EAMZ",
+    "name": "Casio Standard Watch for Women (LTP-V009D-4E)",
+    "slug": "casio-standard-watch-for-women-ltp-v009d-4e",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/l/t/ltp-v009d-4eudf-18-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4890.0,
+    "special_price": 4190.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4890.0,
+      "special_price": 4190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:46:49"
+    }
+  ]
+}

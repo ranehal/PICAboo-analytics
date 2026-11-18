@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1234dd-4adf-26-10-25-4.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 6290.0,
-    "special_price": 5459.0,
-    "discount": 13.0,
+    "price": 6990.0,
+    "special_price": 5490.0,
+    "discount": 21.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -211,6 +211,13 @@
       "discount": 13.0,
       "stock_available": 1,
       "scraped_at": "2026-09-15 20:00:49"
+    },
+    {
+      "price": 6990.0,
+      "special_price": 5490.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-18 23:47:11"
     }
   ]
 }
