@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 389
+    "prod_count": 390
   },
   {
     "id": "167",
@@ -102,7 +102,7 @@
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 157
+    "prod_count": 167
   },
   {
     "id": "1731",
@@ -347,7 +347,7 @@
     "name": "Hair Straighteners",
     "slug": "hair-straightener",
     "parent_id": "1837",
-    "prod_count": 21
+    "prod_count": 22
   },
   {
     "id": "324",
@@ -494,7 +494,7 @@
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 584
+    "prod_count": 593
   },
   {
     "id": "3915",
@@ -522,7 +522,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2110
+    "prod_count": 2118
   },
   {
     "id": "3480",
@@ -557,7 +557,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 255
+    "prod_count": 256
   },
   {
     "id": "47",
@@ -585,7 +585,7 @@
     "name": "Mouse & Keyboard",
     "slug": "mouse",
     "parent_id": "20",
-    "prod_count": 210
+    "prod_count": 212
   },
   {
     "id": "4036",
@@ -816,7 +816,7 @@
     "name": "Shaver & Trimmer",
     "slug": "shaver-trimmer",
     "parent_id": "1837",
-    "prod_count": 176
+    "prod_count": 180
   },
   {
     "id": "3593",
@@ -851,7 +851,7 @@
     "name": "Smart Gadget",
     "slug": "smart-gadgets",
     "parent_id": "197",
-    "prod_count": 175
+    "prod_count": 176
   },
   {
     "id": "3842",
@@ -1075,7 +1075,7 @@
     "name": "Women's Watches",
     "slug": "womens-watch",
     "parent_id": "1837",
-    "prod_count": 429
+    "prod_count": 430
   },
   {
     "id": "239",

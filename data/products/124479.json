@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124479",
+    "sku": "PS588710ESSB",
+    "name": "Philips Series 5000 Portable Electric Shaver (S5887/10)",
+    "slug": "philips-series-5000-portable-electric-shaver-s5887-10",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/p/h/philips-s5887-10-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15500.0,
+    "special_price": 11990.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15500.0,
+      "special_price": 11990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-19 21:36:21"
+    }
+  ]
+}

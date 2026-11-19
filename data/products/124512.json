@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124512",
+    "sku": "ENA3HTSSB",
+    "name": "Enchen A3 2 in 1 Rechargeable Hair Trimmer",
+    "slug": "enchen-a3-2-in-1-rechargeable-hair-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/e/n/enchen-a3-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2399.0,
+    "special_price": 1850.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2399.0,
+      "special_price": 1850.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-19 21:36:21"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124472",
+    "sku": "PBT330130TSSB",
+    "name": "Philips Series 3000 Rechargeable Beard Trimmer (BT3301/30)",
+    "slug": "philips-series-3000-rechargeable-beard-trimmer-bt3301-30",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/t/bt3301-30-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3250.0,
+    "special_price": 2850.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3250.0,
+      "special_price": 2850.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-19 21:36:22"
+    }
+  ]
+}

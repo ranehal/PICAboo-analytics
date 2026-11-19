@@ -1,5 +1,613 @@
 [
   {
+    "id": "124492",
+    "sku": "VGV592HSSB",
+    "name": "VGR Professional Hair Straightener (V-592)",
+    "slug": "vgr-professional-hair-straightener-v-592",
+    "category_id": "389",
+    "category_name": "Hair Straighteners",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/v/-/v-592-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2550.0,
+    "special_price": 2160.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124471",
+    "sku": "EMOD3I1GKSSB",
+    "name": "Enchen Mocha D 3 in 1 Lady Grooming Kit",
+    "slug": "enchen-mocha-d-3-in-1-lady-grooming-kit",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/o/mocha-d-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1680.0,
+    "special_price": 1310.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124494",
+    "sku": "VV975TSSB",
+    "name": "VGR Professional Hair Trimmer (V-975)",
+    "slug": "vgr-professional-hair-trimmer-v-975",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/v/g/vgr-v-975-19-11-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1750.0,
+    "special_price": 1320.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124500",
+    "sku": "VV996TSSB",
+    "name": "VGR Professional Hair Trimmer (V-996)",
+    "slug": "vgr-professional-hair-trimmer-v-996",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/v/g/vgr-v-996-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2150.0,
+    "special_price": 1640.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124509",
+    "sku": "EZ3PMSSB",
+    "name": "Enchen Z3 Portable Mini Shaver",
+    "slug": "enchen-z3-portable-mini-shaver",
+    "category_id": "392",
+    "category_name": "Shaver & Trimmer",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/e/n/enchen-z3-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2150.0,
+    "special_price": 1620.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124472",
+    "sku": "PBT330130TSSB",
+    "name": "Philips Series 3000 Rechargeable Beard Trimmer (BT3301/30)",
+    "slug": "philips-series-3000-rechargeable-beard-trimmer-bt3301-30",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/t/bt3301-30-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3250.0,
+    "special_price": 2850.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124474",
+    "sku": "PQP654215SSB",
+    "name": "Philips OneBlade Pro 360 Hair Trimmer (QP6542/15)",
+    "slug": "philips-oneblade-pro-360-hair-trimmer-qp6542-15",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/q/p/qp6542-15-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15500.0,
+    "special_price": 12500.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124467",
+    "sku": "MC7725ESSB",
+    "name": "Mac 5-in-1 Epilator Set (MC-7725)",
+    "slug": "mac-5-in-1-epilator-set-mc-7725",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/c/mc-7725-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3350.0,
+    "special_price": 2940.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124468",
+    "sku": "VPFV360TSSB",
+    "name": "VGR Professional 2-in-1 Hair Trimmer (V-360)",
+    "slug": "vgr-professional-2-in-1-hair-trimmer-v-360",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/v/g/vgr-v-360-19-11-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2750.0,
+    "special_price": 2490.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124512",
+    "sku": "ENA3HTSSB",
+    "name": "Enchen A3 2 in 1 Rechargeable Hair Trimmer",
+    "slug": "enchen-a3-2-in-1-rechargeable-hair-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/e/n/enchen-a3-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2399.0,
+    "special_price": 1850.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124486",
+    "sku": "VGV656TSSB",
+    "name": "VGR Professional Hair Trimmer (V-656)",
+    "slug": "vgr-professional-hair-trimmer-v-656",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/v/g/vgr-v-656-19-11-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2590.0,
+    "special_price": 2099.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124484",
+    "sku": "KM1730SSB",
+    "name": "Kemei Rechargeable Hair Trimmer (KM-1730)",
+    "slug": "kemei-rechargeable-hair-trimmer-km-1730",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/k/e/kemei-km-1730-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2199.0,
+    "special_price": 1590.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124479",
+    "sku": "PS588710ESSB",
+    "name": "Philips Series 5000 Portable Electric Shaver (S5887/10)",
+    "slug": "philips-series-5000-portable-electric-shaver-s5887-10",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/p/h/philips-s5887-10-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15500.0,
+    "special_price": 11990.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124490",
+    "sku": "CLTPV005D7AAMZ",
+    "name": "Casio Standard Stainless-Steel Watch for Women (LTP-V005D-7A)",
+    "slug": "casio-standard-stainless-steel-watch-for-women-ltp-v005d-7a",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/l/t/ltp-v005d-7a-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3590.0,
+    "special_price": 3190.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124473",
+    "sku": "CMTPE335D2E1VAMZ",
+    "name": "Casio Enticer Analog Watch for Men (MTP-E335D-2E1V)",
+    "slug": "casio-enticer-analog-watch-for-men-mtp-e335d-2e1v",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/t/mtp-e335d-2e-19-11-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10500.0,
+    "special_price": 8290.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124475",
+    "sku": "CMTPV004D1CAMZ",
+    "name": "Casio Enticer Black Dial Watch for Men (MTP-V004D-1C)",
+    "slug": "casio-enticer-black-dial-watch-for-men-mtp-v004d-1c",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/t/mtp-v004d-1cudf-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4290.0,
+    "special_price": 3690.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124476",
+    "sku": "CaMTPV004GL9AAMZ",
+    "name": "Casio Enticer Golden Dial Leather Watch for Men (MTP-V004GL-9A)",
+    "slug": "casio-enticer-golden-dial-leather-watch-for-men-mtp-v004gl-9a",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/t/mtp-v004gl-9a-19-11-26-1.jpg",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 4090.0,
+    "special_price": 3290.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124478",
+    "sku": "CMTPV006D1BAMZ",
+    "name": "Casio Enticer Standard Black Dial Watch for Men (MTP-V006D-1B)",
+    "slug": "casio-enticer-standard-black-dial-watch-for-men-mtp-v006d-1b",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/t/mtp-v006d-1b-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4390.0,
+    "special_price": 3790.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124480",
+    "sku": "CMTPVD03D2A3AMZ",
+    "name": "Casio Enticer Blue Dial Quartz Watch for Men (MTP-VD03D-2A3)",
+    "slug": "casio-enticer-blue-dial-quartz-watch-for-men-mtp-vd03d-2a3",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/t/mtp-vd03d-2a3-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5890.0,
+    "special_price": 4990.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124482",
+    "sku": "CAE1500WHX3AVAMZ",
+    "name": "Casio Youth Digital Watch for Men (AE-1500WHX-3AV)",
+    "slug": "casio-youth-digital-watch-for-men-ae-1500whx-3av",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/e/ae-1500whx-3avdf-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5790.0,
+    "special_price": 4990.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124485",
+    "sku": "CMTPV001D1BAMZ",
+    "name": "Casio Black Dial Stainless Steel Standard Watch for Men (MTP-V001D-1B)",
+    "slug": "casio-black-dial-stainless-steel-standard-watch-for-men-mtp-v001d-1b",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/t/mtp-v001d-1b-19-11-27-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3590.0,
+    "special_price": 2990.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124513",
+    "sku": "ENBRHTSSB",
+    "name": "Enchen Beardo Modern Hair Trimmer",
+    "slug": "enchen-beardo-modern-hair-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/e/beardo-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2250.0,
+    "special_price": 1750.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124489",
+    "sku": "CMTPB146D7AVAMZ",
+    "name": "Casio Standard Silver Dual Time Watch for Men (MTP-B146D-7AV)",
+    "slug": "casio-standard-silver-dual-time-watch-for-men-mtp-b146d-7av",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/t/mtp-b146d-7av-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9290.0,
+    "special_price": 7990.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124483",
+    "sku": "MT760GLO",
+    "name": "Rapoo PRO Tri-Mode Wireless Mouse (MT760)",
+    "slug": "rapoo-pro-tri-mode-wireless-mouse-mt760",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/t/mt760-19-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6500.0,
+    "special_price": 6050.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124499",
+    "sku": "M360GLO",
+    "name": "Rapoo Smart Multi-Mode Wireless Mouse (M360)",
+    "slug": "rapoo-smart-multi-mode-wireless-mouse-m360",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/3/m360-19-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1700.0,
+    "special_price": 1100.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124510",
+    "sku": "B30GLO",
+    "name": "Rapoo Silent Wireless Optical Mouse (B30)",
+    "slug": "rapoo-silent-wireless-optical-mouse-b30",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/b/3/b30-19-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1250.0,
+    "special_price": 880.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124501",
+    "sku": "L83DJ0032LKGLO",
+    "name": "Lenovo Yoga 7i 2-in-1 14IML9 Core Ultra 5 125H 16GB RAM 512GB SSD 14.0-inch OLED Display AI Laptop (83DJ0032LK)",
+    "slug": "lenovo-yoga-7i-2-in-1-14iml9-core-ultra-5-125h-16gb-ram-512gb-ssd-14-0-inch-oled-display-ai-laptop-83dj0032lk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83dj0032lk-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 160000.0,
+    "special_price": 159700.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124491",
+    "sku": "L83QK007HINGLO",
+    "name": "Lenovo Yoga Slim 7i Ultra Aura Edition 14IPH11 Core Ultra 7 355 32GB RAM 1TB SSD 14-inch 2.8K POLED Display Laptop (83QK007HIN)",
+    "slug": "lenovo-yoga-slim-7i-ultra-aura-edition-14iph11-core-ultra-7-355-32gb-ram-1tb-ssd-14-inch-2-8k-poled-display-laptop-83qk007hin",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83qk007hin-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 315000.0,
+    "special_price": 314500.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124481",
+    "sku": "L83QK004ASKGLO",
+    "name": "Lenovo Yoga Slim 7i Ultra Aura Edition 14IPH11 Intel Core Ultra 7 355 32GB RAM 1TB SSD 14-inch 2.8K POLED Display Laptop (83QK004ASK)",
+    "slug": "lenovo-yoga-slim-7i-ultra-aura-edition-14iph11-intel-core-ultra-7-355-32gb-ram-1tb-ssd-14-inch-2-8k-poled-display-laptop-83qk004ask",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83qk004ask-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 298000.0,
+    "special_price": 297500.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124493",
+    "sku": "L83QK009TSKGLO",
+    "name": "Lenovo Yoga Slim 7i Ultra Aura Edition 14IPH11 Intel Core Ultra X9 378H 32GB RAM 1TB SSD 14-inch 2.8K POLED Display Laptop (83QK009TSK)",
+    "slug": "lenovo-yoga-slim-7i-ultra-aura-edition-14iph11-intel-core-ultra-x9-378h-32gb-ram-1tb-ssd-14-inch-2-8k-poled-display-laptop-83qk009tsk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83qk009tsk-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 340000.0,
+    "special_price": 339500.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124506",
+    "sku": "L83ED007PINGLO",
+    "name": "Lenovo Yoga Slim 7 14Q8X9 Snapdragon X Elite X1E-78-100 16GB RAM 512GB SSD 14.0-inch OLED Display Laptop (83ED007PIN)",
+    "slug": "lenovo-yoga-slim-7-14q8x9-snapdragon-x-elite-x1e-78-100-16gb-ram-512gb-ssd-14-0-inch-oled-display-laptop-83ed007pin",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83ed007pin-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 187000.0,
+    "special_price": 186700.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124511",
+    "sku": "L83CX0025LKGLO",
+    "name": "Lenovo Yoga Slim 9i 14ILL10 Core Ultra 7 258V 32GB RAM 1TB SSD 14.0-inch 4K OLED Display Laptop (83CX0025LK)",
+    "slug": "lenovo-yoga-slim-9i-14ill10-core-ultra-7-258v-32gb-ram-1tb-ssd-14-0-inch-4k-oled-display-laptop-83cx0025lk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83cx0025lk-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 280000.0,
+    "special_price": 279500.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124514",
+    "sku": "L83GS008WLKGLO",
+    "name": "Lenovo LOQ 15IAX9 AI-Powered 12th Gen Core i5-12450HX 16GB RAM 512GB SSD RTX 3050 15.6-inch FHD Gaming Laptop (83GS008WLK)",
+    "slug": "lenovo-loq-15iax9-ai-powered-12th-gen-core-i5-12450hx-16gb-ram-512gb-ssd-rtx-3050-15-6-inch-fhd-gaming-laptop-83gs008wlk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83gs008wlk-19-nov-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 83.0,
+    "price": 135000.0,
+    "special_price": 134700.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124515",
+    "sku": "L83DV00HKLKGLO",
+    "name": "Lenovo LOQ AI Powered 13th Gen Core i5 16GB RAM 512GB SSD RTX 3050 Gaming Laptop (83DV00HKLK)",
+    "slug": "lenovo-loq-ai-powered-13th-gen-core-i5-16gb-ram-512gb-ssd-rtx-3050-gaming-laptop-83dv00hklk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83dv00hklk-19-nov-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 3050.0,
+    "price": 143000.0,
+    "special_price": 142700.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124504",
+    "sku": "L83KF003LINGLO",
+    "name": "Lenovo Yoga Pro 7i Aura Edition 14IAH10 Core Ultra 9 285H 32GB RAM 1TB SSD 14.5-inch 3K OLED Display AI Laptop (83KF003LIN)",
+    "slug": "lenovo-yoga-pro-7i-aura-edition-14iah10-core-ultra-9-285h-32gb-ram-1tb-ssd-14-5-inch-3k-oled-display-ai-laptop-83kf003lin",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83kf003lin-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 298000.0,
+    "special_price": 297500.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124477",
+    "sku": "L83QM0059SKGLO",
+    "name": "Lenovo Yoga Slim 7i Aura Edition 14IPH11 Intel Core Ultra 5 322 16GB RAM 512GB SSD 14-inch OLED Display Laptop (83QM0059SK)",
+    "slug": "lenovo-yoga-slim-7i-aura-edition-14iph11-intel-core-ultra-5-322-16gb-ram-512gb-ssd-14-inch-oled-display-laptop-83qm0059sk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83qm0059sk-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 175000.0,
+    "special_price": 174700.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "120356",
+    "sku": "HMP3GSBL",
+    "name": "Huawei M-Pencil",
+    "slug": "huawei-m-pencil-3rd-generation",
+    "category_id": "2299",
+    "category_name": "Smart Gadget",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/u/huawei-m-pencil-_3rd-generation_-5-21-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2499.0,
+    "special_price": 2299.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
+    "id": "124516",
+    "sku": "BOAUX074SED",
+    "name": "BWOO Type-C to 3.5mm Audio Cable (BO-AUX074)",
+    "slug": "bwoo-type-c-to-3-5mm-audio-cable-bo-aux074",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/a/u/aux074-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 659.0,
+    "special_price": 549.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  {
     "id": "124429",
     "sku": "VGV879CTSSB",
     "name": "VGR Professional Hair Trimmer (V-879C)",
@@ -554,10 +1162,10 @@
     "unit": null,
     "unit_value": null,
     "price": 299.0,
-    "special_price": 209.0,
-    "discount": 30.0,
+    "special_price": 249.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124432",
@@ -570,10 +1178,10 @@
     "unit": null,
     "unit_value": null,
     "price": 299.0,
-    "special_price": 209.0,
-    "discount": 30.0,
+    "special_price": 249.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124433",
@@ -602,10 +1210,10 @@
     "unit": null,
     "unit_value": null,
     "price": 839.0,
-    "special_price": 609.0,
-    "discount": 27.0,
+    "special_price": 699.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124370",
@@ -890,8 +1498,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2819.0,
-    "special_price": 2459.0,
-    "discount": 13.0,
+    "special_price": 2349.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -906,10 +1514,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1019.0,
-    "special_price": 789.0,
-    "discount": 23.0,
+    "special_price": 849.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124425",
@@ -922,10 +1530,10 @@
     "unit": null,
     "unit_value": null,
     "price": 899.0,
-    "special_price": 669.0,
-    "discount": 26.0,
+    "special_price": 749.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124424",
@@ -1066,10 +1674,10 @@
     "unit": null,
     "unit_value": null,
     "price": 539.0,
-    "special_price": 369.0,
-    "discount": 32.0,
+    "special_price": 449.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124413",
@@ -1082,10 +1690,10 @@
     "unit": null,
     "unit_value": null,
     "price": 599.0,
-    "special_price": 409.0,
-    "discount": 32.0,
+    "special_price": 499.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124410",
@@ -1098,10 +1706,10 @@
     "unit": null,
     "unit_value": null,
     "price": 659.0,
-    "special_price": 439.0,
-    "discount": 33.0,
+    "special_price": 549.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124408",
@@ -1114,10 +1722,10 @@
     "unit": "g",
     "unit_value": 45.0,
     "price": 1799.0,
-    "special_price": 1459.0,
-    "discount": 19.0,
+    "special_price": 1499.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124405",
@@ -1130,10 +1738,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1859.0,
-    "special_price": 1519.0,
-    "discount": 18.0,
+    "special_price": 1549.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124416",
@@ -1146,10 +1754,10 @@
     "unit": null,
     "unit_value": null,
     "price": 599.0,
-    "special_price": 439.0,
-    "discount": 27.0,
+    "special_price": 499.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124411",
@@ -1162,10 +1770,10 @@
     "unit": null,
     "unit_value": null,
     "price": 659.0,
-    "special_price": 439.0,
-    "discount": 33.0,
+    "special_price": 449.0,
+    "discount": 32.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124398",
@@ -1178,8 +1786,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3239.0,
-    "special_price": 2759.0,
-    "discount": 15.0,
+    "special_price": 2699.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -1194,8 +1802,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3419.0,
-    "special_price": 2989.0,
-    "discount": 13.0,
+    "special_price": 2849.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -1210,8 +1818,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3959.0,
-    "special_price": 3449.0,
-    "discount": 13.0,
+    "special_price": 3299.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -1226,8 +1834,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2399.0,
-    "special_price": 2009.0,
-    "discount": 16.0,
+    "special_price": 1999.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -1242,8 +1850,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3119.0,
-    "special_price": 2649.0,
-    "discount": 15.0,
+    "special_price": 2599.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -1274,8 +1882,8 @@
     "unit": null,
     "unit_value": null,
     "price": 5999.0,
-    "special_price": 5409.0,
-    "discount": 10.0,
+    "special_price": 4999.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -1290,8 +1898,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3059.0,
-    "special_price": 2689.0,
-    "discount": 12.0,
+    "special_price": 2549.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -1354,10 +1962,10 @@
     "unit": null,
     "unit_value": null,
     "price": 299.0,
-    "special_price": 209.0,
-    "discount": 30.0,
+    "special_price": 249.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124393",
@@ -1370,8 +1978,8 @@
     "unit": null,
     "unit_value": null,
     "price": 15500.0,
-    "special_price": 10390.0,
-    "discount": 33.0,
+    "special_price": 9999.0,
+    "discount": 35.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -1802,10 +2410,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1199.0,
-    "special_price": 939.0,
-    "discount": 22.0,
+    "special_price": 999.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124345",
@@ -1818,10 +2426,10 @@
     "unit": null,
     "unit_value": null,
     "price": 899.0,
-    "special_price": 639.0,
-    "discount": 29.0,
+    "special_price": 749.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124343",
@@ -1834,10 +2442,10 @@
     "unit": null,
     "unit_value": null,
     "price": 719.0,
-    "special_price": 529.0,
-    "discount": 26.0,
+    "special_price": 599.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124359",
@@ -1866,10 +2474,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1139.0,
-    "special_price": 879.0,
-    "discount": 23.0,
+    "special_price": 949.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124327",
@@ -1882,10 +2490,10 @@
     "unit": null,
     "unit_value": null,
     "price": 959.0,
-    "special_price": 699.0,
-    "discount": 27.0,
+    "special_price": 799.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124325",
@@ -1898,10 +2506,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1079.0,
-    "special_price": 849.0,
-    "discount": 21.0,
+    "special_price": 899.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124323",
@@ -1914,10 +2522,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1439.0,
-    "special_price": 1169.0,
-    "discount": 19.0,
+    "special_price": 1199.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124322",
@@ -1930,8 +2538,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2219.0,
-    "special_price": 1869.0,
-    "discount": 16.0,
+    "special_price": 1849.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -1946,8 +2554,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2699.0,
-    "special_price": 2339.0,
-    "discount": 13.0,
+    "special_price": 2249.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -1962,8 +2570,8 @@
     "unit": null,
     "unit_value": null,
     "price": 1739.0,
-    "special_price": 1459.0,
-    "discount": 16.0,
+    "special_price": 1449.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -1978,10 +2586,10 @@
     "unit": null,
     "unit_value": null,
     "price": 839.0,
-    "special_price": 589.0,
-    "discount": 30.0,
+    "special_price": 699.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124360",
@@ -2010,10 +2618,10 @@
     "unit": null,
     "unit_value": null,
     "price": 204900.0,
-    "special_price": 144990.0,
-    "discount": 29.0,
+    "special_price": 153990.0,
+    "discount": 25.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "123181",
@@ -2393,11 +3001,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/d/cda271-15-11-2026.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 2939.0,
-    "special_price": 2569.0,
-    "discount": 13.0,
+    "price": 5500.0,
+    "special_price": 4999.0,
+    "discount": 9.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124314",
@@ -2410,8 +3018,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2939.0,
-    "special_price": 2569.0,
-    "discount": 13.0,
+    "special_price": 2449.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -2426,10 +3034,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1199.0,
-    "special_price": 939.0,
-    "discount": 22.0,
+    "special_price": 999.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124318",
@@ -2442,10 +3050,10 @@
     "unit": null,
     "unit_value": null,
     "price": 719.0,
-    "special_price": 529.0,
-    "discount": 26.0,
+    "special_price": 599.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124280",
@@ -2458,8 +3066,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4319.0,
-    "special_price": 3759.0,
-    "discount": 13.0,
+    "special_price": 3599.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -2474,8 +3082,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3719.0,
-    "special_price": 3189.0,
-    "discount": 14.0,
+    "special_price": 3099.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -2490,8 +3098,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3839.0,
-    "special_price": 3309.0,
-    "discount": 14.0,
+    "special_price": 3199.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -2570,10 +3178,10 @@
     "unit": null,
     "unit_value": null,
     "price": 839.0,
-    "special_price": 639.0,
-    "discount": 24.0,
+    "special_price": 699.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124263",
@@ -2634,8 +3242,8 @@
     "unit": null,
     "unit_value": null,
     "price": 4799.0,
-    "special_price": 4219.0,
-    "discount": 12.0,
+    "special_price": 3999.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -2666,8 +3274,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2039.0,
-    "special_price": 1709.0,
-    "discount": 16.0,
+    "special_price": 1699.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -2682,10 +3290,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2039.0,
-    "special_price": 1649.0,
-    "discount": 19.0,
+    "special_price": 1699.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124274",
@@ -2698,8 +3306,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2579.0,
-    "special_price": 2169.0,
-    "discount": 16.0,
+    "special_price": 2149.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -2730,10 +3338,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2339.0,
-    "special_price": 1939.0,
+    "special_price": 1949.0,
     "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124244",
@@ -2746,10 +3354,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2039.0,
-    "special_price": 1649.0,
-    "discount": 19.0,
+    "special_price": 1699.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124264",
@@ -2762,8 +3370,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2639.0,
-    "special_price": 2279.0,
-    "discount": 14.0,
+    "special_price": 2199.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -2778,8 +3386,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2159.0,
-    "special_price": 1819.0,
-    "discount": 16.0,
+    "special_price": 1799.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -2794,8 +3402,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2039.0,
-    "special_price": 1709.0,
-    "discount": 16.0,
+    "special_price": 1699.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -2810,10 +3418,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1559.0,
-    "special_price": 1249.0,
-    "discount": 20.0,
+    "special_price": 1299.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124247",
@@ -2826,10 +3434,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1439.0,
-    "special_price": 1139.0,
-    "discount": 21.0,
+    "special_price": 1199.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "124251",
@@ -2842,8 +3450,8 @@
     "unit": null,
     "unit_value": null,
     "price": 2399.0,
-    "special_price": 2049.0,
-    "discount": 15.0,
+    "special_price": 1999.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -9642,8 +10250,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3990.0,
-    "special_price": 3359.0,
-    "discount": 16.0,
+    "special_price": 3490.0,
+    "discount": 13.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -13737,11 +14345,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/1/c100-8gb--5-10-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 32999.0,
-    "special_price": 30999.0,
-    "discount": 6.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "123384",
@@ -24793,11 +25401,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/v/i/vivo-y21d-6gb-128gb-8-25-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 26999.0,
-    "special_price": 25699.0,
-    "discount": 5.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "116905",
@@ -64618,10 +65226,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1999.0,
-    "special_price": 1300.0,
-    "discount": 35.0,
+    "special_price": 1320.0,
+    "discount": 34.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "108918",
@@ -64634,10 +65242,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1999.0,
-    "special_price": 1300.0,
-    "discount": 35.0,
+    "special_price": 1320.0,
+    "discount": 34.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "108919",
@@ -64650,10 +65258,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1999.0,
-    "special_price": 1223.0,
-    "discount": 39.0,
+    "special_price": 1320.0,
+    "discount": 34.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "108922",
@@ -76985,11 +77593,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/t/htc-at1210-blue.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 1050.0,
+    "special_price": 499.0,
+    "discount": 52.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "78505",
@@ -90522,10 +91130,10 @@
     "unit": "g",
     "unit_value": 2.4,
     "price": 800.0,
-    "special_price": 680.0,
-    "discount": 15.0,
+    "special_price": 600.0,
+    "discount": 25.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "72391",
@@ -92378,10 +92986,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3300.0,
-    "special_price": 2943.0,
-    "discount": 11.0,
+    "special_price": 3030.0,
+    "discount": 8.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "108210",
@@ -92618,8 +93226,8 @@
     "unit": "L",
     "unit_value": 760.0,
     "price": 5200.0,
-    "special_price": 4860.0,
-    "discount": 7.0,
+    "special_price": 4950.0,
+    "discount": 5.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -92633,11 +93241,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mt560--18-11-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4200.0,
-    "special_price": 3585.0,
-    "discount": 15.0,
+    "price": 4000.0,
+    "special_price": 3690.0,
+    "discount": 8.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "112112",
@@ -92649,11 +93257,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/8/0/8000gt--18-11-25.jpg",
     "unit": "g",
     "unit_value": 8000.0,
-    "price": 2100.0,
-    "special_price": 1873.0,
-    "discount": 11.0,
+    "price": 2150.0,
+    "special_price": 1930.0,
+    "discount": 10.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "112118",
@@ -93914,10 +94522,10 @@
     "unit": null,
     "unit_value": null,
     "price": 8200.0,
-    "special_price": 7490.0,
-    "discount": 9.0,
+    "special_price": 7700.0,
+    "discount": 6.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116745",
@@ -93930,10 +94538,10 @@
     "unit": null,
     "unit_value": null,
     "price": 1050.0,
-    "special_price": 722.0,
-    "discount": 31.0,
+    "special_price": 740.0,
+    "discount": 30.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116747",
@@ -93946,10 +94554,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2500.0,
-    "special_price": 2140.0,
-    "discount": 14.0,
+    "special_price": 2200.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "116749",
@@ -93962,10 +94570,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2500.0,
-    "special_price": 2140.0,
-    "discount": 14.0,
+    "special_price": 2200.0,
+    "discount": 12.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "117117",
@@ -113866,10 +114474,10 @@
     "unit": null,
     "unit_value": null,
     "price": 2939.0,
-    "special_price": 2569.0,
-    "discount": 13.0,
+    "special_price": 2449.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "115150",
@@ -119770,8 +120378,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3359.0,
-    "special_price": 2909.0,
-    "discount": 13.0,
+    "special_price": 2799.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -119818,10 +120426,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3359.0,
-    "special_price": 2959.0,
-    "discount": 12.0,
+    "special_price": 2799.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "120412",
@@ -120490,8 +121098,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3719.0,
-    "special_price": 3189.0,
-    "discount": 14.0,
+    "special_price": 3099.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -120506,10 +121114,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3359.0,
-    "special_price": 2959.0,
-    "discount": 12.0,
+    "special_price": 2799.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "115321",
@@ -120538,8 +121146,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3119.0,
-    "special_price": 2679.0,
-    "discount": 14.0,
+    "special_price": 2599.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -129305,11 +129913,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/u/huawei-band-11-pro-11-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
+    "price": 8999.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "120339",
@@ -135737,11 +136345,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/h/charge-6-30-july-2026.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 23290.0,
+    "special_price": 18199.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "110171",
@@ -150457,9 +151065,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/r/jr-fn3-01-500x500-removebg-preview.png",
     "unit": null,
     "unit_value": null,
-    "price": 2900.0,
+    "price": 3600.0,
     "special_price": 2400.0,
-    "discount": 17.0,
+    "discount": 33.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -156218,8 +156826,8 @@
     "unit": null,
     "unit_value": null,
     "price": 3399.0,
-    "special_price": 2450.0,
-    "discount": 28.0,
+    "special_price": 2690.0,
+    "discount": 21.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -156474,8 +157082,8 @@
     "unit": null,
     "unit_value": null,
     "price": 6119.0,
-    "special_price": 5379.0,
-    "discount": 12.0,
+    "special_price": 5099.0,
+    "discount": 17.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -156490,10 +157098,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3299.0,
-    "special_price": 2799.0,
-    "discount": 15.0,
+    "special_price": 2749.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "115271",
@@ -156522,10 +157130,10 @@
     "unit": null,
     "unit_value": null,
     "price": 6959.0,
-    "special_price": 6159.0,
-    "discount": 11.0,
+    "special_price": 5799.0,
+    "discount": 17.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "115400",
@@ -156873,11 +157481,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/x/rx-pods-20-9-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 1053.0,
+    "special_price": 660.0,
+    "discount": 37.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "112008",
@@ -157018,10 +157626,10 @@
     "unit": null,
     "unit_value": null,
     "price": 3500.0,
-    "special_price": 2364.0,
-    "discount": 32.0,
+    "special_price": 2239.0,
+    "discount": 36.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "115552",
@@ -160489,11 +161097,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/m/amazfit-bip-max-11-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 13999.0,
+    "special_price": 10999.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "121084",
@@ -160537,11 +161145,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/o/kospet-tank-t4c-11-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 12999.0,
+    "special_price": 10990.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "121718",
@@ -175721,11 +176329,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/b/pb02-a-29-6-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 3290.0,
+    "special_price": 2450.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "120231",
@@ -184362,8 +184970,8 @@
     "unit": null,
     "unit_value": null,
     "price": 10000.0,
-    "special_price": 4990.0,
-    "discount": 50.0,
+    "special_price": 4190.0,
+    "discount": 58.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -184810,8 +185418,8 @@
     "unit": null,
     "unit_value": null,
     "price": 11500.0,
-    "special_price": 6790.0,
-    "discount": 41.0,
+    "special_price": 6490.0,
+    "discount": 44.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -184826,10 +185434,10 @@
     "unit": null,
     "unit_value": null,
     "price": 12500.0,
-    "special_price": 8190.0,
-    "discount": 34.0,
+    "special_price": 7790.0,
+    "discount": 38.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "120270",
@@ -201434,10 +202042,10 @@
     "unit": "L",
     "unit_value": 30.0,
     "price": 12500.0,
-    "special_price": 9999.0,
-    "discount": 20.0,
+    "special_price": 9190.0,
+    "discount": 26.0,
     "stock_available": 1,
-    "is_atl": 0
+    "is_atl": 1
   },
   {
     "id": "122152",
@@ -207738,8 +208346,8 @@
     "unit": "kg",
     "unit_value": 8.0,
     "price": 29900.0,
-    "special_price": 22900.0,
-    "discount": 23.0,
+    "special_price": 22490.0,
+    "discount": 25.0,
     "stock_available": 1,
     "is_atl": 0
   },
@@ -208073,11 +208681,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/b/wbl-6tcg30-10-11-25-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 3100.0,
-    "special_price": 1690.0,
-    "discount": 45.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "113941",
@@ -210522,8 +211130,8 @@
     "unit": null,
     "unit_value": null,
     "price": 169900.0,
-    "special_price": 124990.0,
-    "discount": 26.0,
+    "special_price": 123700.0,
+    "discount": 27.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -211561,11 +212169,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/e/tecno-pova-curve-2--20-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 36999.0,
+    "special_price": 31999.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "121209",
@@ -211721,11 +212329,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/honor-choice-f01-21-7-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "121674",
@@ -212185,11 +212793,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/oppo-a6-8gb-19-8-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 32999.0,
-    "special_price": 30999.0,
-    "discount": 6.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "114674",
@@ -213625,11 +214233,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/n/infinix-note-60-pro-8gb-19-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 49999.0,
-    "special_price": 43499.0,
-    "discount": 13.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "118597",
@@ -213801,11 +214409,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/8/c80-pro-purple-28-10-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
+    "price": 50000.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "114369",
@@ -214249,11 +214857,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-galaxy-s25-fe-19-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 99999.0,
+    "special_price": 97099.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "113338",

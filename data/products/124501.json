@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124501",
+    "sku": "L83DJ0032LKGLO",
+    "name": "Lenovo Yoga 7i 2-in-1 14IML9 Core Ultra 5 125H 16GB RAM 512GB SSD 14.0-inch OLED Display AI Laptop (83DJ0032LK)",
+    "slug": "lenovo-yoga-7i-2-in-1-14iml9-core-ultra-5-125h-16gb-ram-512gb-ssd-14-0-inch-oled-display-ai-laptop-83dj0032lk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83dj0032lk-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 160000.0,
+    "special_price": 159700.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 160000.0,
+      "special_price": 159700.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-19 21:34:47"
+    }
+  ]
+}

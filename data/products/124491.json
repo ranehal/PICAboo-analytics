@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124491",
+    "sku": "L83QK007HINGLO",
+    "name": "Lenovo Yoga Slim 7i Ultra Aura Edition 14IPH11 Core Ultra 7 355 32GB RAM 1TB SSD 14-inch 2.8K POLED Display Laptop (83QK007HIN)",
+    "slug": "lenovo-yoga-slim-7i-ultra-aura-edition-14iph11-core-ultra-7-355-32gb-ram-1tb-ssd-14-inch-2-8k-poled-display-laptop-83qk007hin",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83qk007hin-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 315000.0,
+    "special_price": 314500.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 315000.0,
+      "special_price": 314500.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-19 21:34:47"
+    }
+  ]
+}

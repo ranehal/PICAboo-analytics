@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124504",
+    "sku": "L83KF003LINGLO",
+    "name": "Lenovo Yoga Pro 7i Aura Edition 14IAH10 Core Ultra 9 285H 32GB RAM 1TB SSD 14.5-inch 3K OLED Display AI Laptop (83KF003LIN)",
+    "slug": "lenovo-yoga-pro-7i-aura-edition-14iah10-core-ultra-9-285h-32gb-ram-1tb-ssd-14-5-inch-3k-oled-display-ai-laptop-83kf003lin",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83kf003lin-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 298000.0,
+    "special_price": 297500.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 298000.0,
+      "special_price": 297500.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-19 21:34:47"
+    }
+  ]
+}

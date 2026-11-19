@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124467",
+    "sku": "MC7725ESSB",
+    "name": "Mac 5-in-1 Epilator Set (MC-7725)",
+    "slug": "mac-5-in-1-epilator-set-mc-7725",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/m/c/mc-7725-19-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3350.0,
+    "special_price": 2940.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3350.0,
+      "special_price": 2940.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-19 21:36:22"
+    }
+  ]
+}

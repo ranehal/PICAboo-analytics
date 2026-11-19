@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124511",
+    "sku": "L83CX0025LKGLO",
+    "name": "Lenovo Yoga Slim 9i 14ILL10 Core Ultra 7 258V 32GB RAM 1TB SSD 14.0-inch 4K OLED Display Laptop (83CX0025LK)",
+    "slug": "lenovo-yoga-slim-9i-14ill10-core-ultra-7-258v-32gb-ram-1tb-ssd-14-0-inch-4k-oled-display-laptop-83cx0025lk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83cx0025lk-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 280000.0,
+    "special_price": 279500.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 280000.0,
+      "special_price": 279500.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-19 21:34:47"
+    }
+  ]
+}

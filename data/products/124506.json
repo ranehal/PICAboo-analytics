@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124506",
+    "sku": "L83ED007PINGLO",
+    "name": "Lenovo Yoga Slim 7 14Q8X9 Snapdragon X Elite X1E-78-100 16GB RAM 512GB SSD 14.0-inch OLED Display Laptop (83ED007PIN)",
+    "slug": "lenovo-yoga-slim-7-14q8x9-snapdragon-x-elite-x1e-78-100-16gb-ram-512gb-ssd-14-0-inch-oled-display-laptop-83ed007pin",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83ed007pin-19-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 187000.0,
+    "special_price": 186700.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 187000.0,
+      "special_price": 186700.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-19 21:34:47"
+    }
+  ]
+}
