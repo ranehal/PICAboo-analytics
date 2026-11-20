@@ -24873,11 +24873,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/y/e/yes-power-link-pro--1-9-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 12500.0,
-    "special_price": 11667.0,
-    "discount": 7.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "122548",
@@ -77593,11 +77593,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/t/htc-at1210-blue.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1050.0,
-    "special_price": 499.0,
-    "discount": 52.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "78505",
@@ -130729,10 +130729,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/9/g9--27-8-24-.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 349.0,
-    "special_price": 249.0,
-    "discount": 29.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -156937,11 +156937,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/y/cy-ht15-28-6-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 2190.0,
+    "special_price": 2100.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "109391",
@@ -211753,11 +211753,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/e/tecno-camon-50-12-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 34999.0,
+    "special_price": 32199.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "116359",
@@ -212169,11 +212169,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/e/tecno-pova-curve-2--20-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 36999.0,
-    "special_price": 31999.0,
-    "discount": 14.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "121209",
@@ -213609,11 +213609,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/3/a35e-grey-17-7-25.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 11499.0,
-    "special_price": 10899.0,
-    "discount": 5.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "112024",
@@ -214201,11 +214201,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/n/infinix-note-edge-8gb-19-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 34999.0,
-    "special_price": 31499.0,
-    "discount": 10.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "116971",
