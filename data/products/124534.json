@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124534",
+    "sku": "L83F3005TLKGLO",
+    "name": "Lenovo Legion Pro 5i 16IAX10 Intel Core Ultra 9 275HX 32GB RAM 1TB SSD RTX 5060 16-inch OLED AI-Powered Gaming Laptop (83F3005TLK)",
+    "slug": "lenovo-legion-pro-5i-16iax10-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5060-16-inch-oled-ai-powered-gaming-laptop-83f3005tlk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83f3005tlk-22-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 320000.0,
+    "special_price": 319500.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 320000.0,
+      "special_price": 319500.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:34:46"
+    }
+  ]
+}

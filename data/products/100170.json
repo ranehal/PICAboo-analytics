@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "100170",
+    "sku": "RM600OGLO",
+    "name": "Rapoo CM600 Omnidirectional Conference Speaker",
+    "slug": "rapoo-cm600-omnidirectional-speaker-phone",
+    "category_id": "1983",
+    "category_name": "Others Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/m/cm600-2-3-25---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 37000.0,
+    "special_price": 36800.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 37000.0,
+      "special_price": 36800.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:36:10"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124553",
+    "sku": "VH360GLO",
+    "name": "Rapoo Gaming Headphone (VH360)",
+    "slug": "rapoo-gaming-headphone-vh360",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/v/h/vh360-22-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1700.0,
+    "special_price": 1390.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1700.0,
+      "special_price": 1390.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:35:07"
+    }
+  ]
+}

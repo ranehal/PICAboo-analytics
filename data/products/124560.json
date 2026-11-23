@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124560",
+    "sku": "PEHHV52MBT",
+    "name": "Panasonic Multi-Styling Straight and Curl Hair Straightener (EH-HV52)",
+    "slug": "panasonic-multi-styling-straight-and-curl-hair-straightener-eh-hv52",
+    "category_id": "389",
+    "category_name": "Hair Straighteners",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/e/h/eh-hv52-23-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8000.0,
+    "special_price": 7170.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8000.0,
+      "special_price": 7170.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:38:11"
+    }
+  ]
+}

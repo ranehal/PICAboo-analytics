@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124532",
+    "sku": "HCT104GB64GB",
+    "name": "HONOR Choice T10 4GB/64GB ",
+    "slug": "honor-choice-t10-4gb-64gb",
+    "category_id": "1227",
+    "category_name": "Honor",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/o/honor-choice-t10-11-22-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-11-23 06:29:22"
+    }
+  ]
+}

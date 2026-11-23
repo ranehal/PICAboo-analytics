@@ -88,7 +88,7 @@
     "name": "Computer Accessories",
     "slug": "computer-accessories",
     "parent_id": "",
-    "prod_count": 390
+    "prod_count": 394
   },
   {
     "id": "167",
@@ -102,7 +102,7 @@
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 167
+    "prod_count": 179
   },
   {
     "id": "1731",
@@ -347,7 +347,7 @@
     "name": "Hair Straighteners",
     "slug": "hair-straightener",
     "parent_id": "1837",
-    "prod_count": 22
+    "prod_count": 24
   },
   {
     "id": "324",
@@ -403,7 +403,7 @@
     "name": "Honor",
     "slug": "honor",
     "parent_id": "171",
-    "prod_count": 21
+    "prod_count": 22
   },
   {
     "id": "190",
@@ -487,14 +487,14 @@
     "name": "Laptop & Notebook",
     "slug": "laptop-notebook",
     "parent_id": "4",
-    "prod_count": 68
+    "prod_count": 72
   },
   {
     "id": "1837",
     "name": "Lifestyle",
     "slug": "lifestyle",
     "parent_id": "",
-    "prod_count": 593
+    "prod_count": 594
   },
   {
     "id": "3915",
@@ -522,7 +522,7 @@
     "name": "Men's Watches",
     "slug": "mens-watch",
     "parent_id": "1837",
-    "prod_count": 2118
+    "prod_count": 2122
   },
   {
     "id": "3480",
@@ -536,7 +536,7 @@
     "name": "Mini PC",
     "slug": "mini-pc",
     "parent_id": "4",
-    "prod_count": 20
+    "prod_count": 21
   },
   {
     "id": "3483",
@@ -557,14 +557,14 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 256
+    "prod_count": 257
   },
   {
     "id": "47",
     "name": "Monitor",
     "slug": "monitor",
     "parent_id": "20",
-    "prod_count": 81
+    "prod_count": 87
   },
   {
     "id": "46",
@@ -585,7 +585,7 @@
     "name": "Mouse & Keyboard",
     "slug": "mouse",
     "parent_id": "20",
-    "prod_count": 212
+    "prod_count": 221
   },
   {
     "id": "4036",
@@ -655,7 +655,7 @@
     "name": "Others Accessories",
     "slug": "others-accessories",
     "parent_id": "20",
-    "prod_count": 62
+    "prod_count": 63
   },
   {
     "id": "68",
@@ -725,7 +725,7 @@
     "name": "Refrigerator & Freezer",
     "slug": "refrigerator",
     "parent_id": "7",
-    "prod_count": 254
+    "prod_count": 255
   },
   {
     "id": "77",

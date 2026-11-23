@@ -9,11 +9,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/e/ue-2g2-gepb-xx-13-8-26-1.jpg",
     "unit": "L",
     "unit_value": 272.0,
-    "price": 51000.0,
-    "special_price": 43190.0,
+    "price": 51500.0,
+    "special_price": 43690.0,
     "discount": 15.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -435,6 +435,13 @@
       "discount": 15.0,
       "stock_available": 1,
       "scraped_at": "2026-10-17 00:39:18"
+    },
+    {
+      "price": 51500.0,
+      "special_price": 43690.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:29:37"
     }
   ]
 }

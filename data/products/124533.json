@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124533",
+    "sku": "GK50087GLO",
+    "name": "Rapoo Backlit Mechanical Gaming Keyboard (GK500-87)",
+    "slug": "rapoo-backlit-mechanical-gaming-keyboard-gk500-87",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/7/87-11-22-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2150.0,
+    "special_price": 1830.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2150.0,
+      "special_price": 1830.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:35:13"
+    }
+  ]
+}

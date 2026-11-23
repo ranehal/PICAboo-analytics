@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124566",
+    "sku": "L82YTA04TLKGLO",
+    "name": "Lenovo V14 G4 AMN Ryzen 5 7520U 16GB RAM 512GB SSD 14\" FHD Display Business Series Laptop (82YTA04TLK)",
+    "slug": "lenovo-v14-g4-amn-ryzen-5-7520u-16gb-ram-512gb-ssd-14-fhd-display-business-series-laptop-82yta04tlk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/2/82yta04tlk-23-nov-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 14.0,
+    "price": 91500.0,
+    "special_price": 91300.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 91500.0,
+      "special_price": 91300.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:34:46"
+    }
+  ]
+}

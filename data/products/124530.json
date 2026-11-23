@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124530",
+    "sku": "VT2GLO",
+    "name": "Rapoo VT2 Max Wireless Gaming Mouse",
+    "slug": "rapoo-vt2-max-wireless-gaming-mouse",
+    "category_id": "61",
+    "category_name": "Mouse & Keyboard",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/v/t/vt2-22-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6600.0,
+    "special_price": 6220.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6600.0,
+      "special_price": 6220.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:35:13"
+    }
+  ]
+}

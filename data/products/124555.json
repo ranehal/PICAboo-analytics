@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124555",
+    "sku": "LG241068C4GGLO",
+    "name": "Lenovo Legion 24-10 23.8\" 240Hz FHD Monitor (68C4GAC4MY)",
+    "slug": "lenovo-legion-24-10-24-240hz-fhd-monitor-68c4gac4my",
+    "category_id": "47",
+    "category_name": "Monitor",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/l/e/lenovo-legion-24-10-22-11-26-1.jpg",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 16100.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 16100.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:35:20"
+    }
+  ]
+}

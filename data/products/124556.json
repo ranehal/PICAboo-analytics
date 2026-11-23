@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124556",
+    "sku": "VH850GLO",
+    "name": "Rapoo Wireless Gaming Headset (VH850)",
+    "slug": "rapoo-wireless-gaming-headset-vh850",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/v/h/vh850-22-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6300.0,
+    "special_price": 6260.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6300.0,
+      "special_price": 6260.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:37:10"
+    }
+  ]
+}

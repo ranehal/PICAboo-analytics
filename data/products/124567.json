@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124567",
+    "sku": "L27ILL11F0GLO",
+    "name": "Lenovo IdeaCentre AIO 27ILL11 27-inch FHD Display Intel Core Ultra 5 226V 16GB RAM 512GB SSD All-in-One PC (F0JW001ALK)",
+    "slug": "lenovo-ideacentre-aio-27ill11-27-inch-fhd-display-intel-core-ultra-5-226v-16gb-ram-512gb-ssd-all-in-one-pc-f0jw001alk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/_/f/_f0jy001jlk_-23-11-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 118000.0,
+    "special_price": 117700.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 118000.0,
+      "special_price": 117700.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:34:46"
+    }
+  ]
+}

@@ -9,11 +9,11 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/o/nothing-ear-_3_-26-10-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 27329.0,
-    "special_price": 24619.0,
-    "discount": 10.0,
+    "price": 27999.0,
+    "special_price": 27674.0,
+    "discount": 1.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   "history": [
     {
@@ -169,6 +169,13 @@
       "discount": 10.0,
       "stock_available": 1,
       "scraped_at": "2026-11-21 21:20:17"
+    },
+    {
+      "price": 27999.0,
+      "special_price": 27674.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:32:19"
     }
   ]
 }

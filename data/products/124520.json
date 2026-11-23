@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124520",
+    "sku": "L83JE00WPLKGLO",
+    "name": "Lenovo LOQ 15IRX10 13th Gen Core i7-13650HX 16GB RAM 512GB SSD RTX 5050 15.6-inch FHD AI-Powered Gaming Laptop (83JE00WPLK)",
+    "slug": "lenovo-loq-15irx10-13th-gen-core-i7-13650hx-16gb-ram-512gb-ssd-rtx-5050-15-6-inch-fhd-ai-powered-gaming-laptop-83je00wplk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/8/3/83je00wplk-22-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 173500.0,
+    "special_price": 173200.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 173500.0,
+      "special_price": 173200.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:34:46"
+    }
+  ]
+}

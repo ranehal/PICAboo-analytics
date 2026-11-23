@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124557",
+    "sku": "L21S7S36800GLO",
+    "name": "Lenovo ThinkPad L14 G6 Core Ultra 5 225U 16GB RAM 512GB SSD 14-inch IPS Business Series AI Laptop (21S7S36800)",
+    "slug": "lenovo-thinkpad-l14-g6-core-ultra-5-225u-16gb-ram-512gb-ssd-14-inch-ips-business-series-ai-laptop-21s7s36800",
+    "category_id": "18",
+    "category_name": "Laptop & Notebook",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/2/1/21s7s36800-22-nov-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 14.0,
+    "price": 135500.0,
+    "special_price": 135200.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 135500.0,
+      "special_price": 135200.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:35:03"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124568",
+    "sku": "CM500GLO",
+    "name": "Rapoo Omnidirectional Conference Microphone (CM500)",
+    "slug": "rapoo-omnidirectional-conference-microphone-cm500",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/m/cm500-23-11-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 26500.0,
+    "special_price": 26300.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 26500.0,
+      "special_price": 26300.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:32:35"
+    }
+  ]
+}

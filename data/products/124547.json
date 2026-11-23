@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124547",
+    "sku": "LL24D4C67DCGLO",
+    "name": "Lenovo L24D-4C 23.8\" 144Hz FHD Monitor (67DCUAC6MY)",
+    "slug": "lenovo-l24d-4c-23-8-144hz-fhd-monitor-67dcuac6my",
+    "category_id": "47",
+    "category_name": "Monitor",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/i/m/image-photoroom_-_2026-11-22t174650.139.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 20999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 20999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:35:17"
+    }
+  ]
+}

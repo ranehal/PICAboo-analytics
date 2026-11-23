@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "77342",
+    "sku": "FS5251SETPHSP",
+    "name": "Fossil FS5251SET Machine Chronograph Dark Brown Leather Men's Watch and Bracelet Box Set",
+    "slug": "fossil-fs5251set-machine-chronograph-dark-brown-leather-men-s-watch-and-bracelet-box-set",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/f/s/fs5251set-11-22-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 22990.0,
+    "special_price": 18680.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22990.0,
+      "special_price": 18680.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-23 06:36:30"
+    }
+  ]
+}
