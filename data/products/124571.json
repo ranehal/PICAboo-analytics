@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124571",
+    "sku": "L91B20033HAGLO",
+    "name": "Lenovo IdeaCentre Mini 01IRH10R Intel Core 5 210H 8GB RAM 512GB SSD Brand PC (91B20033HA)",
+    "slug": "lenovo-ideacentre-mini-01irh10r-intel-core-5-210h-8gb-ram-512gb-ssd-brand-pc-91b20033ha",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/9/1/91b20033ha-23-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 84500.0,
+    "special_price": 84300.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 84500.0,
+      "special_price": 84300.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-24 05:23:42"
+    }
+  ]
+}

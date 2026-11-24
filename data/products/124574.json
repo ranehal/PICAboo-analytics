@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124574",
+    "sku": "L91CF001FLKGLO",
+    "name": "Lenovo IdeaCentre Tower AI PC 08IAS10 Intel Core Ultra 5-225 8GB RAM 512GB SSD Tower Brand PC (91CF001FLK)",
+    "slug": "lenovo-ideacentre-tower-ai-pc-08ias10-intel-core-ultra-5-225-8gb-ram-512gb-ssd-tower-brand-pc-91cf001flk",
+    "category_id": "3105",
+    "category_name": "Mini PC",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/9/1/91cf001flk-23-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 95500.0,
+    "special_price": 95300.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 95500.0,
+      "special_price": 95300.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-24 05:23:45"
+    }
+  ]
+}

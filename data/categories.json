@@ -67,7 +67,7 @@
     "name": "Charger & Adapter",
     "slug": "charger",
     "parent_id": "197",
-    "prod_count": 524
+    "prod_count": 525
   },
   {
     "id": "3565",
@@ -102,7 +102,7 @@
     "name": "Computers",
     "slug": "computer-pc",
     "parent_id": "",
-    "prod_count": 179
+    "prod_count": 182
   },
   {
     "id": "1731",
@@ -158,7 +158,7 @@
     "name": "Data Cable",
     "slug": "data-cable",
     "parent_id": "197",
-    "prod_count": 496
+    "prod_count": 498
   },
   {
     "id": "122",
@@ -536,7 +536,7 @@
     "name": "Mini PC",
     "slug": "mini-pc",
     "parent_id": "4",
-    "prod_count": 21
+    "prod_count": 23
   },
   {
     "id": "3483",
@@ -557,7 +557,7 @@
     "name": "Mobile Accessories",
     "slug": "mobile-accessories",
     "parent_id": "",
-    "prod_count": 257
+    "prod_count": 258
   },
   {
     "id": "47",
@@ -977,7 +977,7 @@
     "name": "True Wireless Earbuds",
     "slug": "true-wireless-earbud",
     "parent_id": "197",
-    "prod_count": 532
+    "prod_count": 533
   },
   {
     "id": "460",

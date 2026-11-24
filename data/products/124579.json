@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124579",
+    "sku": "QMAEN70TTZ",
+    "name": "QCY MeloBuds ANC LDAC Earbuds (N70)",
+    "slug": "qcy-melobuds-anc-ldac-earbuds-n70",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/n/7/n70-23-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6500.0,
+    "special_price": 6300.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6500.0,
+      "special_price": 6300.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-24 05:21:36"
+    }
+  ]
+}

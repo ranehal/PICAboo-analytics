@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124575",
+    "sku": "L13BDS00Q00GLO",
+    "name": "Lenovo ThinkCentre AI PC Neo 50t Gen6 Core Ultra 5 225 16GB RAM 512GB SSD Tower Brand PC (13BDS00Q00)",
+    "slug": "lenovo-thinkcentre-ai-pc-neo-50t-gen6-core-ultra-5-225-16gb-ram-512gb-ssd-tower-brand-pc-13bds00q00",
+    "category_id": "3105",
+    "category_name": "Mini PC",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/1/3/13bds00q00-23-nov-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 112000.0,
+    "special_price": 111800.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 112000.0,
+      "special_price": 111800.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-24 05:23:45"
+    }
+  ]
+}

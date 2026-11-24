@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124578",
+    "sku": "QCDC22TTZ",
+    "name": "QCY 100W Type-C to Type-C Fast Charging Cable (DC22)",
+    "slug": "qcy-100w-type-c-to-type-c-fast-charging-cable-dc22",
+    "category_id": "205",
+    "category_name": "Data Cable",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/q/c/qcy-dc22--23-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 550.0,
+    "special_price": 469.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 550.0,
+      "special_price": 469.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-24 05:23:34"
+    }
+  ]
+}

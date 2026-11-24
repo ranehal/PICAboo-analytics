@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124576",
+    "sku": "QCK02MGTTZ",
+    "name": "QCY 20W US Plug Fast Charging Adapter with Type-C Cable (CK02-MG)",
+    "slug": "qcy-20w-us-plug-fast-charging-adapter-with-type-c-cable-ck02-mg",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/c/k/ck02-mg-23-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 1049.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-24 05:22:42"
+    }
+  ]
+}
