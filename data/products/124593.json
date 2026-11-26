@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "124593",
+    "sku": "QMBA30ATTTZ",
+    "name": "QCY MeloBuds A30 ANC TWS Earbuds",
+    "slug": "qcy-melobuds-a30-anc-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://cdn.pickaboo.com/media/catalog/product/q/c/qcy-a30-25-11-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3300.0,
+    "special_price": 3279.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3300.0,
+      "special_price": 3279.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-26 02:15:09"
+    }
+  ]
+}

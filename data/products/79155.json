@@ -9,9 +9,9 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/k/skmei-1654bl.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1850.0,
-    "special_price": 1499.0,
-    "discount": 19.0,
+    "price": 2590.0,
+    "special_price": 1363.0,
+    "discount": 47.0,
     "stock_available": 1,
     "is_atl": 1
   },
@@ -463,6 +463,13 @@
       "discount": 19.0,
       "stock_available": 1,
       "scraped_at": "2026-11-25 04:31:44"
+    },
+    {
+      "price": 2590.0,
+      "special_price": 1363.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-11-26 02:19:51"
     }
   ]
 }
