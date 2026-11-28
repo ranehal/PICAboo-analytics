@@ -8585,10 +8585,10 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/u/huawei-watch-gt-7-pro-46mm-smart-watch-10-28-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 42999.0,
-    "special_price": 41088.0,
-    "discount": 4.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -8617,10 +8617,10 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/u/huawei-watch-gt-7-41mm-smart-watch-10-28-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 29999.0,
-    "special_price": 28984.0,
-    "discount": 3.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -8649,10 +8649,10 @@
     "product_img": "https://cdn.pickaboo.com/media/catalog/product/h/u/huawei-watch-gt-7-46mm-smart-watch-10-28-26-8.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 29999.0,
-    "special_price": 28984.0,
-    "discount": 3.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   {
@@ -109322,10 +109322,10 @@
     "unit": null,
     "unit_value": null,
     "price": 150.0,
-    "special_price": 100.0,
-    "discount": 33.0,
+    "special_price": 0.0,
+    "discount": 0.0,
     "stock_available": 1,
-    "is_atl": 1
+    "is_atl": 0
   },
   {
     "id": "75205",
@@ -130873,11 +130873,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/u/huawei-band-11-pro-11-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 8999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "120339",
@@ -130905,11 +130905,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/u/huawei-band-11-_durable-polymer_-11-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 5499.0,
-    "special_price": 4999.0,
-    "discount": 9.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "89615",
@@ -154969,11 +154969,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/r/freebuds-se-4-anc-21-july-2026.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "120386",
@@ -157849,11 +157849,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/u/buds-6-play-8-3-26-1_1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1499.0,
-    "special_price": 1449.0,
-    "discount": 3.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "107237",
@@ -160409,11 +160409,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/z/1/z1-11-8-26-4.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 19999.0,
-    "special_price": 18899.0,
-    "discount": 6.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "121082",
@@ -161769,11 +161769,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/n/oneplus-nord-buds-4-22-7-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 4499.0,
-    "special_price": 3600.0,
-    "discount": 20.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "121931",
@@ -212713,11 +212713,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/e/tecno-camon-50-12-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 34999.0,
-    "special_price": 34299.0,
-    "discount": 2.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "116359",
@@ -214553,11 +214553,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/o/nokia-3210-black.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 6999.0,
+    "price": 0.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "111681",
@@ -215161,11 +215161,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/n/infinix-note-edge-8gb-19-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 34999.0,
-    "special_price": 32599.0,
-    "discount": 7.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "116971",
@@ -215257,11 +215257,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/n/infinix-smart-20-4gb-64gb-6-3-2-61.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 17999.0,
-    "special_price": 16699.0,
-    "discount": 7.0,
-    "stock_available": 1,
-    "is_atl": 0
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
   },
   {
     "id": "116443",
@@ -215449,11 +215449,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-pad-2-6gb-18-8-26-1.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 0.0,
+    "price": 27999.0,
     "special_price": 0.0,
     "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "115340",
@@ -215497,11 +215497,11 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-17t-18-8-26-1.jpg",
     "unit": "g",
     "unit_value": 5.0,
-    "price": 0.0,
-    "special_price": 0.0,
-    "discount": 0.0,
-    "stock_available": 0,
-    "is_atl": 1
+    "price": 79999.0,
+    "special_price": 75499.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 0
   },
   {
     "id": "112617",
